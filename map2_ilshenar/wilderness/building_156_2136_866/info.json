@@ -1,0 +1,160 @@
+{
+  "building_id": "building_156_2136_866",
+  "name": "Wilderness Building #156",
+  "map": "map2_ilshenar",
+  "map_index": 2,
+  "map_name": "Ilshenar",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "2139 869",
+    "center_x": 2139,
+    "center_y": 869,
+    "base_z": -29,
+    "map_name": "Ilshenar (Map 2)"
+  },
+  "world_bounds": {
+    "min_x": 2136,
+    "max_x": 2141,
+    "min_y": 866,
+    "max_y": 871,
+    "base_z": -29,
+    "max_z": -14,
+    "center_x": 2139.0,
+    "center_y": 869.0,
+    "center_z_elevation": -3.48
+  },
+  "dimensions_meters": {
+    "width_x": 6.0,
+    "depth_z": 6.0,
+    "height_y": 2.52
+  },
+  "stats": {
+    "tile_count": 35,
+    "item_count": 45,
+    "triangles_count": 432,
+    "unique_textures_count": 17
+  },
+  "unique_items": [
+    {
+      "id": 463,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0463.png"
+    },
+    {
+      "id": 464,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0464.png"
+    },
+    {
+      "id": 465,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0465.png"
+    },
+    {
+      "id": 466,
+      "name": "stone post",
+      "texture_file": "stone_post_0466.png"
+    },
+    {
+      "id": 483,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0483.png"
+    },
+    {
+      "id": 485,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0485.png"
+    },
+    {
+      "id": 6883,
+      "name": "skull",
+      "texture_file": "skull_6883.png"
+    },
+    {
+      "id": 6938,
+      "name": "bone shards",
+      "texture_file": "bone_shards_6938.png"
+    },
+    {
+      "id": 6939,
+      "name": "spine",
+      "texture_file": "spine_6939.png"
+    },
+    {
+      "id": 7385,
+      "name": "blood",
+      "texture_file": "blood_7385.png"
+    },
+    {
+      "id": 7389,
+      "name": "arm",
+      "texture_file": "arm_7389.png"
+    },
+    {
+      "id": 7392,
+      "name": "torso",
+      "texture_file": "torso_7392.png"
+    },
+    {
+      "id": 7393,
+      "name": "head",
+      "texture_file": "head_7393.png"
+    },
+    {
+      "id": 7397,
+      "name": "arm",
+      "texture_file": "arm_7397.png"
+    },
+    {
+      "id": 7398,
+      "name": "body",
+      "texture_file": "body_7398.png"
+    },
+    {
+      "id": 7404,
+      "name": "leg",
+      "texture_file": "leg_7404.png"
+    },
+    {
+      "id": 7408,
+      "name": "brain",
+      "texture_file": "brain_7408.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map2.mul",
+      "statics_file": "statics2.mul",
+      "staidx_file": "staidx2.mul",
+      "uop_file": "map2LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 288,
+      "h_blocks": 200,
+      "min_block_x": 267,
+      "max_block_x": 267,
+      "min_block_y": 108,
+      "max_block_y": 108,
+      "total_blocks": 1
+    },
+    "blocks": [
+      {
+        "block_x": 267,
+        "block_y": 108,
+        "block_index": 53508,
+        "staidx_offset": 642096,
+        "statics_offset": 2349312,
+        "statics_length": 315,
+        "static_items_count": 45,
+        "map_offset": 10487572,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000013.dat",
+          "entry_index": 13,
+          "block_in_entry": 260
+        }
+      }
+    ]
+  }
+}

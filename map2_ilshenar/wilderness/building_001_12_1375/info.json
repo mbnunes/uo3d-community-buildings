@@ -1,0 +1,243 @@
+{
+  "building_id": "building_001_12_1375",
+  "name": "Wilderness Building #001",
+  "map": "map2_ilshenar",
+  "map_index": 2,
+  "map_name": "Ilshenar",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "16 1376",
+    "center_x": 16,
+    "center_y": 1376,
+    "base_z": -28,
+    "map_name": "Ilshenar (Map 2)"
+  },
+  "world_bounds": {
+    "min_x": 12,
+    "max_x": 20,
+    "min_y": 1375,
+    "max_y": 1376,
+    "base_z": -28,
+    "max_z": -8,
+    "center_x": 16.5,
+    "center_y": 1376.0,
+    "center_z_elevation": -3.36
+  },
+  "dimensions_meters": {
+    "width_x": 9.0,
+    "depth_z": 2.0,
+    "height_y": 3.58
+  },
+  "stats": {
+    "tile_count": 17,
+    "item_count": 50,
+    "triangles_count": 336,
+    "unique_textures_count": 24
+  },
+  "unique_items": [
+    {
+      "id": 464,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0464.png"
+    },
+    {
+      "id": 470,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0470.png"
+    },
+    {
+      "id": 471,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0471.png"
+    },
+    {
+      "id": 2459,
+      "name": "bottle of liquor",
+      "texture_file": "bottle_of_liquor_2459.png"
+    },
+    {
+      "id": 2461,
+      "name": "bottles of liquor",
+      "texture_file": "bottles_of_liquor_2461.png"
+    },
+    {
+      "id": 2500,
+      "name": "bottles of wine",
+      "texture_file": "bottles_of_wine_2500.png"
+    },
+    {
+      "id": 2504,
+      "name": "jug of cider",
+      "texture_file": "jug_of_cider_2504.png"
+    },
+    {
+      "id": 2572,
+      "name": "wall torch",
+      "texture_file": "wall_torch_2572.png"
+    },
+    {
+      "id": 2876,
+      "name": "table",
+      "texture_file": "table_2876.png"
+    },
+    {
+      "id": 3622,
+      "name": "bottle",
+      "texture_file": "bottle_3622.png"
+    },
+    {
+      "id": 3627,
+      "name": "bottle",
+      "texture_file": "bottle_3627.png"
+    },
+    {
+      "id": 3628,
+      "name": "bottle",
+      "texture_file": "bottle_3628.png"
+    },
+    {
+      "id": 3652,
+      "name": "empty jars",
+      "texture_file": "empty_jars_3652.png"
+    },
+    {
+      "id": 3653,
+      "name": "empty jars",
+      "texture_file": "empty_jars_3653.png"
+    },
+    {
+      "id": 3654,
+      "name": "empty jars",
+      "texture_file": "empty_jars_3654.png"
+    },
+    {
+      "id": 3655,
+      "name": "empty jars",
+      "texture_file": "empty_jars_3655.png"
+    },
+    {
+      "id": 3658,
+      "name": "full jars",
+      "texture_file": "full_jars_3658.png"
+    },
+    {
+      "id": 3659,
+      "name": "full jars",
+      "texture_file": "full_jars_3659.png"
+    },
+    {
+      "id": 3660,
+      "name": "jars",
+      "texture_file": "jars_3660.png"
+    },
+    {
+      "id": 3661,
+      "name": "jars",
+      "texture_file": "jars_3661.png"
+    },
+    {
+      "id": 3963,
+      "name": "blood moss",
+      "texture_file": "blood_moss_3963.png"
+    },
+    {
+      "id": 3976,
+      "name": "nightshade",
+      "texture_file": "nightshade_3976.png"
+    },
+    {
+      "id": 4101,
+      "name": "empty jar",
+      "texture_file": "empty_jar_4101.png"
+    },
+    {
+      "id": 5453,
+      "name": "water barrel",
+      "texture_file": "water_barrel_5453.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map2.mul",
+      "statics_file": "statics2.mul",
+      "staidx_file": "staidx2.mul",
+      "uop_file": "map2LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 288,
+      "h_blocks": 200,
+      "min_block_x": 1,
+      "max_block_x": 2,
+      "min_block_y": 171,
+      "max_block_y": 172,
+      "total_blocks": 4
+    },
+    "blocks": [
+      {
+        "block_x": 1,
+        "block_y": 171,
+        "block_index": 371,
+        "staidx_offset": 4452,
+        "statics_offset": 3710,
+        "statics_length": 161,
+        "static_items_count": 23,
+        "map_offset": 72720,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000000.dat",
+          "entry_index": 0,
+          "block_in_entry": 371
+        }
+      },
+      {
+        "block_x": 1,
+        "block_y": 172,
+        "block_index": 372,
+        "staidx_offset": 4464,
+        "statics_offset": 3871,
+        "statics_length": 399,
+        "static_items_count": 57,
+        "map_offset": 72916,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000000.dat",
+          "entry_index": 0,
+          "block_in_entry": 372
+        }
+      },
+      {
+        "block_x": 2,
+        "block_y": 171,
+        "block_index": 571,
+        "staidx_offset": 6852,
+        "statics_offset": 7056,
+        "statics_length": 70,
+        "static_items_count": 10,
+        "map_offset": 111920,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000000.dat",
+          "entry_index": 0,
+          "block_in_entry": 571
+        }
+      },
+      {
+        "block_x": 2,
+        "block_y": 172,
+        "block_index": 572,
+        "staidx_offset": 6864,
+        "statics_offset": 7126,
+        "statics_length": 245,
+        "static_items_count": 35,
+        "map_offset": 112116,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000000.dat",
+          "entry_index": 0,
+          "block_in_entry": 572
+        }
+      }
+    ]
+  }
+}

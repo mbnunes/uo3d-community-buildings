@@ -1,0 +1,146 @@
+{
+  "building_id": "building_053_864_532",
+  "name": "Wilderness Building #053",
+  "map": "map2_ilshenar",
+  "map_index": 2,
+  "map_name": "Ilshenar",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "868 536",
+    "center_x": 868,
+    "center_y": 536,
+    "base_z": -80,
+    "map_name": "Ilshenar (Map 2)"
+  },
+  "world_bounds": {
+    "min_x": 864,
+    "max_x": 871,
+    "min_y": 532,
+    "max_y": 540,
+    "base_z": -80,
+    "max_z": -60,
+    "center_x": 868.0,
+    "center_y": 536.5,
+    "center_z_elevation": -9.6
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 9.0,
+    "height_y": 2.76
+  },
+  "stats": {
+    "tile_count": 21,
+    "item_count": 26,
+    "triangles_count": 492,
+    "unique_textures_count": 11
+  },
+  "unique_items": [
+    {
+      "id": 591,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0591.png"
+    },
+    {
+      "id": 592,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0592.png"
+    },
+    {
+      "id": 593,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0593.png"
+    },
+    {
+      "id": 595,
+      "name": "window",
+      "texture_file": "window_0595.png"
+    },
+    {
+      "id": 952,
+      "name": "stone ruins",
+      "texture_file": "stone_ruins_0952.png"
+    },
+    {
+      "id": 953,
+      "name": "stone ruins",
+      "texture_file": "stone_ruins_0953.png"
+    },
+    {
+      "id": 954,
+      "name": "stone ruins",
+      "texture_file": "stone_ruins_0954.png"
+    },
+    {
+      "id": 957,
+      "name": "stone ruins",
+      "texture_file": "stone_ruins_0957.png"
+    },
+    {
+      "id": 7021,
+      "name": "wall cracks",
+      "texture_file": "wall_cracks_7021.png"
+    },
+    {
+      "id": 7022,
+      "name": "wall cracks",
+      "texture_file": "wall_cracks_7022.png"
+    },
+    {
+      "id": 7023,
+      "name": "wall cracks",
+      "texture_file": "wall_cracks_7023.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map2.mul",
+      "statics_file": "statics2.mul",
+      "staidx_file": "staidx2.mul",
+      "uop_file": "map2LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 288,
+      "h_blocks": 200,
+      "min_block_x": 108,
+      "max_block_x": 108,
+      "min_block_y": 66,
+      "max_block_y": 67,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 108,
+        "block_y": 66,
+        "block_index": 21666,
+        "staidx_offset": 259992,
+        "statics_offset": 1234198,
+        "statics_length": 119,
+        "static_items_count": 17,
+        "map_offset": 4246540,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000005.dat",
+          "entry_index": 5,
+          "block_in_entry": 1186
+        }
+      },
+      {
+        "block_x": 108,
+        "block_y": 67,
+        "block_index": 21667,
+        "staidx_offset": 260004,
+        "statics_offset": 1234317,
+        "statics_length": 119,
+        "static_items_count": 17,
+        "map_offset": 4246736,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000005.dat",
+          "entry_index": 5,
+          "block_in_entry": 1187
+        }
+      }
+    ]
+  }
+}

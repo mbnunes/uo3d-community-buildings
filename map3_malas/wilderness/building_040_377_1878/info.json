@@ -1,0 +1,208 @@
+{
+  "building_id": "building_040_377_1878",
+  "name": "Wilderness Building #040",
+  "map": "map3_malas",
+  "map_index": 3,
+  "map_name": "Malas",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "382 1883",
+    "center_x": 382,
+    "center_y": 1883,
+    "base_z": -2,
+    "map_name": "Malas (Map 3)"
+  },
+  "world_bounds": {
+    "min_x": 377,
+    "max_x": 386,
+    "min_y": 1878,
+    "max_y": 1887,
+    "base_z": -2,
+    "max_z": 7,
+    "center_x": 382.0,
+    "center_y": 1883.0,
+    "center_z_elevation": -0.24
+  },
+  "dimensions_meters": {
+    "width_x": 10.0,
+    "depth_z": 10.0,
+    "height_y": 3.34
+  },
+  "stats": {
+    "tile_count": 60,
+    "item_count": 73,
+    "triangles_count": 1070,
+    "unique_textures_count": 17
+  },
+  "unique_items": [
+    {
+      "id": 253,
+      "name": "window",
+      "texture_file": "window_0253.png"
+    },
+    {
+      "id": 281,
+      "name": "marble wall",
+      "texture_file": "marble_wall_0281.png"
+    },
+    {
+      "id": 404,
+      "name": "sandstone column",
+      "texture_file": "sandstone_column_0404.png"
+    },
+    {
+      "id": 916,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0916.png"
+    },
+    {
+      "id": 918,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0918.png"
+    },
+    {
+      "id": 953,
+      "name": "stone ruins",
+      "texture_file": "stone_ruins_0953.png"
+    },
+    {
+      "id": 960,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0960.png"
+    },
+    {
+      "id": 961,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0961.png"
+    },
+    {
+      "id": 964,
+      "name": "stone ruins",
+      "texture_file": "stone_ruins_0964.png"
+    },
+    {
+      "id": 1872,
+      "name": "stone",
+      "texture_file": "stone_1872.png"
+    },
+    {
+      "id": 1873,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1873.png"
+    },
+    {
+      "id": 1874,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1874.png"
+    },
+    {
+      "id": 1875,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1875.png"
+    },
+    {
+      "id": 1882,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1882.png"
+    },
+    {
+      "id": 1883,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1883.png"
+    },
+    {
+      "id": 1884,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1884.png"
+    },
+    {
+      "id": 1886,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1886.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map3.mul",
+      "statics_file": "statics3.mul",
+      "staidx_file": "staidx3.mul",
+      "uop_file": "map3LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 320,
+      "h_blocks": 256,
+      "min_block_x": 47,
+      "max_block_x": 48,
+      "min_block_y": 234,
+      "max_block_y": 235,
+      "total_blocks": 4
+    },
+    "blocks": [
+      {
+        "block_x": 47,
+        "block_y": 234,
+        "block_index": 12266,
+        "staidx_offset": 147192,
+        "statics_offset": 265643,
+        "statics_length": 168,
+        "static_items_count": 24,
+        "map_offset": 2404140,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000002.dat",
+          "entry_index": 2,
+          "block_in_entry": 4074
+        }
+      },
+      {
+        "block_x": 47,
+        "block_y": 235,
+        "block_index": 12267,
+        "staidx_offset": 147204,
+        "statics_offset": 265811,
+        "statics_length": 434,
+        "static_items_count": 62,
+        "map_offset": 2404336,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000002.dat",
+          "entry_index": 2,
+          "block_in_entry": 4075
+        }
+      },
+      {
+        "block_x": 48,
+        "block_y": 234,
+        "block_index": 12522,
+        "staidx_offset": 150264,
+        "statics_offset": 285621,
+        "statics_length": 147,
+        "static_items_count": 21,
+        "map_offset": 2454316,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000003.dat",
+          "entry_index": 3,
+          "block_in_entry": 234
+        }
+      },
+      {
+        "block_x": 48,
+        "block_y": 235,
+        "block_index": 12523,
+        "staidx_offset": 150276,
+        "statics_offset": 285768,
+        "statics_length": 133,
+        "static_items_count": 19,
+        "map_offset": 2454512,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000003.dat",
+          "entry_index": 3,
+          "block_in_entry": 235
+        }
+      }
+    ]
+  }
+}

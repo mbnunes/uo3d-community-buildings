@@ -1,0 +1,173 @@
+{
+  "building_id": "building_047_404_1938",
+  "name": "Wilderness Building #047",
+  "map": "map3_malas",
+  "map_index": 3,
+  "map_name": "Malas",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "408 1944",
+    "center_x": 408,
+    "center_y": 1944,
+    "base_z": 0,
+    "map_name": "Malas (Map 3)"
+  },
+  "world_bounds": {
+    "min_x": 404,
+    "max_x": 412,
+    "min_y": 1938,
+    "max_y": 1950,
+    "base_z": 0,
+    "max_z": 45,
+    "center_x": 408.5,
+    "center_y": 1944.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 9.0,
+    "depth_z": 13.0,
+    "height_y": 5.5
+  },
+  "stats": {
+    "tile_count": 91,
+    "item_count": 236,
+    "triangles_count": 3468,
+    "unique_textures_count": 10
+  },
+  "unique_items": [
+    {
+      "id": 591,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0591.png"
+    },
+    {
+      "id": 592,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0592.png"
+    },
+    {
+      "id": 593,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0593.png"
+    },
+    {
+      "id": 596,
+      "name": "window",
+      "texture_file": "window_0596.png"
+    },
+    {
+      "id": 600,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0600.png"
+    },
+    {
+      "id": 1413,
+      "name": "slate roof",
+      "texture_file": "slate_roof_1413.png"
+    },
+    {
+      "id": 1872,
+      "name": "stone",
+      "texture_file": "stone_1872.png"
+    },
+    {
+      "id": 1876,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1876.png"
+    },
+    {
+      "id": 1889,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1889.png"
+    },
+    {
+      "id": 1892,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1892.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map3.mul",
+      "statics_file": "statics3.mul",
+      "staidx_file": "staidx3.mul",
+      "uop_file": "map3LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 320,
+      "h_blocks": 256,
+      "min_block_x": 50,
+      "max_block_x": 51,
+      "min_block_y": 242,
+      "max_block_y": 243,
+      "total_blocks": 4
+    },
+    "blocks": [
+      {
+        "block_x": 50,
+        "block_y": 242,
+        "block_index": 13042,
+        "staidx_offset": 156504,
+        "statics_offset": 332899,
+        "statics_length": 245,
+        "static_items_count": 35,
+        "map_offset": 2556236,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000003.dat",
+          "entry_index": 3,
+          "block_in_entry": 754
+        }
+      },
+      {
+        "block_x": 50,
+        "block_y": 243,
+        "block_index": 13043,
+        "staidx_offset": 156516,
+        "statics_offset": 333144,
+        "statics_length": 406,
+        "static_items_count": 58,
+        "map_offset": 2556432,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000003.dat",
+          "entry_index": 3,
+          "block_in_entry": 755
+        }
+      },
+      {
+        "block_x": 51,
+        "block_y": 242,
+        "block_index": 13298,
+        "staidx_offset": 159576,
+        "statics_offset": 357868,
+        "statics_length": 434,
+        "static_items_count": 62,
+        "map_offset": 2606412,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000003.dat",
+          "entry_index": 3,
+          "block_in_entry": 1010
+        }
+      },
+      {
+        "block_x": 51,
+        "block_y": 243,
+        "block_index": 13299,
+        "staidx_offset": 159588,
+        "statics_offset": 358302,
+        "statics_length": 665,
+        "static_items_count": 95,
+        "map_offset": 2606608,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000003.dat",
+          "entry_index": 3,
+          "block_in_entry": 1011
+        }
+      }
+    ]
+  }
+}

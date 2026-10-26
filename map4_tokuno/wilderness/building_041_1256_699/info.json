@@ -1,0 +1,196 @@
+{
+  "building_id": "building_041_1256_699",
+  "name": "Wilderness Building #041",
+  "map": "map4_tokuno",
+  "map_index": 4,
+  "map_name": "Tokuno",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1258 703",
+    "center_x": 1258,
+    "center_y": 703,
+    "base_z": 17,
+    "map_name": "Tokuno (Map 4)"
+  },
+  "world_bounds": {
+    "min_x": 1256,
+    "max_x": 1259,
+    "min_y": 699,
+    "max_y": 706,
+    "base_z": 17,
+    "max_z": 88,
+    "center_x": 1258.0,
+    "center_y": 703.0,
+    "center_z_elevation": 2.04
+  },
+  "dimensions_meters": {
+    "width_x": 4.0,
+    "depth_z": 8.0,
+    "height_y": 4.8
+  },
+  "stats": {
+    "tile_count": 27,
+    "item_count": 92,
+    "triangles_count": 264,
+    "unique_textures_count": 21
+  },
+  "unique_items": [
+    {
+      "id": 9178,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_9178.png"
+    },
+    {
+      "id": 9179,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_9179.png"
+    },
+    {
+      "id": 9180,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_9180.png"
+    },
+    {
+      "id": 9181,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_9181.png"
+    },
+    {
+      "id": 9182,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_9182.png"
+    },
+    {
+      "id": 9183,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_9183.png"
+    },
+    {
+      "id": 9184,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_9184.png"
+    },
+    {
+      "id": 9185,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_9185.png"
+    },
+    {
+      "id": 9186,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_9186.png"
+    },
+    {
+      "id": 9187,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_9187.png"
+    },
+    {
+      "id": 9188,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_9188.png"
+    },
+    {
+      "id": 9189,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_9189.png"
+    },
+    {
+      "id": 9190,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_9190.png"
+    },
+    {
+      "id": 9191,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_9191.png"
+    },
+    {
+      "id": 9192,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_9192.png"
+    },
+    {
+      "id": 9193,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_9193.png"
+    },
+    {
+      "id": 9358,
+      "name": "wall",
+      "texture_file": "wall_9358.png"
+    },
+    {
+      "id": 9359,
+      "name": "wall",
+      "texture_file": "wall_9359.png"
+    },
+    {
+      "id": 9366,
+      "name": "wall",
+      "texture_file": "wall_9366.png"
+    },
+    {
+      "id": 9367,
+      "name": "wall",
+      "texture_file": "wall_9367.png"
+    },
+    {
+      "id": 9368,
+      "name": "wall",
+      "texture_file": "wall_9368.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map4.mul",
+      "statics_file": "statics4.mul",
+      "staidx_file": "staidx4.mul",
+      "uop_file": "map4LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 181,
+      "h_blocks": 181,
+      "min_block_x": 157,
+      "max_block_x": 157,
+      "min_block_y": 87,
+      "max_block_y": 88,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 157,
+        "block_y": 87,
+        "block_index": 28504,
+        "staidx_offset": 342048,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 5586788,
+        "uop_entry": {
+          "file": "map4LegacyMUL.uop",
+          "entry_name": "build/map4legacymul/00000006.dat",
+          "entry_index": 6,
+          "block_in_entry": 3928
+        }
+      },
+      {
+        "block_x": 157,
+        "block_y": 88,
+        "block_index": 28505,
+        "staidx_offset": 342060,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 5586984,
+        "uop_entry": {
+          "file": "map4LegacyMUL.uop",
+          "entry_name": "build/map4legacymul/00000006.dat",
+          "entry_index": 6,
+          "block_in_entry": 3929
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "building_id": "building_072_1044_1140",
+  "name": "Wilderness Building #072",
+  "map": "map2_ilshenar",
+  "map_index": 2,
+  "map_name": "Ilshenar",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1046 1144",
+    "center_x": 1046,
+    "center_y": 1144,
+    "base_z": -24,
+    "map_name": "Ilshenar (Map 2)"
+  },
+  "world_bounds": {
+    "min_x": 1044,
+    "max_x": 1047,
+    "min_y": 1140,
+    "max_y": 1148,
+    "base_z": -24,
+    "max_z": -1,
+    "center_x": 1046.0,
+    "center_y": 1144.5,
+    "center_z_elevation": -2.88
+  },
+  "dimensions_meters": {
+    "width_x": 4.0,
+    "depth_z": 9.0,
+    "height_y": 3.12
+  },
+  "stats": {
+    "tile_count": 19,
+    "item_count": 34,
+    "triangles_count": 502,
+    "unique_textures_count": 18
+  },
+  "unique_items": [
+    {
+      "id": 200,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0200.png"
+    },
+    {
+      "id": 201,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0201.png"
+    },
+    {
+      "id": 204,
+      "name": "stone post",
+      "texture_file": "stone_post_0204.png"
+    },
+    {
+      "id": 210,
+      "name": "stone buttress",
+      "texture_file": "stone_buttress_0210.png"
+    },
+    {
+      "id": 214,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0214.png"
+    },
+    {
+      "id": 221,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0221.png"
+    },
+    {
+      "id": 222,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0222.png"
+    },
+    {
+      "id": 223,
+      "name": "stone post",
+      "texture_file": "stone_post_0223.png"
+    },
+    {
+      "id": 224,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0224.png"
+    },
+    {
+      "id": 225,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0225.png"
+    },
+    {
+      "id": 227,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0227.png"
+    },
+    {
+      "id": 230,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0230.png"
+    },
+    {
+      "id": 231,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0231.png"
+    },
+    {
+      "id": 1846,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1846.png"
+    },
+    {
+      "id": 1847,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1847.png"
+    },
+    {
+      "id": 3312,
+      "name": "vines",
+      "texture_file": "vines_3312.png"
+    },
+    {
+      "id": 6947,
+      "name": "leaves",
+      "texture_file": "leaves_6947.png"
+    },
+    {
+      "id": 6948,
+      "name": "leaves",
+      "texture_file": "leaves_6948.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map2.mul",
+      "statics_file": "statics2.mul",
+      "staidx_file": "staidx2.mul",
+      "uop_file": "map2LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 288,
+      "h_blocks": 200,
+      "min_block_x": 130,
+      "max_block_x": 130,
+      "min_block_y": 142,
+      "max_block_y": 143,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 130,
+        "block_y": 142,
+        "block_index": 26142,
+        "staidx_offset": 313704,
+        "statics_offset": 1481046,
+        "statics_length": 154,
+        "static_items_count": 22,
+        "map_offset": 5123836,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000006.dat",
+          "entry_index": 6,
+          "block_in_entry": 1566
+        }
+      },
+      {
+        "block_x": 130,
+        "block_y": 143,
+        "block_index": 26143,
+        "staidx_offset": 313716,
+        "statics_offset": 1481200,
+        "statics_length": 133,
+        "static_items_count": 19,
+        "map_offset": 5124032,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000006.dat",
+          "entry_index": 6,
+          "block_in_entry": 1567
+        }
+      }
+    ]
+  }
+}

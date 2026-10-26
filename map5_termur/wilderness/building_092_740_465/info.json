@@ -1,0 +1,3903 @@
+{
+  "building_id": "building_092_740_465",
+  "name": "Wilderness Building #092",
+  "map": "map5_termur",
+  "map_index": 5,
+  "map_name": "Termur",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "750 475",
+    "center_x": 750,
+    "center_y": 475,
+    "base_z": -17,
+    "map_name": "Termur (Map 5)"
+  },
+  "world_bounds": {
+    "min_x": 740,
+    "max_x": 759,
+    "min_y": 465,
+    "max_y": 485,
+    "base_z": -17,
+    "max_z": 23,
+    "center_x": 750.0,
+    "center_y": 475.5,
+    "center_z_elevation": -2.04
+  },
+  "dimensions_meters": {
+    "width_x": 20.0,
+    "depth_z": 21.0,
+    "height_y": 6.34
+  },
+  "stats": {
+    "tile_count": 361,
+    "item_count": 803,
+    "triangles_count": 7176,
+    "unique_textures_count": 740
+  },
+  "unique_items": [
+    {
+      "id": 283,
+      "name": "marble column",
+      "texture_file": "marble_column_0283.png"
+    },
+    {
+      "id": 2567,
+      "name": "wall torch",
+      "texture_file": "wall_torch_2567.png"
+    },
+    {
+      "id": 2572,
+      "name": "wall torch",
+      "texture_file": "wall_torch_2572.png"
+    },
+    {
+      "id": 3245,
+      "name": "grasses",
+      "texture_file": "grasses_3245.png"
+    },
+    {
+      "id": 3249,
+      "name": "grasses",
+      "texture_file": "grasses_3249.png"
+    },
+    {
+      "id": 3254,
+      "name": "grasses",
+      "texture_file": "grasses_3254.png"
+    },
+    {
+      "id": 16680,
+      "name": "gargoyle tower vines",
+      "texture_file": "gargoyle_tower_vines_16680.png"
+    },
+    {
+      "id": 16681,
+      "name": "gargoyle tower vines",
+      "texture_file": "gargoyle_tower_vines_16681.png"
+    },
+    {
+      "id": 16682,
+      "name": "gargoyle tower vines",
+      "texture_file": "gargoyle_tower_vines_16682.png"
+    },
+    {
+      "id": 19737,
+      "name": "totemsmall east",
+      "texture_file": "totemsmall_east_19737.png"
+    },
+    {
+      "id": 19765,
+      "name": "qc cornerw1",
+      "texture_file": "qc_cornerw1_19765.png"
+    },
+    {
+      "id": 19766,
+      "name": "qc cornerw1",
+      "texture_file": "qc_cornerw1_19766.png"
+    },
+    {
+      "id": 19767,
+      "name": "qc cornerw1",
+      "texture_file": "qc_cornerw1_19767.png"
+    },
+    {
+      "id": 19768,
+      "name": "qc cornerw1",
+      "texture_file": "qc_cornerw1_19768.png"
+    },
+    {
+      "id": 19769,
+      "name": "qc cornerw1",
+      "texture_file": "qc_cornerw1_19769.png"
+    },
+    {
+      "id": 19770,
+      "name": "qc cornerw1",
+      "texture_file": "qc_cornerw1_19770.png"
+    },
+    {
+      "id": 19771,
+      "name": "qc cornerw1",
+      "texture_file": "qc_cornerw1_19771.png"
+    },
+    {
+      "id": 19772,
+      "name": "qc cornerw1",
+      "texture_file": "qc_cornerw1_19772.png"
+    },
+    {
+      "id": 19773,
+      "name": "qc cornerw1",
+      "texture_file": "qc_cornerw1_19773.png"
+    },
+    {
+      "id": 19774,
+      "name": "qc cornerw1",
+      "texture_file": "qc_cornerw1_19774.png"
+    },
+    {
+      "id": 19776,
+      "name": "qc cornerw1",
+      "texture_file": "qc_cornerw1_19776.png"
+    },
+    {
+      "id": 19779,
+      "name": "qc cornerw2",
+      "texture_file": "qc_cornerw2_19779.png"
+    },
+    {
+      "id": 19780,
+      "name": "qc cornerw2",
+      "texture_file": "qc_cornerw2_19780.png"
+    },
+    {
+      "id": 19781,
+      "name": "qc cornerw2",
+      "texture_file": "qc_cornerw2_19781.png"
+    },
+    {
+      "id": 19782,
+      "name": "qc cornerw2",
+      "texture_file": "qc_cornerw2_19782.png"
+    },
+    {
+      "id": 19783,
+      "name": "qc cornerw2",
+      "texture_file": "qc_cornerw2_19783.png"
+    },
+    {
+      "id": 19784,
+      "name": "qc cornerw2",
+      "texture_file": "qc_cornerw2_19784.png"
+    },
+    {
+      "id": 19785,
+      "name": "qc cornerw2",
+      "texture_file": "qc_cornerw2_19785.png"
+    },
+    {
+      "id": 19786,
+      "name": "qc cornerw2",
+      "texture_file": "qc_cornerw2_19786.png"
+    },
+    {
+      "id": 19788,
+      "name": "qc cornerw3",
+      "texture_file": "qc_cornerw3_19788.png"
+    },
+    {
+      "id": 19789,
+      "name": "qc cornerw3",
+      "texture_file": "qc_cornerw3_19789.png"
+    },
+    {
+      "id": 19790,
+      "name": "qc cornerw3",
+      "texture_file": "qc_cornerw3_19790.png"
+    },
+    {
+      "id": 19791,
+      "name": "qc cornerw3",
+      "texture_file": "qc_cornerw3_19791.png"
+    },
+    {
+      "id": 19792,
+      "name": "qc cornerw3",
+      "texture_file": "qc_cornerw3_19792.png"
+    },
+    {
+      "id": 19794,
+      "name": "qc cornerw4",
+      "texture_file": "qc_cornerw4_19794.png"
+    },
+    {
+      "id": 19797,
+      "name": "qc cornerw4",
+      "texture_file": "qc_cornerw4_19797.png"
+    },
+    {
+      "id": 19802,
+      "name": "qc cornern1",
+      "texture_file": "qc_cornern1_19802.png"
+    },
+    {
+      "id": 19803,
+      "name": "qc cornern1",
+      "texture_file": "qc_cornern1_19803.png"
+    },
+    {
+      "id": 19804,
+      "name": "qc cornern1",
+      "texture_file": "qc_cornern1_19804.png"
+    },
+    {
+      "id": 19805,
+      "name": "qc cornern1",
+      "texture_file": "qc_cornern1_19805.png"
+    },
+    {
+      "id": 19811,
+      "name": "qc cornern1",
+      "texture_file": "qc_cornern1_19811.png"
+    },
+    {
+      "id": 19812,
+      "name": "qc cornern1",
+      "texture_file": "qc_cornern1_19812.png"
+    },
+    {
+      "id": 19813,
+      "name": "qc cornern1",
+      "texture_file": "qc_cornern1_19813.png"
+    },
+    {
+      "id": 19814,
+      "name": "qc cornern1",
+      "texture_file": "qc_cornern1_19814.png"
+    },
+    {
+      "id": 19815,
+      "name": "qc cornern1",
+      "texture_file": "qc_cornern1_19815.png"
+    },
+    {
+      "id": 19818,
+      "name": "qc cornern2",
+      "texture_file": "qc_cornern2_19818.png"
+    },
+    {
+      "id": 19819,
+      "name": "qc cornern2",
+      "texture_file": "qc_cornern2_19819.png"
+    },
+    {
+      "id": 19820,
+      "name": "qc cornern2",
+      "texture_file": "qc_cornern2_19820.png"
+    },
+    {
+      "id": 19821,
+      "name": "qc cornern2",
+      "texture_file": "qc_cornern2_19821.png"
+    },
+    {
+      "id": 19825,
+      "name": "qc cornern2",
+      "texture_file": "qc_cornern2_19825.png"
+    },
+    {
+      "id": 19826,
+      "name": "qc cornern2",
+      "texture_file": "qc_cornern2_19826.png"
+    },
+    {
+      "id": 19827,
+      "name": "qc cornern2",
+      "texture_file": "qc_cornern2_19827.png"
+    },
+    {
+      "id": 19828,
+      "name": "qc cornern3",
+      "texture_file": "qc_cornern3_19828.png"
+    },
+    {
+      "id": 19829,
+      "name": "qc cornern3",
+      "texture_file": "qc_cornern3_19829.png"
+    },
+    {
+      "id": 19830,
+      "name": "qc cornern3",
+      "texture_file": "qc_cornern3_19830.png"
+    },
+    {
+      "id": 19832,
+      "name": "qc cornern3",
+      "texture_file": "qc_cornern3_19832.png"
+    },
+    {
+      "id": 19833,
+      "name": "qc cornern3",
+      "texture_file": "qc_cornern3_19833.png"
+    },
+    {
+      "id": 19834,
+      "name": "qc cornern4",
+      "texture_file": "qc_cornern4_19834.png"
+    },
+    {
+      "id": 19835,
+      "name": "qc cornern4",
+      "texture_file": "qc_cornern4_19835.png"
+    },
+    {
+      "id": 19837,
+      "name": "qc cornern4",
+      "texture_file": "qc_cornern4_19837.png"
+    },
+    {
+      "id": 19839,
+      "name": "qc cornern4",
+      "texture_file": "qc_cornern4_19839.png"
+    },
+    {
+      "id": 19841,
+      "name": "qc cornere03",
+      "texture_file": "qc_cornere03_19841.png"
+    },
+    {
+      "id": 19843,
+      "name": "qc cornere03",
+      "texture_file": "qc_cornere03_19843.png"
+    },
+    {
+      "id": 19844,
+      "name": "qc cornere03",
+      "texture_file": "qc_cornere03_19844.png"
+    },
+    {
+      "id": 19845,
+      "name": "qc cornere03",
+      "texture_file": "qc_cornere03_19845.png"
+    },
+    {
+      "id": 19846,
+      "name": "qc cornere03",
+      "texture_file": "qc_cornere03_19846.png"
+    },
+    {
+      "id": 19847,
+      "name": "qc cornere03",
+      "texture_file": "qc_cornere03_19847.png"
+    },
+    {
+      "id": 19848,
+      "name": "qc cornere03",
+      "texture_file": "qc_cornere03_19848.png"
+    },
+    {
+      "id": 19849,
+      "name": "qc cornere03",
+      "texture_file": "qc_cornere03_19849.png"
+    },
+    {
+      "id": 19850,
+      "name": "qc cornere03",
+      "texture_file": "qc_cornere03_19850.png"
+    },
+    {
+      "id": 19859,
+      "name": "qc cornere04",
+      "texture_file": "qc_cornere04_19859.png"
+    },
+    {
+      "id": 19860,
+      "name": "qc cornere04",
+      "texture_file": "qc_cornere04_19860.png"
+    },
+    {
+      "id": 19861,
+      "name": "qc cornere04",
+      "texture_file": "qc_cornere04_19861.png"
+    },
+    {
+      "id": 19862,
+      "name": "qc cornere04",
+      "texture_file": "qc_cornere04_19862.png"
+    },
+    {
+      "id": 19863,
+      "name": "qc cornere04",
+      "texture_file": "qc_cornere04_19863.png"
+    },
+    {
+      "id": 19864,
+      "name": "qc cornere04",
+      "texture_file": "qc_cornere04_19864.png"
+    },
+    {
+      "id": 19869,
+      "name": "qc cornere",
+      "texture_file": "qc_cornere_19869.png"
+    },
+    {
+      "id": 19870,
+      "name": "qc cornere",
+      "texture_file": "qc_cornere_19870.png"
+    },
+    {
+      "id": 19871,
+      "name": "qc cornere",
+      "texture_file": "qc_cornere_19871.png"
+    },
+    {
+      "id": 19872,
+      "name": "qc cornere",
+      "texture_file": "qc_cornere_19872.png"
+    },
+    {
+      "id": 19876,
+      "name": "qc cornere4",
+      "texture_file": "qc_cornere4_19876.png"
+    },
+    {
+      "id": 19878,
+      "name": "qc cornere4",
+      "texture_file": "qc_cornere4_19878.png"
+    },
+    {
+      "id": 19879,
+      "name": "qc cornere4",
+      "texture_file": "qc_cornere4_19879.png"
+    },
+    {
+      "id": 19883,
+      "name": "qc corners1",
+      "texture_file": "qc_corners1_19883.png"
+    },
+    {
+      "id": 19884,
+      "name": "qc corners1",
+      "texture_file": "qc_corners1_19884.png"
+    },
+    {
+      "id": 19885,
+      "name": "qc corners1",
+      "texture_file": "qc_corners1_19885.png"
+    },
+    {
+      "id": 19886,
+      "name": "qc corners1",
+      "texture_file": "qc_corners1_19886.png"
+    },
+    {
+      "id": 19893,
+      "name": "qc corners1",
+      "texture_file": "qc_corners1_19893.png"
+    },
+    {
+      "id": 19894,
+      "name": "qc corners1",
+      "texture_file": "qc_corners1_19894.png"
+    },
+    {
+      "id": 19895,
+      "name": "qc corners1",
+      "texture_file": "qc_corners1_19895.png"
+    },
+    {
+      "id": 19896,
+      "name": "qc corners1",
+      "texture_file": "qc_corners1_19896.png"
+    },
+    {
+      "id": 19899,
+      "name": "qc corners2",
+      "texture_file": "qc_corners2_19899.png"
+    },
+    {
+      "id": 19900,
+      "name": "qc corners2",
+      "texture_file": "qc_corners2_19900.png"
+    },
+    {
+      "id": 19905,
+      "name": "qc corners2",
+      "texture_file": "qc_corners2_19905.png"
+    },
+    {
+      "id": 19906,
+      "name": "qc corners2",
+      "texture_file": "qc_corners2_19906.png"
+    },
+    {
+      "id": 19907,
+      "name": "qc corners2",
+      "texture_file": "qc_corners2_19907.png"
+    },
+    {
+      "id": 19908,
+      "name": "qc corners3",
+      "texture_file": "qc_corners3_19908.png"
+    },
+    {
+      "id": 19909,
+      "name": "qc corners3",
+      "texture_file": "qc_corners3_19909.png"
+    },
+    {
+      "id": 19911,
+      "name": "qc corners3",
+      "texture_file": "qc_corners3_19911.png"
+    },
+    {
+      "id": 19912,
+      "name": "qc corners3",
+      "texture_file": "qc_corners3_19912.png"
+    },
+    {
+      "id": 19914,
+      "name": "qc corners4",
+      "texture_file": "qc_corners4_19914.png"
+    },
+    {
+      "id": 19916,
+      "name": "qc corners4",
+      "texture_file": "qc_corners4_19916.png"
+    },
+    {
+      "id": 19918,
+      "name": "qc corners4",
+      "texture_file": "qc_corners4_19918.png"
+    },
+    {
+      "id": 19919,
+      "name": "qc corners4",
+      "texture_file": "qc_corners4_19919.png"
+    },
+    {
+      "id": 19927,
+      "name": "wall inner east",
+      "texture_file": "wall_inner_east_19927.png"
+    },
+    {
+      "id": 19931,
+      "name": "wall outer east",
+      "texture_file": "wall_outer_east_19931.png"
+    },
+    {
+      "id": 19959,
+      "name": "roofw",
+      "texture_file": "roofw_19959.png"
+    },
+    {
+      "id": 19960,
+      "name": "roofw",
+      "texture_file": "roofw_19960.png"
+    },
+    {
+      "id": 19961,
+      "name": "roofw",
+      "texture_file": "roofw_19961.png"
+    },
+    {
+      "id": 19962,
+      "name": "roofw",
+      "texture_file": "roofw_19962.png"
+    },
+    {
+      "id": 19963,
+      "name": "roofw",
+      "texture_file": "roofw_19963.png"
+    },
+    {
+      "id": 19967,
+      "name": "roofw",
+      "texture_file": "roofw_19967.png"
+    },
+    {
+      "id": 19968,
+      "name": "roofw",
+      "texture_file": "roofw_19968.png"
+    },
+    {
+      "id": 19969,
+      "name": "roofw",
+      "texture_file": "roofw_19969.png"
+    },
+    {
+      "id": 19970,
+      "name": "roofw",
+      "texture_file": "roofw_19970.png"
+    },
+    {
+      "id": 19971,
+      "name": "roofw",
+      "texture_file": "roofw_19971.png"
+    },
+    {
+      "id": 19972,
+      "name": "roofw",
+      "texture_file": "roofw_19972.png"
+    },
+    {
+      "id": 19975,
+      "name": "roofw",
+      "texture_file": "roofw_19975.png"
+    },
+    {
+      "id": 19976,
+      "name": "roofw",
+      "texture_file": "roofw_19976.png"
+    },
+    {
+      "id": 19977,
+      "name": "roofw",
+      "texture_file": "roofw_19977.png"
+    },
+    {
+      "id": 19978,
+      "name": "roofw",
+      "texture_file": "roofw_19978.png"
+    },
+    {
+      "id": 19979,
+      "name": "roofw",
+      "texture_file": "roofw_19979.png"
+    },
+    {
+      "id": 19980,
+      "name": "roofw",
+      "texture_file": "roofw_19980.png"
+    },
+    {
+      "id": 19981,
+      "name": "roofw",
+      "texture_file": "roofw_19981.png"
+    },
+    {
+      "id": 19983,
+      "name": "roofw",
+      "texture_file": "roofw_19983.png"
+    },
+    {
+      "id": 19984,
+      "name": "roofw",
+      "texture_file": "roofw_19984.png"
+    },
+    {
+      "id": 19985,
+      "name": "roofw",
+      "texture_file": "roofw_19985.png"
+    },
+    {
+      "id": 19986,
+      "name": "roofw",
+      "texture_file": "roofw_19986.png"
+    },
+    {
+      "id": 19987,
+      "name": "roofw",
+      "texture_file": "roofw_19987.png"
+    },
+    {
+      "id": 19988,
+      "name": "roofw",
+      "texture_file": "roofw_19988.png"
+    },
+    {
+      "id": 19989,
+      "name": "roofw",
+      "texture_file": "roofw_19989.png"
+    },
+    {
+      "id": 19990,
+      "name": "roofw",
+      "texture_file": "roofw_19990.png"
+    },
+    {
+      "id": 19991,
+      "name": "roofw",
+      "texture_file": "roofw_19991.png"
+    },
+    {
+      "id": 19992,
+      "name": "roofw",
+      "texture_file": "roofw_19992.png"
+    },
+    {
+      "id": 19993,
+      "name": "roofw",
+      "texture_file": "roofw_19993.png"
+    },
+    {
+      "id": 19994,
+      "name": "roofw",
+      "texture_file": "roofw_19994.png"
+    },
+    {
+      "id": 19995,
+      "name": "roofw",
+      "texture_file": "roofw_19995.png"
+    },
+    {
+      "id": 19996,
+      "name": "roofw",
+      "texture_file": "roofw_19996.png"
+    },
+    {
+      "id": 19997,
+      "name": "roofw",
+      "texture_file": "roofw_19997.png"
+    },
+    {
+      "id": 19998,
+      "name": "roofw",
+      "texture_file": "roofw_19998.png"
+    },
+    {
+      "id": 19999,
+      "name": "roofw",
+      "texture_file": "roofw_19999.png"
+    },
+    {
+      "id": 20000,
+      "name": "roofw",
+      "texture_file": "roofw_20000.png"
+    },
+    {
+      "id": 20001,
+      "name": "roofw",
+      "texture_file": "roofw_20001.png"
+    },
+    {
+      "id": 20002,
+      "name": "roofw",
+      "texture_file": "roofw_20002.png"
+    },
+    {
+      "id": 20003,
+      "name": "roofw",
+      "texture_file": "roofw_20003.png"
+    },
+    {
+      "id": 20004,
+      "name": "roofw",
+      "texture_file": "roofw_20004.png"
+    },
+    {
+      "id": 20005,
+      "name": "roofw",
+      "texture_file": "roofw_20005.png"
+    },
+    {
+      "id": 20006,
+      "name": "roofw",
+      "texture_file": "roofw_20006.png"
+    },
+    {
+      "id": 20007,
+      "name": "roofw",
+      "texture_file": "roofw_20007.png"
+    },
+    {
+      "id": 20008,
+      "name": "roofw",
+      "texture_file": "roofw_20008.png"
+    },
+    {
+      "id": 20009,
+      "name": "roofw",
+      "texture_file": "roofw_20009.png"
+    },
+    {
+      "id": 20010,
+      "name": "roofw",
+      "texture_file": "roofw_20010.png"
+    },
+    {
+      "id": 20011,
+      "name": "roofw",
+      "texture_file": "roofw_20011.png"
+    },
+    {
+      "id": 20012,
+      "name": "roofw",
+      "texture_file": "roofw_20012.png"
+    },
+    {
+      "id": 20013,
+      "name": "roofw",
+      "texture_file": "roofw_20013.png"
+    },
+    {
+      "id": 20014,
+      "name": "roofw",
+      "texture_file": "roofw_20014.png"
+    },
+    {
+      "id": 20015,
+      "name": "roofw",
+      "texture_file": "roofw_20015.png"
+    },
+    {
+      "id": 20016,
+      "name": "roofw",
+      "texture_file": "roofw_20016.png"
+    },
+    {
+      "id": 20017,
+      "name": "roofw",
+      "texture_file": "roofw_20017.png"
+    },
+    {
+      "id": 20018,
+      "name": "roofw",
+      "texture_file": "roofw_20018.png"
+    },
+    {
+      "id": 20019,
+      "name": "roofw",
+      "texture_file": "roofw_20019.png"
+    },
+    {
+      "id": 20020,
+      "name": "roofw",
+      "texture_file": "roofw_20020.png"
+    },
+    {
+      "id": 20021,
+      "name": "roofw",
+      "texture_file": "roofw_20021.png"
+    },
+    {
+      "id": 20022,
+      "name": "roofw",
+      "texture_file": "roofw_20022.png"
+    },
+    {
+      "id": 20023,
+      "name": "roofw",
+      "texture_file": "roofw_20023.png"
+    },
+    {
+      "id": 20024,
+      "name": "roofw",
+      "texture_file": "roofw_20024.png"
+    },
+    {
+      "id": 20025,
+      "name": "roofw",
+      "texture_file": "roofw_20025.png"
+    },
+    {
+      "id": 20026,
+      "name": "roofw",
+      "texture_file": "roofw_20026.png"
+    },
+    {
+      "id": 20027,
+      "name": "roofw",
+      "texture_file": "roofw_20027.png"
+    },
+    {
+      "id": 20028,
+      "name": "roofw",
+      "texture_file": "roofw_20028.png"
+    },
+    {
+      "id": 20029,
+      "name": "roofw",
+      "texture_file": "roofw_20029.png"
+    },
+    {
+      "id": 20030,
+      "name": "roofw",
+      "texture_file": "roofw_20030.png"
+    },
+    {
+      "id": 20031,
+      "name": "roofw",
+      "texture_file": "roofw_20031.png"
+    },
+    {
+      "id": 20032,
+      "name": "roofw",
+      "texture_file": "roofw_20032.png"
+    },
+    {
+      "id": 20033,
+      "name": "roofw",
+      "texture_file": "roofw_20033.png"
+    },
+    {
+      "id": 20034,
+      "name": "roofw",
+      "texture_file": "roofw_20034.png"
+    },
+    {
+      "id": 20035,
+      "name": "roofw",
+      "texture_file": "roofw_20035.png"
+    },
+    {
+      "id": 20036,
+      "name": "roofnw",
+      "texture_file": "roofnw_20036.png"
+    },
+    {
+      "id": 20037,
+      "name": "roofnw",
+      "texture_file": "roofnw_20037.png"
+    },
+    {
+      "id": 20038,
+      "name": "roofnw",
+      "texture_file": "roofnw_20038.png"
+    },
+    {
+      "id": 20039,
+      "name": "roofnw",
+      "texture_file": "roofnw_20039.png"
+    },
+    {
+      "id": 20040,
+      "name": "roofnw",
+      "texture_file": "roofnw_20040.png"
+    },
+    {
+      "id": 20041,
+      "name": "roofnw",
+      "texture_file": "roofnw_20041.png"
+    },
+    {
+      "id": 20042,
+      "name": "roofnw",
+      "texture_file": "roofnw_20042.png"
+    },
+    {
+      "id": 20043,
+      "name": "roofnw",
+      "texture_file": "roofnw_20043.png"
+    },
+    {
+      "id": 20044,
+      "name": "roofnw",
+      "texture_file": "roofnw_20044.png"
+    },
+    {
+      "id": 20045,
+      "name": "roofn",
+      "texture_file": "roofn_20045.png"
+    },
+    {
+      "id": 20046,
+      "name": "roofn",
+      "texture_file": "roofn_20046.png"
+    },
+    {
+      "id": 20047,
+      "name": "roofn",
+      "texture_file": "roofn_20047.png"
+    },
+    {
+      "id": 20048,
+      "name": "roofn",
+      "texture_file": "roofn_20048.png"
+    },
+    {
+      "id": 20049,
+      "name": "roofn",
+      "texture_file": "roofn_20049.png"
+    },
+    {
+      "id": 20054,
+      "name": "roofn",
+      "texture_file": "roofn_20054.png"
+    },
+    {
+      "id": 20055,
+      "name": "roofn",
+      "texture_file": "roofn_20055.png"
+    },
+    {
+      "id": 20056,
+      "name": "roofn",
+      "texture_file": "roofn_20056.png"
+    },
+    {
+      "id": 20057,
+      "name": "roofn",
+      "texture_file": "roofn_20057.png"
+    },
+    {
+      "id": 20058,
+      "name": "roofn",
+      "texture_file": "roofn_20058.png"
+    },
+    {
+      "id": 20059,
+      "name": "roofn",
+      "texture_file": "roofn_20059.png"
+    },
+    {
+      "id": 20063,
+      "name": "roofn",
+      "texture_file": "roofn_20063.png"
+    },
+    {
+      "id": 20064,
+      "name": "roofn",
+      "texture_file": "roofn_20064.png"
+    },
+    {
+      "id": 20065,
+      "name": "roofn",
+      "texture_file": "roofn_20065.png"
+    },
+    {
+      "id": 20066,
+      "name": "roofn",
+      "texture_file": "roofn_20066.png"
+    },
+    {
+      "id": 20067,
+      "name": "roofn",
+      "texture_file": "roofn_20067.png"
+    },
+    {
+      "id": 20068,
+      "name": "roofn",
+      "texture_file": "roofn_20068.png"
+    },
+    {
+      "id": 20069,
+      "name": "roofn",
+      "texture_file": "roofn_20069.png"
+    },
+    {
+      "id": 20072,
+      "name": "roofn",
+      "texture_file": "roofn_20072.png"
+    },
+    {
+      "id": 20073,
+      "name": "roofn",
+      "texture_file": "roofn_20073.png"
+    },
+    {
+      "id": 20074,
+      "name": "roofn",
+      "texture_file": "roofn_20074.png"
+    },
+    {
+      "id": 20075,
+      "name": "roofn",
+      "texture_file": "roofn_20075.png"
+    },
+    {
+      "id": 20076,
+      "name": "roofn",
+      "texture_file": "roofn_20076.png"
+    },
+    {
+      "id": 20077,
+      "name": "roofn",
+      "texture_file": "roofn_20077.png"
+    },
+    {
+      "id": 20078,
+      "name": "roofn",
+      "texture_file": "roofn_20078.png"
+    },
+    {
+      "id": 20079,
+      "name": "roofn",
+      "texture_file": "roofn_20079.png"
+    },
+    {
+      "id": 20081,
+      "name": "roofn",
+      "texture_file": "roofn_20081.png"
+    },
+    {
+      "id": 20082,
+      "name": "roofn",
+      "texture_file": "roofn_20082.png"
+    },
+    {
+      "id": 20083,
+      "name": "roofn",
+      "texture_file": "roofn_20083.png"
+    },
+    {
+      "id": 20084,
+      "name": "roofn",
+      "texture_file": "roofn_20084.png"
+    },
+    {
+      "id": 20085,
+      "name": "roofn",
+      "texture_file": "roofn_20085.png"
+    },
+    {
+      "id": 20086,
+      "name": "roofn",
+      "texture_file": "roofn_20086.png"
+    },
+    {
+      "id": 20087,
+      "name": "roofn",
+      "texture_file": "roofn_20087.png"
+    },
+    {
+      "id": 20088,
+      "name": "roofn",
+      "texture_file": "roofn_20088.png"
+    },
+    {
+      "id": 20089,
+      "name": "roofn",
+      "texture_file": "roofn_20089.png"
+    },
+    {
+      "id": 20090,
+      "name": "roofn",
+      "texture_file": "roofn_20090.png"
+    },
+    {
+      "id": 20091,
+      "name": "roofn",
+      "texture_file": "roofn_20091.png"
+    },
+    {
+      "id": 20092,
+      "name": "roofn",
+      "texture_file": "roofn_20092.png"
+    },
+    {
+      "id": 20093,
+      "name": "roofn",
+      "texture_file": "roofn_20093.png"
+    },
+    {
+      "id": 20094,
+      "name": "roofn",
+      "texture_file": "roofn_20094.png"
+    },
+    {
+      "id": 20095,
+      "name": "roofn",
+      "texture_file": "roofn_20095.png"
+    },
+    {
+      "id": 20096,
+      "name": "roofn",
+      "texture_file": "roofn_20096.png"
+    },
+    {
+      "id": 20097,
+      "name": "roofn",
+      "texture_file": "roofn_20097.png"
+    },
+    {
+      "id": 20098,
+      "name": "roofn",
+      "texture_file": "roofn_20098.png"
+    },
+    {
+      "id": 20099,
+      "name": "roofn",
+      "texture_file": "roofn_20099.png"
+    },
+    {
+      "id": 20100,
+      "name": "roofn",
+      "texture_file": "roofn_20100.png"
+    },
+    {
+      "id": 20101,
+      "name": "roofn",
+      "texture_file": "roofn_20101.png"
+    },
+    {
+      "id": 20102,
+      "name": "roofn",
+      "texture_file": "roofn_20102.png"
+    },
+    {
+      "id": 20103,
+      "name": "roofn",
+      "texture_file": "roofn_20103.png"
+    },
+    {
+      "id": 20104,
+      "name": "roofn",
+      "texture_file": "roofn_20104.png"
+    },
+    {
+      "id": 20105,
+      "name": "roofn",
+      "texture_file": "roofn_20105.png"
+    },
+    {
+      "id": 20106,
+      "name": "roofn",
+      "texture_file": "roofn_20106.png"
+    },
+    {
+      "id": 20107,
+      "name": "roofn",
+      "texture_file": "roofn_20107.png"
+    },
+    {
+      "id": 20108,
+      "name": "roofn",
+      "texture_file": "roofn_20108.png"
+    },
+    {
+      "id": 20109,
+      "name": "roofn",
+      "texture_file": "roofn_20109.png"
+    },
+    {
+      "id": 20110,
+      "name": "roofn",
+      "texture_file": "roofn_20110.png"
+    },
+    {
+      "id": 20111,
+      "name": "roofn",
+      "texture_file": "roofn_20111.png"
+    },
+    {
+      "id": 20112,
+      "name": "roofn",
+      "texture_file": "roofn_20112.png"
+    },
+    {
+      "id": 20113,
+      "name": "roofn",
+      "texture_file": "roofn_20113.png"
+    },
+    {
+      "id": 20114,
+      "name": "roofn",
+      "texture_file": "roofn_20114.png"
+    },
+    {
+      "id": 20115,
+      "name": "roofn",
+      "texture_file": "roofn_20115.png"
+    },
+    {
+      "id": 20116,
+      "name": "roofn",
+      "texture_file": "roofn_20116.png"
+    },
+    {
+      "id": 20117,
+      "name": "roofn",
+      "texture_file": "roofn_20117.png"
+    },
+    {
+      "id": 20118,
+      "name": "roofn",
+      "texture_file": "roofn_20118.png"
+    },
+    {
+      "id": 20119,
+      "name": "roofn",
+      "texture_file": "roofn_20119.png"
+    },
+    {
+      "id": 20120,
+      "name": "roofn",
+      "texture_file": "roofn_20120.png"
+    },
+    {
+      "id": 20121,
+      "name": "roofn",
+      "texture_file": "roofn_20121.png"
+    },
+    {
+      "id": 20122,
+      "name": "roofn",
+      "texture_file": "roofn_20122.png"
+    },
+    {
+      "id": 20123,
+      "name": "roofn",
+      "texture_file": "roofn_20123.png"
+    },
+    {
+      "id": 20124,
+      "name": "roofn",
+      "texture_file": "roofn_20124.png"
+    },
+    {
+      "id": 20125,
+      "name": "roofn",
+      "texture_file": "roofn_20125.png"
+    },
+    {
+      "id": 20126,
+      "name": "roofsw",
+      "texture_file": "roofsw_20126.png"
+    },
+    {
+      "id": 20127,
+      "name": "roofsw",
+      "texture_file": "roofsw_20127.png"
+    },
+    {
+      "id": 20128,
+      "name": "roofsw",
+      "texture_file": "roofsw_20128.png"
+    },
+    {
+      "id": 20129,
+      "name": "roofsw",
+      "texture_file": "roofsw_20129.png"
+    },
+    {
+      "id": 20130,
+      "name": "roofsw",
+      "texture_file": "roofsw_20130.png"
+    },
+    {
+      "id": 20131,
+      "name": "roofsw",
+      "texture_file": "roofsw_20131.png"
+    },
+    {
+      "id": 20132,
+      "name": "roofsw",
+      "texture_file": "roofsw_20132.png"
+    },
+    {
+      "id": 20133,
+      "name": "roofsw",
+      "texture_file": "roofsw_20133.png"
+    },
+    {
+      "id": 20134,
+      "name": "roofsw",
+      "texture_file": "roofsw_20134.png"
+    },
+    {
+      "id": 20136,
+      "name": "roofne",
+      "texture_file": "roofne_20136.png"
+    },
+    {
+      "id": 20137,
+      "name": "roofne",
+      "texture_file": "roofne_20137.png"
+    },
+    {
+      "id": 20138,
+      "name": "roofne",
+      "texture_file": "roofne_20138.png"
+    },
+    {
+      "id": 20139,
+      "name": "roofne",
+      "texture_file": "roofne_20139.png"
+    },
+    {
+      "id": 20140,
+      "name": "roofne",
+      "texture_file": "roofne_20140.png"
+    },
+    {
+      "id": 20141,
+      "name": "roofne",
+      "texture_file": "roofne_20141.png"
+    },
+    {
+      "id": 20142,
+      "name": "roofne",
+      "texture_file": "roofne_20142.png"
+    },
+    {
+      "id": 20143,
+      "name": "roofne",
+      "texture_file": "roofne_20143.png"
+    },
+    {
+      "id": 20144,
+      "name": "roofne",
+      "texture_file": "roofne_20144.png"
+    },
+    {
+      "id": 20145,
+      "name": "roofs",
+      "texture_file": "roofs_20145.png"
+    },
+    {
+      "id": 20146,
+      "name": "roofs",
+      "texture_file": "roofs_20146.png"
+    },
+    {
+      "id": 20147,
+      "name": "roofs",
+      "texture_file": "roofs_20147.png"
+    },
+    {
+      "id": 20148,
+      "name": "roofs",
+      "texture_file": "roofs_20148.png"
+    },
+    {
+      "id": 20149,
+      "name": "roofs",
+      "texture_file": "roofs_20149.png"
+    },
+    {
+      "id": 20150,
+      "name": "roofs",
+      "texture_file": "roofs_20150.png"
+    },
+    {
+      "id": 20151,
+      "name": "roofs",
+      "texture_file": "roofs_20151.png"
+    },
+    {
+      "id": 20152,
+      "name": "roofs",
+      "texture_file": "roofs_20152.png"
+    },
+    {
+      "id": 20153,
+      "name": "roofs",
+      "texture_file": "roofs_20153.png"
+    },
+    {
+      "id": 20154,
+      "name": "roofs",
+      "texture_file": "roofs_20154.png"
+    },
+    {
+      "id": 20155,
+      "name": "roofs",
+      "texture_file": "roofs_20155.png"
+    },
+    {
+      "id": 20156,
+      "name": "roofs",
+      "texture_file": "roofs_20156.png"
+    },
+    {
+      "id": 20157,
+      "name": "roofs",
+      "texture_file": "roofs_20157.png"
+    },
+    {
+      "id": 20158,
+      "name": "roofs",
+      "texture_file": "roofs_20158.png"
+    },
+    {
+      "id": 20159,
+      "name": "roofs",
+      "texture_file": "roofs_20159.png"
+    },
+    {
+      "id": 20160,
+      "name": "roofs",
+      "texture_file": "roofs_20160.png"
+    },
+    {
+      "id": 20161,
+      "name": "roofs",
+      "texture_file": "roofs_20161.png"
+    },
+    {
+      "id": 20162,
+      "name": "roofs",
+      "texture_file": "roofs_20162.png"
+    },
+    {
+      "id": 20163,
+      "name": "roofs",
+      "texture_file": "roofs_20163.png"
+    },
+    {
+      "id": 20164,
+      "name": "roofs",
+      "texture_file": "roofs_20164.png"
+    },
+    {
+      "id": 20165,
+      "name": "roofs",
+      "texture_file": "roofs_20165.png"
+    },
+    {
+      "id": 20166,
+      "name": "roofs",
+      "texture_file": "roofs_20166.png"
+    },
+    {
+      "id": 20167,
+      "name": "roofs",
+      "texture_file": "roofs_20167.png"
+    },
+    {
+      "id": 20168,
+      "name": "roofs",
+      "texture_file": "roofs_20168.png"
+    },
+    {
+      "id": 20169,
+      "name": "roofs",
+      "texture_file": "roofs_20169.png"
+    },
+    {
+      "id": 20170,
+      "name": "roofs",
+      "texture_file": "roofs_20170.png"
+    },
+    {
+      "id": 20171,
+      "name": "roofs",
+      "texture_file": "roofs_20171.png"
+    },
+    {
+      "id": 20172,
+      "name": "roofs",
+      "texture_file": "roofs_20172.png"
+    },
+    {
+      "id": 20173,
+      "name": "roofs",
+      "texture_file": "roofs_20173.png"
+    },
+    {
+      "id": 20174,
+      "name": "roofs",
+      "texture_file": "roofs_20174.png"
+    },
+    {
+      "id": 20175,
+      "name": "roofs",
+      "texture_file": "roofs_20175.png"
+    },
+    {
+      "id": 20176,
+      "name": "roofs",
+      "texture_file": "roofs_20176.png"
+    },
+    {
+      "id": 20177,
+      "name": "roofs",
+      "texture_file": "roofs_20177.png"
+    },
+    {
+      "id": 20178,
+      "name": "roofs",
+      "texture_file": "roofs_20178.png"
+    },
+    {
+      "id": 20179,
+      "name": "roofs",
+      "texture_file": "roofs_20179.png"
+    },
+    {
+      "id": 20180,
+      "name": "roofs",
+      "texture_file": "roofs_20180.png"
+    },
+    {
+      "id": 20181,
+      "name": "roofs",
+      "texture_file": "roofs_20181.png"
+    },
+    {
+      "id": 20182,
+      "name": "roofs",
+      "texture_file": "roofs_20182.png"
+    },
+    {
+      "id": 20183,
+      "name": "roofs",
+      "texture_file": "roofs_20183.png"
+    },
+    {
+      "id": 20184,
+      "name": "roofs",
+      "texture_file": "roofs_20184.png"
+    },
+    {
+      "id": 20185,
+      "name": "roofs",
+      "texture_file": "roofs_20185.png"
+    },
+    {
+      "id": 20186,
+      "name": "roofs",
+      "texture_file": "roofs_20186.png"
+    },
+    {
+      "id": 20187,
+      "name": "roofs",
+      "texture_file": "roofs_20187.png"
+    },
+    {
+      "id": 20188,
+      "name": "roofs",
+      "texture_file": "roofs_20188.png"
+    },
+    {
+      "id": 20189,
+      "name": "roofs",
+      "texture_file": "roofs_20189.png"
+    },
+    {
+      "id": 20191,
+      "name": "roofs",
+      "texture_file": "roofs_20191.png"
+    },
+    {
+      "id": 20192,
+      "name": "roofs",
+      "texture_file": "roofs_20192.png"
+    },
+    {
+      "id": 20193,
+      "name": "roofs",
+      "texture_file": "roofs_20193.png"
+    },
+    {
+      "id": 20194,
+      "name": "roofs",
+      "texture_file": "roofs_20194.png"
+    },
+    {
+      "id": 20195,
+      "name": "roofs",
+      "texture_file": "roofs_20195.png"
+    },
+    {
+      "id": 20196,
+      "name": "roofs",
+      "texture_file": "roofs_20196.png"
+    },
+    {
+      "id": 20197,
+      "name": "roofs",
+      "texture_file": "roofs_20197.png"
+    },
+    {
+      "id": 20198,
+      "name": "roofs",
+      "texture_file": "roofs_20198.png"
+    },
+    {
+      "id": 20201,
+      "name": "roofs",
+      "texture_file": "roofs_20201.png"
+    },
+    {
+      "id": 20202,
+      "name": "roofs",
+      "texture_file": "roofs_20202.png"
+    },
+    {
+      "id": 20203,
+      "name": "roofs",
+      "texture_file": "roofs_20203.png"
+    },
+    {
+      "id": 20204,
+      "name": "roofs",
+      "texture_file": "roofs_20204.png"
+    },
+    {
+      "id": 20205,
+      "name": "roofs",
+      "texture_file": "roofs_20205.png"
+    },
+    {
+      "id": 20206,
+      "name": "roofs",
+      "texture_file": "roofs_20206.png"
+    },
+    {
+      "id": 20207,
+      "name": "roofs",
+      "texture_file": "roofs_20207.png"
+    },
+    {
+      "id": 20211,
+      "name": "roofs",
+      "texture_file": "roofs_20211.png"
+    },
+    {
+      "id": 20212,
+      "name": "roofs",
+      "texture_file": "roofs_20212.png"
+    },
+    {
+      "id": 20213,
+      "name": "roofs",
+      "texture_file": "roofs_20213.png"
+    },
+    {
+      "id": 20214,
+      "name": "roofs",
+      "texture_file": "roofs_20214.png"
+    },
+    {
+      "id": 20215,
+      "name": "roofs",
+      "texture_file": "roofs_20215.png"
+    },
+    {
+      "id": 20216,
+      "name": "roofs",
+      "texture_file": "roofs_20216.png"
+    },
+    {
+      "id": 20221,
+      "name": "roofs",
+      "texture_file": "roofs_20221.png"
+    },
+    {
+      "id": 20222,
+      "name": "roofs",
+      "texture_file": "roofs_20222.png"
+    },
+    {
+      "id": 20223,
+      "name": "roofs",
+      "texture_file": "roofs_20223.png"
+    },
+    {
+      "id": 20224,
+      "name": "roofs",
+      "texture_file": "roofs_20224.png"
+    },
+    {
+      "id": 20225,
+      "name": "roofs",
+      "texture_file": "roofs_20225.png"
+    },
+    {
+      "id": 20226,
+      "name": "roofse",
+      "texture_file": "roofse_20226.png"
+    },
+    {
+      "id": 20227,
+      "name": "roofse",
+      "texture_file": "roofse_20227.png"
+    },
+    {
+      "id": 20228,
+      "name": "roofse",
+      "texture_file": "roofse_20228.png"
+    },
+    {
+      "id": 20229,
+      "name": "roofse",
+      "texture_file": "roofse_20229.png"
+    },
+    {
+      "id": 20230,
+      "name": "roofse",
+      "texture_file": "roofse_20230.png"
+    },
+    {
+      "id": 20231,
+      "name": "roofse",
+      "texture_file": "roofse_20231.png"
+    },
+    {
+      "id": 20232,
+      "name": "roofse",
+      "texture_file": "roofse_20232.png"
+    },
+    {
+      "id": 20233,
+      "name": "roofse",
+      "texture_file": "roofse_20233.png"
+    },
+    {
+      "id": 20234,
+      "name": "roofse",
+      "texture_file": "roofse_20234.png"
+    },
+    {
+      "id": 20235,
+      "name": "roofe",
+      "texture_file": "roofe_20235.png"
+    },
+    {
+      "id": 20236,
+      "name": "roofe",
+      "texture_file": "roofe_20236.png"
+    },
+    {
+      "id": 20237,
+      "name": "roofe",
+      "texture_file": "roofe_20237.png"
+    },
+    {
+      "id": 20238,
+      "name": "roofe",
+      "texture_file": "roofe_20238.png"
+    },
+    {
+      "id": 20239,
+      "name": "roofe",
+      "texture_file": "roofe_20239.png"
+    },
+    {
+      "id": 20240,
+      "name": "roofe",
+      "texture_file": "roofe_20240.png"
+    },
+    {
+      "id": 20241,
+      "name": "roofe",
+      "texture_file": "roofe_20241.png"
+    },
+    {
+      "id": 20242,
+      "name": "roofe",
+      "texture_file": "roofe_20242.png"
+    },
+    {
+      "id": 20243,
+      "name": "roofe",
+      "texture_file": "roofe_20243.png"
+    },
+    {
+      "id": 20244,
+      "name": "roofe",
+      "texture_file": "roofe_20244.png"
+    },
+    {
+      "id": 20245,
+      "name": "roofe",
+      "texture_file": "roofe_20245.png"
+    },
+    {
+      "id": 20246,
+      "name": "roofe",
+      "texture_file": "roofe_20246.png"
+    },
+    {
+      "id": 20247,
+      "name": "roofe",
+      "texture_file": "roofe_20247.png"
+    },
+    {
+      "id": 20248,
+      "name": "roofe",
+      "texture_file": "roofe_20248.png"
+    },
+    {
+      "id": 20249,
+      "name": "roofe",
+      "texture_file": "roofe_20249.png"
+    },
+    {
+      "id": 20250,
+      "name": "roofe",
+      "texture_file": "roofe_20250.png"
+    },
+    {
+      "id": 20251,
+      "name": "roofe",
+      "texture_file": "roofe_20251.png"
+    },
+    {
+      "id": 20252,
+      "name": "roofe",
+      "texture_file": "roofe_20252.png"
+    },
+    {
+      "id": 20253,
+      "name": "roofe",
+      "texture_file": "roofe_20253.png"
+    },
+    {
+      "id": 20254,
+      "name": "roofe",
+      "texture_file": "roofe_20254.png"
+    },
+    {
+      "id": 20255,
+      "name": "roofe",
+      "texture_file": "roofe_20255.png"
+    },
+    {
+      "id": 20256,
+      "name": "roofe",
+      "texture_file": "roofe_20256.png"
+    },
+    {
+      "id": 20257,
+      "name": "roofe",
+      "texture_file": "roofe_20257.png"
+    },
+    {
+      "id": 20258,
+      "name": "roofe",
+      "texture_file": "roofe_20258.png"
+    },
+    {
+      "id": 20259,
+      "name": "roofe",
+      "texture_file": "roofe_20259.png"
+    },
+    {
+      "id": 20260,
+      "name": "roofe",
+      "texture_file": "roofe_20260.png"
+    },
+    {
+      "id": 20261,
+      "name": "roofe",
+      "texture_file": "roofe_20261.png"
+    },
+    {
+      "id": 20262,
+      "name": "roofe",
+      "texture_file": "roofe_20262.png"
+    },
+    {
+      "id": 20263,
+      "name": "roofe",
+      "texture_file": "roofe_20263.png"
+    },
+    {
+      "id": 20264,
+      "name": "roofe",
+      "texture_file": "roofe_20264.png"
+    },
+    {
+      "id": 20265,
+      "name": "roofe",
+      "texture_file": "roofe_20265.png"
+    },
+    {
+      "id": 20266,
+      "name": "roofe",
+      "texture_file": "roofe_20266.png"
+    },
+    {
+      "id": 20267,
+      "name": "roofe",
+      "texture_file": "roofe_20267.png"
+    },
+    {
+      "id": 20268,
+      "name": "roofe",
+      "texture_file": "roofe_20268.png"
+    },
+    {
+      "id": 20269,
+      "name": "roofe",
+      "texture_file": "roofe_20269.png"
+    },
+    {
+      "id": 20270,
+      "name": "roofe",
+      "texture_file": "roofe_20270.png"
+    },
+    {
+      "id": 20271,
+      "name": "roofe",
+      "texture_file": "roofe_20271.png"
+    },
+    {
+      "id": 20272,
+      "name": "roofe",
+      "texture_file": "roofe_20272.png"
+    },
+    {
+      "id": 20273,
+      "name": "roofe",
+      "texture_file": "roofe_20273.png"
+    },
+    {
+      "id": 20274,
+      "name": "roofe",
+      "texture_file": "roofe_20274.png"
+    },
+    {
+      "id": 20275,
+      "name": "roofe",
+      "texture_file": "roofe_20275.png"
+    },
+    {
+      "id": 20276,
+      "name": "roofe",
+      "texture_file": "roofe_20276.png"
+    },
+    {
+      "id": 20277,
+      "name": "roofe",
+      "texture_file": "roofe_20277.png"
+    },
+    {
+      "id": 20278,
+      "name": "roofe",
+      "texture_file": "roofe_20278.png"
+    },
+    {
+      "id": 20279,
+      "name": "roofe",
+      "texture_file": "roofe_20279.png"
+    },
+    {
+      "id": 20280,
+      "name": "roofe",
+      "texture_file": "roofe_20280.png"
+    },
+    {
+      "id": 20281,
+      "name": "roofe",
+      "texture_file": "roofe_20281.png"
+    },
+    {
+      "id": 20282,
+      "name": "roofe",
+      "texture_file": "roofe_20282.png"
+    },
+    {
+      "id": 20283,
+      "name": "roofe",
+      "texture_file": "roofe_20283.png"
+    },
+    {
+      "id": 20284,
+      "name": "roofe",
+      "texture_file": "roofe_20284.png"
+    },
+    {
+      "id": 20285,
+      "name": "roofe",
+      "texture_file": "roofe_20285.png"
+    },
+    {
+      "id": 20286,
+      "name": "roofe",
+      "texture_file": "roofe_20286.png"
+    },
+    {
+      "id": 20287,
+      "name": "roofe",
+      "texture_file": "roofe_20287.png"
+    },
+    {
+      "id": 20289,
+      "name": "roofe",
+      "texture_file": "roofe_20289.png"
+    },
+    {
+      "id": 20290,
+      "name": "roofe",
+      "texture_file": "roofe_20290.png"
+    },
+    {
+      "id": 20291,
+      "name": "roofe",
+      "texture_file": "roofe_20291.png"
+    },
+    {
+      "id": 20292,
+      "name": "roofe",
+      "texture_file": "roofe_20292.png"
+    },
+    {
+      "id": 20293,
+      "name": "roofe",
+      "texture_file": "roofe_20293.png"
+    },
+    {
+      "id": 20294,
+      "name": "roofe",
+      "texture_file": "roofe_20294.png"
+    },
+    {
+      "id": 20295,
+      "name": "roofe",
+      "texture_file": "roofe_20295.png"
+    },
+    {
+      "id": 20298,
+      "name": "roofe",
+      "texture_file": "roofe_20298.png"
+    },
+    {
+      "id": 20299,
+      "name": "roofe",
+      "texture_file": "roofe_20299.png"
+    },
+    {
+      "id": 20300,
+      "name": "roofe",
+      "texture_file": "roofe_20300.png"
+    },
+    {
+      "id": 20301,
+      "name": "roofe",
+      "texture_file": "roofe_20301.png"
+    },
+    {
+      "id": 20302,
+      "name": "roofe",
+      "texture_file": "roofe_20302.png"
+    },
+    {
+      "id": 20303,
+      "name": "roofe",
+      "texture_file": "roofe_20303.png"
+    },
+    {
+      "id": 20307,
+      "name": "roofe",
+      "texture_file": "roofe_20307.png"
+    },
+    {
+      "id": 20308,
+      "name": "roofe",
+      "texture_file": "roofe_20308.png"
+    },
+    {
+      "id": 20309,
+      "name": "roofe",
+      "texture_file": "roofe_20309.png"
+    },
+    {
+      "id": 20310,
+      "name": "roofe",
+      "texture_file": "roofe_20310.png"
+    },
+    {
+      "id": 20816,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20816.png"
+    },
+    {
+      "id": 20817,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20817.png"
+    },
+    {
+      "id": 20818,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20818.png"
+    },
+    {
+      "id": 20819,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20819.png"
+    },
+    {
+      "id": 20820,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20820.png"
+    },
+    {
+      "id": 20821,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20821.png"
+    },
+    {
+      "id": 20822,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20822.png"
+    },
+    {
+      "id": 20823,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20823.png"
+    },
+    {
+      "id": 20834,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20834.png"
+    },
+    {
+      "id": 20835,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20835.png"
+    },
+    {
+      "id": 20836,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20836.png"
+    },
+    {
+      "id": 20837,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20837.png"
+    },
+    {
+      "id": 20838,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20838.png"
+    },
+    {
+      "id": 20839,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20839.png"
+    },
+    {
+      "id": 20840,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20840.png"
+    },
+    {
+      "id": 20841,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20841.png"
+    },
+    {
+      "id": 20842,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20842.png"
+    },
+    {
+      "id": 20843,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20843.png"
+    },
+    {
+      "id": 20844,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20844.png"
+    },
+    {
+      "id": 20845,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20845.png"
+    },
+    {
+      "id": 20852,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20852.png"
+    },
+    {
+      "id": 20853,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20853.png"
+    },
+    {
+      "id": 20854,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20854.png"
+    },
+    {
+      "id": 20855,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20855.png"
+    },
+    {
+      "id": 20856,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20856.png"
+    },
+    {
+      "id": 20857,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20857.png"
+    },
+    {
+      "id": 20858,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20858.png"
+    },
+    {
+      "id": 20859,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20859.png"
+    },
+    {
+      "id": 20860,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20860.png"
+    },
+    {
+      "id": 20861,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20861.png"
+    },
+    {
+      "id": 20862,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20862.png"
+    },
+    {
+      "id": 20863,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20863.png"
+    },
+    {
+      "id": 20864,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20864.png"
+    },
+    {
+      "id": 20865,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20865.png"
+    },
+    {
+      "id": 20866,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20866.png"
+    },
+    {
+      "id": 20867,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20867.png"
+    },
+    {
+      "id": 20872,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20872.png"
+    },
+    {
+      "id": 20873,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20873.png"
+    },
+    {
+      "id": 20874,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20874.png"
+    },
+    {
+      "id": 20875,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20875.png"
+    },
+    {
+      "id": 20876,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20876.png"
+    },
+    {
+      "id": 20877,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20877.png"
+    },
+    {
+      "id": 20878,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20878.png"
+    },
+    {
+      "id": 20879,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20879.png"
+    },
+    {
+      "id": 20880,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20880.png"
+    },
+    {
+      "id": 20881,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20881.png"
+    },
+    {
+      "id": 20882,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20882.png"
+    },
+    {
+      "id": 20883,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20883.png"
+    },
+    {
+      "id": 20884,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20884.png"
+    },
+    {
+      "id": 20885,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20885.png"
+    },
+    {
+      "id": 20886,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20886.png"
+    },
+    {
+      "id": 20887,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20887.png"
+    },
+    {
+      "id": 20891,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20891.png"
+    },
+    {
+      "id": 20892,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20892.png"
+    },
+    {
+      "id": 20893,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20893.png"
+    },
+    {
+      "id": 20894,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20894.png"
+    },
+    {
+      "id": 20895,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20895.png"
+    },
+    {
+      "id": 20896,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20896.png"
+    },
+    {
+      "id": 20897,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20897.png"
+    },
+    {
+      "id": 20898,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20898.png"
+    },
+    {
+      "id": 20899,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20899.png"
+    },
+    {
+      "id": 20900,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20900.png"
+    },
+    {
+      "id": 20901,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20901.png"
+    },
+    {
+      "id": 20902,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20902.png"
+    },
+    {
+      "id": 20903,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20903.png"
+    },
+    {
+      "id": 20904,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20904.png"
+    },
+    {
+      "id": 20905,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20905.png"
+    },
+    {
+      "id": 20906,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20906.png"
+    },
+    {
+      "id": 20907,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20907.png"
+    },
+    {
+      "id": 20908,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20908.png"
+    },
+    {
+      "id": 20911,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20911.png"
+    },
+    {
+      "id": 20912,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20912.png"
+    },
+    {
+      "id": 20913,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20913.png"
+    },
+    {
+      "id": 20914,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20914.png"
+    },
+    {
+      "id": 20915,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20915.png"
+    },
+    {
+      "id": 20916,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20916.png"
+    },
+    {
+      "id": 20917,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20917.png"
+    },
+    {
+      "id": 20918,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20918.png"
+    },
+    {
+      "id": 20919,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20919.png"
+    },
+    {
+      "id": 20920,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20920.png"
+    },
+    {
+      "id": 20921,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20921.png"
+    },
+    {
+      "id": 20922,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20922.png"
+    },
+    {
+      "id": 20923,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20923.png"
+    },
+    {
+      "id": 20924,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20924.png"
+    },
+    {
+      "id": 20925,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20925.png"
+    },
+    {
+      "id": 20926,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20926.png"
+    },
+    {
+      "id": 20927,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20927.png"
+    },
+    {
+      "id": 20928,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20928.png"
+    },
+    {
+      "id": 20930,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20930.png"
+    },
+    {
+      "id": 20931,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20931.png"
+    },
+    {
+      "id": 20932,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20932.png"
+    },
+    {
+      "id": 20933,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20933.png"
+    },
+    {
+      "id": 20934,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20934.png"
+    },
+    {
+      "id": 20935,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20935.png"
+    },
+    {
+      "id": 20936,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20936.png"
+    },
+    {
+      "id": 20937,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20937.png"
+    },
+    {
+      "id": 20938,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20938.png"
+    },
+    {
+      "id": 20939,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20939.png"
+    },
+    {
+      "id": 20940,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20940.png"
+    },
+    {
+      "id": 20941,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20941.png"
+    },
+    {
+      "id": 20942,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20942.png"
+    },
+    {
+      "id": 20943,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20943.png"
+    },
+    {
+      "id": 20944,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20944.png"
+    },
+    {
+      "id": 20945,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20945.png"
+    },
+    {
+      "id": 20946,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20946.png"
+    },
+    {
+      "id": 20947,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20947.png"
+    },
+    {
+      "id": 20948,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20948.png"
+    },
+    {
+      "id": 20949,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20949.png"
+    },
+    {
+      "id": 20950,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20950.png"
+    },
+    {
+      "id": 20951,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20951.png"
+    },
+    {
+      "id": 20952,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20952.png"
+    },
+    {
+      "id": 20953,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20953.png"
+    },
+    {
+      "id": 20954,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20954.png"
+    },
+    {
+      "id": 20955,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20955.png"
+    },
+    {
+      "id": 20956,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20956.png"
+    },
+    {
+      "id": 20957,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20957.png"
+    },
+    {
+      "id": 20958,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20958.png"
+    },
+    {
+      "id": 20959,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20959.png"
+    },
+    {
+      "id": 20960,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20960.png"
+    },
+    {
+      "id": 20961,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20961.png"
+    },
+    {
+      "id": 20962,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20962.png"
+    },
+    {
+      "id": 20963,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20963.png"
+    },
+    {
+      "id": 20964,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20964.png"
+    },
+    {
+      "id": 20965,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20965.png"
+    },
+    {
+      "id": 20966,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20966.png"
+    },
+    {
+      "id": 20967,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20967.png"
+    },
+    {
+      "id": 20968,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20968.png"
+    },
+    {
+      "id": 20969,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20969.png"
+    },
+    {
+      "id": 20970,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20970.png"
+    },
+    {
+      "id": 20971,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20971.png"
+    },
+    {
+      "id": 20972,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20972.png"
+    },
+    {
+      "id": 20973,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20973.png"
+    },
+    {
+      "id": 20974,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20974.png"
+    },
+    {
+      "id": 20975,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20975.png"
+    },
+    {
+      "id": 20976,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20976.png"
+    },
+    {
+      "id": 20977,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20977.png"
+    },
+    {
+      "id": 20978,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20978.png"
+    },
+    {
+      "id": 20979,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20979.png"
+    },
+    {
+      "id": 20980,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20980.png"
+    },
+    {
+      "id": 20981,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20981.png"
+    },
+    {
+      "id": 20982,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20982.png"
+    },
+    {
+      "id": 20983,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20983.png"
+    },
+    {
+      "id": 20984,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20984.png"
+    },
+    {
+      "id": 20985,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20985.png"
+    },
+    {
+      "id": 20986,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20986.png"
+    },
+    {
+      "id": 20987,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20987.png"
+    },
+    {
+      "id": 20988,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20988.png"
+    },
+    {
+      "id": 20989,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20989.png"
+    },
+    {
+      "id": 20990,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20990.png"
+    },
+    {
+      "id": 20991,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20991.png"
+    },
+    {
+      "id": 20992,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20992.png"
+    },
+    {
+      "id": 20993,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20993.png"
+    },
+    {
+      "id": 20994,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20994.png"
+    },
+    {
+      "id": 20995,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20995.png"
+    },
+    {
+      "id": 20996,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20996.png"
+    },
+    {
+      "id": 20997,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20997.png"
+    },
+    {
+      "id": 20998,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20998.png"
+    },
+    {
+      "id": 20999,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_20999.png"
+    },
+    {
+      "id": 21000,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21000.png"
+    },
+    {
+      "id": 21001,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21001.png"
+    },
+    {
+      "id": 21002,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21002.png"
+    },
+    {
+      "id": 21003,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21003.png"
+    },
+    {
+      "id": 21004,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21004.png"
+    },
+    {
+      "id": 21005,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21005.png"
+    },
+    {
+      "id": 21006,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21006.png"
+    },
+    {
+      "id": 21007,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21007.png"
+    },
+    {
+      "id": 21008,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21008.png"
+    },
+    {
+      "id": 21010,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21010.png"
+    },
+    {
+      "id": 21011,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21011.png"
+    },
+    {
+      "id": 21012,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21012.png"
+    },
+    {
+      "id": 21013,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21013.png"
+    },
+    {
+      "id": 21014,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21014.png"
+    },
+    {
+      "id": 21015,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21015.png"
+    },
+    {
+      "id": 21016,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21016.png"
+    },
+    {
+      "id": 21017,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21017.png"
+    },
+    {
+      "id": 21018,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21018.png"
+    },
+    {
+      "id": 21019,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21019.png"
+    },
+    {
+      "id": 21020,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21020.png"
+    },
+    {
+      "id": 21021,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21021.png"
+    },
+    {
+      "id": 21022,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21022.png"
+    },
+    {
+      "id": 21023,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21023.png"
+    },
+    {
+      "id": 21024,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21024.png"
+    },
+    {
+      "id": 21025,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21025.png"
+    },
+    {
+      "id": 21026,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21026.png"
+    },
+    {
+      "id": 21027,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21027.png"
+    },
+    {
+      "id": 21028,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21028.png"
+    },
+    {
+      "id": 21029,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21029.png"
+    },
+    {
+      "id": 21030,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21030.png"
+    },
+    {
+      "id": 21031,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21031.png"
+    },
+    {
+      "id": 21032,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21032.png"
+    },
+    {
+      "id": 21033,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21033.png"
+    },
+    {
+      "id": 21034,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21034.png"
+    },
+    {
+      "id": 21035,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21035.png"
+    },
+    {
+      "id": 21036,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21036.png"
+    },
+    {
+      "id": 21037,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21037.png"
+    },
+    {
+      "id": 21038,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21038.png"
+    },
+    {
+      "id": 21039,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21039.png"
+    },
+    {
+      "id": 21040,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21040.png"
+    },
+    {
+      "id": 21041,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21041.png"
+    },
+    {
+      "id": 21042,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21042.png"
+    },
+    {
+      "id": 21043,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21043.png"
+    },
+    {
+      "id": 21044,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21044.png"
+    },
+    {
+      "id": 21045,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21045.png"
+    },
+    {
+      "id": 21046,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21046.png"
+    },
+    {
+      "id": 21047,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21047.png"
+    },
+    {
+      "id": 21048,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21048.png"
+    },
+    {
+      "id": 21049,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21049.png"
+    },
+    {
+      "id": 21050,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21050.png"
+    },
+    {
+      "id": 21051,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21051.png"
+    },
+    {
+      "id": 21052,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21052.png"
+    },
+    {
+      "id": 21053,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21053.png"
+    },
+    {
+      "id": 21054,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21054.png"
+    },
+    {
+      "id": 21055,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21055.png"
+    },
+    {
+      "id": 21056,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21056.png"
+    },
+    {
+      "id": 21057,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21057.png"
+    },
+    {
+      "id": 21058,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21058.png"
+    },
+    {
+      "id": 21059,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21059.png"
+    },
+    {
+      "id": 21060,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21060.png"
+    },
+    {
+      "id": 21061,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21061.png"
+    },
+    {
+      "id": 21062,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21062.png"
+    },
+    {
+      "id": 21063,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21063.png"
+    },
+    {
+      "id": 21064,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21064.png"
+    },
+    {
+      "id": 21065,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21065.png"
+    },
+    {
+      "id": 21066,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21066.png"
+    },
+    {
+      "id": 21067,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21067.png"
+    },
+    {
+      "id": 21068,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21068.png"
+    },
+    {
+      "id": 21069,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21069.png"
+    },
+    {
+      "id": 21071,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21071.png"
+    },
+    {
+      "id": 21072,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21072.png"
+    },
+    {
+      "id": 21073,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21073.png"
+    },
+    {
+      "id": 21074,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21074.png"
+    },
+    {
+      "id": 21075,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21075.png"
+    },
+    {
+      "id": 21076,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21076.png"
+    },
+    {
+      "id": 21077,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21077.png"
+    },
+    {
+      "id": 21078,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21078.png"
+    },
+    {
+      "id": 21079,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21079.png"
+    },
+    {
+      "id": 21080,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21080.png"
+    },
+    {
+      "id": 21081,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21081.png"
+    },
+    {
+      "id": 21082,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21082.png"
+    },
+    {
+      "id": 21083,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21083.png"
+    },
+    {
+      "id": 21084,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21084.png"
+    },
+    {
+      "id": 21085,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21085.png"
+    },
+    {
+      "id": 21086,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21086.png"
+    },
+    {
+      "id": 21087,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21087.png"
+    },
+    {
+      "id": 21088,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21088.png"
+    },
+    {
+      "id": 21091,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21091.png"
+    },
+    {
+      "id": 21092,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21092.png"
+    },
+    {
+      "id": 21093,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21093.png"
+    },
+    {
+      "id": 21094,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21094.png"
+    },
+    {
+      "id": 21095,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21095.png"
+    },
+    {
+      "id": 21096,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21096.png"
+    },
+    {
+      "id": 21097,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21097.png"
+    },
+    {
+      "id": 21098,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21098.png"
+    },
+    {
+      "id": 21099,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21099.png"
+    },
+    {
+      "id": 21100,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21100.png"
+    },
+    {
+      "id": 21101,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21101.png"
+    },
+    {
+      "id": 21102,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21102.png"
+    },
+    {
+      "id": 21103,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21103.png"
+    },
+    {
+      "id": 21104,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21104.png"
+    },
+    {
+      "id": 21105,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21105.png"
+    },
+    {
+      "id": 21106,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21106.png"
+    },
+    {
+      "id": 21107,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21107.png"
+    },
+    {
+      "id": 21108,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21108.png"
+    },
+    {
+      "id": 21112,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21112.png"
+    },
+    {
+      "id": 21113,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21113.png"
+    },
+    {
+      "id": 21114,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21114.png"
+    },
+    {
+      "id": 21115,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21115.png"
+    },
+    {
+      "id": 21116,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21116.png"
+    },
+    {
+      "id": 21117,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21117.png"
+    },
+    {
+      "id": 21118,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21118.png"
+    },
+    {
+      "id": 21119,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21119.png"
+    },
+    {
+      "id": 21120,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21120.png"
+    },
+    {
+      "id": 21121,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21121.png"
+    },
+    {
+      "id": 21122,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21122.png"
+    },
+    {
+      "id": 21123,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21123.png"
+    },
+    {
+      "id": 21124,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21124.png"
+    },
+    {
+      "id": 21125,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21125.png"
+    },
+    {
+      "id": 21126,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21126.png"
+    },
+    {
+      "id": 21127,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21127.png"
+    },
+    {
+      "id": 21132,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21132.png"
+    },
+    {
+      "id": 21133,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21133.png"
+    },
+    {
+      "id": 21134,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21134.png"
+    },
+    {
+      "id": 21135,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21135.png"
+    },
+    {
+      "id": 21136,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21136.png"
+    },
+    {
+      "id": 21137,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21137.png"
+    },
+    {
+      "id": 21138,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21138.png"
+    },
+    {
+      "id": 21139,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21139.png"
+    },
+    {
+      "id": 21140,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21140.png"
+    },
+    {
+      "id": 21141,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21141.png"
+    },
+    {
+      "id": 21142,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21142.png"
+    },
+    {
+      "id": 21143,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21143.png"
+    },
+    {
+      "id": 21144,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21144.png"
+    },
+    {
+      "id": 21145,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21145.png"
+    },
+    {
+      "id": 21146,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21146.png"
+    },
+    {
+      "id": 21147,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21147.png"
+    },
+    {
+      "id": 21154,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21154.png"
+    },
+    {
+      "id": 21155,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21155.png"
+    },
+    {
+      "id": 21156,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21156.png"
+    },
+    {
+      "id": 21157,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21157.png"
+    },
+    {
+      "id": 21158,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21158.png"
+    },
+    {
+      "id": 21159,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21159.png"
+    },
+    {
+      "id": 21160,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21160.png"
+    },
+    {
+      "id": 21161,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21161.png"
+    },
+    {
+      "id": 21162,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21162.png"
+    },
+    {
+      "id": 21163,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21163.png"
+    },
+    {
+      "id": 21164,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21164.png"
+    },
+    {
+      "id": 21165,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21165.png"
+    },
+    {
+      "id": 21176,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21176.png"
+    },
+    {
+      "id": 21177,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21177.png"
+    },
+    {
+      "id": 21178,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21178.png"
+    },
+    {
+      "id": 21179,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21179.png"
+    },
+    {
+      "id": 21180,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21180.png"
+    },
+    {
+      "id": 21181,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21181.png"
+    },
+    {
+      "id": 21182,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21182.png"
+    },
+    {
+      "id": 21183,
+      "name": "virtue floor",
+      "texture_file": "virtue_floor_21183.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map5.mul",
+      "statics_file": "statics5.mul",
+      "staidx_file": "staidx5.mul",
+      "uop_file": "map5LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 160,
+      "h_blocks": 512,
+      "min_block_x": 92,
+      "max_block_x": 94,
+      "min_block_y": 58,
+      "max_block_y": 60,
+      "total_blocks": 9
+    },
+    "blocks": [
+      {
+        "block_x": 92,
+        "block_y": 58,
+        "block_index": 47162,
+        "staidx_offset": 565944,
+        "statics_offset": 2013935,
+        "statics_length": 357,
+        "static_items_count": 51,
+        "map_offset": 9243756,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000011.dat",
+          "entry_index": 11,
+          "block_in_entry": 2106
+        }
+      },
+      {
+        "block_x": 92,
+        "block_y": 59,
+        "block_index": 47163,
+        "staidx_offset": 565956,
+        "statics_offset": 2014292,
+        "statics_length": 546,
+        "static_items_count": 78,
+        "map_offset": 9243952,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000011.dat",
+          "entry_index": 11,
+          "block_in_entry": 2107
+        }
+      },
+      {
+        "block_x": 92,
+        "block_y": 60,
+        "block_index": 47164,
+        "staidx_offset": 565968,
+        "statics_offset": 2014838,
+        "statics_length": 252,
+        "static_items_count": 36,
+        "map_offset": 9244148,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000011.dat",
+          "entry_index": 11,
+          "block_in_entry": 2108
+        }
+      },
+      {
+        "block_x": 93,
+        "block_y": 58,
+        "block_index": 47674,
+        "staidx_offset": 572088,
+        "statics_offset": 2070789,
+        "statics_length": 805,
+        "static_items_count": 115,
+        "map_offset": 9344108,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000011.dat",
+          "entry_index": 11,
+          "block_in_entry": 2618
+        }
+      },
+      {
+        "block_x": 93,
+        "block_y": 59,
+        "block_index": 47675,
+        "staidx_offset": 572100,
+        "statics_offset": 2071594,
+        "statics_length": 896,
+        "static_items_count": 128,
+        "map_offset": 9344304,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000011.dat",
+          "entry_index": 11,
+          "block_in_entry": 2619
+        }
+      },
+      {
+        "block_x": 93,
+        "block_y": 60,
+        "block_index": 47676,
+        "staidx_offset": 572112,
+        "statics_offset": 2072490,
+        "statics_length": 686,
+        "static_items_count": 98,
+        "map_offset": 9344500,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000011.dat",
+          "entry_index": 11,
+          "block_in_entry": 2620
+        }
+      },
+      {
+        "block_x": 94,
+        "block_y": 58,
+        "block_index": 48186,
+        "staidx_offset": 578232,
+        "statics_offset": 2132354,
+        "statics_length": 784,
+        "static_items_count": 112,
+        "map_offset": 9444460,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000011.dat",
+          "entry_index": 11,
+          "block_in_entry": 3130
+        }
+      },
+      {
+        "block_x": 94,
+        "block_y": 59,
+        "block_index": 48187,
+        "staidx_offset": 578244,
+        "statics_offset": 2133138,
+        "statics_length": 980,
+        "static_items_count": 140,
+        "map_offset": 9444656,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000011.dat",
+          "entry_index": 11,
+          "block_in_entry": 3131
+        }
+      },
+      {
+        "block_x": 94,
+        "block_y": 60,
+        "block_index": 48188,
+        "staidx_offset": 578256,
+        "statics_offset": 2134118,
+        "statics_length": 658,
+        "static_items_count": 94,
+        "map_offset": 9444852,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000011.dat",
+          "entry_index": 11,
+          "block_in_entry": 3132
+        }
+      }
+    ]
+  }
+}

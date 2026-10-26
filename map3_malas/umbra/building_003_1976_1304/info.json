@@ -1,0 +1,160 @@
+{
+  "building_id": "building_003_1976_1304",
+  "name": "Umbra Building #003",
+  "map": "map3_malas",
+  "map_index": 3,
+  "map_name": "Malas",
+  "region": "umbra",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1980 1308",
+    "center_x": 1980,
+    "center_y": 1308,
+    "base_z": -80,
+    "map_name": "Malas (Map 3)"
+  },
+  "world_bounds": {
+    "min_x": 1976,
+    "max_x": 1983,
+    "min_y": 1304,
+    "max_y": 1311,
+    "base_z": -80,
+    "max_z": -47,
+    "center_x": 1980.0,
+    "center_y": 1308.0,
+    "center_z_elevation": -9.6
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 8.0,
+    "height_y": 6.46
+  },
+  "stats": {
+    "tile_count": 56,
+    "item_count": 231,
+    "triangles_count": 2786,
+    "unique_textures_count": 17
+  },
+  "unique_items": [
+    {
+      "id": 115,
+      "name": "battlement",
+      "texture_file": "battlement_0115.png"
+    },
+    {
+      "id": 410,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0410.png"
+    },
+    {
+      "id": 434,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0434.png"
+    },
+    {
+      "id": 492,
+      "name": "wall",
+      "texture_file": "wall_0492.png"
+    },
+    {
+      "id": 494,
+      "name": "wall",
+      "texture_file": "wall_0494.png"
+    },
+    {
+      "id": 1872,
+      "name": "stone",
+      "texture_file": "stone_1872.png"
+    },
+    {
+      "id": 1873,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1873.png"
+    },
+    {
+      "id": 1874,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1874.png"
+    },
+    {
+      "id": 1875,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1875.png"
+    },
+    {
+      "id": 1893,
+      "name": "stone",
+      "texture_file": "stone_1893.png"
+    },
+    {
+      "id": 1894,
+      "name": "stone",
+      "texture_file": "stone_1894.png"
+    },
+    {
+      "id": 1895,
+      "name": "stone",
+      "texture_file": "stone_1895.png"
+    },
+    {
+      "id": 1896,
+      "name": "stone",
+      "texture_file": "stone_1896.png"
+    },
+    {
+      "id": 5476,
+      "name": "decorative weapons",
+      "texture_file": "decorative_weapons_5476.png"
+    },
+    {
+      "id": 5477,
+      "name": "decorative weapons",
+      "texture_file": "decorative_weapons_5477.png"
+    },
+    {
+      "id": 5478,
+      "name": "decorative weapons",
+      "texture_file": "decorative_weapons_5478.png"
+    },
+    {
+      "id": 5479,
+      "name": "decorative weapons",
+      "texture_file": "decorative_weapons_5479.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map3.mul",
+      "statics_file": "statics3.mul",
+      "staidx_file": "staidx3.mul",
+      "uop_file": "map3LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 320,
+      "h_blocks": 256,
+      "min_block_x": 247,
+      "max_block_x": 247,
+      "min_block_y": 163,
+      "max_block_y": 163,
+      "total_blocks": 1
+    },
+    "blocks": [
+      {
+        "block_x": 247,
+        "block_y": 163,
+        "block_index": 63395,
+        "staidx_offset": 760740,
+        "statics_offset": 1810487,
+        "statics_length": 1617,
+        "static_items_count": 231,
+        "map_offset": 12425424,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000015.dat",
+          "entry_index": 15,
+          "block_in_entry": 1955
+        }
+      }
+    ]
+  }
+}

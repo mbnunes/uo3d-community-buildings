@@ -1,0 +1,168 @@
+{
+  "building_id": "building_046_403_1031",
+  "name": "Wilderness Building #046",
+  "map": "map3_malas",
+  "map_index": 3,
+  "map_name": "Malas",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "408 1035",
+    "center_x": 408,
+    "center_y": 1035,
+    "base_z": -20,
+    "map_name": "Malas (Map 3)"
+  },
+  "world_bounds": {
+    "min_x": 403,
+    "max_x": 413,
+    "min_y": 1031,
+    "max_y": 1039,
+    "base_z": -20,
+    "max_z": 0,
+    "center_x": 408.5,
+    "center_y": 1035.5,
+    "center_z_elevation": -2.4
+  },
+  "dimensions_meters": {
+    "width_x": 11.0,
+    "depth_z": 9.0,
+    "height_y": 3.94
+  },
+  "stats": {
+    "tile_count": 37,
+    "item_count": 50,
+    "triangles_count": 300,
+    "unique_textures_count": 9
+  },
+  "unique_items": [
+    {
+      "id": 766,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0766.png"
+    },
+    {
+      "id": 791,
+      "name": "secret door",
+      "texture_file": "secret_door_0791.png"
+    },
+    {
+      "id": 792,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0792.png"
+    },
+    {
+      "id": 794,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0794.png"
+    },
+    {
+      "id": 800,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0800.png"
+    },
+    {
+      "id": 802,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0802.png"
+    },
+    {
+      "id": 1955,
+      "name": "stone",
+      "texture_file": "stone_1955.png"
+    },
+    {
+      "id": 1958,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1958.png"
+    },
+    {
+      "id": 9405,
+      "name": "paper lantern",
+      "texture_file": "paper_lantern_9405.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map3.mul",
+      "statics_file": "statics3.mul",
+      "staidx_file": "staidx3.mul",
+      "uop_file": "map3LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 320,
+      "h_blocks": 256,
+      "min_block_x": 50,
+      "max_block_x": 51,
+      "min_block_y": 128,
+      "max_block_y": 129,
+      "total_blocks": 4
+    },
+    "blocks": [
+      {
+        "block_x": 50,
+        "block_y": 128,
+        "block_index": 12928,
+        "staidx_offset": 155136,
+        "statics_offset": 326109,
+        "statics_length": 105,
+        "static_items_count": 15,
+        "map_offset": 2533892,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000003.dat",
+          "entry_index": 3,
+          "block_in_entry": 640
+        }
+      },
+      {
+        "block_x": 50,
+        "block_y": 129,
+        "block_index": 12929,
+        "staidx_offset": 155148,
+        "statics_offset": 326214,
+        "statics_length": 49,
+        "static_items_count": 7,
+        "map_offset": 2534088,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000003.dat",
+          "entry_index": 3,
+          "block_in_entry": 641
+        }
+      },
+      {
+        "block_x": 51,
+        "block_y": 128,
+        "block_index": 13184,
+        "staidx_offset": 158208,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 2584068,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000003.dat",
+          "entry_index": 3,
+          "block_in_entry": 896
+        }
+      },
+      {
+        "block_x": 51,
+        "block_y": 129,
+        "block_index": 13185,
+        "staidx_offset": 158220,
+        "statics_offset": 352058,
+        "statics_length": 287,
+        "static_items_count": 41,
+        "map_offset": 2584264,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000003.dat",
+          "entry_index": 3,
+          "block_in_entry": 897
+        }
+      }
+    ]
+  }
+}

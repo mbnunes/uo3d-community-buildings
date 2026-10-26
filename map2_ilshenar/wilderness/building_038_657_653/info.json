@@ -1,0 +1,939 @@
+{
+  "building_id": "building_038_657_653",
+  "name": "Wilderness Building #038",
+  "map": "map2_ilshenar",
+  "map_index": 2,
+  "map_name": "Ilshenar",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "665 667",
+    "center_x": 665,
+    "center_y": 667,
+    "base_z": -38,
+    "map_name": "Ilshenar (Map 2)"
+  },
+  "world_bounds": {
+    "min_x": 657,
+    "max_x": 673,
+    "min_y": 653,
+    "max_y": 680,
+    "base_z": -38,
+    "max_z": 20,
+    "center_x": 665.5,
+    "center_y": 667.0,
+    "center_z_elevation": -4.56
+  },
+  "dimensions_meters": {
+    "width_x": 17.0,
+    "depth_z": 28.0,
+    "height_y": 8.5
+  },
+  "stats": {
+    "tile_count": 404,
+    "item_count": 1550,
+    "triangles_count": 17420,
+    "unique_textures_count": 128
+  },
+  "unique_items": [
+    {
+      "id": 90,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0090.png"
+    },
+    {
+      "id": 93,
+      "name": "window",
+      "texture_file": "window_0093.png"
+    },
+    {
+      "id": 94,
+      "name": "window",
+      "texture_file": "window_0094.png"
+    },
+    {
+      "id": 105,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0105.png"
+    },
+    {
+      "id": 106,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0106.png"
+    },
+    {
+      "id": 110,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0110.png"
+    },
+    {
+      "id": 111,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0111.png"
+    },
+    {
+      "id": 112,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0112.png"
+    },
+    {
+      "id": 113,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0113.png"
+    },
+    {
+      "id": 631,
+      "name": "ruined wall",
+      "texture_file": "ruined_wall_0631.png"
+    },
+    {
+      "id": 632,
+      "name": "ruined wall",
+      "texture_file": "ruined_wall_0632.png"
+    },
+    {
+      "id": 633,
+      "name": "ruined wall",
+      "texture_file": "ruined_wall_0633.png"
+    },
+    {
+      "id": 634,
+      "name": "ruined wall",
+      "texture_file": "ruined_wall_0634.png"
+    },
+    {
+      "id": 635,
+      "name": "ruined wall",
+      "texture_file": "ruined_wall_0635.png"
+    },
+    {
+      "id": 636,
+      "name": "ruined wall",
+      "texture_file": "ruined_wall_0636.png"
+    },
+    {
+      "id": 641,
+      "name": "ruined wall",
+      "texture_file": "ruined_wall_0641.png"
+    },
+    {
+      "id": 642,
+      "name": "ruined wall",
+      "texture_file": "ruined_wall_0642.png"
+    },
+    {
+      "id": 1113,
+      "name": "marble bench",
+      "texture_file": "marble_bench_1113.png"
+    },
+    {
+      "id": 1114,
+      "name": "marble bench",
+      "texture_file": "marble_bench_1114.png"
+    },
+    {
+      "id": 1180,
+      "name": "grey slate tile",
+      "texture_file": "grey_slate_tile_1180.png"
+    },
+    {
+      "id": 1872,
+      "name": "stone",
+      "texture_file": "stone_1872.png"
+    },
+    {
+      "id": 1873,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1873.png"
+    },
+    {
+      "id": 1874,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1874.png"
+    },
+    {
+      "id": 2416,
+      "name": "stew",
+      "texture_file": "stew_2416.png"
+    },
+    {
+      "id": 2421,
+      "name": "cauldron",
+      "texture_file": "cauldron_2421.png"
+    },
+    {
+      "id": 2422,
+      "name": "slab%s% of bacon",
+      "texture_file": "slab_s__of_bacon_2422.png"
+    },
+    {
+      "id": 2458,
+      "name": "goblet",
+      "texture_file": "goblet_2458.png"
+    },
+    {
+      "id": 2459,
+      "name": "bottle of liquor",
+      "texture_file": "bottle_of_liquor_2459.png"
+    },
+    {
+      "id": 2462,
+      "name": "bottles of liquor",
+      "texture_file": "bottles_of_liquor_2462.png"
+    },
+    {
+      "id": 2463,
+      "name": "bottle of ale",
+      "texture_file": "bottle_of_ale_2463.png"
+    },
+    {
+      "id": 2466,
+      "name": "bottles of ale",
+      "texture_file": "bottles_of_ale_2466.png"
+    },
+    {
+      "id": 2495,
+      "name": "goblet",
+      "texture_file": "goblet_2495.png"
+    },
+    {
+      "id": 2497,
+      "name": "sausage%s%",
+      "texture_file": "sausage_s_2497.png"
+    },
+    {
+      "id": 2502,
+      "name": "bottles of wine",
+      "texture_file": "bottles_of_wine_2502.png"
+    },
+    {
+      "id": 2503,
+      "name": "bottle of wine",
+      "texture_file": "bottle_of_wine_2503.png"
+    },
+    {
+      "id": 2504,
+      "name": "jug of cider",
+      "texture_file": "jug_of_cider_2504.png"
+    },
+    {
+      "id": 2506,
+      "name": "ceramic mug",
+      "texture_file": "ceramic_mug_2506.png"
+    },
+    {
+      "id": 2507,
+      "name": "goblet",
+      "texture_file": "goblet_2507.png"
+    },
+    {
+      "id": 2567,
+      "name": "wall torch",
+      "texture_file": "wall_torch_2567.png"
+    },
+    {
+      "id": 2572,
+      "name": "wall torch",
+      "texture_file": "wall_torch_2572.png"
+    },
+    {
+      "id": 2602,
+      "name": "stool",
+      "texture_file": "stool_2602.png"
+    },
+    {
+      "id": 2662,
+      "name": "bed",
+      "texture_file": "bed_2662.png"
+    },
+    {
+      "id": 2664,
+      "name": "bed",
+      "texture_file": "bed_2664.png"
+    },
+    {
+      "id": 2665,
+      "name": "bed",
+      "texture_file": "bed_2665.png"
+    },
+    {
+      "id": 2667,
+      "name": "bed",
+      "texture_file": "bed_2667.png"
+    },
+    {
+      "id": 2842,
+      "name": "candle",
+      "texture_file": "candle_2842.png"
+    },
+    {
+      "id": 2876,
+      "name": "table",
+      "texture_file": "table_2876.png"
+    },
+    {
+      "id": 2978,
+      "name": "metal signpost",
+      "texture_file": "metal_signpost_2978.png"
+    },
+    {
+      "id": 3091,
+      "name": "broken armoire",
+      "texture_file": "broken_armoire_3091.png"
+    },
+    {
+      "id": 3093,
+      "name": "ruined bookcase",
+      "texture_file": "ruined_bookcase_3093.png"
+    },
+    {
+      "id": 3094,
+      "name": "damaged books",
+      "texture_file": "damaged_books_3094.png"
+    },
+    {
+      "id": 3108,
+      "name": "broken furniture",
+      "texture_file": "broken_furniture_3108.png"
+    },
+    {
+      "id": 3117,
+      "name": "debris",
+      "texture_file": "debris_3117.png"
+    },
+    {
+      "id": 3118,
+      "name": "debris",
+      "texture_file": "debris_3118.png"
+    },
+    {
+      "id": 3119,
+      "name": "debris",
+      "texture_file": "debris_3119.png"
+    },
+    {
+      "id": 3131,
+      "name": "dried flowers",
+      "texture_file": "dried_flowers_3131.png"
+    },
+    {
+      "id": 3133,
+      "name": "dried flowers",
+      "texture_file": "dried_flowers_3133.png"
+    },
+    {
+      "id": 3134,
+      "name": "dried flowers",
+      "texture_file": "dried_flowers_3134.png"
+    },
+    {
+      "id": 3136,
+      "name": "dried onions",
+      "texture_file": "dried_onions_3136.png"
+    },
+    {
+      "id": 3137,
+      "name": "dried herbs",
+      "texture_file": "dried_herbs_3137.png"
+    },
+    {
+      "id": 3138,
+      "name": "dried herbs",
+      "texture_file": "dried_herbs_3138.png"
+    },
+    {
+      "id": 3219,
+      "name": "blade plant",
+      "texture_file": "blade_plant_3219.png"
+    },
+    {
+      "id": 3225,
+      "name": "small palm",
+      "texture_file": "small_palm_3225.png"
+    },
+    {
+      "id": 3226,
+      "name": "small palm",
+      "texture_file": "small_palm_3226.png"
+    },
+    {
+      "id": 3228,
+      "name": "small palm",
+      "texture_file": "small_palm_3228.png"
+    },
+    {
+      "id": 3234,
+      "name": "fern",
+      "texture_file": "fern_3234.png"
+    },
+    {
+      "id": 3395,
+      "name": "tree",
+      "texture_file": "tree_3395.png"
+    },
+    {
+      "id": 3396,
+      "name": "tree",
+      "texture_file": "tree_3396.png"
+    },
+    {
+      "id": 3402,
+      "name": "leaves",
+      "texture_file": "leaves_3402.png"
+    },
+    {
+      "id": 3403,
+      "name": "leaves",
+      "texture_file": "leaves_3403.png"
+    },
+    {
+      "id": 3404,
+      "name": "leaves",
+      "texture_file": "leaves_3404.png"
+    },
+    {
+      "id": 3405,
+      "name": "leaves",
+      "texture_file": "leaves_3405.png"
+    },
+    {
+      "id": 3406,
+      "name": "leaves",
+      "texture_file": "leaves_3406.png"
+    },
+    {
+      "id": 3407,
+      "name": "leaves",
+      "texture_file": "leaves_3407.png"
+    },
+    {
+      "id": 3408,
+      "name": "leaves",
+      "texture_file": "leaves_3408.png"
+    },
+    {
+      "id": 3409,
+      "name": "leaves",
+      "texture_file": "leaves_3409.png"
+    },
+    {
+      "id": 3410,
+      "name": "leaves",
+      "texture_file": "leaves_3410.png"
+    },
+    {
+      "id": 3411,
+      "name": "leaves",
+      "texture_file": "leaves_3411.png"
+    },
+    {
+      "id": 3414,
+      "name": "vines",
+      "texture_file": "vines_3414.png"
+    },
+    {
+      "id": 3415,
+      "name": "tree",
+      "texture_file": "tree_3415.png"
+    },
+    {
+      "id": 3504,
+      "name": "bed",
+      "texture_file": "bed_3504.png"
+    },
+    {
+      "id": 3505,
+      "name": "bed",
+      "texture_file": "bed_3505.png"
+    },
+    {
+      "id": 3508,
+      "name": "bed",
+      "texture_file": "bed_3508.png"
+    },
+    {
+      "id": 3509,
+      "name": "bed",
+      "texture_file": "bed_3509.png"
+    },
+    {
+      "id": 3676,
+      "name": "glowing rune",
+      "texture_file": "glowing_rune_3676.png"
+    },
+    {
+      "id": 3679,
+      "name": "glowing rune",
+      "texture_file": "glowing_rune_3679.png"
+    },
+    {
+      "id": 3682,
+      "name": "glowing rune",
+      "texture_file": "glowing_rune_3682.png"
+    },
+    {
+      "id": 3685,
+      "name": "glowing rune",
+      "texture_file": "glowing_rune_3685.png"
+    },
+    {
+      "id": 3688,
+      "name": "glowing rune",
+      "texture_file": "glowing_rune_3688.png"
+    },
+    {
+      "id": 3779,
+      "name": "cleaver",
+      "texture_file": "cleaver_3779.png"
+    },
+    {
+      "id": 4012,
+      "name": "fire pit",
+      "texture_file": "fire_pit_4012.png"
+    },
+    {
+      "id": 4014,
+      "name": "barrel",
+      "texture_file": "barrel_4014.png"
+    },
+    {
+      "id": 4091,
+      "name": "skull mug",
+      "texture_file": "skull_mug_4091.png"
+    },
+    {
+      "id": 4093,
+      "name": "skull mug",
+      "texture_file": "skull_mug_4093.png"
+    },
+    {
+      "id": 4094,
+      "name": "skull mug",
+      "texture_file": "skull_mug_4094.png"
+    },
+    {
+      "id": 4095,
+      "name": "pewter mug",
+      "texture_file": "pewter_mug_4095.png"
+    },
+    {
+      "id": 4096,
+      "name": "pewter mug",
+      "texture_file": "pewter_mug_4096.png"
+    },
+    {
+      "id": 4097,
+      "name": "pewter mug",
+      "texture_file": "pewter_mug_4097.png"
+    },
+    {
+      "id": 4334,
+      "name": "garbage",
+      "texture_file": "garbage_4334.png"
+    },
+    {
+      "id": 4335,
+      "name": "garbage",
+      "texture_file": "garbage_4335.png"
+    },
+    {
+      "id": 4337,
+      "name": "garbage",
+      "texture_file": "garbage_4337.png"
+    },
+    {
+      "id": 4622,
+      "name": "altar",
+      "texture_file": "altar_4622.png"
+    },
+    {
+      "id": 4623,
+      "name": "altar",
+      "texture_file": "altar_4623.png"
+    },
+    {
+      "id": 4624,
+      "name": "altar",
+      "texture_file": "altar_4624.png"
+    },
+    {
+      "id": 4625,
+      "name": "altar",
+      "texture_file": "altar_4625.png"
+    },
+    {
+      "id": 4626,
+      "name": "altar",
+      "texture_file": "altar_4626.png"
+    },
+    {
+      "id": 4627,
+      "name": "altar",
+      "texture_file": "altar_4627.png"
+    },
+    {
+      "id": 4628,
+      "name": "altar",
+      "texture_file": "altar_4628.png"
+    },
+    {
+      "id": 4629,
+      "name": "altar",
+      "texture_file": "altar_4629.png"
+    },
+    {
+      "id": 4630,
+      "name": "altar",
+      "texture_file": "altar_4630.png"
+    },
+    {
+      "id": 4650,
+      "name": "blood",
+      "texture_file": "blood_4650.png"
+    },
+    {
+      "id": 4652,
+      "name": "blood",
+      "texture_file": "blood_4652.png"
+    },
+    {
+      "id": 4653,
+      "name": "blood",
+      "texture_file": "blood_4653.png"
+    },
+    {
+      "id": 5164,
+      "name": "candle",
+      "texture_file": "candle_5164.png"
+    },
+    {
+      "id": 5168,
+      "name": "candle",
+      "texture_file": "candle_5168.png"
+    },
+    {
+      "id": 5172,
+      "name": "candle",
+      "texture_file": "candle_5172.png"
+    },
+    {
+      "id": 6228,
+      "name": "skull with candle",
+      "texture_file": "skull_with_candle_6228.png"
+    },
+    {
+      "id": 6232,
+      "name": "skull with candle",
+      "texture_file": "skull_with_candle_6232.png"
+    },
+    {
+      "id": 6233,
+      "name": "skull with candle",
+      "texture_file": "skull_with_candle_6233.png"
+    },
+    {
+      "id": 6464,
+      "name": "keg",
+      "texture_file": "keg_6464.png"
+    },
+    {
+      "id": 6871,
+      "name": "keg",
+      "texture_file": "keg_6871.png"
+    },
+    {
+      "id": 7617,
+      "name": "marble table",
+      "texture_file": "marble_table_7617.png"
+    },
+    {
+      "id": 7618,
+      "name": "marble table",
+      "texture_file": "marble_table_7618.png"
+    },
+    {
+      "id": 7619,
+      "name": "marble table",
+      "texture_file": "marble_table_7619.png"
+    },
+    {
+      "id": 7620,
+      "name": "marble table",
+      "texture_file": "marble_table_7620.png"
+    },
+    {
+      "id": 7621,
+      "name": "marble table",
+      "texture_file": "marble_table_7621.png"
+    },
+    {
+      "id": 7622,
+      "name": "marble table",
+      "texture_file": "marble_table_7622.png"
+    },
+    {
+      "id": 7816,
+      "name": "skinned goat",
+      "texture_file": "skinned_goat_7816.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map2.mul",
+      "statics_file": "statics2.mul",
+      "staidx_file": "staidx2.mul",
+      "uop_file": "map2LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 288,
+      "h_blocks": 200,
+      "min_block_x": 82,
+      "max_block_x": 84,
+      "min_block_y": 81,
+      "max_block_y": 85,
+      "total_blocks": 15
+    },
+    "blocks": [
+      {
+        "block_x": 82,
+        "block_y": 81,
+        "block_index": 16481,
+        "staidx_offset": 197772,
+        "statics_offset": 792764,
+        "statics_length": 833,
+        "static_items_count": 119,
+        "map_offset": 3230280,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000004.dat",
+          "entry_index": 4,
+          "block_in_entry": 97
+        }
+      },
+      {
+        "block_x": 82,
+        "block_y": 82,
+        "block_index": 16482,
+        "staidx_offset": 197784,
+        "statics_offset": 793597,
+        "statics_length": 1617,
+        "static_items_count": 231,
+        "map_offset": 3230476,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000004.dat",
+          "entry_index": 4,
+          "block_in_entry": 98
+        }
+      },
+      {
+        "block_x": 82,
+        "block_y": 83,
+        "block_index": 16483,
+        "staidx_offset": 197796,
+        "statics_offset": 795214,
+        "statics_length": 1386,
+        "static_items_count": 198,
+        "map_offset": 3230672,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000004.dat",
+          "entry_index": 4,
+          "block_in_entry": 99
+        }
+      },
+      {
+        "block_x": 82,
+        "block_y": 84,
+        "block_index": 16484,
+        "staidx_offset": 197808,
+        "statics_offset": 796600,
+        "statics_length": 1470,
+        "static_items_count": 210,
+        "map_offset": 3230868,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000004.dat",
+          "entry_index": 4,
+          "block_in_entry": 100
+        }
+      },
+      {
+        "block_x": 82,
+        "block_y": 85,
+        "block_index": 16485,
+        "staidx_offset": 197820,
+        "statics_offset": 798070,
+        "statics_length": 154,
+        "static_items_count": 22,
+        "map_offset": 3231064,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000004.dat",
+          "entry_index": 4,
+          "block_in_entry": 101
+        }
+      },
+      {
+        "block_x": 83,
+        "block_y": 81,
+        "block_index": 16681,
+        "staidx_offset": 200172,
+        "statics_offset": 816627,
+        "statics_length": 833,
+        "static_items_count": 119,
+        "map_offset": 3269480,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000004.dat",
+          "entry_index": 4,
+          "block_in_entry": 297
+        }
+      },
+      {
+        "block_x": 83,
+        "block_y": 82,
+        "block_index": 16682,
+        "staidx_offset": 200184,
+        "statics_offset": 817460,
+        "statics_length": 1610,
+        "static_items_count": 230,
+        "map_offset": 3269676,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000004.dat",
+          "entry_index": 4,
+          "block_in_entry": 298
+        }
+      },
+      {
+        "block_x": 83,
+        "block_y": 83,
+        "block_index": 16683,
+        "staidx_offset": 200196,
+        "statics_offset": 819070,
+        "statics_length": 1694,
+        "static_items_count": 242,
+        "map_offset": 3269872,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000004.dat",
+          "entry_index": 4,
+          "block_in_entry": 299
+        }
+      },
+      {
+        "block_x": 83,
+        "block_y": 84,
+        "block_index": 16684,
+        "staidx_offset": 200208,
+        "statics_offset": 820764,
+        "statics_length": 1526,
+        "static_items_count": 218,
+        "map_offset": 3270068,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000004.dat",
+          "entry_index": 4,
+          "block_in_entry": 300
+        }
+      },
+      {
+        "block_x": 83,
+        "block_y": 85,
+        "block_index": 16685,
+        "staidx_offset": 200220,
+        "statics_offset": 822290,
+        "statics_length": 42,
+        "static_items_count": 6,
+        "map_offset": 3270264,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000004.dat",
+          "entry_index": 4,
+          "block_in_entry": 301
+        }
+      },
+      {
+        "block_x": 84,
+        "block_y": 81,
+        "block_index": 16881,
+        "staidx_offset": 202572,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 3308680,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000004.dat",
+          "entry_index": 4,
+          "block_in_entry": 497
+        }
+      },
+      {
+        "block_x": 84,
+        "block_y": 82,
+        "block_index": 16882,
+        "staidx_offset": 202584,
+        "statics_offset": 838880,
+        "statics_length": 42,
+        "static_items_count": 6,
+        "map_offset": 3308876,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000004.dat",
+          "entry_index": 4,
+          "block_in_entry": 498
+        }
+      },
+      {
+        "block_x": 84,
+        "block_y": 83,
+        "block_index": 16883,
+        "staidx_offset": 202596,
+        "statics_offset": 838922,
+        "statics_length": 42,
+        "static_items_count": 6,
+        "map_offset": 3309072,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000004.dat",
+          "entry_index": 4,
+          "block_in_entry": 499
+        }
+      },
+      {
+        "block_x": 84,
+        "block_y": 84,
+        "block_index": 16884,
+        "staidx_offset": 202608,
+        "statics_offset": 838964,
+        "statics_length": 77,
+        "static_items_count": 11,
+        "map_offset": 3309268,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000004.dat",
+          "entry_index": 4,
+          "block_in_entry": 500
+        }
+      },
+      {
+        "block_x": 84,
+        "block_y": 85,
+        "block_index": 16885,
+        "staidx_offset": 202620,
+        "statics_offset": 839041,
+        "statics_length": 49,
+        "static_items_count": 7,
+        "map_offset": 3309464,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000004.dat",
+          "entry_index": 4,
+          "block_in_entry": 501
+        }
+      }
+    ]
+  }
+}

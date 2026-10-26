@@ -1,0 +1,188 @@
+{
+  "building_id": "building_018_298_1890",
+  "name": "Wilderness Building #018",
+  "map": "map5_termur",
+  "map_index": 5,
+  "map_name": "Termur",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "302 1895",
+    "center_x": 302,
+    "center_y": 1895,
+    "base_z": 0,
+    "map_name": "Termur (Map 5)"
+  },
+  "world_bounds": {
+    "min_x": 298,
+    "max_x": 305,
+    "min_y": 1890,
+    "max_y": 1900,
+    "base_z": 0,
+    "max_z": 26,
+    "center_x": 302.0,
+    "center_y": 1895.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 11.0,
+    "height_y": 2.5
+  },
+  "stats": {
+    "tile_count": 38,
+    "item_count": 76,
+    "triangles_count": 612,
+    "unique_textures_count": 13
+  },
+  "unique_items": [
+    {
+      "id": 421,
+      "name": "rattan wall",
+      "texture_file": "rattan_wall_0421.png"
+    },
+    {
+      "id": 422,
+      "name": "rattan wall",
+      "texture_file": "rattan_wall_0422.png"
+    },
+    {
+      "id": 424,
+      "name": "wood post",
+      "texture_file": "wood_post_0424.png"
+    },
+    {
+      "id": 425,
+      "name": "rattan wall",
+      "texture_file": "rattan_wall_0425.png"
+    },
+    {
+      "id": 426,
+      "name": "rattan wall",
+      "texture_file": "rattan_wall_0426.png"
+    },
+    {
+      "id": 2426,
+      "name": "raw fish steak%s%",
+      "texture_file": "raw_fish_steak_s_2426.png"
+    },
+    {
+      "id": 2489,
+      "name": "raw bird%s%",
+      "texture_file": "raw_bird_s_2489.png"
+    },
+    {
+      "id": 2505,
+      "name": "ham%s%",
+      "texture_file": "ham_s_2505.png"
+    },
+    {
+      "id": 4575,
+      "name": "log table",
+      "texture_file": "log_table_4575.png"
+    },
+    {
+      "id": 4576,
+      "name": "log table",
+      "texture_file": "log_table_4576.png"
+    },
+    {
+      "id": 39688,
+      "name": "eodon palm frond",
+      "texture_file": "eodon_palm_frond_39688.png"
+    },
+    {
+      "id": 39689,
+      "name": "eodon palm frond",
+      "texture_file": "eodon_palm_frond_39689.png"
+    },
+    {
+      "id": 39691,
+      "name": "eodon palm frond",
+      "texture_file": "eodon_palm_frond_39691.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map5.mul",
+      "statics_file": "statics5.mul",
+      "staidx_file": "staidx5.mul",
+      "uop_file": "map5LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 160,
+      "h_blocks": 512,
+      "min_block_x": 37,
+      "max_block_x": 38,
+      "min_block_y": 236,
+      "max_block_y": 237,
+      "total_blocks": 4
+    },
+    "blocks": [
+      {
+        "block_x": 37,
+        "block_y": 236,
+        "block_index": 19180,
+        "staidx_offset": 230160,
+        "statics_offset": 381990,
+        "statics_length": 413,
+        "static_items_count": 59,
+        "map_offset": 3759284,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000004.dat",
+          "entry_index": 4,
+          "block_in_entry": 2796
+        }
+      },
+      {
+        "block_x": 37,
+        "block_y": 237,
+        "block_index": 19181,
+        "staidx_offset": 230172,
+        "statics_offset": 382403,
+        "statics_length": 434,
+        "static_items_count": 62,
+        "map_offset": 3759480,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000004.dat",
+          "entry_index": 4,
+          "block_in_entry": 2797
+        }
+      },
+      {
+        "block_x": 38,
+        "block_y": 236,
+        "block_index": 19692,
+        "staidx_offset": 236304,
+        "statics_offset": 396501,
+        "statics_length": 224,
+        "static_items_count": 32,
+        "map_offset": 3859636,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000004.dat",
+          "entry_index": 4,
+          "block_in_entry": 3308
+        }
+      },
+      {
+        "block_x": 38,
+        "block_y": 237,
+        "block_index": 19693,
+        "staidx_offset": 236316,
+        "statics_offset": 396725,
+        "statics_length": 301,
+        "static_items_count": 43,
+        "map_offset": 3859832,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000004.dat",
+          "entry_index": 4,
+          "block_in_entry": 3309
+        }
+      }
+    ]
+  }
+}

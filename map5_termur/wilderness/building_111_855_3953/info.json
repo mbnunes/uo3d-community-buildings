@@ -1,0 +1,168 @@
+{
+  "building_id": "building_111_855_3953",
+  "name": "Wilderness Building #111",
+  "map": "map5_termur",
+  "map_index": 5,
+  "map_name": "Termur",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "857 3957",
+    "center_x": 857,
+    "center_y": 3957,
+    "base_z": -96,
+    "map_name": "Termur (Map 5)"
+  },
+  "world_bounds": {
+    "min_x": 855,
+    "max_x": 859,
+    "min_y": 3953,
+    "max_y": 3960,
+    "base_z": -96,
+    "max_z": -40,
+    "center_x": 857.5,
+    "center_y": 3957.0,
+    "center_z_elevation": -11.52
+  },
+  "dimensions_meters": {
+    "width_x": 5.0,
+    "depth_z": 8.0,
+    "height_y": 8.04
+  },
+  "stats": {
+    "tile_count": 18,
+    "item_count": 22,
+    "triangles_count": 264,
+    "unique_textures_count": 9
+  },
+  "unique_items": [
+    {
+      "id": 197,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0197.png"
+    },
+    {
+      "id": 200,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0200.png"
+    },
+    {
+      "id": 201,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0201.png"
+    },
+    {
+      "id": 203,
+      "name": "arrow loop",
+      "texture_file": "arrow_loop_0203.png"
+    },
+    {
+      "id": 204,
+      "name": "stone post",
+      "texture_file": "stone_post_0204.png"
+    },
+    {
+      "id": 208,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0208.png"
+    },
+    {
+      "id": 221,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0221.png"
+    },
+    {
+      "id": 222,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0222.png"
+    },
+    {
+      "id": 1822,
+      "name": "stone",
+      "texture_file": "stone_1822.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map5.mul",
+      "statics_file": "statics5.mul",
+      "staidx_file": "staidx5.mul",
+      "uop_file": "map5LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 160,
+      "h_blocks": 512,
+      "min_block_x": 106,
+      "max_block_x": 107,
+      "min_block_y": 494,
+      "max_block_y": 495,
+      "total_blocks": 4
+    },
+    "blocks": [
+      {
+        "block_x": 106,
+        "block_y": 494,
+        "block_index": 54766,
+        "staidx_offset": 657192,
+        "statics_offset": 2610139,
+        "statics_length": 42,
+        "static_items_count": 6,
+        "map_offset": 10734140,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000013.dat",
+          "entry_index": 13,
+          "block_in_entry": 1518
+        }
+      },
+      {
+        "block_x": 106,
+        "block_y": 495,
+        "block_index": 54767,
+        "staidx_offset": 657204,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 10734336,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000013.dat",
+          "entry_index": 13,
+          "block_in_entry": 1519
+        }
+      },
+      {
+        "block_x": 107,
+        "block_y": 494,
+        "block_index": 55278,
+        "staidx_offset": 663336,
+        "statics_offset": 2636305,
+        "statics_length": 140,
+        "static_items_count": 20,
+        "map_offset": 10834492,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000013.dat",
+          "entry_index": 13,
+          "block_in_entry": 2030
+        }
+      },
+      {
+        "block_x": 107,
+        "block_y": 495,
+        "block_index": 55279,
+        "staidx_offset": 663348,
+        "statics_offset": 2636445,
+        "statics_length": 7,
+        "static_items_count": 1,
+        "map_offset": 10834688,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000013.dat",
+          "entry_index": 13,
+          "block_in_entry": 2031
+        }
+      }
+    ]
+  }
+}

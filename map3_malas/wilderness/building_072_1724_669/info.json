@@ -1,0 +1,168 @@
+{
+  "building_id": "building_072_1724_669",
+  "name": "Wilderness Building #072",
+  "map": "map3_malas",
+  "map_index": 3,
+  "map_name": "Malas",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1726 672",
+    "center_x": 1726,
+    "center_y": 672,
+    "base_z": -87,
+    "map_name": "Malas (Map 3)"
+  },
+  "world_bounds": {
+    "min_x": 1724,
+    "max_x": 1728,
+    "min_y": 669,
+    "max_y": 675,
+    "base_z": -87,
+    "max_z": -67,
+    "center_x": 1726.5,
+    "center_y": 672.5,
+    "center_z_elevation": -10.44
+  },
+  "dimensions_meters": {
+    "width_x": 5.0,
+    "depth_z": 7.0,
+    "height_y": 2.76
+  },
+  "stats": {
+    "tile_count": 16,
+    "item_count": 37,
+    "triangles_count": 444,
+    "unique_textures_count": 9
+  },
+  "unique_items": [
+    {
+      "id": 200,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0200.png"
+    },
+    {
+      "id": 201,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0201.png"
+    },
+    {
+      "id": 204,
+      "name": "stone post",
+      "texture_file": "stone_post_0204.png"
+    },
+    {
+      "id": 221,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0221.png"
+    },
+    {
+      "id": 222,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0222.png"
+    },
+    {
+      "id": 223,
+      "name": "stone post",
+      "texture_file": "stone_post_0223.png"
+    },
+    {
+      "id": 224,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0224.png"
+    },
+    {
+      "id": 227,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0227.png"
+    },
+    {
+      "id": 2324,
+      "name": "dirt patch",
+      "texture_file": "dirt_patch_2324.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map3.mul",
+      "statics_file": "statics3.mul",
+      "staidx_file": "staidx3.mul",
+      "uop_file": "map3LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 320,
+      "h_blocks": 256,
+      "min_block_x": 215,
+      "max_block_x": 216,
+      "min_block_y": 83,
+      "max_block_y": 84,
+      "total_blocks": 4
+    },
+    "blocks": [
+      {
+        "block_x": 215,
+        "block_y": 83,
+        "block_index": 55123,
+        "staidx_offset": 661476,
+        "statics_offset": 1611400,
+        "statics_length": 175,
+        "static_items_count": 25,
+        "map_offset": 10804112,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000013.dat",
+          "entry_index": 13,
+          "block_in_entry": 1875
+        }
+      },
+      {
+        "block_x": 215,
+        "block_y": 84,
+        "block_index": 55124,
+        "staidx_offset": 661488,
+        "statics_offset": 1611575,
+        "statics_length": 147,
+        "static_items_count": 21,
+        "map_offset": 10804308,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000013.dat",
+          "entry_index": 13,
+          "block_in_entry": 1876
+        }
+      },
+      {
+        "block_x": 216,
+        "block_y": 83,
+        "block_index": 55379,
+        "staidx_offset": 664548,
+        "statics_offset": 1616426,
+        "statics_length": 119,
+        "static_items_count": 17,
+        "map_offset": 10854288,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000013.dat",
+          "entry_index": 13,
+          "block_in_entry": 2131
+        }
+      },
+      {
+        "block_x": 216,
+        "block_y": 84,
+        "block_index": 55380,
+        "staidx_offset": 664560,
+        "statics_offset": 1616545,
+        "statics_length": 119,
+        "static_items_count": 17,
+        "map_offset": 10854484,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000013.dat",
+          "entry_index": 13,
+          "block_in_entry": 2132
+        }
+      }
+    ]
+  }
+}

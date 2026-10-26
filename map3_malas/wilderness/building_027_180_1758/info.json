@@ -1,0 +1,196 @@
+{
+  "building_id": "building_027_180_1758",
+  "name": "Wilderness Building #027",
+  "map": "map3_malas",
+  "map_index": 3,
+  "map_name": "Malas",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "184 1759",
+    "center_x": 184,
+    "center_y": 1759,
+    "base_z": -1,
+    "map_name": "Malas (Map 3)"
+  },
+  "world_bounds": {
+    "min_x": 180,
+    "max_x": 188,
+    "min_y": 1758,
+    "max_y": 1759,
+    "base_z": -1,
+    "max_z": 35,
+    "center_x": 184.5,
+    "center_y": 1759.0,
+    "center_z_elevation": -0.12
+  },
+  "dimensions_meters": {
+    "width_x": 9.0,
+    "depth_z": 2.0,
+    "height_y": 4.56
+  },
+  "stats": {
+    "tile_count": 16,
+    "item_count": 44,
+    "triangles_count": 308,
+    "unique_textures_count": 21
+  },
+  "unique_items": [
+    {
+      "id": 169,
+      "name": "wooden post",
+      "texture_file": "wooden_post_0169.png"
+    },
+    {
+      "id": 177,
+      "name": "wooden post",
+      "texture_file": "wooden_post_0177.png"
+    },
+    {
+      "id": 1474,
+      "name": "wooden shingle",
+      "texture_file": "wooden_shingle_1474.png"
+    },
+    {
+      "id": 1475,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1475.png"
+    },
+    {
+      "id": 1476,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1476.png"
+    },
+    {
+      "id": 3892,
+      "name": "hay",
+      "texture_file": "hay_3892.png"
+    },
+    {
+      "id": 3894,
+      "name": "sheaf of hay",
+      "texture_file": "sheaf_of_hay_3894.png"
+    },
+    {
+      "id": 4108,
+      "name": "hay sheave",
+      "texture_file": "hay_sheave_4108.png"
+    },
+    {
+      "id": 4109,
+      "name": "hay sheave",
+      "texture_file": "hay_sheave_4109.png"
+    },
+    {
+      "id": 7400,
+      "name": "torso",
+      "texture_file": "torso_7400.png"
+    },
+    {
+      "id": 7415,
+      "name": "blood",
+      "texture_file": "blood_7415.png"
+    },
+    {
+      "id": 7420,
+      "name": "blood",
+      "texture_file": "blood_7420.png"
+    },
+    {
+      "id": 7426,
+      "name": "blood",
+      "texture_file": "blood_7426.png"
+    },
+    {
+      "id": 7441,
+      "name": "blood",
+      "texture_file": "blood_7441.png"
+    },
+    {
+      "id": 7573,
+      "name": "blood",
+      "texture_file": "blood_7573.png"
+    },
+    {
+      "id": 7816,
+      "name": "skinned goat",
+      "texture_file": "skinned_goat_7816.png"
+    },
+    {
+      "id": 7824,
+      "name": "skinned deer",
+      "texture_file": "skinned_deer_7824.png"
+    },
+    {
+      "id": 10338,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_10338.png"
+    },
+    {
+      "id": 10339,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_10339.png"
+    },
+    {
+      "id": 10342,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_10342.png"
+    },
+    {
+      "id": 10343,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_10343.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map3.mul",
+      "statics_file": "statics3.mul",
+      "staidx_file": "staidx3.mul",
+      "uop_file": "map3LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 320,
+      "h_blocks": 256,
+      "min_block_x": 22,
+      "max_block_x": 23,
+      "min_block_y": 219,
+      "max_block_y": 219,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 22,
+        "block_y": 219,
+        "block_index": 5851,
+        "staidx_offset": 70212,
+        "statics_offset": 128555,
+        "statics_length": 455,
+        "static_items_count": 65,
+        "map_offset": 1146800,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000001.dat",
+          "entry_index": 1,
+          "block_in_entry": 1755
+        }
+      },
+      {
+        "block_x": 23,
+        "block_y": 219,
+        "block_index": 6107,
+        "staidx_offset": 73284,
+        "statics_offset": 133203,
+        "statics_length": 175,
+        "static_items_count": 25,
+        "map_offset": 1196976,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000001.dat",
+          "entry_index": 1,
+          "block_in_entry": 2011
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "building_id": "building_081_1160_1120",
+  "name": "Wilderness Building #081",
+  "map": "map2_ilshenar",
+  "map_index": 2,
+  "map_name": "Ilshenar",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1164 1124",
+    "center_x": 1164,
+    "center_y": 1124,
+    "base_z": -25,
+    "map_name": "Ilshenar (Map 2)"
+  },
+  "world_bounds": {
+    "min_x": 1160,
+    "max_x": 1167,
+    "min_y": 1120,
+    "max_y": 1127,
+    "base_z": -25,
+    "max_z": -25,
+    "center_x": 1164.0,
+    "center_y": 1124.0,
+    "center_z_elevation": -3.0
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 8.0,
+    "height_y": 0.6
+  },
+  "stats": {
+    "tile_count": 25,
+    "item_count": 27,
+    "triangles_count": 360,
+    "unique_textures_count": 5
+  },
+  "unique_items": [
+    {
+      "id": 6791,
+      "name": "ore cart",
+      "texture_file": "ore_cart_6791.png"
+    },
+    {
+      "id": 11771,
+      "name": "wood corner hwall",
+      "texture_file": "wood_corner_hwall_11771.png"
+    },
+    {
+      "id": 11772,
+      "name": "wood corner bit",
+      "texture_file": "wood_corner_bit_11772.png"
+    },
+    {
+      "id": 11773,
+      "name": "wood half wall",
+      "texture_file": "wood_half_wall_11773.png"
+    },
+    {
+      "id": 11774,
+      "name": "wood half wall",
+      "texture_file": "wood_half_wall_11774.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map2.mul",
+      "statics_file": "statics2.mul",
+      "staidx_file": "staidx2.mul",
+      "uop_file": "map2LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 288,
+      "h_blocks": 200,
+      "min_block_x": 145,
+      "max_block_x": 145,
+      "min_block_y": 140,
+      "max_block_y": 140,
+      "total_blocks": 1
+    },
+    "blocks": [
+      {
+        "block_x": 145,
+        "block_y": 140,
+        "block_index": 29140,
+        "staidx_offset": 349680,
+        "statics_offset": 1551613,
+        "statics_length": 441,
+        "static_items_count": 63,
+        "map_offset": 5711444,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000007.dat",
+          "entry_index": 7,
+          "block_in_entry": 468
+        }
+      }
+    ]
+  }
+}

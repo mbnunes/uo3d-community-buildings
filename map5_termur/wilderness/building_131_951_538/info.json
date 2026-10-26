@@ -1,0 +1,186 @@
+{
+  "building_id": "building_131_951_538",
+  "name": "Wilderness Building #131",
+  "map": "map5_termur",
+  "map_index": 5,
+  "map_name": "Termur",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "953 541",
+    "center_x": 953,
+    "center_y": 541,
+    "base_z": -14,
+    "map_name": "Termur (Map 5)"
+  },
+  "world_bounds": {
+    "min_x": 951,
+    "max_x": 955,
+    "min_y": 538,
+    "max_y": 543,
+    "base_z": -14,
+    "max_z": -12,
+    "center_x": 953.5,
+    "center_y": 541.0,
+    "center_z_elevation": -1.68
+  },
+  "dimensions_meters": {
+    "width_x": 5.0,
+    "depth_z": 6.0,
+    "height_y": 0.7
+  },
+  "stats": {
+    "tile_count": 19,
+    "item_count": 33,
+    "triangles_count": 228,
+    "unique_textures_count": 19
+  },
+  "unique_items": [
+    {
+      "id": 68,
+      "name": "brick wall",
+      "texture_file": "brick_wall_0068.png"
+    },
+    {
+      "id": 78,
+      "name": "brick wall",
+      "texture_file": "brick_wall_0078.png"
+    },
+    {
+      "id": 82,
+      "name": "brick wall",
+      "texture_file": "brick_wall_0082.png"
+    },
+    {
+      "id": 83,
+      "name": "brick wall",
+      "texture_file": "brick_wall_0083.png"
+    },
+    {
+      "id": 84,
+      "name": "brick wall",
+      "texture_file": "brick_wall_0084.png"
+    },
+    {
+      "id": 3094,
+      "name": "damaged books",
+      "texture_file": "damaged_books_3094.png"
+    },
+    {
+      "id": 3108,
+      "name": "broken furniture",
+      "texture_file": "broken_furniture_3108.png"
+    },
+    {
+      "id": 3518,
+      "name": "lilly pads",
+      "texture_file": "lilly_pads_3518.png"
+    },
+    {
+      "id": 4334,
+      "name": "garbage",
+      "texture_file": "garbage_4334.png"
+    },
+    {
+      "id": 4335,
+      "name": "garbage",
+      "texture_file": "garbage_4335.png"
+    },
+    {
+      "id": 7072,
+      "name": "refuse",
+      "texture_file": "refuse_7072.png"
+    },
+    {
+      "id": 7073,
+      "name": "refuse",
+      "texture_file": "refuse_7073.png"
+    },
+    {
+      "id": 7074,
+      "name": "refuse",
+      "texture_file": "refuse_7074.png"
+    },
+    {
+      "id": 7082,
+      "name": "refuse",
+      "texture_file": "refuse_7082.png"
+    },
+    {
+      "id": 7083,
+      "name": "refuse",
+      "texture_file": "refuse_7083.png"
+    },
+    {
+      "id": 7087,
+      "name": "refuse",
+      "texture_file": "refuse_7087.png"
+    },
+    {
+      "id": 7088,
+      "name": "refuse",
+      "texture_file": "refuse_7088.png"
+    },
+    {
+      "id": 7094,
+      "name": "refuse",
+      "texture_file": "refuse_7094.png"
+    },
+    {
+      "id": 7095,
+      "name": "refuse",
+      "texture_file": "refuse_7095.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map5.mul",
+      "statics_file": "statics5.mul",
+      "staidx_file": "staidx5.mul",
+      "uop_file": "map5LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 160,
+      "h_blocks": 512,
+      "min_block_x": 118,
+      "max_block_x": 119,
+      "min_block_y": 67,
+      "max_block_y": 67,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 118,
+        "block_y": 67,
+        "block_index": 60483,
+        "staidx_offset": 725796,
+        "statics_offset": 2910810,
+        "statics_length": 147,
+        "static_items_count": 21,
+        "map_offset": 11854672,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000014.dat",
+          "entry_index": 14,
+          "block_in_entry": 3139
+        }
+      },
+      {
+        "block_x": 119,
+        "block_y": 67,
+        "block_index": 60995,
+        "staidx_offset": 731940,
+        "statics_offset": 2926924,
+        "statics_length": 357,
+        "static_items_count": 51,
+        "map_offset": 11955024,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000014.dat",
+          "entry_index": 14,
+          "block_in_entry": 3651
+        }
+      }
+    ]
+  }
+}

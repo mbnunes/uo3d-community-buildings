@@ -1,0 +1,185 @@
+{
+  "building_id": "building_024_736_329",
+  "name": "Wilderness Building #024",
+  "map": "map4_tokuno",
+  "map_index": 4,
+  "map_name": "Tokuno",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "740 331",
+    "center_x": 740,
+    "center_y": 331,
+    "base_z": 29,
+    "map_name": "Tokuno (Map 4)"
+  },
+  "world_bounds": {
+    "min_x": 736,
+    "max_x": 743,
+    "min_y": 329,
+    "max_y": 333,
+    "base_z": 29,
+    "max_z": 63,
+    "center_x": 740.0,
+    "center_y": 331.5,
+    "center_z_elevation": 3.48
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 5.0,
+    "height_y": 3.22
+  },
+  "stats": {
+    "tile_count": 34,
+    "item_count": 52,
+    "triangles_count": 84,
+    "unique_textures_count": 22
+  },
+  "unique_items": [
+    {
+      "id": 3246,
+      "name": "grasses",
+      "texture_file": "grasses_3246.png"
+    },
+    {
+      "id": 3249,
+      "name": "grasses",
+      "texture_file": "grasses_3249.png"
+    },
+    {
+      "id": 3271,
+      "name": "weed",
+      "texture_file": "weed_3271.png"
+    },
+    {
+      "id": 3309,
+      "name": "vines",
+      "texture_file": "vines_3309.png"
+    },
+    {
+      "id": 3313,
+      "name": "vines",
+      "texture_file": "vines_3313.png"
+    },
+    {
+      "id": 3370,
+      "name": "cactus",
+      "texture_file": "cactus_3370.png"
+    },
+    {
+      "id": 3377,
+      "name": "century plant",
+      "texture_file": "century_plant_3377.png"
+    },
+    {
+      "id": 3378,
+      "name": "grasses",
+      "texture_file": "grasses_3378.png"
+    },
+    {
+      "id": 3379,
+      "name": "grasses",
+      "texture_file": "grasses_3379.png"
+    },
+    {
+      "id": 6001,
+      "name": "rock",
+      "texture_file": "rock_6001.png"
+    },
+    {
+      "id": 10486,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_10486.png"
+    },
+    {
+      "id": 10487,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_10487.png"
+    },
+    {
+      "id": 10489,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_10489.png"
+    },
+    {
+      "id": 10492,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_10492.png"
+    },
+    {
+      "id": 10493,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_10493.png"
+    },
+    {
+      "id": 10494,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_10494.png"
+    },
+    {
+      "id": 10495,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_10495.png"
+    },
+    {
+      "id": 10497,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_10497.png"
+    },
+    {
+      "id": 10498,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_10498.png"
+    },
+    {
+      "id": 10499,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_10499.png"
+    },
+    {
+      "id": 10501,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_10501.png"
+    },
+    {
+      "id": 10572,
+      "name": "clay wall",
+      "texture_file": "clay_wall_10572.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map4.mul",
+      "statics_file": "statics4.mul",
+      "staidx_file": "staidx4.mul",
+      "uop_file": "map4LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 181,
+      "h_blocks": 181,
+      "min_block_x": 92,
+      "max_block_x": 92,
+      "min_block_y": 41,
+      "max_block_y": 41,
+      "total_blocks": 1
+    },
+    "blocks": [
+      {
+        "block_x": 92,
+        "block_y": 41,
+        "block_index": 16693,
+        "staidx_offset": 200316,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 3271832,
+        "uop_entry": {
+          "file": "map4LegacyMUL.uop",
+          "entry_name": "build/map4legacymul/00000004.dat",
+          "entry_index": 4,
+          "block_in_entry": 309
+        }
+      }
+    ]
+  }
+}

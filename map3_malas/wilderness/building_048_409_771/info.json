@@ -1,0 +1,150 @@
+{
+  "building_id": "building_048_409_771",
+  "name": "Wilderness Building #048",
+  "map": "map3_malas",
+  "map_index": 3,
+  "map_name": "Malas",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "411 773",
+    "center_x": 411,
+    "center_y": 773,
+    "base_z": -1,
+    "map_name": "Malas (Map 3)"
+  },
+  "world_bounds": {
+    "min_x": 409,
+    "max_x": 413,
+    "min_y": 771,
+    "max_y": 775,
+    "base_z": -1,
+    "max_z": 20,
+    "center_x": 411.5,
+    "center_y": 773.5,
+    "center_z_elevation": -0.12
+  },
+  "dimensions_meters": {
+    "width_x": 5.0,
+    "depth_z": 5.0,
+    "height_y": 2.4
+  },
+  "stats": {
+    "tile_count": 24,
+    "item_count": 30,
+    "triangles_count": 192,
+    "unique_textures_count": 15
+  },
+  "unique_items": [
+    {
+      "id": 734,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0734.png"
+    },
+    {
+      "id": 735,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0735.png"
+    },
+    {
+      "id": 738,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0738.png"
+    },
+    {
+      "id": 739,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0739.png"
+    },
+    {
+      "id": 742,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0742.png"
+    },
+    {
+      "id": 743,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0743.png"
+    },
+    {
+      "id": 1536,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1536.png"
+    },
+    {
+      "id": 1540,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1540.png"
+    },
+    {
+      "id": 1541,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1541.png"
+    },
+    {
+      "id": 1542,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1542.png"
+    },
+    {
+      "id": 1543,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1543.png"
+    },
+    {
+      "id": 1559,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1559.png"
+    },
+    {
+      "id": 1561,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1561.png"
+    },
+    {
+      "id": 1562,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1562.png"
+    },
+    {
+      "id": 1566,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1566.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map3.mul",
+      "statics_file": "statics3.mul",
+      "staidx_file": "staidx3.mul",
+      "uop_file": "map3LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 320,
+      "h_blocks": 256,
+      "min_block_x": 51,
+      "max_block_x": 51,
+      "min_block_y": 96,
+      "max_block_y": 96,
+      "total_blocks": 1
+    },
+    "blocks": [
+      {
+        "block_x": 51,
+        "block_y": 96,
+        "block_index": 13152,
+        "staidx_offset": 157824,
+        "statics_offset": 348173,
+        "statics_length": 224,
+        "static_items_count": 32,
+        "map_offset": 2577796,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000003.dat",
+          "entry_index": 3,
+          "block_in_entry": 864
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "building_id": "building_001_1960_1336",
+  "name": "Umbra Building #001",
+  "map": "map3_malas",
+  "map_index": 3,
+  "map_name": "Malas",
+  "region": "umbra",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1964 1340",
+    "center_x": 1964,
+    "center_y": 1340,
+    "base_z": -80,
+    "map_name": "Malas (Map 3)"
+  },
+  "world_bounds": {
+    "min_x": 1960,
+    "max_x": 1967,
+    "min_y": 1336,
+    "max_y": 1343,
+    "base_z": -80,
+    "max_z": -47,
+    "center_x": 1964.0,
+    "center_y": 1340.0,
+    "center_z_elevation": -9.6
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 8.0,
+    "height_y": 5.5
+  },
+  "stats": {
+    "tile_count": 56,
+    "item_count": 220,
+    "triangles_count": 2726,
+    "unique_textures_count": 13
+  },
+  "unique_items": [
+    {
+      "id": 115,
+      "name": "battlement",
+      "texture_file": "battlement_0115.png"
+    },
+    {
+      "id": 410,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0410.png"
+    },
+    {
+      "id": 434,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0434.png"
+    },
+    {
+      "id": 492,
+      "name": "wall",
+      "texture_file": "wall_0492.png"
+    },
+    {
+      "id": 494,
+      "name": "wall",
+      "texture_file": "wall_0494.png"
+    },
+    {
+      "id": 1872,
+      "name": "stone",
+      "texture_file": "stone_1872.png"
+    },
+    {
+      "id": 1873,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1873.png"
+    },
+    {
+      "id": 1874,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1874.png"
+    },
+    {
+      "id": 1875,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1875.png"
+    },
+    {
+      "id": 1893,
+      "name": "stone",
+      "texture_file": "stone_1893.png"
+    },
+    {
+      "id": 1894,
+      "name": "stone",
+      "texture_file": "stone_1894.png"
+    },
+    {
+      "id": 1895,
+      "name": "stone",
+      "texture_file": "stone_1895.png"
+    },
+    {
+      "id": 1896,
+      "name": "stone",
+      "texture_file": "stone_1896.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map3.mul",
+      "statics_file": "statics3.mul",
+      "staidx_file": "staidx3.mul",
+      "uop_file": "map3LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 320,
+      "h_blocks": 256,
+      "min_block_x": 245,
+      "max_block_x": 245,
+      "min_block_y": 167,
+      "max_block_y": 167,
+      "total_blocks": 1
+    },
+    "blocks": [
+      {
+        "block_x": 245,
+        "block_y": 167,
+        "block_index": 62887,
+        "staidx_offset": 754644,
+        "statics_offset": 1802738,
+        "statics_length": 1540,
+        "static_items_count": 220,
+        "map_offset": 12325856,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000015.dat",
+          "entry_index": 15,
+          "block_in_entry": 1447
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "building_id": "building_002_139_830",
+  "name": "Wilderness Building #002",
+  "map": "map4_tokuno",
+  "map_index": 4,
+  "map_name": "Tokuno",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "141 832",
+    "center_x": 141,
+    "center_y": 832,
+    "base_z": 35,
+    "map_name": "Tokuno (Map 4)"
+  },
+  "world_bounds": {
+    "min_x": 139,
+    "max_x": 142,
+    "min_y": 830,
+    "max_y": 834,
+    "base_z": 35,
+    "max_z": 65,
+    "center_x": 141.0,
+    "center_y": 832.5,
+    "center_z_elevation": 4.2
+  },
+  "dimensions_meters": {
+    "width_x": 4.0,
+    "depth_z": 5.0,
+    "height_y": 3.72
+  },
+  "stats": {
+    "tile_count": 17,
+    "item_count": 47,
+    "triangles_count": 168,
+    "unique_textures_count": 33
+  },
+  "unique_items": [
+    {
+      "id": 3310,
+      "name": "vines",
+      "texture_file": "vines_3310.png"
+    },
+    {
+      "id": 3313,
+      "name": "vines",
+      "texture_file": "vines_3313.png"
+    },
+    {
+      "id": 3349,
+      "name": "mushrooms",
+      "texture_file": "mushrooms_3349.png"
+    },
+    {
+      "id": 3554,
+      "name": "kindling",
+      "texture_file": "kindling_3554.png"
+    },
+    {
+      "id": 3555,
+      "name": "campfire",
+      "texture_file": "campfire_3555.png"
+    },
+    {
+      "id": 4651,
+      "name": "blood",
+      "texture_file": "blood_4651.png"
+    },
+    {
+      "id": 5164,
+      "name": "candle",
+      "texture_file": "candle_5164.png"
+    },
+    {
+      "id": 7020,
+      "name": "wall cracks",
+      "texture_file": "wall_cracks_7020.png"
+    },
+    {
+      "id": 7371,
+      "name": "blood",
+      "texture_file": "blood_7371.png"
+    },
+    {
+      "id": 7372,
+      "name": "blood",
+      "texture_file": "blood_7372.png"
+    },
+    {
+      "id": 7374,
+      "name": "blood",
+      "texture_file": "blood_7374.png"
+    },
+    {
+      "id": 7375,
+      "name": "blood",
+      "texture_file": "blood_7375.png"
+    },
+    {
+      "id": 7376,
+      "name": "blood",
+      "texture_file": "blood_7376.png"
+    },
+    {
+      "id": 7378,
+      "name": "blood",
+      "texture_file": "blood_7378.png"
+    },
+    {
+      "id": 7379,
+      "name": "blood",
+      "texture_file": "blood_7379.png"
+    },
+    {
+      "id": 7380,
+      "name": "blood",
+      "texture_file": "blood_7380.png"
+    },
+    {
+      "id": 7384,
+      "name": "blood",
+      "texture_file": "blood_7384.png"
+    },
+    {
+      "id": 7385,
+      "name": "blood",
+      "texture_file": "blood_7385.png"
+    },
+    {
+      "id": 7386,
+      "name": "blood",
+      "texture_file": "blood_7386.png"
+    },
+    {
+      "id": 7387,
+      "name": "blood",
+      "texture_file": "blood_7387.png"
+    },
+    {
+      "id": 7388,
+      "name": "blood",
+      "texture_file": "blood_7388.png"
+    },
+    {
+      "id": 9368,
+      "name": "wall",
+      "texture_file": "wall_9368.png"
+    },
+    {
+      "id": 9730,
+      "name": "solen queen",
+      "texture_file": "solen_queen_9730.png"
+    },
+    {
+      "id": 9731,
+      "name": "solen warrior",
+      "texture_file": "solen_warrior_9731.png"
+    },
+    {
+      "id": 10291,
+      "name": "windchimes",
+      "texture_file": "windchimes_10291.png"
+    },
+    {
+      "id": 10487,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_10487.png"
+    },
+    {
+      "id": 10489,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_10489.png"
+    },
+    {
+      "id": 10491,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_10491.png"
+    },
+    {
+      "id": 10493,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_10493.png"
+    },
+    {
+      "id": 10495,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_10495.png"
+    },
+    {
+      "id": 10497,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_10497.png"
+    },
+    {
+      "id": 10499,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_10499.png"
+    },
+    {
+      "id": 10501,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_10501.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map4.mul",
+      "statics_file": "statics4.mul",
+      "staidx_file": "staidx4.mul",
+      "uop_file": "map4LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 181,
+      "h_blocks": 181,
+      "min_block_x": 17,
+      "max_block_x": 17,
+      "min_block_y": 103,
+      "max_block_y": 104,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 17,
+        "block_y": 103,
+        "block_index": 3180,
+        "staidx_offset": 38160,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 623284,
+        "uop_entry": {
+          "file": "map4LegacyMUL.uop",
+          "entry_name": "build/map4legacymul/00000000.dat",
+          "entry_index": 0,
+          "block_in_entry": 3180
+        }
+      },
+      {
+        "block_x": 17,
+        "block_y": 104,
+        "block_index": 3181,
+        "staidx_offset": 38172,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 623480,
+        "uop_entry": {
+          "file": "map4LegacyMUL.uop",
+          "entry_name": "build/map4legacymul/00000000.dat",
+          "entry_index": 0,
+          "block_in_entry": 3181
+        }
+      }
+    ]
+  }
+}

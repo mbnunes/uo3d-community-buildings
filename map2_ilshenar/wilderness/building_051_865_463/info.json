@@ -1,0 +1,196 @@
+{
+  "building_id": "building_051_865_463",
+  "name": "Wilderness Building #051",
+  "map": "map2_ilshenar",
+  "map_index": 2,
+  "map_name": "Ilshenar",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "868 465",
+    "center_x": 868,
+    "center_y": 465,
+    "base_z": 3,
+    "map_name": "Ilshenar (Map 2)"
+  },
+  "world_bounds": {
+    "min_x": 865,
+    "max_x": 870,
+    "min_y": 463,
+    "max_y": 467,
+    "base_z": 3,
+    "max_z": 27,
+    "center_x": 868.0,
+    "center_y": 465.5,
+    "center_z_elevation": 0.36
+  },
+  "dimensions_meters": {
+    "width_x": 6.0,
+    "depth_z": 5.0,
+    "height_y": 2.76
+  },
+  "stats": {
+    "tile_count": 29,
+    "item_count": 43,
+    "triangles_count": 192,
+    "unique_textures_count": 21
+  },
+  "unique_items": [
+    {
+      "id": 739,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0739.png"
+    },
+    {
+      "id": 740,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0740.png"
+    },
+    {
+      "id": 742,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0742.png"
+    },
+    {
+      "id": 743,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0743.png"
+    },
+    {
+      "id": 744,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0744.png"
+    },
+    {
+      "id": 745,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0745.png"
+    },
+    {
+      "id": 746,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0746.png"
+    },
+    {
+      "id": 747,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0747.png"
+    },
+    {
+      "id": 892,
+      "name": "dagges",
+      "texture_file": "dagges_0892.png"
+    },
+    {
+      "id": 893,
+      "name": "dagges",
+      "texture_file": "dagges_0893.png"
+    },
+    {
+      "id": 1535,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1535.png"
+    },
+    {
+      "id": 1536,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1536.png"
+    },
+    {
+      "id": 1537,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1537.png"
+    },
+    {
+      "id": 1538,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1538.png"
+    },
+    {
+      "id": 1540,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1540.png"
+    },
+    {
+      "id": 1541,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1541.png"
+    },
+    {
+      "id": 1542,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1542.png"
+    },
+    {
+      "id": 1543,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1543.png"
+    },
+    {
+      "id": 1555,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1555.png"
+    },
+    {
+      "id": 1556,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1556.png"
+    },
+    {
+      "id": 3347,
+      "name": "mushrooms",
+      "texture_file": "mushrooms_3347.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map2.mul",
+      "statics_file": "statics2.mul",
+      "staidx_file": "staidx2.mul",
+      "uop_file": "map2LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 288,
+      "h_blocks": 200,
+      "min_block_x": 108,
+      "max_block_x": 108,
+      "min_block_y": 57,
+      "max_block_y": 58,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 108,
+        "block_y": 57,
+        "block_index": 21657,
+        "staidx_offset": 259884,
+        "statics_offset": 1233106,
+        "statics_length": 161,
+        "static_items_count": 23,
+        "map_offset": 4244776,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000005.dat",
+          "entry_index": 5,
+          "block_in_entry": 1177
+        }
+      },
+      {
+        "block_x": 108,
+        "block_y": 58,
+        "block_index": 21658,
+        "staidx_offset": 259896,
+        "statics_offset": 1233267,
+        "statics_length": 329,
+        "static_items_count": 47,
+        "map_offset": 4244972,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000005.dat",
+          "entry_index": 5,
+          "block_in_entry": 1178
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "building_id": "building_182_1214_1080",
+  "name": "Wilderness Building #182",
+  "map": "map5_termur",
+  "map_index": 5,
+  "map_name": "Termur",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1217 1083",
+    "center_x": 1217,
+    "center_y": 1083,
+    "base_z": -71,
+    "map_name": "Termur (Map 5)"
+  },
+  "world_bounds": {
+    "min_x": 1214,
+    "max_x": 1220,
+    "min_y": 1080,
+    "max_y": 1086,
+    "base_z": -71,
+    "max_z": -40,
+    "center_x": 1217.5,
+    "center_y": 1083.5,
+    "center_z_elevation": -8.52
+  },
+  "dimensions_meters": {
+    "width_x": 7.0,
+    "depth_z": 7.0,
+    "height_y": 4.8
+  },
+  "stats": {
+    "tile_count": 41,
+    "item_count": 81,
+    "triangles_count": 768,
+    "unique_textures_count": 16
+  },
+  "unique_items": [
+    {
+      "id": 87,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0087.png"
+    },
+    {
+      "id": 88,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0088.png"
+    },
+    {
+      "id": 95,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0095.png"
+    },
+    {
+      "id": 96,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0096.png"
+    },
+    {
+      "id": 105,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0105.png"
+    },
+    {
+      "id": 106,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0106.png"
+    },
+    {
+      "id": 108,
+      "name": "ethereal voyage scr",
+      "texture_file": "ethereal_voyage_scr_0108.png"
+    },
+    {
+      "id": 1872,
+      "name": "stone",
+      "texture_file": "stone_1872.png"
+    },
+    {
+      "id": 1875,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1875.png"
+    },
+    {
+      "id": 2123,
+      "name": "iron fence",
+      "texture_file": "iron_fence_2123.png"
+    },
+    {
+      "id": 7335,
+      "name": "sarcophagus",
+      "texture_file": "sarcophagus_7335.png"
+    },
+    {
+      "id": 7336,
+      "name": "sarcophagus",
+      "texture_file": "sarcophagus_7336.png"
+    },
+    {
+      "id": 7337,
+      "name": "sarcophagus",
+      "texture_file": "sarcophagus_7337.png"
+    },
+    {
+      "id": 7338,
+      "name": "sarcophagus",
+      "texture_file": "sarcophagus_7338.png"
+    },
+    {
+      "id": 7339,
+      "name": "sarcophagus",
+      "texture_file": "sarcophagus_7339.png"
+    },
+    {
+      "id": 7340,
+      "name": "sarcophagus",
+      "texture_file": "sarcophagus_7340.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map5.mul",
+      "statics_file": "statics5.mul",
+      "staidx_file": "staidx5.mul",
+      "uop_file": "map5LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 160,
+      "h_blocks": 512,
+      "min_block_x": 151,
+      "max_block_x": 152,
+      "min_block_y": 135,
+      "max_block_y": 135,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 151,
+        "block_y": 135,
+        "block_index": 77447,
+        "staidx_offset": 929364,
+        "statics_offset": 3434900,
+        "statics_length": 273,
+        "static_items_count": 39,
+        "map_offset": 15179616,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000018.dat",
+          "entry_index": 18,
+          "block_in_entry": 3719
+        }
+      },
+      {
+        "block_x": 152,
+        "block_y": 135,
+        "block_index": 77959,
+        "staidx_offset": 935508,
+        "statics_offset": 3441235,
+        "statics_length": 469,
+        "static_items_count": 67,
+        "map_offset": 15279968,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000019.dat",
+          "entry_index": 19,
+          "block_in_entry": 135
+        }
+      }
+    ]
+  }
+}

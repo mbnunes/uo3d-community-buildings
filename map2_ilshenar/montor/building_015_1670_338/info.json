@@ -1,0 +1,156 @@
+{
+  "building_id": "building_015_1670_338",
+  "name": "Montor Building #015",
+  "map": "map2_ilshenar",
+  "map_index": 2,
+  "map_name": "Ilshenar",
+  "region": "montor",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1673 340",
+    "center_x": 1673,
+    "center_y": 340,
+    "base_z": 33,
+    "map_name": "Ilshenar (Map 2)"
+  },
+  "world_bounds": {
+    "min_x": 1670,
+    "max_x": 1676,
+    "min_y": 338,
+    "max_y": 342,
+    "base_z": 33,
+    "max_z": 59,
+    "center_x": 1673.5,
+    "center_y": 340.5,
+    "center_z_elevation": 3.96
+  },
+  "dimensions_meters": {
+    "width_x": 7.0,
+    "depth_z": 5.0,
+    "height_y": 3.82
+  },
+  "stats": {
+    "tile_count": 25,
+    "item_count": 58,
+    "triangles_count": 636,
+    "unique_textures_count": 13
+  },
+  "unique_items": [
+    {
+      "id": 90,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0090.png"
+    },
+    {
+      "id": 105,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0105.png"
+    },
+    {
+      "id": 106,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0106.png"
+    },
+    {
+      "id": 107,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0107.png"
+    },
+    {
+      "id": 108,
+      "name": "ethereal voyage scr",
+      "texture_file": "ethereal_voyage_scr_0108.png"
+    },
+    {
+      "id": 109,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0109.png"
+    },
+    {
+      "id": 110,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0110.png"
+    },
+    {
+      "id": 111,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0111.png"
+    },
+    {
+      "id": 112,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0112.png"
+    },
+    {
+      "id": 113,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0113.png"
+    },
+    {
+      "id": 1305,
+      "name": "stone pavers dark",
+      "texture_file": "stone_pavers_dark_1305.png"
+    },
+    {
+      "id": 3270,
+      "name": "grasses",
+      "texture_file": "grasses_3270.png"
+    },
+    {
+      "id": 3392,
+      "name": "brambles",
+      "texture_file": "brambles_3392.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map2.mul",
+      "statics_file": "statics2.mul",
+      "staidx_file": "staidx2.mul",
+      "uop_file": "map2LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 288,
+      "h_blocks": 200,
+      "min_block_x": 208,
+      "max_block_x": 209,
+      "min_block_y": 42,
+      "max_block_y": 42,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 208,
+        "block_y": 42,
+        "block_index": 41642,
+        "staidx_offset": 499704,
+        "statics_offset": 2073393,
+        "statics_length": 224,
+        "static_items_count": 32,
+        "map_offset": 8161836,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000010.dat",
+          "entry_index": 10,
+          "block_in_entry": 682
+        }
+      },
+      {
+        "block_x": 209,
+        "block_y": 42,
+        "block_index": 41842,
+        "staidx_offset": 502104,
+        "statics_offset": 2082367,
+        "statics_length": 301,
+        "static_items_count": 43,
+        "map_offset": 8201036,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000010.dat",
+          "entry_index": 10,
+          "block_in_entry": 882
+        }
+      }
+    ]
+  }
+}

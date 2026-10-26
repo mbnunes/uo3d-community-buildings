@@ -1,0 +1,163 @@
+{
+  "building_id": "building_043_393_1019",
+  "name": "Wilderness Building #043",
+  "map": "map3_malas",
+  "map_index": 3,
+  "map_name": "Malas",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "397 1025",
+    "center_x": 397,
+    "center_y": 1025,
+    "base_z": -20,
+    "map_name": "Malas (Map 3)"
+  },
+  "world_bounds": {
+    "min_x": 393,
+    "max_x": 401,
+    "min_y": 1019,
+    "max_y": 1031,
+    "base_z": -20,
+    "max_z": 0,
+    "center_x": 397.5,
+    "center_y": 1025.5,
+    "center_z_elevation": -2.4
+  },
+  "dimensions_meters": {
+    "width_x": 9.0,
+    "depth_z": 13.0,
+    "height_y": 2.64
+  },
+  "stats": {
+    "tile_count": 22,
+    "item_count": 24,
+    "triangles_count": 300,
+    "unique_textures_count": 8
+  },
+  "unique_items": [
+    {
+      "id": 619,
+      "name": "cave wall",
+      "texture_file": "cave_wall_0619.png"
+    },
+    {
+      "id": 766,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0766.png"
+    },
+    {
+      "id": 791,
+      "name": "secret door",
+      "texture_file": "secret_door_0791.png"
+    },
+    {
+      "id": 792,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0792.png"
+    },
+    {
+      "id": 794,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0794.png"
+    },
+    {
+      "id": 797,
+      "name": "secret door",
+      "texture_file": "secret_door_0797.png"
+    },
+    {
+      "id": 802,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0802.png"
+    },
+    {
+      "id": 9405,
+      "name": "paper lantern",
+      "texture_file": "paper_lantern_9405.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map3.mul",
+      "statics_file": "statics3.mul",
+      "staidx_file": "staidx3.mul",
+      "uop_file": "map3LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 320,
+      "h_blocks": 256,
+      "min_block_x": 49,
+      "max_block_x": 50,
+      "min_block_y": 127,
+      "max_block_y": 128,
+      "total_blocks": 4
+    },
+    "blocks": [
+      {
+        "block_x": 49,
+        "block_y": 127,
+        "block_index": 12671,
+        "staidx_offset": 152052,
+        "statics_offset": 306901,
+        "statics_length": 147,
+        "static_items_count": 21,
+        "map_offset": 2483520,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000003.dat",
+          "entry_index": 3,
+          "block_in_entry": 383
+        }
+      },
+      {
+        "block_x": 49,
+        "block_y": 128,
+        "block_index": 12672,
+        "staidx_offset": 152064,
+        "statics_offset": 307048,
+        "statics_length": 84,
+        "static_items_count": 12,
+        "map_offset": 2483716,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000003.dat",
+          "entry_index": 3,
+          "block_in_entry": 384
+        }
+      },
+      {
+        "block_x": 50,
+        "block_y": 127,
+        "block_index": 12927,
+        "staidx_offset": 155124,
+        "statics_offset": 326095,
+        "statics_length": 14,
+        "static_items_count": 2,
+        "map_offset": 2533696,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000003.dat",
+          "entry_index": 3,
+          "block_in_entry": 639
+        }
+      },
+      {
+        "block_x": 50,
+        "block_y": 128,
+        "block_index": 12928,
+        "staidx_offset": 155136,
+        "statics_offset": 326109,
+        "statics_length": 105,
+        "static_items_count": 15,
+        "map_offset": 2533892,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000003.dat",
+          "entry_index": 3,
+          "block_in_entry": 640
+        }
+      }
+    ]
+  }
+}

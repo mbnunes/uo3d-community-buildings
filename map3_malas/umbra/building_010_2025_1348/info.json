@@ -1,0 +1,181 @@
+{
+  "building_id": "building_010_2025_1348",
+  "name": "Umbra Building #010",
+  "map": "map3_malas",
+  "map_index": 3,
+  "map_name": "Malas",
+  "region": "umbra",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "2028 1353",
+    "center_x": 2028,
+    "center_y": 1353,
+    "base_z": -90,
+    "map_name": "Malas (Map 3)"
+  },
+  "world_bounds": {
+    "min_x": 2025,
+    "max_x": 2030,
+    "min_y": 1348,
+    "max_y": 1358,
+    "base_z": -90,
+    "max_z": -70,
+    "center_x": 2028.0,
+    "center_y": 1353.5,
+    "center_z_elevation": -10.799999999999999
+  },
+  "dimensions_meters": {
+    "width_x": 6.0,
+    "depth_z": 11.0,
+    "height_y": 3.0
+  },
+  "stats": {
+    "tile_count": 50,
+    "item_count": 91,
+    "triangles_count": 1032,
+    "unique_textures_count": 18
+  },
+  "unique_items": [
+    {
+      "id": 90,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0090.png"
+    },
+    {
+      "id": 105,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0105.png"
+    },
+    {
+      "id": 106,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0106.png"
+    },
+    {
+      "id": 107,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0107.png"
+    },
+    {
+      "id": 1179,
+      "name": "floor tile",
+      "texture_file": "floor_tile_1179.png"
+    },
+    {
+      "id": 2445,
+      "name": "jugs of cider",
+      "texture_file": "jugs_of_cider_2445.png"
+    },
+    {
+      "id": 2453,
+      "name": "ceramic mug",
+      "texture_file": "ceramic_mug_2453.png"
+    },
+    {
+      "id": 2483,
+      "name": "goblet",
+      "texture_file": "goblet_2483.png"
+    },
+    {
+      "id": 2542,
+      "name": "mug of ale",
+      "texture_file": "mug_of_ale_2542.png"
+    },
+    {
+      "id": 2971,
+      "name": "metal signpost",
+      "texture_file": "metal_signpost_2971.png"
+    },
+    {
+      "id": 4099,
+      "name": "spittoon",
+      "texture_file": "spittoon_4099.png"
+    },
+    {
+      "id": 6416,
+      "name": "bar",
+      "texture_file": "bar_6416.png"
+    },
+    {
+      "id": 6417,
+      "name": "bar",
+      "texture_file": "bar_6417.png"
+    },
+    {
+      "id": 6418,
+      "name": "bar",
+      "texture_file": "bar_6418.png"
+    },
+    {
+      "id": 6419,
+      "name": "bar",
+      "texture_file": "bar_6419.png"
+    },
+    {
+      "id": 6424,
+      "name": "bar",
+      "texture_file": "bar_6424.png"
+    },
+    {
+      "id": 6426,
+      "name": "bar",
+      "texture_file": "bar_6426.png"
+    },
+    {
+      "id": 6871,
+      "name": "keg",
+      "texture_file": "keg_6871.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map3.mul",
+      "statics_file": "statics3.mul",
+      "staidx_file": "staidx3.mul",
+      "uop_file": "map3LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 320,
+      "h_blocks": 256,
+      "min_block_x": 253,
+      "max_block_x": 253,
+      "min_block_y": 168,
+      "max_block_y": 169,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 253,
+        "block_y": 168,
+        "block_index": 64936,
+        "staidx_offset": 779232,
+        "statics_offset": 1856190,
+        "statics_length": 203,
+        "static_items_count": 29,
+        "map_offset": 12727460,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000015.dat",
+          "entry_index": 15,
+          "block_in_entry": 3496
+        }
+      },
+      {
+        "block_x": 253,
+        "block_y": 169,
+        "block_index": 64937,
+        "staidx_offset": 779244,
+        "statics_offset": 1856393,
+        "statics_length": 476,
+        "static_items_count": 68,
+        "map_offset": 12727656,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000015.dat",
+          "entry_index": 15,
+          "block_in_entry": 3497
+        }
+      }
+    ]
+  }
+}

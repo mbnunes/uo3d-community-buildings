@@ -1,0 +1,151 @@
+{
+  "building_id": "building_007_81_1671",
+  "name": "Wilderness Building #007",
+  "map": "map3_malas",
+  "map_index": 3,
+  "map_name": "Malas",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "84 1673",
+    "center_x": 84,
+    "center_y": 1673,
+    "base_z": -4,
+    "map_name": "Malas (Map 3)"
+  },
+  "world_bounds": {
+    "min_x": 81,
+    "max_x": 86,
+    "min_y": 1671,
+    "max_y": 1675,
+    "base_z": -4,
+    "max_z": 24,
+    "center_x": 84.0,
+    "center_y": 1673.5,
+    "center_z_elevation": -0.48
+  },
+  "dimensions_meters": {
+    "width_x": 6.0,
+    "depth_z": 5.0,
+    "height_y": 3.48
+  },
+  "stats": {
+    "tile_count": 30,
+    "item_count": 92,
+    "triangles_count": 820,
+    "unique_textures_count": 12
+  },
+  "unique_items": [
+    {
+      "id": 16,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0016.png"
+    },
+    {
+      "id": 679,
+      "name": "marble column",
+      "texture_file": "marble_column_0679.png"
+    },
+    {
+      "id": 683,
+      "name": "marble column",
+      "texture_file": "marble_column_0683.png"
+    },
+    {
+      "id": 1536,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1536.png"
+    },
+    {
+      "id": 1537,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1537.png"
+    },
+    {
+      "id": 1539,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1539.png"
+    },
+    {
+      "id": 1872,
+      "name": "stone",
+      "texture_file": "stone_1872.png"
+    },
+    {
+      "id": 1874,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1874.png"
+    },
+    {
+      "id": 1876,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1876.png"
+    },
+    {
+      "id": 1878,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1878.png"
+    },
+    {
+      "id": 1879,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1879.png"
+    },
+    {
+      "id": 11513,
+      "name": "decorative vines",
+      "texture_file": "decorative_vines_11513.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map3.mul",
+      "statics_file": "statics3.mul",
+      "staidx_file": "staidx3.mul",
+      "uop_file": "map3LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 320,
+      "h_blocks": 256,
+      "min_block_x": 10,
+      "max_block_x": 10,
+      "min_block_y": 208,
+      "max_block_y": 209,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 10,
+        "block_y": 208,
+        "block_index": 2768,
+        "staidx_offset": 33216,
+        "statics_offset": 28665,
+        "statics_length": 483,
+        "static_items_count": 69,
+        "map_offset": 542532,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000000.dat",
+          "entry_index": 0,
+          "block_in_entry": 2768
+        }
+      },
+      {
+        "block_x": 10,
+        "block_y": 209,
+        "block_index": 2769,
+        "staidx_offset": 33228,
+        "statics_offset": 29148,
+        "statics_length": 700,
+        "static_items_count": 100,
+        "map_offset": 542728,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000000.dat",
+          "entry_index": 0,
+          "block_in_entry": 2769
+        }
+      }
+    ]
+  }
+}

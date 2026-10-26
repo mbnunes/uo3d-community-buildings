@@ -1,0 +1,180 @@
+{
+  "building_id": "building_048_849_1431",
+  "name": "Wilderness Building #048",
+  "map": "map2_ilshenar",
+  "map_index": 2,
+  "map_name": "Ilshenar",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "860 1435",
+    "center_x": 860,
+    "center_y": 1435,
+    "base_z": -28,
+    "map_name": "Ilshenar (Map 2)"
+  },
+  "world_bounds": {
+    "min_x": 849,
+    "max_x": 871,
+    "min_y": 1431,
+    "max_y": 1439,
+    "base_z": -28,
+    "max_z": -8,
+    "center_x": 860.5,
+    "center_y": 1435.5,
+    "center_z_elevation": -3.36
+  },
+  "dimensions_meters": {
+    "width_x": 23.0,
+    "depth_z": 9.0,
+    "height_y": 3.58
+  },
+  "stats": {
+    "tile_count": 91,
+    "item_count": 153,
+    "triangles_count": 2446,
+    "unique_textures_count": 5
+  },
+  "unique_items": [
+    {
+      "id": 197,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0197.png"
+    },
+    {
+      "id": 1822,
+      "name": "stone",
+      "texture_file": "stone_1822.png"
+    },
+    {
+      "id": 1865,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1865.png"
+    },
+    {
+      "id": 2567,
+      "name": "wall torch",
+      "texture_file": "wall_torch_2567.png"
+    },
+    {
+      "id": 2572,
+      "name": "wall torch",
+      "texture_file": "wall_torch_2572.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map2.mul",
+      "statics_file": "statics2.mul",
+      "staidx_file": "staidx2.mul",
+      "uop_file": "map2LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 288,
+      "h_blocks": 200,
+      "min_block_x": 106,
+      "max_block_x": 108,
+      "min_block_y": 178,
+      "max_block_y": 179,
+      "total_blocks": 6
+    },
+    "blocks": [
+      {
+        "block_x": 106,
+        "block_y": 178,
+        "block_index": 21378,
+        "staidx_offset": 256536,
+        "statics_offset": 1207640,
+        "statics_length": 21,
+        "static_items_count": 3,
+        "map_offset": 4190092,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000005.dat",
+          "entry_index": 5,
+          "block_in_entry": 898
+        }
+      },
+      {
+        "block_x": 106,
+        "block_y": 179,
+        "block_index": 21379,
+        "staidx_offset": 256548,
+        "statics_offset": 1207661,
+        "statics_length": 161,
+        "static_items_count": 23,
+        "map_offset": 4190288,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000005.dat",
+          "entry_index": 5,
+          "block_in_entry": 899
+        }
+      },
+      {
+        "block_x": 107,
+        "block_y": 178,
+        "block_index": 21578,
+        "staidx_offset": 258936,
+        "statics_offset": 1230810,
+        "statics_length": 14,
+        "static_items_count": 2,
+        "map_offset": 4229292,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000005.dat",
+          "entry_index": 5,
+          "block_in_entry": 1098
+        }
+      },
+      {
+        "block_x": 107,
+        "block_y": 179,
+        "block_index": 21579,
+        "staidx_offset": 258948,
+        "statics_offset": 1230824,
+        "statics_length": 168,
+        "static_items_count": 24,
+        "map_offset": 4229488,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000005.dat",
+          "entry_index": 5,
+          "block_in_entry": 1099
+        }
+      },
+      {
+        "block_x": 108,
+        "block_y": 178,
+        "block_index": 21778,
+        "staidx_offset": 261336,
+        "statics_offset": 1251082,
+        "statics_length": 28,
+        "static_items_count": 4,
+        "map_offset": 4268492,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000005.dat",
+          "entry_index": 5,
+          "block_in_entry": 1298
+        }
+      },
+      {
+        "block_x": 108,
+        "block_y": 179,
+        "block_index": 21779,
+        "staidx_offset": 261348,
+        "statics_offset": 1251110,
+        "statics_length": 679,
+        "static_items_count": 97,
+        "map_offset": 4268688,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000005.dat",
+          "entry_index": 5,
+          "block_in_entry": 1299
+        }
+      }
+    ]
+  }
+}

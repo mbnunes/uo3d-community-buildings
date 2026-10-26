@@ -1,0 +1,283 @@
+{
+  "building_id": "building_006_2012_1349",
+  "name": "Umbra Building #006",
+  "map": "map3_malas",
+  "map_index": 3,
+  "map_name": "Malas",
+  "region": "umbra",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "2018 1354",
+    "center_x": 2018,
+    "center_y": 1354,
+    "base_z": -101,
+    "map_name": "Malas (Map 3)"
+  },
+  "world_bounds": {
+    "min_x": 2012,
+    "max_x": 2023,
+    "min_y": 1349,
+    "max_y": 1359,
+    "base_z": -101,
+    "max_z": -64,
+    "center_x": 2018.0,
+    "center_y": 1354.5,
+    "center_z_elevation": -12.12
+  },
+  "dimensions_meters": {
+    "width_x": 12.0,
+    "depth_z": 11.0,
+    "height_y": 3.72
+  },
+  "stats": {
+    "tile_count": 118,
+    "item_count": 143,
+    "triangles_count": 504,
+    "unique_textures_count": 32
+  },
+  "unique_items": [
+    {
+      "id": 872,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0872.png"
+    },
+    {
+      "id": 873,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0873.png"
+    },
+    {
+      "id": 874,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0874.png"
+    },
+    {
+      "id": 877,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0877.png"
+    },
+    {
+      "id": 878,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0878.png"
+    },
+    {
+      "id": 879,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0879.png"
+    },
+    {
+      "id": 880,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0880.png"
+    },
+    {
+      "id": 881,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0881.png"
+    },
+    {
+      "id": 888,
+      "name": "dagges",
+      "texture_file": "dagges_0888.png"
+    },
+    {
+      "id": 889,
+      "name": "dagges",
+      "texture_file": "dagges_0889.png"
+    },
+    {
+      "id": 1535,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1535.png"
+    },
+    {
+      "id": 1536,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1536.png"
+    },
+    {
+      "id": 1537,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1537.png"
+    },
+    {
+      "id": 1538,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1538.png"
+    },
+    {
+      "id": 1540,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1540.png"
+    },
+    {
+      "id": 1541,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1541.png"
+    },
+    {
+      "id": 1542,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1542.png"
+    },
+    {
+      "id": 1543,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1543.png"
+    },
+    {
+      "id": 1545,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1545.png"
+    },
+    {
+      "id": 1546,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1546.png"
+    },
+    {
+      "id": 1564,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1564.png"
+    },
+    {
+      "id": 1567,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1567.png"
+    },
+    {
+      "id": 2494,
+      "name": "silverware",
+      "texture_file": "silverware_2494.png"
+    },
+    {
+      "id": 2516,
+      "name": "silverware",
+      "texture_file": "silverware_2516.png"
+    },
+    {
+      "id": 2520,
+      "name": "plate of food",
+      "texture_file": "plate_of_food_2520.png"
+    },
+    {
+      "id": 2523,
+      "name": "plate of food",
+      "texture_file": "plate_of_food_2523.png"
+    },
+    {
+      "id": 2895,
+      "name": "chair",
+      "texture_file": "chair_2895.png"
+    },
+    {
+      "id": 2896,
+      "name": "chair",
+      "texture_file": "chair_2896.png"
+    },
+    {
+      "id": 2942,
+      "name": "table",
+      "texture_file": "table_2942.png"
+    },
+    {
+      "id": 2943,
+      "name": "table",
+      "texture_file": "table_2943.png"
+    },
+    {
+      "id": 2944,
+      "name": "table",
+      "texture_file": "table_2944.png"
+    },
+    {
+      "id": 6260,
+      "name": "sheep carcass",
+      "texture_file": "sheep_carcass_6260.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map3.mul",
+      "statics_file": "statics3.mul",
+      "staidx_file": "staidx3.mul",
+      "uop_file": "map3LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 320,
+      "h_blocks": 256,
+      "min_block_x": 251,
+      "max_block_x": 252,
+      "min_block_y": 168,
+      "max_block_y": 169,
+      "total_blocks": 4
+    },
+    "blocks": [
+      {
+        "block_x": 251,
+        "block_y": 168,
+        "block_index": 64424,
+        "staidx_offset": 773088,
+        "statics_offset": 1837332,
+        "statics_length": 98,
+        "static_items_count": 14,
+        "map_offset": 12627108,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000015.dat",
+          "entry_index": 15,
+          "block_in_entry": 2984
+        }
+      },
+      {
+        "block_x": 251,
+        "block_y": 169,
+        "block_index": 64425,
+        "staidx_offset": 773100,
+        "statics_offset": 1837430,
+        "statics_length": 266,
+        "static_items_count": 38,
+        "map_offset": 12627304,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000015.dat",
+          "entry_index": 15,
+          "block_in_entry": 2985
+        }
+      },
+      {
+        "block_x": 252,
+        "block_y": 168,
+        "block_index": 64680,
+        "staidx_offset": 776160,
+        "statics_offset": 1844675,
+        "statics_length": 210,
+        "static_items_count": 30,
+        "map_offset": 12677284,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000015.dat",
+          "entry_index": 15,
+          "block_in_entry": 3240
+        }
+      },
+      {
+        "block_x": 252,
+        "block_y": 169,
+        "block_index": 64681,
+        "staidx_offset": 776172,
+        "statics_offset": 1844885,
+        "statics_length": 483,
+        "static_items_count": 69,
+        "map_offset": 12677480,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000015.dat",
+          "entry_index": 15,
+          "block_in_entry": 3241
+        }
+      }
+    ]
+  }
+}

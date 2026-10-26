@@ -1,0 +1,250 @@
+{
+  "building_id": "building_041_519_918",
+  "name": "Wilderness Building #041",
+  "map": "map5_termur",
+  "map_index": 5,
+  "map_name": "Termur",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "524 923",
+    "center_x": 524,
+    "center_y": 923,
+    "base_z": -38,
+    "map_name": "Termur (Map 5)"
+  },
+  "world_bounds": {
+    "min_x": 519,
+    "max_x": 529,
+    "min_y": 918,
+    "max_y": 927,
+    "base_z": -38,
+    "max_z": 40,
+    "center_x": 524.5,
+    "center_y": 923.0,
+    "center_z_elevation": -4.56
+  },
+  "dimensions_meters": {
+    "width_x": 11.0,
+    "depth_z": 10.0,
+    "height_y": 21.36
+  },
+  "stats": {
+    "tile_count": 71,
+    "item_count": 96,
+    "triangles_count": 1526,
+    "unique_textures_count": 19
+  },
+  "unique_items": [
+    {
+      "id": 128,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0128.png"
+    },
+    {
+      "id": 1928,
+      "name": "stone",
+      "texture_file": "stone_1928.png"
+    },
+    {
+      "id": 1929,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1929.png"
+    },
+    {
+      "id": 1930,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1930.png"
+    },
+    {
+      "id": 1931,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1931.png"
+    },
+    {
+      "id": 1932,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1932.png"
+    },
+    {
+      "id": 1937,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1937.png"
+    },
+    {
+      "id": 1938,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1938.png"
+    },
+    {
+      "id": 1939,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1939.png"
+    },
+    {
+      "id": 1940,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1940.png"
+    },
+    {
+      "id": 1942,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1942.png"
+    },
+    {
+      "id": 1946,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1946.png"
+    },
+    {
+      "id": 1947,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1947.png"
+    },
+    {
+      "id": 1948,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1948.png"
+    },
+    {
+      "id": 8611,
+      "name": "nodraw",
+      "texture_file": "nodraw_8611.png"
+    },
+    {
+      "id": 12404,
+      "name": "minotaur statue",
+      "texture_file": "minotaur_statue_12404.png"
+    },
+    {
+      "id": 12405,
+      "name": "minotaur statue",
+      "texture_file": "minotaur_statue_12405.png"
+    },
+    {
+      "id": 16679,
+      "name": "gold stone block",
+      "texture_file": "gold_stone_block_16679.png"
+    },
+    {
+      "id": 17729,
+      "name": "breakstone east",
+      "texture_file": "breakstone_east_17729.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map5.mul",
+      "statics_file": "statics5.mul",
+      "staidx_file": "staidx5.mul",
+      "uop_file": "map5LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 160,
+      "h_blocks": 512,
+      "min_block_x": 64,
+      "max_block_x": 66,
+      "min_block_y": 114,
+      "max_block_y": 115,
+      "total_blocks": 6
+    },
+    "blocks": [
+      {
+        "block_x": 64,
+        "block_y": 114,
+        "block_index": 32882,
+        "staidx_offset": 394584,
+        "statics_offset": 957089,
+        "statics_length": 56,
+        "static_items_count": 8,
+        "map_offset": 6444876,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000008.dat",
+          "entry_index": 8,
+          "block_in_entry": 114
+        }
+      },
+      {
+        "block_x": 64,
+        "block_y": 115,
+        "block_index": 32883,
+        "staidx_offset": 394596,
+        "statics_offset": 957145,
+        "statics_length": 63,
+        "static_items_count": 9,
+        "map_offset": 6445072,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000008.dat",
+          "entry_index": 8,
+          "block_in_entry": 115
+        }
+      },
+      {
+        "block_x": 65,
+        "block_y": 114,
+        "block_index": 33394,
+        "staidx_offset": 400728,
+        "statics_offset": 995897,
+        "statics_length": 91,
+        "static_items_count": 13,
+        "map_offset": 6545228,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000008.dat",
+          "entry_index": 8,
+          "block_in_entry": 626
+        }
+      },
+      {
+        "block_x": 65,
+        "block_y": 115,
+        "block_index": 33395,
+        "staidx_offset": 400740,
+        "statics_offset": 995988,
+        "statics_length": 490,
+        "static_items_count": 70,
+        "map_offset": 6545424,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000008.dat",
+          "entry_index": 8,
+          "block_in_entry": 627
+        }
+      },
+      {
+        "block_x": 66,
+        "block_y": 114,
+        "block_index": 33906,
+        "staidx_offset": 406872,
+        "statics_offset": 1040249,
+        "statics_length": 42,
+        "static_items_count": 6,
+        "map_offset": 6645580,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000008.dat",
+          "entry_index": 8,
+          "block_in_entry": 1138
+        }
+      },
+      {
+        "block_x": 66,
+        "block_y": 115,
+        "block_index": 33907,
+        "staidx_offset": 406884,
+        "statics_offset": 1040291,
+        "statics_length": 49,
+        "static_items_count": 7,
+        "map_offset": 6645776,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000008.dat",
+          "entry_index": 8,
+          "block_in_entry": 1139
+        }
+      }
+    ]
+  }
+}

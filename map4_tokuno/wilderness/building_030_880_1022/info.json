@@ -1,0 +1,126 @@
+{
+  "building_id": "building_030_880_1022",
+  "name": "Wilderness Building #030",
+  "map": "map4_tokuno",
+  "map_index": 4,
+  "map_name": "Tokuno",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "884 1026",
+    "center_x": 884,
+    "center_y": 1026,
+    "base_z": 48,
+    "map_name": "Tokuno (Map 4)"
+  },
+  "world_bounds": {
+    "min_x": 880,
+    "max_x": 887,
+    "min_y": 1022,
+    "max_y": 1029,
+    "base_z": 48,
+    "max_z": 49,
+    "center_x": 884.0,
+    "center_y": 1026.0,
+    "center_z_elevation": 5.76
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 8.0,
+    "height_y": 2.52
+  },
+  "stats": {
+    "tile_count": 24,
+    "item_count": 24,
+    "triangles_count": 288,
+    "unique_textures_count": 7
+  },
+  "unique_items": [
+    {
+      "id": 631,
+      "name": "ruined wall",
+      "texture_file": "ruined_wall_0631.png"
+    },
+    {
+      "id": 632,
+      "name": "ruined wall",
+      "texture_file": "ruined_wall_0632.png"
+    },
+    {
+      "id": 633,
+      "name": "ruined wall",
+      "texture_file": "ruined_wall_0633.png"
+    },
+    {
+      "id": 634,
+      "name": "ruined wall",
+      "texture_file": "ruined_wall_0634.png"
+    },
+    {
+      "id": 635,
+      "name": "ruined wall",
+      "texture_file": "ruined_wall_0635.png"
+    },
+    {
+      "id": 636,
+      "name": "ruined wall",
+      "texture_file": "ruined_wall_0636.png"
+    },
+    {
+      "id": 642,
+      "name": "ruined wall",
+      "texture_file": "ruined_wall_0642.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map4.mul",
+      "statics_file": "statics4.mul",
+      "staidx_file": "staidx4.mul",
+      "uop_file": "map4LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 181,
+      "h_blocks": 181,
+      "min_block_x": 110,
+      "max_block_x": 110,
+      "min_block_y": 127,
+      "max_block_y": 128,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 110,
+        "block_y": 127,
+        "block_index": 20037,
+        "staidx_offset": 240444,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 3927256,
+        "uop_entry": {
+          "file": "map4LegacyMUL.uop",
+          "entry_name": "build/map4legacymul/00000004.dat",
+          "entry_index": 4,
+          "block_in_entry": 3653
+        }
+      },
+      {
+        "block_x": 110,
+        "block_y": 128,
+        "block_index": 20038,
+        "staidx_offset": 240456,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 3927452,
+        "uop_entry": {
+          "file": "map4LegacyMUL.uop",
+          "entry_name": "build/map4legacymul/00000004.dat",
+          "entry_index": 4,
+          "block_in_entry": 3654
+        }
+      }
+    ]
+  }
+}

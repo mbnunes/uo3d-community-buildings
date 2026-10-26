@@ -1,0 +1,238 @@
+{
+  "building_id": "building_107_809_3563",
+  "name": "Wilderness Building #107",
+  "map": "map5_termur",
+  "map_index": 5,
+  "map_name": "Termur",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "815 3567",
+    "center_x": 815,
+    "center_y": 3567,
+    "base_z": -44,
+    "map_name": "Termur (Map 5)"
+  },
+  "world_bounds": {
+    "min_x": 809,
+    "max_x": 820,
+    "min_y": 3563,
+    "max_y": 3570,
+    "base_z": -44,
+    "max_z": -13,
+    "center_x": 815.0,
+    "center_y": 3567.0,
+    "center_z_elevation": -5.279999999999999
+  },
+  "dimensions_meters": {
+    "width_x": 12.0,
+    "depth_z": 8.0,
+    "height_y": 2.52
+  },
+  "stats": {
+    "tile_count": 95,
+    "item_count": 119,
+    "triangles_count": 408,
+    "unique_textures_count": 23
+  },
+  "unique_items": [
+    {
+      "id": 742,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0742.png"
+    },
+    {
+      "id": 743,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0743.png"
+    },
+    {
+      "id": 744,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0744.png"
+    },
+    {
+      "id": 745,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0745.png"
+    },
+    {
+      "id": 746,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0746.png"
+    },
+    {
+      "id": 747,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0747.png"
+    },
+    {
+      "id": 748,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0748.png"
+    },
+    {
+      "id": 1535,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1535.png"
+    },
+    {
+      "id": 1536,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1536.png"
+    },
+    {
+      "id": 1537,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1537.png"
+    },
+    {
+      "id": 1538,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1538.png"
+    },
+    {
+      "id": 1539,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1539.png"
+    },
+    {
+      "id": 1540,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1540.png"
+    },
+    {
+      "id": 1541,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1541.png"
+    },
+    {
+      "id": 1542,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1542.png"
+    },
+    {
+      "id": 1543,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1543.png"
+    },
+    {
+      "id": 1545,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1545.png"
+    },
+    {
+      "id": 1546,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1546.png"
+    },
+    {
+      "id": 2645,
+      "name": "bedroll",
+      "texture_file": "bedroll_2645.png"
+    },
+    {
+      "id": 2646,
+      "name": "bedroll",
+      "texture_file": "bedroll_2646.png"
+    },
+    {
+      "id": 2648,
+      "name": "bedroll",
+      "texture_file": "bedroll_2648.png"
+    },
+    {
+      "id": 5037,
+      "name": "pillow",
+      "texture_file": "pillow_5037.png"
+    },
+    {
+      "id": 16492,
+      "name": "cyclone",
+      "texture_file": "cyclone_16492.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map5.mul",
+      "statics_file": "statics5.mul",
+      "staidx_file": "staidx5.mul",
+      "uop_file": "map5LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 160,
+      "h_blocks": 512,
+      "min_block_x": 101,
+      "max_block_x": 102,
+      "min_block_y": 445,
+      "max_block_y": 446,
+      "total_blocks": 4
+    },
+    "blocks": [
+      {
+        "block_x": 101,
+        "block_y": 445,
+        "block_index": 52157,
+        "staidx_offset": 625884,
+        "statics_offset": 2454725,
+        "statics_length": 280,
+        "static_items_count": 40,
+        "map_offset": 10222776,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000012.dat",
+          "entry_index": 12,
+          "block_in_entry": 3005
+        }
+      },
+      {
+        "block_x": 101,
+        "block_y": 446,
+        "block_index": 52158,
+        "staidx_offset": 625896,
+        "statics_offset": 2455005,
+        "statics_length": 196,
+        "static_items_count": 28,
+        "map_offset": 10222972,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000012.dat",
+          "entry_index": 12,
+          "block_in_entry": 3006
+        }
+      },
+      {
+        "block_x": 102,
+        "block_y": 445,
+        "block_index": 52669,
+        "staidx_offset": 632028,
+        "statics_offset": 2484797,
+        "statics_length": 210,
+        "static_items_count": 30,
+        "map_offset": 10323128,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000012.dat",
+          "entry_index": 12,
+          "block_in_entry": 3517
+        }
+      },
+      {
+        "block_x": 102,
+        "block_y": 446,
+        "block_index": 52670,
+        "staidx_offset": 632040,
+        "statics_offset": 2485007,
+        "statics_length": 196,
+        "static_items_count": 28,
+        "map_offset": 10323324,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000012.dat",
+          "entry_index": 12,
+          "block_in_entry": 3518
+        }
+      }
+    ]
+  }
+}

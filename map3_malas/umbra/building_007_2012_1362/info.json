@@ -1,0 +1,181 @@
+{
+  "building_id": "building_007_2012_1362",
+  "name": "Umbra Building #007",
+  "map": "map3_malas",
+  "map_index": 3,
+  "map_name": "Malas",
+  "region": "umbra",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "2014 1365",
+    "center_x": 2014,
+    "center_y": 1365,
+    "base_z": -91,
+    "map_name": "Malas (Map 3)"
+  },
+  "world_bounds": {
+    "min_x": 2012,
+    "max_x": 2015,
+    "min_y": 1362,
+    "max_y": 1368,
+    "base_z": -91,
+    "max_z": -67,
+    "center_x": 2014.0,
+    "center_y": 1365.5,
+    "center_z_elevation": -10.92
+  },
+  "dimensions_meters": {
+    "width_x": 4.0,
+    "depth_z": 7.0,
+    "height_y": 2.64
+  },
+  "stats": {
+    "tile_count": 26,
+    "item_count": 30,
+    "triangles_count": 204,
+    "unique_textures_count": 18
+  },
+  "unique_items": [
+    {
+      "id": 873,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0873.png"
+    },
+    {
+      "id": 878,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0878.png"
+    },
+    {
+      "id": 879,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0879.png"
+    },
+    {
+      "id": 880,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0880.png"
+    },
+    {
+      "id": 881,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0881.png"
+    },
+    {
+      "id": 1535,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1535.png"
+    },
+    {
+      "id": 1536,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1536.png"
+    },
+    {
+      "id": 1537,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1537.png"
+    },
+    {
+      "id": 1538,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1538.png"
+    },
+    {
+      "id": 1540,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1540.png"
+    },
+    {
+      "id": 1541,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1541.png"
+    },
+    {
+      "id": 1542,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1542.png"
+    },
+    {
+      "id": 1543,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1543.png"
+    },
+    {
+      "id": 1568,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1568.png"
+    },
+    {
+      "id": 2445,
+      "name": "jugs of cider",
+      "texture_file": "jugs_of_cider_2445.png"
+    },
+    {
+      "id": 2590,
+      "name": "bowl of flour",
+      "texture_file": "bowl_of_flour_2590.png"
+    },
+    {
+      "id": 6437,
+      "name": "flour mill",
+      "texture_file": "flour_mill_6437.png"
+    },
+    {
+      "id": 6438,
+      "name": "flour mill",
+      "texture_file": "flour_mill_6438.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map3.mul",
+      "statics_file": "statics3.mul",
+      "staidx_file": "staidx3.mul",
+      "uop_file": "map3LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 320,
+      "h_blocks": 256,
+      "min_block_x": 251,
+      "max_block_x": 251,
+      "min_block_y": 170,
+      "max_block_y": 171,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 251,
+        "block_y": 170,
+        "block_index": 64426,
+        "staidx_offset": 773112,
+        "statics_offset": 1837696,
+        "statics_length": 196,
+        "static_items_count": 28,
+        "map_offset": 12627500,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000015.dat",
+          "entry_index": 15,
+          "block_in_entry": 2986
+        }
+      },
+      {
+        "block_x": 251,
+        "block_y": 171,
+        "block_index": 64427,
+        "staidx_offset": 773124,
+        "statics_offset": 1837892,
+        "statics_length": 21,
+        "static_items_count": 3,
+        "map_offset": 12627696,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000015.dat",
+          "entry_index": 15,
+          "block_in_entry": 2987
+        }
+      }
+    ]
+  }
+}

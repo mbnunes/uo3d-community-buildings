@@ -1,0 +1,678 @@
+{
+  "building_id": "building_019_347_1133",
+  "name": "Wilderness Building #019",
+  "map": "map2_ilshenar",
+  "map_index": 2,
+  "map_name": "Ilshenar",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "356 1141",
+    "center_x": 356,
+    "center_y": 1141,
+    "base_z": -57,
+    "map_name": "Ilshenar (Map 2)"
+  },
+  "world_bounds": {
+    "min_x": 347,
+    "max_x": 365,
+    "min_y": 1133,
+    "max_y": 1149,
+    "base_z": -57,
+    "max_z": 3,
+    "center_x": 356.5,
+    "center_y": 1141.5,
+    "center_z_elevation": -6.84
+  },
+  "dimensions_meters": {
+    "width_x": 19.0,
+    "depth_z": 17.0,
+    "height_y": 6.46
+  },
+  "stats": {
+    "tile_count": 227,
+    "item_count": 405,
+    "triangles_count": 1524,
+    "unique_textures_count": 95
+  },
+  "unique_items": [
+    {
+      "id": 545,
+      "name": "palisade",
+      "texture_file": "palisade_0545.png"
+    },
+    {
+      "id": 546,
+      "name": "palisade",
+      "texture_file": "palisade_0546.png"
+    },
+    {
+      "id": 550,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0550.png"
+    },
+    {
+      "id": 551,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0551.png"
+    },
+    {
+      "id": 552,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0552.png"
+    },
+    {
+      "id": 553,
+      "name": "wooden post",
+      "texture_file": "wooden_post_0553.png"
+    },
+    {
+      "id": 554,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0554.png"
+    },
+    {
+      "id": 555,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0555.png"
+    },
+    {
+      "id": 558,
+      "name": "door",
+      "texture_file": "door_0558.png"
+    },
+    {
+      "id": 1073,
+      "name": "palisade",
+      "texture_file": "palisade_1073.png"
+    },
+    {
+      "id": 1074,
+      "name": "curtain",
+      "texture_file": "curtain_1074.png"
+    },
+    {
+      "id": 1075,
+      "name": "curtain rod",
+      "texture_file": "curtain_rod_1075.png"
+    },
+    {
+      "id": 1520,
+      "name": "log roof",
+      "texture_file": "log_roof_1520.png"
+    },
+    {
+      "id": 1522,
+      "name": "log roof",
+      "texture_file": "log_roof_1522.png"
+    },
+    {
+      "id": 2420,
+      "name": "cauldron",
+      "texture_file": "cauldron_2420.png"
+    },
+    {
+      "id": 3256,
+      "name": "cattails",
+      "texture_file": "cattails_3256.png"
+    },
+    {
+      "id": 3257,
+      "name": "grasses",
+      "texture_file": "grasses_3257.png"
+    },
+    {
+      "id": 3258,
+      "name": "grasses",
+      "texture_file": "grasses_3258.png"
+    },
+    {
+      "id": 3259,
+      "name": "grasses",
+      "texture_file": "grasses_3259.png"
+    },
+    {
+      "id": 3260,
+      "name": "grasses",
+      "texture_file": "grasses_3260.png"
+    },
+    {
+      "id": 3261,
+      "name": "grasses",
+      "texture_file": "grasses_3261.png"
+    },
+    {
+      "id": 3338,
+      "name": "lilypad",
+      "texture_file": "lilypad_3338.png"
+    },
+    {
+      "id": 3339,
+      "name": "lilypads",
+      "texture_file": "lilypads_3339.png"
+    },
+    {
+      "id": 3403,
+      "name": "leaves",
+      "texture_file": "leaves_3403.png"
+    },
+    {
+      "id": 3404,
+      "name": "leaves",
+      "texture_file": "leaves_3404.png"
+    },
+    {
+      "id": 3523,
+      "name": "water lilly",
+      "texture_file": "water_lilly_3523.png"
+    },
+    {
+      "id": 4012,
+      "name": "fire pit",
+      "texture_file": "fire_pit_4012.png"
+    },
+    {
+      "id": 4650,
+      "name": "blood",
+      "texture_file": "blood_4650.png"
+    },
+    {
+      "id": 4651,
+      "name": "blood",
+      "texture_file": "blood_4651.png"
+    },
+    {
+      "id": 4652,
+      "name": "blood",
+      "texture_file": "blood_4652.png"
+    },
+    {
+      "id": 4653,
+      "name": "blood",
+      "texture_file": "blood_4653.png"
+    },
+    {
+      "id": 4654,
+      "name": "blood",
+      "texture_file": "blood_4654.png"
+    },
+    {
+      "id": 4655,
+      "name": "blood smear",
+      "texture_file": "blood_smear_4655.png"
+    },
+    {
+      "id": 6657,
+      "name": "skeleton",
+      "texture_file": "skeleton_6657.png"
+    },
+    {
+      "id": 6658,
+      "name": "skeleton",
+      "texture_file": "skeleton_6658.png"
+    },
+    {
+      "id": 6659,
+      "name": "skeleton",
+      "texture_file": "skeleton_6659.png"
+    },
+    {
+      "id": 6660,
+      "name": "skeleton",
+      "texture_file": "skeleton_6660.png"
+    },
+    {
+      "id": 6661,
+      "name": "skeleton",
+      "texture_file": "skeleton_6661.png"
+    },
+    {
+      "id": 6664,
+      "name": "chains",
+      "texture_file": "chains_6664.png"
+    },
+    {
+      "id": 6872,
+      "name": "pile of skulls",
+      "texture_file": "pile_of_skulls_6872.png"
+    },
+    {
+      "id": 6873,
+      "name": "pile of skulls",
+      "texture_file": "pile_of_skulls_6873.png"
+    },
+    {
+      "id": 6875,
+      "name": "pile of skulls",
+      "texture_file": "pile_of_skulls_6875.png"
+    },
+    {
+      "id": 6876,
+      "name": "pile of skulls",
+      "texture_file": "pile_of_skulls_6876.png"
+    },
+    {
+      "id": 6921,
+      "name": "bone pile",
+      "texture_file": "bone_pile_6921.png"
+    },
+    {
+      "id": 6922,
+      "name": "bone pile",
+      "texture_file": "bone_pile_6922.png"
+    },
+    {
+      "id": 6923,
+      "name": "bone pile",
+      "texture_file": "bone_pile_6923.png"
+    },
+    {
+      "id": 6924,
+      "name": "bone pile",
+      "texture_file": "bone_pile_6924.png"
+    },
+    {
+      "id": 6926,
+      "name": "bone pile",
+      "texture_file": "bone_pile_6926.png"
+    },
+    {
+      "id": 6927,
+      "name": "bone pile",
+      "texture_file": "bone_pile_6927.png"
+    },
+    {
+      "id": 6928,
+      "name": "bone pile",
+      "texture_file": "bone_pile_6928.png"
+    },
+    {
+      "id": 6942,
+      "name": "skeleton with meat",
+      "texture_file": "skeleton_with_meat_6942.png"
+    },
+    {
+      "id": 7045,
+      "name": "wood",
+      "texture_file": "wood_7045.png"
+    },
+    {
+      "id": 7046,
+      "name": "wood",
+      "texture_file": "wood_7046.png"
+    },
+    {
+      "id": 7047,
+      "name": "wood",
+      "texture_file": "wood_7047.png"
+    },
+    {
+      "id": 7049,
+      "name": "wood",
+      "texture_file": "wood_7049.png"
+    },
+    {
+      "id": 7057,
+      "name": "wood",
+      "texture_file": "wood_7057.png"
+    },
+    {
+      "id": 7064,
+      "name": "wood",
+      "texture_file": "wood_7064.png"
+    },
+    {
+      "id": 7065,
+      "name": "wood",
+      "texture_file": "wood_7065.png"
+    },
+    {
+      "id": 7409,
+      "name": "blood",
+      "texture_file": "blood_7409.png"
+    },
+    {
+      "id": 7410,
+      "name": "blood",
+      "texture_file": "blood_7410.png"
+    },
+    {
+      "id": 7411,
+      "name": "blood",
+      "texture_file": "blood_7411.png"
+    },
+    {
+      "id": 7412,
+      "name": "blood",
+      "texture_file": "blood_7412.png"
+    },
+    {
+      "id": 7413,
+      "name": "blood",
+      "texture_file": "blood_7413.png"
+    },
+    {
+      "id": 7414,
+      "name": "blood",
+      "texture_file": "blood_7414.png"
+    },
+    {
+      "id": 7415,
+      "name": "blood",
+      "texture_file": "blood_7415.png"
+    },
+    {
+      "id": 7416,
+      "name": "blood",
+      "texture_file": "blood_7416.png"
+    },
+    {
+      "id": 7417,
+      "name": "blood",
+      "texture_file": "blood_7417.png"
+    },
+    {
+      "id": 7418,
+      "name": "blood",
+      "texture_file": "blood_7418.png"
+    },
+    {
+      "id": 7419,
+      "name": "blood",
+      "texture_file": "blood_7419.png"
+    },
+    {
+      "id": 7420,
+      "name": "blood",
+      "texture_file": "blood_7420.png"
+    },
+    {
+      "id": 7421,
+      "name": "blood",
+      "texture_file": "blood_7421.png"
+    },
+    {
+      "id": 7422,
+      "name": "blood",
+      "texture_file": "blood_7422.png"
+    },
+    {
+      "id": 7423,
+      "name": "blood",
+      "texture_file": "blood_7423.png"
+    },
+    {
+      "id": 7424,
+      "name": "blood",
+      "texture_file": "blood_7424.png"
+    },
+    {
+      "id": 7425,
+      "name": "blood",
+      "texture_file": "blood_7425.png"
+    },
+    {
+      "id": 7426,
+      "name": "blood",
+      "texture_file": "blood_7426.png"
+    },
+    {
+      "id": 7427,
+      "name": "blood",
+      "texture_file": "blood_7427.png"
+    },
+    {
+      "id": 7428,
+      "name": "blood",
+      "texture_file": "blood_7428.png"
+    },
+    {
+      "id": 7429,
+      "name": "blood",
+      "texture_file": "blood_7429.png"
+    },
+    {
+      "id": 7431,
+      "name": "blood",
+      "texture_file": "blood_7431.png"
+    },
+    {
+      "id": 7433,
+      "name": "blood",
+      "texture_file": "blood_7433.png"
+    },
+    {
+      "id": 7434,
+      "name": "blood",
+      "texture_file": "blood_7434.png"
+    },
+    {
+      "id": 7435,
+      "name": "blood",
+      "texture_file": "blood_7435.png"
+    },
+    {
+      "id": 7436,
+      "name": "blood",
+      "texture_file": "blood_7436.png"
+    },
+    {
+      "id": 7437,
+      "name": "blood",
+      "texture_file": "blood_7437.png"
+    },
+    {
+      "id": 7438,
+      "name": "blood",
+      "texture_file": "blood_7438.png"
+    },
+    {
+      "id": 7439,
+      "name": "blood",
+      "texture_file": "blood_7439.png"
+    },
+    {
+      "id": 7440,
+      "name": "blood",
+      "texture_file": "blood_7440.png"
+    },
+    {
+      "id": 7441,
+      "name": "blood",
+      "texture_file": "blood_7441.png"
+    },
+    {
+      "id": 7442,
+      "name": "blood",
+      "texture_file": "blood_7442.png"
+    },
+    {
+      "id": 7570,
+      "name": "blood",
+      "texture_file": "blood_7570.png"
+    },
+    {
+      "id": 7571,
+      "name": "blood",
+      "texture_file": "blood_7571.png"
+    },
+    {
+      "id": 7572,
+      "name": "blood",
+      "texture_file": "blood_7572.png"
+    },
+    {
+      "id": 7573,
+      "name": "blood",
+      "texture_file": "blood_7573.png"
+    },
+    {
+      "id": 7574,
+      "name": "blood",
+      "texture_file": "blood_7574.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map2.mul",
+      "statics_file": "statics2.mul",
+      "staidx_file": "staidx2.mul",
+      "uop_file": "map2LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 288,
+      "h_blocks": 200,
+      "min_block_x": 43,
+      "max_block_x": 45,
+      "min_block_y": 141,
+      "max_block_y": 143,
+      "total_blocks": 9
+    },
+    "blocks": [
+      {
+        "block_x": 43,
+        "block_y": 141,
+        "block_index": 8741,
+        "staidx_offset": 104892,
+        "statics_offset": 216741,
+        "statics_length": 77,
+        "static_items_count": 11,
+        "map_offset": 1713240,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000002.dat",
+          "entry_index": 2,
+          "block_in_entry": 549
+        }
+      },
+      {
+        "block_x": 43,
+        "block_y": 142,
+        "block_index": 8742,
+        "staidx_offset": 104904,
+        "statics_offset": 216818,
+        "statics_length": 518,
+        "static_items_count": 74,
+        "map_offset": 1713436,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000002.dat",
+          "entry_index": 2,
+          "block_in_entry": 550
+        }
+      },
+      {
+        "block_x": 43,
+        "block_y": 143,
+        "block_index": 8743,
+        "staidx_offset": 104916,
+        "statics_offset": 217336,
+        "statics_length": 364,
+        "static_items_count": 52,
+        "map_offset": 1713632,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000002.dat",
+          "entry_index": 2,
+          "block_in_entry": 551
+        }
+      },
+      {
+        "block_x": 44,
+        "block_y": 141,
+        "block_index": 8941,
+        "staidx_offset": 107292,
+        "statics_offset": 228669,
+        "statics_length": 168,
+        "static_items_count": 24,
+        "map_offset": 1752440,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000002.dat",
+          "entry_index": 2,
+          "block_in_entry": 749
+        }
+      },
+      {
+        "block_x": 44,
+        "block_y": 142,
+        "block_index": 8942,
+        "staidx_offset": 107304,
+        "statics_offset": 228837,
+        "statics_length": 945,
+        "static_items_count": 135,
+        "map_offset": 1752636,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000002.dat",
+          "entry_index": 2,
+          "block_in_entry": 750
+        }
+      },
+      {
+        "block_x": 44,
+        "block_y": 143,
+        "block_index": 8943,
+        "staidx_offset": 107316,
+        "statics_offset": 229782,
+        "statics_length": 630,
+        "static_items_count": 90,
+        "map_offset": 1752832,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000002.dat",
+          "entry_index": 2,
+          "block_in_entry": 751
+        }
+      },
+      {
+        "block_x": 45,
+        "block_y": 141,
+        "block_index": 9141,
+        "staidx_offset": 109692,
+        "statics_offset": 240100,
+        "statics_length": 133,
+        "static_items_count": 19,
+        "map_offset": 1791640,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000002.dat",
+          "entry_index": 2,
+          "block_in_entry": 949
+        }
+      },
+      {
+        "block_x": 45,
+        "block_y": 142,
+        "block_index": 9142,
+        "staidx_offset": 109704,
+        "statics_offset": 240233,
+        "statics_length": 259,
+        "static_items_count": 37,
+        "map_offset": 1791836,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000002.dat",
+          "entry_index": 2,
+          "block_in_entry": 950
+        }
+      },
+      {
+        "block_x": 45,
+        "block_y": 143,
+        "block_index": 9143,
+        "staidx_offset": 109716,
+        "statics_offset": 240492,
+        "statics_length": 231,
+        "static_items_count": 33,
+        "map_offset": 1792032,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000002.dat",
+          "entry_index": 2,
+          "block_in_entry": 951
+        }
+      }
+    ]
+  }
+}

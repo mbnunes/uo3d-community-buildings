@@ -1,0 +1,171 @@
+{
+  "building_id": "building_069_982_578",
+  "name": "Wilderness Building #069",
+  "map": "map2_ilshenar",
+  "map_index": 2,
+  "map_name": "Ilshenar",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "984 580",
+    "center_x": 984,
+    "center_y": 580,
+    "base_z": -80,
+    "map_name": "Ilshenar (Map 2)"
+  },
+  "world_bounds": {
+    "min_x": 982,
+    "max_x": 986,
+    "min_y": 578,
+    "max_y": 582,
+    "base_z": -80,
+    "max_z": -30,
+    "center_x": 984.5,
+    "center_y": 580.5,
+    "center_z_elevation": -9.6
+  },
+  "dimensions_meters": {
+    "width_x": 5.0,
+    "depth_z": 5.0,
+    "height_y": 7.2
+  },
+  "stats": {
+    "tile_count": 20,
+    "item_count": 63,
+    "triangles_count": 696,
+    "unique_textures_count": 16
+  },
+  "unique_items": [
+    {
+      "id": 356,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0356.png"
+    },
+    {
+      "id": 357,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0357.png"
+    },
+    {
+      "id": 358,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0358.png"
+    },
+    {
+      "id": 359,
+      "name": "sandstone post",
+      "texture_file": "sandstone_post_0359.png"
+    },
+    {
+      "id": 591,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0591.png"
+    },
+    {
+      "id": 592,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0592.png"
+    },
+    {
+      "id": 593,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0593.png"
+    },
+    {
+      "id": 600,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0600.png"
+    },
+    {
+      "id": 1082,
+      "name": "marble arch",
+      "texture_file": "marble_arch_1082.png"
+    },
+    {
+      "id": 1084,
+      "name": "marble arch",
+      "texture_file": "marble_arch_1084.png"
+    },
+    {
+      "id": 1297,
+      "name": "marble floor",
+      "texture_file": "marble_floor_1297.png"
+    },
+    {
+      "id": 1354,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1354.png"
+    },
+    {
+      "id": 1358,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1358.png"
+    },
+    {
+      "id": 4648,
+      "name": "statue",
+      "texture_file": "statue_4648.png"
+    },
+    {
+      "id": 5021,
+      "name": "statue",
+      "texture_file": "statue_5021.png"
+    },
+    {
+      "id": 8612,
+      "name": "no draw",
+      "texture_file": "no_draw_8612.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map2.mul",
+      "statics_file": "statics2.mul",
+      "staidx_file": "staidx2.mul",
+      "uop_file": "map2LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 288,
+      "h_blocks": 200,
+      "min_block_x": 122,
+      "max_block_x": 123,
+      "min_block_y": 72,
+      "max_block_y": 72,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 122,
+        "block_y": 72,
+        "block_index": 24472,
+        "staidx_offset": 293664,
+        "statics_offset": 1401029,
+        "statics_length": 182,
+        "static_items_count": 26,
+        "map_offset": 4796516,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000005.dat",
+          "entry_index": 5,
+          "block_in_entry": 3992
+        }
+      },
+      {
+        "block_x": 123,
+        "block_y": 72,
+        "block_index": 24672,
+        "staidx_offset": 296064,
+        "statics_offset": 1413062,
+        "statics_length": 259,
+        "static_items_count": 37,
+        "map_offset": 4835716,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000006.dat",
+          "entry_index": 6,
+          "block_in_entry": 96
+        }
+      }
+    ]
+  }
+}

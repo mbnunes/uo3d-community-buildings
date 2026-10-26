@@ -1,0 +1,156 @@
+{
+  "building_id": "building_136_1785_567",
+  "name": "Wilderness Building #136",
+  "map": "map2_ilshenar",
+  "map_index": 2,
+  "map_name": "Ilshenar",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1787 569",
+    "center_x": 1787,
+    "center_y": 569,
+    "base_z": 64,
+    "map_name": "Ilshenar (Map 2)"
+  },
+  "world_bounds": {
+    "min_x": 1785,
+    "max_x": 1789,
+    "min_y": 567,
+    "max_y": 571,
+    "base_z": 64,
+    "max_z": 97,
+    "center_x": 1787.5,
+    "center_y": 569.5,
+    "center_z_elevation": 7.68
+  },
+  "dimensions_meters": {
+    "width_x": 5.0,
+    "depth_z": 5.0,
+    "height_y": 4.32
+  },
+  "stats": {
+    "tile_count": 19,
+    "item_count": 41,
+    "triangles_count": 432,
+    "unique_textures_count": 13
+  },
+  "unique_items": [
+    {
+      "id": 215,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0215.png"
+    },
+    {
+      "id": 217,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0217.png"
+    },
+    {
+      "id": 221,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0221.png"
+    },
+    {
+      "id": 222,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0222.png"
+    },
+    {
+      "id": 223,
+      "name": "stone post",
+      "texture_file": "stone_post_0223.png"
+    },
+    {
+      "id": 224,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0224.png"
+    },
+    {
+      "id": 225,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0225.png"
+    },
+    {
+      "id": 226,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0226.png"
+    },
+    {
+      "id": 227,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0227.png"
+    },
+    {
+      "id": 231,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0231.png"
+    },
+    {
+      "id": 1822,
+      "name": "stone",
+      "texture_file": "stone_1822.png"
+    },
+    {
+      "id": 1823,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1823.png"
+    },
+    {
+      "id": 6571,
+      "name": "fire",
+      "texture_file": "fire_6571.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map2.mul",
+      "statics_file": "statics2.mul",
+      "staidx_file": "staidx2.mul",
+      "uop_file": "map2LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 288,
+      "h_blocks": 200,
+      "min_block_x": 223,
+      "max_block_x": 223,
+      "min_block_y": 70,
+      "max_block_y": 71,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 223,
+        "block_y": 70,
+        "block_index": 44670,
+        "staidx_offset": 536040,
+        "statics_offset": 2187297,
+        "statics_length": 42,
+        "static_items_count": 6,
+        "map_offset": 8755324,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000010.dat",
+          "entry_index": 10,
+          "block_in_entry": 3710
+        }
+      },
+      {
+        "block_x": 223,
+        "block_y": 71,
+        "block_index": 44671,
+        "staidx_offset": 536052,
+        "statics_offset": 2187339,
+        "statics_length": 245,
+        "static_items_count": 35,
+        "map_offset": 8755520,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000010.dat",
+          "entry_index": 10,
+          "block_in_entry": 3711
+        }
+      }
+    ]
+  }
+}

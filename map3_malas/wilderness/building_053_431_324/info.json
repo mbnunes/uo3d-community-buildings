@@ -1,0 +1,203 @@
+{
+  "building_id": "building_053_431_324",
+  "name": "Wilderness Building #053",
+  "map": "map3_malas",
+  "map_index": 3,
+  "map_name": "Malas",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "433 327",
+    "center_x": 433,
+    "center_y": 327,
+    "base_z": -1,
+    "map_name": "Malas (Map 3)"
+  },
+  "world_bounds": {
+    "min_x": 431,
+    "max_x": 434,
+    "min_y": 324,
+    "max_y": 329,
+    "base_z": -1,
+    "max_z": 6,
+    "center_x": 433.0,
+    "center_y": 327.0,
+    "center_z_elevation": -0.12
+  },
+  "dimensions_meters": {
+    "width_x": 4.0,
+    "depth_z": 6.0,
+    "height_y": 1.06
+  },
+  "stats": {
+    "tile_count": 22,
+    "item_count": 43,
+    "triangles_count": 336,
+    "unique_textures_count": 16
+  },
+  "unique_items": [
+    {
+      "id": 280,
+      "name": "marble wall",
+      "texture_file": "marble_wall_0280.png"
+    },
+    {
+      "id": 281,
+      "name": "marble wall",
+      "texture_file": "marble_wall_0281.png"
+    },
+    {
+      "id": 282,
+      "name": "marble wall",
+      "texture_file": "marble_wall_0282.png"
+    },
+    {
+      "id": 943,
+      "name": "pier",
+      "texture_file": "pier_0943.png"
+    },
+    {
+      "id": 1305,
+      "name": "stone pavers dark",
+      "texture_file": "stone_pavers_dark_1305.png"
+    },
+    {
+      "id": 1872,
+      "name": "stone",
+      "texture_file": "stone_1872.png"
+    },
+    {
+      "id": 1873,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1873.png"
+    },
+    {
+      "id": 3676,
+      "name": "glowing rune",
+      "texture_file": "glowing_rune_3676.png"
+    },
+    {
+      "id": 3679,
+      "name": "glowing rune",
+      "texture_file": "glowing_rune_3679.png"
+    },
+    {
+      "id": 3682,
+      "name": "glowing rune",
+      "texture_file": "glowing_rune_3682.png"
+    },
+    {
+      "id": 3685,
+      "name": "glowing rune",
+      "texture_file": "glowing_rune_3685.png"
+    },
+    {
+      "id": 3688,
+      "name": "glowing rune",
+      "texture_file": "glowing_rune_3688.png"
+    },
+    {
+      "id": 3948,
+      "name": "blue moongate",
+      "texture_file": "blue_moongate_3948.png"
+    },
+    {
+      "id": 4483,
+      "name": "gravestone",
+      "texture_file": "gravestone_4483.png"
+    },
+    {
+      "id": 6049,
+      "name": "water",
+      "texture_file": "water_6049.png"
+    },
+    {
+      "id": 6050,
+      "name": "water",
+      "texture_file": "water_6050.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map3.mul",
+      "statics_file": "statics3.mul",
+      "staidx_file": "staidx3.mul",
+      "uop_file": "map3LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 320,
+      "h_blocks": 256,
+      "min_block_x": 53,
+      "max_block_x": 54,
+      "min_block_y": 40,
+      "max_block_y": 41,
+      "total_blocks": 4
+    },
+    "blocks": [
+      {
+        "block_x": 53,
+        "block_y": 40,
+        "block_index": 13608,
+        "staidx_offset": 163296,
+        "statics_offset": 388990,
+        "statics_length": 406,
+        "static_items_count": 58,
+        "map_offset": 2667172,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000003.dat",
+          "entry_index": 3,
+          "block_in_entry": 1320
+        }
+      },
+      {
+        "block_x": 53,
+        "block_y": 41,
+        "block_index": 13609,
+        "staidx_offset": 163308,
+        "statics_offset": 389396,
+        "statics_length": 231,
+        "static_items_count": 33,
+        "map_offset": 2667368,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000003.dat",
+          "entry_index": 3,
+          "block_in_entry": 1321
+        }
+      },
+      {
+        "block_x": 54,
+        "block_y": 40,
+        "block_index": 13864,
+        "staidx_offset": 166368,
+        "statics_offset": 407701,
+        "statics_length": 196,
+        "static_items_count": 28,
+        "map_offset": 2717348,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000003.dat",
+          "entry_index": 3,
+          "block_in_entry": 1576
+        }
+      },
+      {
+        "block_x": 54,
+        "block_y": 41,
+        "block_index": 13865,
+        "staidx_offset": 166380,
+        "statics_offset": 407897,
+        "statics_length": 182,
+        "static_items_count": 26,
+        "map_offset": 2717544,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000003.dat",
+          "entry_index": 3,
+          "block_in_entry": 1577
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "building_id": "building_012_115_1664",
+  "name": "Wilderness Building #012",
+  "map": "map3_malas",
+  "map_index": 3,
+  "map_name": "Malas",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "117 1667",
+    "center_x": 117,
+    "center_y": 1667,
+    "base_z": 0,
+    "map_name": "Malas (Map 3)"
+  },
+  "world_bounds": {
+    "min_x": 115,
+    "max_x": 119,
+    "min_y": 1664,
+    "max_y": 1669,
+    "base_z": 0,
+    "max_z": 48,
+    "center_x": 117.5,
+    "center_y": 1667.0,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 5.0,
+    "depth_z": 6.0,
+    "height_y": 8.26
+  },
+  "stats": {
+    "tile_count": 30,
+    "item_count": 57,
+    "triangles_count": 600,
+    "unique_textures_count": 24
+  },
+  "unique_items": [
+    {
+      "id": 872,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0872.png"
+    },
+    {
+      "id": 873,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0873.png"
+    },
+    {
+      "id": 874,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0874.png"
+    },
+    {
+      "id": 876,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0876.png"
+    },
+    {
+      "id": 877,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0877.png"
+    },
+    {
+      "id": 2759,
+      "name": "carpet",
+      "texture_file": "carpet_2759.png"
+    },
+    {
+      "id": 2761,
+      "name": "carpet",
+      "texture_file": "carpet_2761.png"
+    },
+    {
+      "id": 2762,
+      "name": "carpet",
+      "texture_file": "carpet_2762.png"
+    },
+    {
+      "id": 2763,
+      "name": "carpet",
+      "texture_file": "carpet_2763.png"
+    },
+    {
+      "id": 2764,
+      "name": "carpet",
+      "texture_file": "carpet_2764.png"
+    },
+    {
+      "id": 2765,
+      "name": "carpet",
+      "texture_file": "carpet_2765.png"
+    },
+    {
+      "id": 2766,
+      "name": "carpet",
+      "texture_file": "carpet_2766.png"
+    },
+    {
+      "id": 2767,
+      "name": "carpet",
+      "texture_file": "carpet_2767.png"
+    },
+    {
+      "id": 2768,
+      "name": "carpet",
+      "texture_file": "carpet_2768.png"
+    },
+    {
+      "id": 2866,
+      "name": "throne",
+      "texture_file": "throne_2866.png"
+    },
+    {
+      "id": 2867,
+      "name": "throne",
+      "texture_file": "throne_2867.png"
+    },
+    {
+      "id": 2869,
+      "name": "table",
+      "texture_file": "table_2869.png"
+    },
+    {
+      "id": 2885,
+      "name": "large vase",
+      "texture_file": "large_vase_2885.png"
+    },
+    {
+      "id": 4845,
+      "name": "curtain sash",
+      "texture_file": "curtain_sash_4845.png"
+    },
+    {
+      "id": 5701,
+      "name": "blood",
+      "texture_file": "blood_5701.png"
+    },
+    {
+      "id": 7401,
+      "name": "head",
+      "texture_file": "head_7401.png"
+    },
+    {
+      "id": 8708,
+      "name": "skull pole",
+      "texture_file": "skull_pole_8708.png"
+    },
+    {
+      "id": 8782,
+      "name": "demon skull",
+      "texture_file": "demon_skull_8782.png"
+    },
+    {
+      "id": 8783,
+      "name": "demon skull",
+      "texture_file": "demon_skull_8783.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map3.mul",
+      "statics_file": "statics3.mul",
+      "staidx_file": "staidx3.mul",
+      "uop_file": "map3LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 320,
+      "h_blocks": 256,
+      "min_block_x": 14,
+      "max_block_x": 14,
+      "min_block_y": 208,
+      "max_block_y": 208,
+      "total_blocks": 1
+    },
+    "blocks": [
+      {
+        "block_x": 14,
+        "block_y": 208,
+        "block_index": 3792,
+        "staidx_offset": 45504,
+        "statics_offset": 82572,
+        "statics_length": 420,
+        "static_items_count": 60,
+        "map_offset": 743236,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000000.dat",
+          "entry_index": 0,
+          "block_in_entry": 3792
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,450 @@
+{
+  "building_id": "building_043_527_1823",
+  "name": "Wilderness Building #043",
+  "map": "map5_termur",
+  "map_index": 5,
+  "map_name": "Termur",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "536 1832",
+    "center_x": 536,
+    "center_y": 1832,
+    "base_z": -31,
+    "map_name": "Termur (Map 5)"
+  },
+  "world_bounds": {
+    "min_x": 527,
+    "max_x": 544,
+    "min_y": 1823,
+    "max_y": 1840,
+    "base_z": -31,
+    "max_z": 72,
+    "center_x": 536.0,
+    "center_y": 1832.0,
+    "center_z_elevation": -3.7199999999999998
+  },
+  "dimensions_meters": {
+    "width_x": 18.0,
+    "depth_z": 18.0,
+    "height_y": 2.98
+  },
+  "stats": {
+    "tile_count": 153,
+    "item_count": 296,
+    "triangles_count": 2464,
+    "unique_textures_count": 27
+  },
+  "unique_items": [
+    {
+      "id": 3309,
+      "name": "vines",
+      "texture_file": "vines_3309.png"
+    },
+    {
+      "id": 3310,
+      "name": "vines",
+      "texture_file": "vines_3310.png"
+    },
+    {
+      "id": 3311,
+      "name": "vines",
+      "texture_file": "vines_3311.png"
+    },
+    {
+      "id": 3393,
+      "name": "tree",
+      "texture_file": "tree_3393.png"
+    },
+    {
+      "id": 3397,
+      "name": "leaves",
+      "texture_file": "leaves_3397.png"
+    },
+    {
+      "id": 3398,
+      "name": "leaves",
+      "texture_file": "leaves_3398.png"
+    },
+    {
+      "id": 3419,
+      "name": "tree",
+      "texture_file": "tree_3419.png"
+    },
+    {
+      "id": 3420,
+      "name": "leaves",
+      "texture_file": "leaves_3420.png"
+    },
+    {
+      "id": 3425,
+      "name": "leaves",
+      "texture_file": "leaves_3425.png"
+    },
+    {
+      "id": 3443,
+      "name": "leaves",
+      "texture_file": "leaves_3443.png"
+    },
+    {
+      "id": 6007,
+      "name": "rock",
+      "texture_file": "rock_6007.png"
+    },
+    {
+      "id": 6039,
+      "name": "water",
+      "texture_file": "water_6039.png"
+    },
+    {
+      "id": 6611,
+      "name": "fountain",
+      "texture_file": "fountain_6611.png"
+    },
+    {
+      "id": 13511,
+      "name": "water",
+      "texture_file": "water_13511.png"
+    },
+    {
+      "id": 18324,
+      "name": "ruin flower south",
+      "texture_file": "ruin_flower_south_18324.png"
+    },
+    {
+      "id": 19340,
+      "name": "vanillaplantlarge so",
+      "texture_file": "vanillaplantlarge_so_19340.png"
+    },
+    {
+      "id": 39269,
+      "name": "wall fern east",
+      "texture_file": "wall_fern_east_39269.png"
+    },
+    {
+      "id": 39610,
+      "name": "brick wall",
+      "texture_file": "brick_wall_39610.png"
+    },
+    {
+      "id": 39611,
+      "name": "brick wall",
+      "texture_file": "brick_wall_39611.png"
+    },
+    {
+      "id": 39612,
+      "name": "brick wall",
+      "texture_file": "brick_wall_39612.png"
+    },
+    {
+      "id": 39613,
+      "name": "brick wall",
+      "texture_file": "brick_wall_39613.png"
+    },
+    {
+      "id": 39618,
+      "name": "brick wall",
+      "texture_file": "brick_wall_39618.png"
+    },
+    {
+      "id": 39658,
+      "name": "eodon",
+      "texture_file": "eodon_39658.png"
+    },
+    {
+      "id": 39659,
+      "name": "eodon stairs",
+      "texture_file": "eodon_stairs_39659.png"
+    },
+    {
+      "id": 39660,
+      "name": "eodon stairs",
+      "texture_file": "eodon_stairs_39660.png"
+    },
+    {
+      "id": 39661,
+      "name": "eodon stairs",
+      "texture_file": "eodon_stairs_39661.png"
+    },
+    {
+      "id": 39662,
+      "name": "eodon stairs",
+      "texture_file": "eodon_stairs_39662.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map5.mul",
+      "statics_file": "statics5.mul",
+      "staidx_file": "staidx5.mul",
+      "uop_file": "map5LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 160,
+      "h_blocks": 512,
+      "min_block_x": 65,
+      "max_block_x": 68,
+      "min_block_y": 227,
+      "max_block_y": 230,
+      "total_blocks": 16
+    },
+    "blocks": [
+      {
+        "block_x": 65,
+        "block_y": 227,
+        "block_index": 33507,
+        "staidx_offset": 402084,
+        "statics_offset": 1002589,
+        "statics_length": 14,
+        "static_items_count": 2,
+        "map_offset": 6567376,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000008.dat",
+          "entry_index": 8,
+          "block_in_entry": 739
+        }
+      },
+      {
+        "block_x": 65,
+        "block_y": 228,
+        "block_index": 33508,
+        "staidx_offset": 402096,
+        "statics_offset": 1002603,
+        "statics_length": 385,
+        "static_items_count": 55,
+        "map_offset": 6567572,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000008.dat",
+          "entry_index": 8,
+          "block_in_entry": 740
+        }
+      },
+      {
+        "block_x": 65,
+        "block_y": 229,
+        "block_index": 33509,
+        "staidx_offset": 402108,
+        "statics_offset": 1002988,
+        "statics_length": 98,
+        "static_items_count": 14,
+        "map_offset": 6567768,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000008.dat",
+          "entry_index": 8,
+          "block_in_entry": 741
+        }
+      },
+      {
+        "block_x": 65,
+        "block_y": 230,
+        "block_index": 33510,
+        "staidx_offset": 402120,
+        "statics_offset": 1003086,
+        "statics_length": 259,
+        "static_items_count": 37,
+        "map_offset": 6567964,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000008.dat",
+          "entry_index": 8,
+          "block_in_entry": 742
+        }
+      },
+      {
+        "block_x": 66,
+        "block_y": 227,
+        "block_index": 34019,
+        "staidx_offset": 408228,
+        "statics_offset": 1046836,
+        "statics_length": 224,
+        "static_items_count": 32,
+        "map_offset": 6667728,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000008.dat",
+          "entry_index": 8,
+          "block_in_entry": 1251
+        }
+      },
+      {
+        "block_x": 66,
+        "block_y": 228,
+        "block_index": 34020,
+        "staidx_offset": 408240,
+        "statics_offset": 1047060,
+        "statics_length": 882,
+        "static_items_count": 126,
+        "map_offset": 6667924,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000008.dat",
+          "entry_index": 8,
+          "block_in_entry": 1252
+        }
+      },
+      {
+        "block_x": 66,
+        "block_y": 229,
+        "block_index": 34021,
+        "staidx_offset": 408252,
+        "statics_offset": 1047942,
+        "statics_length": 1043,
+        "static_items_count": 149,
+        "map_offset": 6668120,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000008.dat",
+          "entry_index": 8,
+          "block_in_entry": 1253
+        }
+      },
+      {
+        "block_x": 66,
+        "block_y": 230,
+        "block_index": 34022,
+        "staidx_offset": 408264,
+        "statics_offset": 1048985,
+        "statics_length": 182,
+        "static_items_count": 26,
+        "map_offset": 6668316,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000008.dat",
+          "entry_index": 8,
+          "block_in_entry": 1254
+        }
+      },
+      {
+        "block_x": 67,
+        "block_y": 227,
+        "block_index": 34531,
+        "staidx_offset": 414372,
+        "statics_offset": 1083978,
+        "statics_length": 98,
+        "static_items_count": 14,
+        "map_offset": 6768080,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000008.dat",
+          "entry_index": 8,
+          "block_in_entry": 1763
+        }
+      },
+      {
+        "block_x": 67,
+        "block_y": 228,
+        "block_index": 34532,
+        "staidx_offset": 414384,
+        "statics_offset": 1084076,
+        "statics_length": 896,
+        "static_items_count": 128,
+        "map_offset": 6768276,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000008.dat",
+          "entry_index": 8,
+          "block_in_entry": 1764
+        }
+      },
+      {
+        "block_x": 67,
+        "block_y": 229,
+        "block_index": 34533,
+        "staidx_offset": 414396,
+        "statics_offset": 1084972,
+        "statics_length": 1015,
+        "static_items_count": 145,
+        "map_offset": 6768472,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000008.dat",
+          "entry_index": 8,
+          "block_in_entry": 1765
+        }
+      },
+      {
+        "block_x": 67,
+        "block_y": 230,
+        "block_index": 34534,
+        "staidx_offset": 414408,
+        "statics_offset": 1085987,
+        "statics_length": 119,
+        "static_items_count": 17,
+        "map_offset": 6768668,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000008.dat",
+          "entry_index": 8,
+          "block_in_entry": 1766
+        }
+      },
+      {
+        "block_x": 68,
+        "block_y": 227,
+        "block_index": 35043,
+        "staidx_offset": 420516,
+        "statics_offset": 1115604,
+        "statics_length": 217,
+        "static_items_count": 31,
+        "map_offset": 6868432,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000008.dat",
+          "entry_index": 8,
+          "block_in_entry": 2275
+        }
+      },
+      {
+        "block_x": 68,
+        "block_y": 228,
+        "block_index": 35044,
+        "staidx_offset": 420528,
+        "statics_offset": 1115821,
+        "statics_length": 77,
+        "static_items_count": 11,
+        "map_offset": 6868628,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000008.dat",
+          "entry_index": 8,
+          "block_in_entry": 2276
+        }
+      },
+      {
+        "block_x": 68,
+        "block_y": 229,
+        "block_index": 35045,
+        "staidx_offset": 420540,
+        "statics_offset": 1115898,
+        "statics_length": 14,
+        "static_items_count": 2,
+        "map_offset": 6868824,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000008.dat",
+          "entry_index": 8,
+          "block_in_entry": 2277
+        }
+      },
+      {
+        "block_x": 68,
+        "block_y": 230,
+        "block_index": 35046,
+        "staidx_offset": 420552,
+        "statics_offset": 1115912,
+        "statics_length": 77,
+        "static_items_count": 11,
+        "map_offset": 6869020,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000008.dat",
+          "entry_index": 8,
+          "block_in_entry": 2278
+        }
+      }
+    ]
+  }
+}

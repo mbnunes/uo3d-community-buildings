@@ -1,0 +1,181 @@
+{
+  "building_id": "building_036_438_1577",
+  "name": "Wilderness Building #036",
+  "map": "map5_termur",
+  "map_index": 5,
+  "map_name": "Termur",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "441 1580",
+    "center_x": 441,
+    "center_y": 1580,
+    "base_z": 40,
+    "map_name": "Termur (Map 5)"
+  },
+  "world_bounds": {
+    "min_x": 438,
+    "max_x": 443,
+    "min_y": 1577,
+    "max_y": 1582,
+    "base_z": 40,
+    "max_z": 116,
+    "center_x": 441.0,
+    "center_y": 1580.0,
+    "center_z_elevation": 4.8
+  },
+  "dimensions_meters": {
+    "width_x": 6.0,
+    "depth_z": 6.0,
+    "height_y": 9.6
+  },
+  "stats": {
+    "tile_count": 35,
+    "item_count": 102,
+    "triangles_count": 1056,
+    "unique_textures_count": 18
+  },
+  "unique_items": [
+    {
+      "id": 438,
+      "name": "hide wall",
+      "texture_file": "hide_wall_0438.png"
+    },
+    {
+      "id": 439,
+      "name": "hide wall",
+      "texture_file": "hide_wall_0439.png"
+    },
+    {
+      "id": 440,
+      "name": "hide wall",
+      "texture_file": "hide_wall_0440.png"
+    },
+    {
+      "id": 441,
+      "name": "wood post",
+      "texture_file": "wood_post_0441.png"
+    },
+    {
+      "id": 442,
+      "name": "hide wall",
+      "texture_file": "hide_wall_0442.png"
+    },
+    {
+      "id": 444,
+      "name": "hide wall",
+      "texture_file": "hide_wall_0444.png"
+    },
+    {
+      "id": 445,
+      "name": "hide wall",
+      "texture_file": "hide_wall_0445.png"
+    },
+    {
+      "id": 1284,
+      "name": "wooden logs",
+      "texture_file": "wooden_logs_1284.png"
+    },
+    {
+      "id": 3234,
+      "name": "fern",
+      "texture_file": "fern_3234.png"
+    },
+    {
+      "id": 3235,
+      "name": "fern",
+      "texture_file": "fern_3235.png"
+    },
+    {
+      "id": 11360,
+      "name": "palm frond roof",
+      "texture_file": "palm_frond_roof_11360.png"
+    },
+    {
+      "id": 11361,
+      "name": "palm fronds",
+      "texture_file": "palm_fronds_11361.png"
+    },
+    {
+      "id": 11362,
+      "name": "palm fronds",
+      "texture_file": "palm_fronds_11362.png"
+    },
+    {
+      "id": 11363,
+      "name": "palm fronds",
+      "texture_file": "palm_fronds_11363.png"
+    },
+    {
+      "id": 11369,
+      "name": "palm fronds",
+      "texture_file": "palm_fronds_11369.png"
+    },
+    {
+      "id": 11371,
+      "name": "palm fronds",
+      "texture_file": "palm_fronds_11371.png"
+    },
+    {
+      "id": 11372,
+      "name": "palm fronds",
+      "texture_file": "palm_fronds_11372.png"
+    },
+    {
+      "id": 11374,
+      "name": "palm fronds",
+      "texture_file": "palm_fronds_11374.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map5.mul",
+      "statics_file": "statics5.mul",
+      "staidx_file": "staidx5.mul",
+      "uop_file": "map5LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 160,
+      "h_blocks": 512,
+      "min_block_x": 54,
+      "max_block_x": 55,
+      "min_block_y": 197,
+      "max_block_y": 197,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 54,
+        "block_y": 197,
+        "block_index": 27845,
+        "staidx_offset": 334140,
+        "statics_offset": 672644,
+        "statics_length": 266,
+        "static_items_count": 38,
+        "map_offset": 5457624,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000006.dat",
+          "entry_index": 6,
+          "block_in_entry": 3269
+        }
+      },
+      {
+        "block_x": 55,
+        "block_y": 197,
+        "block_index": 28357,
+        "staidx_offset": 340284,
+        "statics_offset": 687757,
+        "statics_length": 497,
+        "static_items_count": 71,
+        "map_offset": 5557976,
+        "uop_entry": {
+          "file": "map5LegacyMUL.uop",
+          "entry_name": "build/map5legacymul/00000006.dat",
+          "entry_index": 6,
+          "block_in_entry": 3781
+        }
+      }
+    ]
+  }
+}

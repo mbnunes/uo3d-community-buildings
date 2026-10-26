@@ -1,0 +1,110 @@
+{
+  "building_id": "building_037_649_1297",
+  "name": "Wilderness Building #037",
+  "map": "map2_ilshenar",
+  "map_index": 2,
+  "map_name": "Ilshenar",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "652 1299",
+    "center_x": 652,
+    "center_y": 1299,
+    "base_z": -60,
+    "map_name": "Ilshenar (Map 2)"
+  },
+  "world_bounds": {
+    "min_x": 649,
+    "max_x": 654,
+    "min_y": 1297,
+    "max_y": 1301,
+    "base_z": -60,
+    "max_z": -32,
+    "center_x": 652.0,
+    "center_y": 1299.5,
+    "center_z_elevation": -7.199999999999999
+  },
+  "dimensions_meters": {
+    "width_x": 6.0,
+    "depth_z": 5.0,
+    "height_y": 5.76
+  },
+  "stats": {
+    "tile_count": 26,
+    "item_count": 67,
+    "triangles_count": 612,
+    "unique_textures_count": 7
+  },
+  "unique_items": [
+    {
+      "id": 119,
+      "name": "stone column",
+      "texture_file": "stone_column_0119.png"
+    },
+    {
+      "id": 197,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0197.png"
+    },
+    {
+      "id": 1339,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1339.png"
+    },
+    {
+      "id": 1822,
+      "name": "stone",
+      "texture_file": "stone_1822.png"
+    },
+    {
+      "id": 1823,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1823.png"
+    },
+    {
+      "id": 1847,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1847.png"
+    },
+    {
+      "id": 2572,
+      "name": "wall torch",
+      "texture_file": "wall_torch_2572.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map2.mul",
+      "statics_file": "statics2.mul",
+      "staidx_file": "staidx2.mul",
+      "uop_file": "map2LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 288,
+      "h_blocks": 200,
+      "min_block_x": 81,
+      "max_block_x": 81,
+      "min_block_y": 162,
+      "max_block_y": 162,
+      "total_blocks": 1
+    },
+    "blocks": [
+      {
+        "block_x": 81,
+        "block_y": 162,
+        "block_index": 16362,
+        "staidx_offset": 196344,
+        "statics_offset": 785736,
+        "statics_length": 469,
+        "static_items_count": 67,
+        "map_offset": 3206956,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000003.dat",
+          "entry_index": 3,
+          "block_in_entry": 4074
+        }
+      }
+    ]
+  }
+}

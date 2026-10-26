@@ -1,0 +1,248 @@
+{
+  "building_id": "building_042_766_1312",
+  "name": "Wilderness Building #042",
+  "map": "map2_ilshenar",
+  "map_index": 2,
+  "map_name": "Ilshenar",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "778 1316",
+    "center_x": 778,
+    "center_y": 1316,
+    "base_z": -107,
+    "map_name": "Ilshenar (Map 2)"
+  },
+  "world_bounds": {
+    "min_x": 766,
+    "max_x": 789,
+    "min_y": 1312,
+    "max_y": 1319,
+    "base_z": -107,
+    "max_z": -65,
+    "center_x": 778.0,
+    "center_y": 1316.0,
+    "center_z_elevation": -12.84
+  },
+  "dimensions_meters": {
+    "width_x": 24.0,
+    "depth_z": 8.0,
+    "height_y": 5.5
+  },
+  "stats": {
+    "tile_count": 180,
+    "item_count": 372,
+    "triangles_count": 3616,
+    "unique_textures_count": 25
+  },
+  "unique_items": [
+    {
+      "id": 466,
+      "name": "stone post",
+      "texture_file": "stone_post_0466.png"
+    },
+    {
+      "id": 471,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0471.png"
+    },
+    {
+      "id": 489,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0489.png"
+    },
+    {
+      "id": 491,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0491.png"
+    },
+    {
+      "id": 1925,
+      "name": "stone",
+      "texture_file": "stone_1925.png"
+    },
+    {
+      "id": 1926,
+      "name": "stone",
+      "texture_file": "stone_1926.png"
+    },
+    {
+      "id": 1928,
+      "name": "stone",
+      "texture_file": "stone_1928.png"
+    },
+    {
+      "id": 1930,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1930.png"
+    },
+    {
+      "id": 1932,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1932.png"
+    },
+    {
+      "id": 1993,
+      "name": "wooden plank",
+      "texture_file": "wooden_plank_1993.png"
+    },
+    {
+      "id": 1994,
+      "name": "wooden bridge",
+      "texture_file": "wooden_bridge_1994.png"
+    },
+    {
+      "id": 1995,
+      "name": "wooden bridge",
+      "texture_file": "wooden_bridge_1995.png"
+    },
+    {
+      "id": 1996,
+      "name": "wooden plank",
+      "texture_file": "wooden_plank_1996.png"
+    },
+    {
+      "id": 3228,
+      "name": "small palm",
+      "texture_file": "small_palm_3228.png"
+    },
+    {
+      "id": 3351,
+      "name": "mushroom",
+      "texture_file": "mushroom_3351.png"
+    },
+    {
+      "id": 6038,
+      "name": "water",
+      "texture_file": "water_6038.png"
+    },
+    {
+      "id": 6039,
+      "name": "water",
+      "texture_file": "water_6039.png"
+    },
+    {
+      "id": 6040,
+      "name": "water",
+      "texture_file": "water_6040.png"
+    },
+    {
+      "id": 6041,
+      "name": "water",
+      "texture_file": "water_6041.png"
+    },
+    {
+      "id": 6042,
+      "name": "water",
+      "texture_file": "water_6042.png"
+    },
+    {
+      "id": 6043,
+      "name": "water",
+      "texture_file": "water_6043.png"
+    },
+    {
+      "id": 6044,
+      "name": "water",
+      "texture_file": "water_6044.png"
+    },
+    {
+      "id": 6051,
+      "name": "water",
+      "texture_file": "water_6051.png"
+    },
+    {
+      "id": 6052,
+      "name": "water",
+      "texture_file": "water_6052.png"
+    },
+    {
+      "id": 6059,
+      "name": "water",
+      "texture_file": "water_6059.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map2.mul",
+      "statics_file": "statics2.mul",
+      "staidx_file": "staidx2.mul",
+      "uop_file": "map2LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 288,
+      "h_blocks": 200,
+      "min_block_x": 95,
+      "max_block_x": 98,
+      "min_block_y": 164,
+      "max_block_y": 164,
+      "total_blocks": 4
+    },
+    "blocks": [
+      {
+        "block_x": 95,
+        "block_y": 164,
+        "block_index": 19164,
+        "staidx_offset": 229968,
+        "statics_offset": 998536,
+        "statics_length": 98,
+        "static_items_count": 14,
+        "map_offset": 3756148,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000004.dat",
+          "entry_index": 4,
+          "block_in_entry": 2780
+        }
+      },
+      {
+        "block_x": 96,
+        "block_y": 164,
+        "block_index": 19364,
+        "staidx_offset": 232368,
+        "statics_offset": 1014083,
+        "statics_length": 1022,
+        "static_items_count": 146,
+        "map_offset": 3795348,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000004.dat",
+          "entry_index": 4,
+          "block_in_entry": 2980
+        }
+      },
+      {
+        "block_x": 97,
+        "block_y": 164,
+        "block_index": 19564,
+        "staidx_offset": 234768,
+        "statics_offset": 1034089,
+        "statics_length": 861,
+        "static_items_count": 123,
+        "map_offset": 3834548,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000004.dat",
+          "entry_index": 4,
+          "block_in_entry": 3180
+        }
+      },
+      {
+        "block_x": 98,
+        "block_y": 164,
+        "block_index": 19764,
+        "staidx_offset": 237168,
+        "statics_offset": 1052730,
+        "statics_length": 623,
+        "static_items_count": 89,
+        "map_offset": 3873748,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000004.dat",
+          "entry_index": 4,
+          "block_in_entry": 3380
+        }
+      }
+    ]
+  }
+}

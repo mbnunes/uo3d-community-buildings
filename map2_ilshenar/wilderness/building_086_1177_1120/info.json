@@ -1,0 +1,605 @@
+{
+  "building_id": "building_086_1177_1120",
+  "name": "Wilderness Building #086",
+  "map": "map2_ilshenar",
+  "map_index": 2,
+  "map_name": "Ilshenar",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1183 1129",
+    "center_x": 1183,
+    "center_y": 1129,
+    "base_z": -28,
+    "map_name": "Ilshenar (Map 2)"
+  },
+  "world_bounds": {
+    "min_x": 1177,
+    "max_x": 1189,
+    "min_y": 1120,
+    "max_y": 1138,
+    "base_z": -28,
+    "max_z": -5,
+    "center_x": 1183.5,
+    "center_y": 1129.5,
+    "center_z_elevation": -3.36
+  },
+  "dimensions_meters": {
+    "width_x": 13.0,
+    "depth_z": 19.0,
+    "height_y": 3.2
+  },
+  "stats": {
+    "tile_count": 247,
+    "item_count": 469,
+    "triangles_count": 5316,
+    "unique_textures_count": 90
+  },
+  "unique_items": [
+    {
+      "id": 51,
+      "name": "brick wall",
+      "texture_file": "brick_wall_0051.png"
+    },
+    {
+      "id": 52,
+      "name": "brick wall",
+      "texture_file": "brick_wall_0052.png"
+    },
+    {
+      "id": 53,
+      "name": "brick wall",
+      "texture_file": "brick_wall_0053.png"
+    },
+    {
+      "id": 54,
+      "name": "brick wall",
+      "texture_file": "brick_wall_0054.png"
+    },
+    {
+      "id": 55,
+      "name": "brick wall",
+      "texture_file": "brick_wall_0055.png"
+    },
+    {
+      "id": 57,
+      "name": "brick wall",
+      "texture_file": "brick_wall_0057.png"
+    },
+    {
+      "id": 60,
+      "name": "window",
+      "texture_file": "window_0060.png"
+    },
+    {
+      "id": 65,
+      "name": "brick wall",
+      "texture_file": "brick_wall_0065.png"
+    },
+    {
+      "id": 66,
+      "name": "brick wall",
+      "texture_file": "brick_wall_0066.png"
+    },
+    {
+      "id": 67,
+      "name": "brick wall",
+      "texture_file": "brick_wall_0067.png"
+    },
+    {
+      "id": 68,
+      "name": "brick wall",
+      "texture_file": "brick_wall_0068.png"
+    },
+    {
+      "id": 71,
+      "name": "brick arch",
+      "texture_file": "brick_arch_0071.png"
+    },
+    {
+      "id": 72,
+      "name": "brick arch",
+      "texture_file": "brick_arch_0072.png"
+    },
+    {
+      "id": 74,
+      "name": "brick wall",
+      "texture_file": "brick_wall_0074.png"
+    },
+    {
+      "id": 1407,
+      "name": "slate roof",
+      "texture_file": "slate_roof_1407.png"
+    },
+    {
+      "id": 1408,
+      "name": "slate roof",
+      "texture_file": "slate_roof_1408.png"
+    },
+    {
+      "id": 1409,
+      "name": "slate roof",
+      "texture_file": "slate_roof_1409.png"
+    },
+    {
+      "id": 1410,
+      "name": "slate roof",
+      "texture_file": "slate_roof_1410.png"
+    },
+    {
+      "id": 1411,
+      "name": "slate roof",
+      "texture_file": "slate_roof_1411.png"
+    },
+    {
+      "id": 1412,
+      "name": "slate roof",
+      "texture_file": "slate_roof_1412.png"
+    },
+    {
+      "id": 1413,
+      "name": "slate roof",
+      "texture_file": "slate_roof_1413.png"
+    },
+    {
+      "id": 1848,
+      "name": "wood",
+      "texture_file": "wood_1848.png"
+    },
+    {
+      "id": 1849,
+      "name": "wooden stairs",
+      "texture_file": "wooden_stairs_1849.png"
+    },
+    {
+      "id": 2475,
+      "name": "metal chest",
+      "texture_file": "metal_chest_2475.png"
+    },
+    {
+      "id": 2601,
+      "name": "candlabra",
+      "texture_file": "candlabra_2601.png"
+    },
+    {
+      "id": 2608,
+      "name": "chest of drawers",
+      "texture_file": "chest_of_drawers_2608.png"
+    },
+    {
+      "id": 2680,
+      "name": "bed",
+      "texture_file": "bed_2680.png"
+    },
+    {
+      "id": 2681,
+      "name": "bed",
+      "texture_file": "bed_2681.png"
+    },
+    {
+      "id": 2684,
+      "name": "bed",
+      "texture_file": "bed_2684.png"
+    },
+    {
+      "id": 2685,
+      "name": "bed",
+      "texture_file": "bed_2685.png"
+    },
+    {
+      "id": 2711,
+      "name": "bookcase",
+      "texture_file": "bookcase_2711.png"
+    },
+    {
+      "id": 2712,
+      "name": "bookcase",
+      "texture_file": "bookcase_2712.png"
+    },
+    {
+      "id": 2715,
+      "name": "bookcase",
+      "texture_file": "bookcase_2715.png"
+    },
+    {
+      "id": 2717,
+      "name": "wooden shelf",
+      "texture_file": "wooden_shelf_2717.png"
+    },
+    {
+      "id": 2729,
+      "name": "rug east",
+      "texture_file": "rug_east_2729.png"
+    },
+    {
+      "id": 2730,
+      "name": "rug east",
+      "texture_file": "rug_east_2730.png"
+    },
+    {
+      "id": 2731,
+      "name": "rug east",
+      "texture_file": "rug_east_2731.png"
+    },
+    {
+      "id": 2732,
+      "name": "rug east",
+      "texture_file": "rug_east_2732.png"
+    },
+    {
+      "id": 2733,
+      "name": "rug east",
+      "texture_file": "rug_east_2733.png"
+    },
+    {
+      "id": 2734,
+      "name": "rug east",
+      "texture_file": "rug_east_2734.png"
+    },
+    {
+      "id": 2735,
+      "name": "rug east",
+      "texture_file": "rug_east_2735.png"
+    },
+    {
+      "id": 2736,
+      "name": "rug east",
+      "texture_file": "rug_east_2736.png"
+    },
+    {
+      "id": 2737,
+      "name": "rug east",
+      "texture_file": "rug_east_2737.png"
+    },
+    {
+      "id": 2769,
+      "name": "carpet",
+      "texture_file": "carpet_2769.png"
+    },
+    {
+      "id": 2770,
+      "name": "",
+      "texture_file": "_2770.png"
+    },
+    {
+      "id": 2771,
+      "name": "",
+      "texture_file": "_2771.png"
+    },
+    {
+      "id": 2772,
+      "name": "",
+      "texture_file": "_2772.png"
+    },
+    {
+      "id": 2773,
+      "name": "",
+      "texture_file": "_2773.png"
+    },
+    {
+      "id": 2774,
+      "name": "",
+      "texture_file": "_2774.png"
+    },
+    {
+      "id": 2775,
+      "name": "",
+      "texture_file": "_2775.png"
+    },
+    {
+      "id": 2776,
+      "name": "",
+      "texture_file": "_2776.png"
+    },
+    {
+      "id": 2777,
+      "name": "carpet",
+      "texture_file": "carpet_2777.png"
+    },
+    {
+      "id": 2823,
+      "name": "display case",
+      "texture_file": "display_case_2823.png"
+    },
+    {
+      "id": 2824,
+      "name": "display case",
+      "texture_file": "display_case_2824.png"
+    },
+    {
+      "id": 2836,
+      "name": "display case",
+      "texture_file": "display_case_2836.png"
+    },
+    {
+      "id": 2844,
+      "name": "candle",
+      "texture_file": "candle_2844.png"
+    },
+    {
+      "id": 2888,
+      "name": "vase",
+      "texture_file": "vase_2888.png"
+    },
+    {
+      "id": 2889,
+      "name": "writing table",
+      "texture_file": "writing_table_2889.png"
+    },
+    {
+      "id": 2903,
+      "name": "chair",
+      "texture_file": "chair_2903.png"
+    },
+    {
+      "id": 2904,
+      "name": "chair",
+      "texture_file": "chair_2904.png"
+    },
+    {
+      "id": 2905,
+      "name": "chair",
+      "texture_file": "chair_2905.png"
+    },
+    {
+      "id": 2910,
+      "name": "foot stool",
+      "texture_file": "foot_stool_2910.png"
+    },
+    {
+      "id": 2911,
+      "name": "bench",
+      "texture_file": "bench_2911.png"
+    },
+    {
+      "id": 2912,
+      "name": "bench",
+      "texture_file": "bench_2912.png"
+    },
+    {
+      "id": 2928,
+      "name": "table",
+      "texture_file": "table_2928.png"
+    },
+    {
+      "id": 2929,
+      "name": "table",
+      "texture_file": "table_2929.png"
+    },
+    {
+      "id": 2930,
+      "name": "table",
+      "texture_file": "table_2930.png"
+    },
+    {
+      "id": 2931,
+      "name": "table",
+      "texture_file": "table_2931.png"
+    },
+    {
+      "id": 3093,
+      "name": "ruined bookcase",
+      "texture_file": "ruined_bookcase_3093.png"
+    },
+    {
+      "id": 3094,
+      "name": "damaged books",
+      "texture_file": "damaged_books_3094.png"
+    },
+    {
+      "id": 3129,
+      "name": "peg board",
+      "texture_file": "peg_board_3129.png"
+    },
+    {
+      "id": 3136,
+      "name": "dried onions",
+      "texture_file": "dried_onions_3136.png"
+    },
+    {
+      "id": 3138,
+      "name": "dried herbs",
+      "texture_file": "dried_herbs_3138.png"
+    },
+    {
+      "id": 3271,
+      "name": "weed",
+      "texture_file": "weed_3271.png"
+    },
+    {
+      "id": 3630,
+      "name": "crystal ball",
+      "texture_file": "crystal_ball_3630.png"
+    },
+    {
+      "id": 3750,
+      "name": "portrait",
+      "texture_file": "portrait_3750.png"
+    },
+    {
+      "id": 6204,
+      "name": "flask",
+      "texture_file": "flask_6204.png"
+    },
+    {
+      "id": 6468,
+      "name": "",
+      "texture_file": "_6468.png"
+    },
+    {
+      "id": 6479,
+      "name": "",
+      "texture_file": "_6479.png"
+    },
+    {
+      "id": 7717,
+      "name": "books",
+      "texture_file": "books_7717.png"
+    },
+    {
+      "id": 7775,
+      "name": "bulletin board",
+      "texture_file": "bulletin_board_7775.png"
+    },
+    {
+      "id": 8094,
+      "name": "pitcher of water",
+      "texture_file": "pitcher_of_water_8094.png"
+    },
+    {
+      "id": 8977,
+      "name": "bulletin board",
+      "texture_file": "bulletin_board_8977.png"
+    },
+    {
+      "id": 11501,
+      "name": "simple floor tile",
+      "texture_file": "simple_floor_tile_11501.png"
+    },
+    {
+      "id": 11595,
+      "name": "bookstand",
+      "texture_file": "bookstand_11595.png"
+    },
+    {
+      "id": 11610,
+      "name": "wildfire scroll",
+      "texture_file": "wildfire_scroll_11610.png"
+    },
+    {
+      "id": 11616,
+      "name": "arcane empower",
+      "texture_file": "arcane_empower_11616.png"
+    },
+    {
+      "id": 11632,
+      "name": "small elven tapestr",
+      "texture_file": "small_elven_tapestr_11632.png"
+    },
+    {
+      "id": 11633,
+      "name": "elven tapestry",
+      "texture_file": "elven_tapestry_11633.png"
+    },
+    {
+      "id": 11739,
+      "name": "elven stove",
+      "texture_file": "elven_stove_11739.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map2.mul",
+      "statics_file": "statics2.mul",
+      "staidx_file": "staidx2.mul",
+      "uop_file": "map2LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 288,
+      "h_blocks": 200,
+      "min_block_x": 147,
+      "max_block_x": 148,
+      "min_block_y": 140,
+      "max_block_y": 142,
+      "total_blocks": 6
+    },
+    "blocks": [
+      {
+        "block_x": 147,
+        "block_y": 140,
+        "block_index": 29540,
+        "staidx_offset": 354480,
+        "statics_offset": 1561392,
+        "statics_length": 770,
+        "static_items_count": 110,
+        "map_offset": 5789844,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000007.dat",
+          "entry_index": 7,
+          "block_in_entry": 868
+        }
+      },
+      {
+        "block_x": 147,
+        "block_y": 141,
+        "block_index": 29541,
+        "staidx_offset": 354492,
+        "statics_offset": 1562162,
+        "statics_length": 651,
+        "static_items_count": 93,
+        "map_offset": 5790040,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000007.dat",
+          "entry_index": 7,
+          "block_in_entry": 869
+        }
+      },
+      {
+        "block_x": 147,
+        "block_y": 142,
+        "block_index": 29542,
+        "staidx_offset": 354504,
+        "statics_offset": 1562813,
+        "statics_length": 315,
+        "static_items_count": 45,
+        "map_offset": 5790236,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000007.dat",
+          "entry_index": 7,
+          "block_in_entry": 870
+        }
+      },
+      {
+        "block_x": 148,
+        "block_y": 140,
+        "block_index": 29740,
+        "staidx_offset": 356880,
+        "statics_offset": 1569393,
+        "statics_length": 777,
+        "static_items_count": 111,
+        "map_offset": 5829044,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000007.dat",
+          "entry_index": 7,
+          "block_in_entry": 1068
+        }
+      },
+      {
+        "block_x": 148,
+        "block_y": 141,
+        "block_index": 29741,
+        "staidx_offset": 356892,
+        "statics_offset": 1570170,
+        "statics_length": 602,
+        "static_items_count": 86,
+        "map_offset": 5829240,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000007.dat",
+          "entry_index": 7,
+          "block_in_entry": 1069
+        }
+      },
+      {
+        "block_x": 148,
+        "block_y": 142,
+        "block_index": 29742,
+        "staidx_offset": 356904,
+        "statics_offset": 1570772,
+        "statics_length": 266,
+        "static_items_count": 38,
+        "map_offset": 5829436,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000007.dat",
+          "entry_index": 7,
+          "block_in_entry": 1070
+        }
+      }
+    ]
+  }
+}

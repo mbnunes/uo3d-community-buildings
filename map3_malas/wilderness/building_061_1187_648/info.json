@@ -1,0 +1,120 @@
+{
+  "building_id": "building_061_1187_648",
+  "name": "Wilderness Building #061",
+  "map": "map3_malas",
+  "map_index": 3,
+  "map_name": "Malas",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1189 651",
+    "center_x": 1189,
+    "center_y": 651,
+    "base_z": -86,
+    "map_name": "Malas (Map 3)"
+  },
+  "world_bounds": {
+    "min_x": 1187,
+    "max_x": 1191,
+    "min_y": 648,
+    "max_y": 654,
+    "base_z": -86,
+    "max_z": -66,
+    "center_x": 1189.5,
+    "center_y": 651.5,
+    "center_z_elevation": -10.32
+  },
+  "dimensions_meters": {
+    "width_x": 5.0,
+    "depth_z": 7.0,
+    "height_y": 2.86
+  },
+  "stats": {
+    "tile_count": 16,
+    "item_count": 37,
+    "triangles_count": 444,
+    "unique_textures_count": 9
+  },
+  "unique_items": [
+    {
+      "id": 200,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0200.png"
+    },
+    {
+      "id": 201,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0201.png"
+    },
+    {
+      "id": 204,
+      "name": "stone post",
+      "texture_file": "stone_post_0204.png"
+    },
+    {
+      "id": 221,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0221.png"
+    },
+    {
+      "id": 222,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0222.png"
+    },
+    {
+      "id": 223,
+      "name": "stone post",
+      "texture_file": "stone_post_0223.png"
+    },
+    {
+      "id": 224,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0224.png"
+    },
+    {
+      "id": 227,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0227.png"
+    },
+    {
+      "id": 2324,
+      "name": "dirt patch",
+      "texture_file": "dirt_patch_2324.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map3.mul",
+      "statics_file": "statics3.mul",
+      "staidx_file": "staidx3.mul",
+      "uop_file": "map3LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 320,
+      "h_blocks": 256,
+      "min_block_x": 148,
+      "max_block_x": 148,
+      "min_block_y": 81,
+      "max_block_y": 81,
+      "total_blocks": 1
+    },
+    "blocks": [
+      {
+        "block_x": 148,
+        "block_y": 81,
+        "block_index": 37969,
+        "staidx_offset": 455628,
+        "statics_offset": 1131977,
+        "statics_length": 329,
+        "static_items_count": 47,
+        "map_offset": 7441928,
+        "uop_entry": {
+          "file": "map3LegacyMUL.uop",
+          "entry_name": "build/map3legacymul/00000009.dat",
+          "entry_index": 9,
+          "block_in_entry": 1105
+        }
+      }
+    ]
+  }
+}

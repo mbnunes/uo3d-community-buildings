@@ -1,0 +1,105 @@
+{
+  "building_id": "building_029_808_552",
+  "name": "Wilderness Building #029",
+  "map": "map4_tokuno",
+  "map_index": 4,
+  "map_name": "Tokuno",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "812 553",
+    "center_x": 812,
+    "center_y": 553,
+    "base_z": 25,
+    "map_name": "Tokuno (Map 4)"
+  },
+  "world_bounds": {
+    "min_x": 808,
+    "max_x": 815,
+    "min_y": 552,
+    "max_y": 553,
+    "base_z": 25,
+    "max_z": 41,
+    "center_x": 812.0,
+    "center_y": 553.0,
+    "center_z_elevation": 3.0
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 2.0,
+    "height_y": 2.4
+  },
+  "stats": {
+    "tile_count": 16,
+    "item_count": 27,
+    "triangles_count": 96,
+    "unique_textures_count": 6
+  },
+  "unique_items": [
+    {
+      "id": 3213,
+      "name": "white poppies",
+      "texture_file": "white_poppies_3213.png"
+    },
+    {
+      "id": 3314,
+      "name": "vines",
+      "texture_file": "vines_3314.png"
+    },
+    {
+      "id": 3344,
+      "name": "mushrooms",
+      "texture_file": "mushrooms_3344.png"
+    },
+    {
+      "id": 9154,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_9154.png"
+    },
+    {
+      "id": 9160,
+      "name": "ceramic roof",
+      "texture_file": "ceramic_roof_9160.png"
+    },
+    {
+      "id": 9373,
+      "name": "wall",
+      "texture_file": "wall_9373.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map4.mul",
+      "statics_file": "statics4.mul",
+      "staidx_file": "staidx4.mul",
+      "uop_file": "map4LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 181,
+      "h_blocks": 181,
+      "min_block_x": 101,
+      "max_block_x": 101,
+      "min_block_y": 69,
+      "max_block_y": 69,
+      "total_blocks": 1
+    },
+    "blocks": [
+      {
+        "block_x": 101,
+        "block_y": 69,
+        "block_index": 18350,
+        "staidx_offset": 220200,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 3596604,
+        "uop_entry": {
+          "file": "map4LegacyMUL.uop",
+          "entry_name": "build/map4legacymul/00000004.dat",
+          "entry_index": 4,
+          "block_in_entry": 1966
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "building_id": "building_046_849_473",
+  "name": "Wilderness Building #046",
+  "map": "map2_ilshenar",
+  "map_index": 2,
+  "map_name": "Ilshenar",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "852 475",
+    "center_x": 852,
+    "center_y": 475,
+    "base_z": -2,
+    "map_name": "Ilshenar (Map 2)"
+  },
+  "world_bounds": {
+    "min_x": 849,
+    "max_x": 855,
+    "min_y": 473,
+    "max_y": 477,
+    "base_z": -2,
+    "max_z": 23,
+    "center_x": 852.5,
+    "center_y": 475.5,
+    "center_z_elevation": -0.24
+  },
+  "dimensions_meters": {
+    "width_x": 7.0,
+    "depth_z": 5.0,
+    "height_y": 2.76
+  },
+  "stats": {
+    "tile_count": 30,
+    "item_count": 44,
+    "triangles_count": 204,
+    "unique_textures_count": 22
+  },
+  "unique_items": [
+    {
+      "id": 739,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0739.png"
+    },
+    {
+      "id": 740,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0740.png"
+    },
+    {
+      "id": 742,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0742.png"
+    },
+    {
+      "id": 743,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0743.png"
+    },
+    {
+      "id": 744,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0744.png"
+    },
+    {
+      "id": 745,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0745.png"
+    },
+    {
+      "id": 746,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0746.png"
+    },
+    {
+      "id": 747,
+      "name": "tent wall",
+      "texture_file": "tent_wall_0747.png"
+    },
+    {
+      "id": 892,
+      "name": "dagges",
+      "texture_file": "dagges_0892.png"
+    },
+    {
+      "id": 893,
+      "name": "dagges",
+      "texture_file": "dagges_0893.png"
+    },
+    {
+      "id": 1535,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1535.png"
+    },
+    {
+      "id": 1536,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1536.png"
+    },
+    {
+      "id": 1537,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1537.png"
+    },
+    {
+      "id": 1538,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1538.png"
+    },
+    {
+      "id": 1540,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1540.png"
+    },
+    {
+      "id": 1541,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1541.png"
+    },
+    {
+      "id": 1542,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1542.png"
+    },
+    {
+      "id": 1543,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1543.png"
+    },
+    {
+      "id": 1555,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1555.png"
+    },
+    {
+      "id": 1556,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1556.png"
+    },
+    {
+      "id": 2876,
+      "name": "table",
+      "texture_file": "table_2876.png"
+    },
+    {
+      "id": 6882,
+      "name": "skull",
+      "texture_file": "skull_6882.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map2.mul",
+      "statics_file": "statics2.mul",
+      "staidx_file": "staidx2.mul",
+      "uop_file": "map2LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 288,
+      "h_blocks": 200,
+      "min_block_x": 106,
+      "max_block_x": 106,
+      "min_block_y": 59,
+      "max_block_y": 59,
+      "total_blocks": 1
+    },
+    "blocks": [
+      {
+        "block_x": 106,
+        "block_y": 59,
+        "block_index": 21259,
+        "staidx_offset": 255108,
+        "statics_offset": 1191729,
+        "statics_length": 385,
+        "static_items_count": 55,
+        "map_offset": 4166768,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000005.dat",
+          "entry_index": 5,
+          "block_in_entry": 779
+        }
+      }
+    ]
+  }
+}

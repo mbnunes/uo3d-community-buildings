@@ -1,0 +1,176 @@
+{
+  "building_id": "building_083_1166_1192",
+  "name": "Wilderness Building #083",
+  "map": "map2_ilshenar",
+  "map_index": 2,
+  "map_name": "Ilshenar",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1169 1196",
+    "center_x": 1169,
+    "center_y": 1196,
+    "base_z": -25,
+    "map_name": "Ilshenar (Map 2)"
+  },
+  "world_bounds": {
+    "min_x": 1166,
+    "max_x": 1172,
+    "min_y": 1192,
+    "max_y": 1199,
+    "base_z": -25,
+    "max_z": 11,
+    "center_x": 1169.5,
+    "center_y": 1196.0,
+    "center_z_elevation": -3.0
+  },
+  "dimensions_meters": {
+    "width_x": 7.0,
+    "depth_z": 8.0,
+    "height_y": 4.78
+  },
+  "stats": {
+    "tile_count": 45,
+    "item_count": 57,
+    "triangles_count": 612,
+    "unique_textures_count": 17
+  },
+  "unique_items": [
+    {
+      "id": 6,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0006.png"
+    },
+    {
+      "id": 7,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0007.png"
+    },
+    {
+      "id": 8,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0008.png"
+    },
+    {
+      "id": 9,
+      "name": "wooden post",
+      "texture_file": "wooden_post_0009.png"
+    },
+    {
+      "id": 12,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0012.png"
+    },
+    {
+      "id": 13,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0013.png"
+    },
+    {
+      "id": 15,
+      "name": "window",
+      "texture_file": "window_0015.png"
+    },
+    {
+      "id": 25,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0025.png"
+    },
+    {
+      "id": 1487,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1487.png"
+    },
+    {
+      "id": 1488,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1488.png"
+    },
+    {
+      "id": 1752,
+      "name": "wooden door",
+      "texture_file": "wooden_door_1752.png"
+    },
+    {
+      "id": 2208,
+      "name": "wooden ladder",
+      "texture_file": "wooden_ladder_2208.png"
+    },
+    {
+      "id": 2597,
+      "name": "lantern",
+      "texture_file": "lantern_2597.png"
+    },
+    {
+      "id": 2602,
+      "name": "stool",
+      "texture_file": "stool_2602.png"
+    },
+    {
+      "id": 2933,
+      "name": "table",
+      "texture_file": "table_2933.png"
+    },
+    {
+      "id": 2934,
+      "name": "table",
+      "texture_file": "table_2934.png"
+    },
+    {
+      "id": 3898,
+      "name": "shovel",
+      "texture_file": "shovel_3898.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map2.mul",
+      "statics_file": "statics2.mul",
+      "staidx_file": "staidx2.mul",
+      "uop_file": "map2LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 288,
+      "h_blocks": 200,
+      "min_block_x": 145,
+      "max_block_x": 146,
+      "min_block_y": 149,
+      "max_block_y": 149,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 145,
+        "block_y": 149,
+        "block_index": 29149,
+        "staidx_offset": 349788,
+        "statics_offset": 1552558,
+        "statics_length": 84,
+        "static_items_count": 12,
+        "map_offset": 5713208,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000007.dat",
+          "entry_index": 7,
+          "block_in_entry": 477
+        }
+      },
+      {
+        "block_x": 146,
+        "block_y": 149,
+        "block_index": 29349,
+        "staidx_offset": 352188,
+        "statics_offset": 1556800,
+        "statics_length": 322,
+        "static_items_count": 46,
+        "map_offset": 5752408,
+        "uop_entry": {
+          "file": "map2LegacyMUL.uop",
+          "entry_name": "build/map2legacymul/00000007.dat",
+          "entry_index": 7,
+          "block_in_entry": 677
+        }
+      }
+    ]
+  }
+}
