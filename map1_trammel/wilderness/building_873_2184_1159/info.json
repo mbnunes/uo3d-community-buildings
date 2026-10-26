@@ -1,0 +1,197 @@
+{
+  "building_id": "building_873_2184_1159",
+  "name": "Wilderness Building #873",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "2188 1164",
+    "center_x": 2188,
+    "center_y": 1164,
+    "base_z": 0,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 2184,
+    "max_x": 2191,
+    "min_y": 1159,
+    "max_y": 1168,
+    "base_z": 0,
+    "max_z": 32,
+    "center_x": 2188.0,
+    "center_y": 1164.0,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 10.0,
+    "height_y": 3.58
+  },
+  "stats": {
+    "tile_count": 80,
+    "item_count": 113,
+    "triangles_count": 780,
+    "unique_textures_count": 18
+  },
+  "unique_items": [
+    {
+      "id": 166,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0166.png"
+    },
+    {
+      "id": 167,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0167.png"
+    },
+    {
+      "id": 168,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0168.png"
+    },
+    {
+      "id": 171,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0171.png"
+    },
+    {
+      "id": 173,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0173.png"
+    },
+    {
+      "id": 185,
+      "name": "window",
+      "texture_file": "window_0185.png"
+    },
+    {
+      "id": 186,
+      "name": "window",
+      "texture_file": "window_0186.png"
+    },
+    {
+      "id": 194,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0194.png"
+    },
+    {
+      "id": 1532,
+      "name": "log roof",
+      "texture_file": "log_roof_1532.png"
+    },
+    {
+      "id": 1533,
+      "name": "log roof",
+      "texture_file": "log_roof_1533.png"
+    },
+    {
+      "id": 1534,
+      "name": "log roof",
+      "texture_file": "log_roof_1534.png"
+    },
+    {
+      "id": 2660,
+      "name": "bed",
+      "texture_file": "bed_2660.png"
+    },
+    {
+      "id": 2661,
+      "name": "bed",
+      "texture_file": "bed_2661.png"
+    },
+    {
+      "id": 2717,
+      "name": "wooden shelf",
+      "texture_file": "wooden_shelf_2717.png"
+    },
+    {
+      "id": 2911,
+      "name": "bench",
+      "texture_file": "bench_2911.png"
+    },
+    {
+      "id": 4575,
+      "name": "log table",
+      "texture_file": "log_table_4575.png"
+    },
+    {
+      "id": 4576,
+      "name": "log table",
+      "texture_file": "log_table_4576.png"
+    },
+    {
+      "id": 4577,
+      "name": "log table",
+      "texture_file": "log_table_4577.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 273,
+      "max_block_x": 273,
+      "min_block_y": 144,
+      "max_block_y": 146,
+      "total_blocks": 3
+    },
+    "blocks": [
+      {
+        "block_x": 273,
+        "block_y": 144,
+        "block_index": 139920,
+        "staidx_offset": 1679040,
+        "statics_offset": 9744665,
+        "statics_length": 105,
+        "static_items_count": 15,
+        "map_offset": 27424324,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000034.dat",
+          "entry_index": 34,
+          "block_in_entry": 656
+        }
+      },
+      {
+        "block_x": 273,
+        "block_y": 145,
+        "block_index": 139921,
+        "staidx_offset": 1679052,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 27424520,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000034.dat",
+          "entry_index": 34,
+          "block_in_entry": 657
+        }
+      },
+      {
+        "block_x": 273,
+        "block_y": 146,
+        "block_index": 139922,
+        "staidx_offset": 1679064,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 27424716,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000034.dat",
+          "entry_index": 34,
+          "block_in_entry": 658
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "building_id": "building_2074_4888_1175",
+  "name": "Wilderness Building #2074",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4892 1188",
+    "center_x": 4892,
+    "center_y": 1188,
+    "base_z": -22,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 4888,
+    "max_x": 4895,
+    "min_y": 1175,
+    "max_y": 1200,
+    "base_z": -22,
+    "max_z": 15,
+    "center_x": 4892.0,
+    "center_y": 1188.0,
+    "center_z_elevation": -2.6399999999999997
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 26.0,
+    "height_y": 5.28
+  },
+  "stats": {
+    "tile_count": 33,
+    "item_count": 38,
+    "triangles_count": 456,
+    "unique_textures_count": 5
+  },
+  "unique_items": [
+    {
+      "id": 577,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0577.png"
+    },
+    {
+      "id": 578,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0578.png"
+    },
+    {
+      "id": 579,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0579.png"
+    },
+    {
+      "id": 580,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0580.png"
+    },
+    {
+      "id": 2573,
+      "name": "wall torch",
+      "texture_file": "wall_torch_2573.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 611,
+      "max_block_x": 611,
+      "min_block_y": 146,
+      "max_block_y": 150,
+      "total_blocks": 5
+    },
+    "blocks": [
+      {
+        "block_x": 611,
+        "block_y": 146,
+        "block_index": 312978,
+        "staidx_offset": 3755736,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 61343692,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000076.dat",
+          "entry_index": 76,
+          "block_in_entry": 1682
+        }
+      },
+      {
+        "block_x": 611,
+        "block_y": 147,
+        "block_index": 312979,
+        "staidx_offset": 3755748,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 61343888,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000076.dat",
+          "entry_index": 76,
+          "block_in_entry": 1683
+        }
+      },
+      {
+        "block_x": 611,
+        "block_y": 148,
+        "block_index": 312980,
+        "staidx_offset": 3755760,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 61344084,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000076.dat",
+          "entry_index": 76,
+          "block_in_entry": 1684
+        }
+      },
+      {
+        "block_x": 611,
+        "block_y": 149,
+        "block_index": 312981,
+        "staidx_offset": 3755772,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 61344280,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000076.dat",
+          "entry_index": 76,
+          "block_in_entry": 1685
+        }
+      },
+      {
+        "block_x": 611,
+        "block_y": 150,
+        "block_index": 312982,
+        "staidx_offset": 3755784,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 61344476,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000076.dat",
+          "entry_index": 76,
+          "block_in_entry": 1686
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "building_id": "building_001_568_2127",
+  "name": "Skara Brae Building #001",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "skara_brae",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "571 2130",
+    "center_x": 571,
+    "center_y": 2130,
+    "base_z": 0,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 568,
+    "max_x": 573,
+    "min_y": 2127,
+    "max_y": 2133,
+    "base_z": 0,
+    "max_z": 20,
+    "center_x": 571.0,
+    "center_y": 2130.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 6.0,
+    "depth_z": 7.0,
+    "height_y": 3.0
+  },
+  "stats": {
+    "tile_count": 42,
+    "item_count": 81,
+    "triangles_count": 912,
+    "unique_textures_count": 17
+  },
+  "unique_items": [
+    {
+      "id": 87,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0087.png"
+    },
+    {
+      "id": 88,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0088.png"
+    },
+    {
+      "id": 89,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0089.png"
+    },
+    {
+      "id": 105,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0105.png"
+    },
+    {
+      "id": 106,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0106.png"
+    },
+    {
+      "id": 107,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0107.png"
+    },
+    {
+      "id": 1305,
+      "name": "stone pavers dark",
+      "texture_file": "stone_pavers_dark_1305.png"
+    },
+    {
+      "id": 3786,
+      "name": "bones",
+      "texture_file": "bones_3786.png"
+    },
+    {
+      "id": 3788,
+      "name": "bones",
+      "texture_file": "bones_3788.png"
+    },
+    {
+      "id": 3789,
+      "name": "bones",
+      "texture_file": "bones_3789.png"
+    },
+    {
+      "id": 3790,
+      "name": "bones",
+      "texture_file": "bones_3790.png"
+    },
+    {
+      "id": 3791,
+      "name": "bones",
+      "texture_file": "bones_3791.png"
+    },
+    {
+      "id": 3792,
+      "name": "bones",
+      "texture_file": "bones_3792.png"
+    },
+    {
+      "id": 3793,
+      "name": "bones",
+      "texture_file": "bones_3793.png"
+    },
+    {
+      "id": 3794,
+      "name": "bones",
+      "texture_file": "bones_3794.png"
+    },
+    {
+      "id": 3812,
+      "name": "spiderweb",
+      "texture_file": "spiderweb_3812.png"
+    },
+    {
+      "id": 3813,
+      "name": "spiderweb",
+      "texture_file": "spiderweb_3813.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 71,
+      "max_block_x": 71,
+      "min_block_y": 265,
+      "max_block_y": 266,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 71,
+        "block_y": 265,
+        "block_index": 36617,
+        "staidx_offset": 439404,
+        "statics_offset": 845943,
+        "statics_length": 665,
+        "static_items_count": 95,
+        "map_offset": 7176936,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000008.dat",
+          "entry_index": 8,
+          "block_in_entry": 3849
+        }
+      },
+      {
+        "block_x": 71,
+        "block_y": 266,
+        "block_index": 36618,
+        "staidx_offset": 439416,
+        "statics_offset": 846608,
+        "statics_length": 91,
+        "static_items_count": 13,
+        "map_offset": 7177132,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000008.dat",
+          "entry_index": 8,
+          "block_in_entry": 3850
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "building_id": "building_1794_4472_2863",
+  "name": "Wilderness Building #1794",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4476 2868",
+    "center_x": 4476,
+    "center_y": 2868,
+    "base_z": -22,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 4472,
+    "max_x": 4479,
+    "min_y": 2863,
+    "max_y": 2872,
+    "base_z": -22,
+    "max_z": 0,
+    "center_x": 4476.0,
+    "center_y": 2868.0,
+    "center_z_elevation": -2.6399999999999997
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 10.0,
+    "height_y": 5.38
+  },
+  "stats": {
+    "tile_count": 77,
+    "item_count": 118,
+    "triangles_count": 1680,
+    "unique_textures_count": 14
+  },
+  "unique_items": [
+    {
+      "id": 577,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0577.png"
+    },
+    {
+      "id": 578,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0578.png"
+    },
+    {
+      "id": 579,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0579.png"
+    },
+    {
+      "id": 766,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0766.png"
+    },
+    {
+      "id": 1343,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1343.png"
+    },
+    {
+      "id": 1955,
+      "name": "stone",
+      "texture_file": "stone_1955.png"
+    },
+    {
+      "id": 1957,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1957.png"
+    },
+    {
+      "id": 3117,
+      "name": "debris",
+      "texture_file": "debris_3117.png"
+    },
+    {
+      "id": 3119,
+      "name": "debris",
+      "texture_file": "debris_3119.png"
+    },
+    {
+      "id": 3790,
+      "name": "bones",
+      "texture_file": "bones_3790.png"
+    },
+    {
+      "id": 4063,
+      "name": "tapestry",
+      "texture_file": "tapestry_4063.png"
+    },
+    {
+      "id": 4064,
+      "name": "tapestry",
+      "texture_file": "tapestry_4064.png"
+    },
+    {
+      "id": 4599,
+      "name": "fur%s%",
+      "texture_file": "fur_s_4599.png"
+    },
+    {
+      "id": 6930,
+      "name": "bone",
+      "texture_file": "bone_6930.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 559,
+      "max_block_x": 559,
+      "min_block_y": 357,
+      "max_block_y": 359,
+      "total_blocks": 3
+    },
+    "blocks": [
+      {
+        "block_x": 559,
+        "block_y": 357,
+        "block_index": 286565,
+        "staidx_offset": 3438780,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 56166744,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000069.dat",
+          "entry_index": 69,
+          "block_in_entry": 3941
+        }
+      },
+      {
+        "block_x": 559,
+        "block_y": 358,
+        "block_index": 286566,
+        "staidx_offset": 3438792,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 56166940,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000069.dat",
+          "entry_index": 69,
+          "block_in_entry": 3942
+        }
+      },
+      {
+        "block_x": 559,
+        "block_y": 359,
+        "block_index": 286567,
+        "staidx_offset": 3438804,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 56167136,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000069.dat",
+          "entry_index": 69,
+          "block_in_entry": 3943
+        }
+      }
+    ]
+  }
+}

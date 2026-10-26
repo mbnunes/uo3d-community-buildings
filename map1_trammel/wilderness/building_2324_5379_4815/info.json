@@ -1,0 +1,103 @@
+{
+  "building_id": "building_2324_5379_4815",
+  "name": "Wilderness Building #2324",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "5381 4825",
+    "center_x": 5381,
+    "center_y": 4825,
+    "base_z": -1,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 5379,
+    "max_x": 5383,
+    "min_y": 4815,
+    "max_y": 4834,
+    "base_z": -1,
+    "max_z": 20,
+    "center_x": 5381.5,
+    "center_y": 4825.0,
+    "center_z_elevation": -0.12
+  },
+  "dimensions_meters": {
+    "width_x": 5.0,
+    "depth_z": 20.0,
+    "height_y": 2.4
+  },
+  "stats": {
+    "tile_count": 28,
+    "item_count": 41,
+    "triangles_count": 1056,
+    "unique_textures_count": 9
+  },
+  "unique_items": [
+    {
+      "id": 3223,
+      "name": "elephant ear plant",
+      "texture_file": "elephant_ear_plant_3223.png"
+    },
+    {
+      "id": 3233,
+      "name": "large fern",
+      "texture_file": "large_fern_3233.png"
+    },
+    {
+      "id": 3237,
+      "name": "pampas grass",
+      "texture_file": "pampas_grass_3237.png"
+    },
+    {
+      "id": 3245,
+      "name": "grasses",
+      "texture_file": "grasses_3245.png"
+    },
+    {
+      "id": 6816,
+      "name": "hops",
+      "texture_file": "hops_6816.png"
+    },
+    {
+      "id": 7038,
+      "name": "tuscany pine",
+      "texture_file": "tuscany_pine_7038.png"
+    },
+    {
+      "id": 19930,
+      "name": "wall outer south",
+      "texture_file": "wall_outer_south_19930.png"
+    },
+    {
+      "id": 19931,
+      "name": "wall outer east",
+      "texture_file": "wall_outer_east_19931.png"
+    },
+    {
+      "id": 19935,
+      "name": "wall outer cornernor",
+      "texture_file": "wall_outer_cornernor_19935.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 672,
+      "max_block_x": 672,
+      "min_block_y": 601,
+      "max_block_y": 604,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

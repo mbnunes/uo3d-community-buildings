@@ -1,0 +1,108 @@
+{
+  "building_id": "building_805_2086_4710",
+  "name": "Wilderness Building #805",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "2087 4715",
+    "center_x": 2087,
+    "center_y": 4715,
+    "base_z": 0,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 2086,
+    "max_x": 2087,
+    "min_y": 4710,
+    "max_y": 4719,
+    "base_z": 0,
+    "max_z": 32,
+    "center_x": 2087.0,
+    "center_y": 4715.0,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 2.0,
+    "depth_z": 10.0,
+    "height_y": 4.3
+  },
+  "stats": {
+    "tile_count": 19,
+    "item_count": 22,
+    "triangles_count": 298,
+    "unique_textures_count": 10
+  },
+  "unique_items": [
+    {
+      "id": 145,
+      "name": "log wall",
+      "texture_file": "log_wall_0145.png"
+    },
+    {
+      "id": 147,
+      "name": "log post",
+      "texture_file": "log_post_0147.png"
+    },
+    {
+      "id": 148,
+      "name": "log wall",
+      "texture_file": "log_wall_0148.png"
+    },
+    {
+      "id": 149,
+      "name": "log wall",
+      "texture_file": "log_wall_0149.png"
+    },
+    {
+      "id": 150,
+      "name": "log wall",
+      "texture_file": "log_wall_0150.png"
+    },
+    {
+      "id": 1447,
+      "name": "thatch roof",
+      "texture_file": "thatch_roof_1447.png"
+    },
+    {
+      "id": 1448,
+      "name": "thatch roof",
+      "texture_file": "thatch_roof_1448.png"
+    },
+    {
+      "id": 1449,
+      "name": "thatch roof",
+      "texture_file": "thatch_roof_1449.png"
+    },
+    {
+      "id": 2880,
+      "name": "counter",
+      "texture_file": "counter_2880.png"
+    },
+    {
+      "id": 4554,
+      "name": "flowerpot",
+      "texture_file": "flowerpot_4554.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 260,
+      "max_block_x": 260,
+      "min_block_y": 588,
+      "max_block_y": 589,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

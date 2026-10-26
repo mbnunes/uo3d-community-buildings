@@ -1,0 +1,166 @@
+{
+  "building_id": "building_1861_4584_351",
+  "name": "Wilderness Building #1861",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4588 355",
+    "center_x": 4588,
+    "center_y": 355,
+    "base_z": 0,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 4584,
+    "max_x": 4591,
+    "min_y": 351,
+    "max_y": 359,
+    "base_z": 0,
+    "max_z": 25,
+    "center_x": 4588.0,
+    "center_y": 355.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 9.0,
+    "height_y": 3.6
+  },
+  "stats": {
+    "tile_count": 72,
+    "item_count": 161,
+    "triangles_count": 1668,
+    "unique_textures_count": 15
+  },
+  "unique_items": [
+    {
+      "id": 577,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0577.png"
+    },
+    {
+      "id": 578,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0578.png"
+    },
+    {
+      "id": 579,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0579.png"
+    },
+    {
+      "id": 765,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0765.png"
+    },
+    {
+      "id": 766,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0766.png"
+    },
+    {
+      "id": 767,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0767.png"
+    },
+    {
+      "id": 1309,
+      "name": "stone pavers",
+      "texture_file": "stone_pavers_1309.png"
+    },
+    {
+      "id": 6872,
+      "name": "pile of skulls",
+      "texture_file": "pile_of_skulls_6872.png"
+    },
+    {
+      "id": 6873,
+      "name": "pile of skulls",
+      "texture_file": "pile_of_skulls_6873.png"
+    },
+    {
+      "id": 6874,
+      "name": "pile of skulls",
+      "texture_file": "pile_of_skulls_6874.png"
+    },
+    {
+      "id": 6875,
+      "name": "pile of skulls",
+      "texture_file": "pile_of_skulls_6875.png"
+    },
+    {
+      "id": 6876,
+      "name": "pile of skulls",
+      "texture_file": "pile_of_skulls_6876.png"
+    },
+    {
+      "id": 6877,
+      "name": "pile of skulls",
+      "texture_file": "pile_of_skulls_6877.png"
+    },
+    {
+      "id": 6878,
+      "name": "pile of skulls",
+      "texture_file": "pile_of_skulls_6878.png"
+    },
+    {
+      "id": 6879,
+      "name": "pile of skulls",
+      "texture_file": "pile_of_skulls_6879.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 573,
+      "max_block_x": 573,
+      "min_block_y": 43,
+      "max_block_y": 44,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 573,
+        "block_y": 43,
+        "block_index": 293419,
+        "staidx_offset": 3521028,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 57510128,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000071.dat",
+          "entry_index": 71,
+          "block_in_entry": 2603
+        }
+      },
+      {
+        "block_x": 573,
+        "block_y": 44,
+        "block_index": 293420,
+        "staidx_offset": 3521040,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 57510324,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000071.dat",
+          "entry_index": 71,
+          "block_in_entry": 2604
+        }
+      }
+    ]
+  }
+}

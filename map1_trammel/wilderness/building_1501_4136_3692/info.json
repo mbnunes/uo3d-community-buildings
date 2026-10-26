@@ -1,0 +1,163 @@
+{
+  "building_id": "building_1501_4136_3692",
+  "name": "Wilderness Building #1501",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4144 3695",
+    "center_x": 4144,
+    "center_y": 3695,
+    "base_z": 0,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 4136,
+    "max_x": 4151,
+    "min_y": 3692,
+    "max_y": 3698,
+    "base_z": 0,
+    "max_z": 17,
+    "center_x": 4144.0,
+    "center_y": 3695.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 16.0,
+    "depth_z": 7.0,
+    "height_y": 2.64
+  },
+  "stats": {
+    "tile_count": 22,
+    "item_count": 22,
+    "triangles_count": 264,
+    "unique_textures_count": 8
+  },
+  "unique_items": [
+    {
+      "id": 489,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0489.png"
+    },
+    {
+      "id": 577,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0577.png"
+    },
+    {
+      "id": 578,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0578.png"
+    },
+    {
+      "id": 579,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0579.png"
+    },
+    {
+      "id": 580,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0580.png"
+    },
+    {
+      "id": 581,
+      "name": "dungeon arch",
+      "texture_file": "dungeon_arch_0581.png"
+    },
+    {
+      "id": 583,
+      "name": "dungeon arch",
+      "texture_file": "dungeon_arch_0583.png"
+    },
+    {
+      "id": 585,
+      "name": "dungeon arch",
+      "texture_file": "dungeon_arch_0585.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 517,
+      "max_block_x": 518,
+      "min_block_y": 461,
+      "max_block_y": 462,
+      "total_blocks": 4
+    },
+    "blocks": [
+      {
+        "block_x": 517,
+        "block_y": 461,
+        "block_index": 265165,
+        "staidx_offset": 3181980,
+        "statics_offset": 14923552,
+        "statics_length": 98,
+        "static_items_count": 14,
+        "map_offset": 51972344,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000064.dat",
+          "entry_index": 64,
+          "block_in_entry": 3021
+        }
+      },
+      {
+        "block_x": 517,
+        "block_y": 462,
+        "block_index": 265166,
+        "staidx_offset": 3181992,
+        "statics_offset": 14923650,
+        "statics_length": 70,
+        "static_items_count": 10,
+        "map_offset": 51972540,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000064.dat",
+          "entry_index": 64,
+          "block_in_entry": 3022
+        }
+      },
+      {
+        "block_x": 518,
+        "block_y": 461,
+        "block_index": 265677,
+        "staidx_offset": 3188124,
+        "statics_offset": 14928788,
+        "statics_length": 210,
+        "static_items_count": 30,
+        "map_offset": 52072696,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000064.dat",
+          "entry_index": 64,
+          "block_in_entry": 3533
+        }
+      },
+      {
+        "block_x": 518,
+        "block_y": 462,
+        "block_index": 265678,
+        "staidx_offset": 3188136,
+        "statics_offset": 14928998,
+        "statics_length": 35,
+        "static_items_count": 5,
+        "map_offset": 52072892,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000064.dat",
+          "entry_index": 64,
+          "block_in_entry": 3534
+        }
+      }
+    ]
+  }
+}

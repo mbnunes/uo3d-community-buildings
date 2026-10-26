@@ -1,0 +1,111 @@
+{
+  "building_id": "building_1284_2986_1174",
+  "name": "Wilderness Building #1284",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "2989 1178",
+    "center_x": 2989,
+    "center_y": 1178,
+    "base_z": 20,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 2986,
+    "max_x": 2991,
+    "min_y": 1174,
+    "max_y": 1182,
+    "base_z": 20,
+    "max_z": 20,
+    "center_x": 2989.0,
+    "center_y": 1178.5,
+    "center_z_elevation": 2.4
+  },
+  "dimensions_meters": {
+    "width_x": 6.0,
+    "depth_z": 9.0,
+    "height_y": 2.4
+  },
+  "stats": {
+    "tile_count": 19,
+    "item_count": 35,
+    "triangles_count": 468,
+    "unique_textures_count": 4
+  },
+  "unique_items": [
+    {
+      "id": 271,
+      "name": "marble wall",
+      "texture_file": "marble_wall_0271.png"
+    },
+    {
+      "id": 272,
+      "name": "marble wall",
+      "texture_file": "marble_wall_0272.png"
+    },
+    {
+      "id": 273,
+      "name": "marble wall",
+      "texture_file": "marble_wall_0273.png"
+    },
+    {
+      "id": 9080,
+      "name": "decorative topiary",
+      "texture_file": "decorative_topiary_9080.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 373,
+      "max_block_x": 373,
+      "min_block_y": 146,
+      "max_block_y": 147,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 373,
+        "block_y": 146,
+        "block_index": 191122,
+        "staidx_offset": 2293464,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 37459916,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000046.dat",
+          "entry_index": 46,
+          "block_in_entry": 2706
+        }
+      },
+      {
+        "block_x": 373,
+        "block_y": 147,
+        "block_index": 191123,
+        "staidx_offset": 2293476,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 37460112,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000046.dat",
+          "entry_index": 46,
+          "block_in_entry": 2707
+        }
+      }
+    ]
+  }
+}

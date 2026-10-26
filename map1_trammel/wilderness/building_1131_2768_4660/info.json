@@ -1,0 +1,128 @@
+{
+  "building_id": "building_1131_2768_4660",
+  "name": "Wilderness Building #1131",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "2772 4662",
+    "center_x": 2772,
+    "center_y": 4662,
+    "base_z": 10,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 2768,
+    "max_x": 2775,
+    "min_y": 4660,
+    "max_y": 4663,
+    "base_z": 10,
+    "max_z": 39,
+    "center_x": 2772.0,
+    "center_y": 4662.0,
+    "center_z_elevation": 1.2
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 4.0,
+    "height_y": 4.06
+  },
+  "stats": {
+    "tile_count": 31,
+    "item_count": 84,
+    "triangles_count": 1032,
+    "unique_textures_count": 14
+  },
+  "unique_items": [
+    {
+      "id": 550,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0550.png"
+    },
+    {
+      "id": 551,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0551.png"
+    },
+    {
+      "id": 552,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0552.png"
+    },
+    {
+      "id": 554,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0554.png"
+    },
+    {
+      "id": 555,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0555.png"
+    },
+    {
+      "id": 1206,
+      "name": "wooden boards",
+      "texture_file": "wooden_boards_1206.png"
+    },
+    {
+      "id": 1207,
+      "name": "wooden boards",
+      "texture_file": "wooden_boards_1207.png"
+    },
+    {
+      "id": 1208,
+      "name": "wooden boards",
+      "texture_file": "wooden_boards_1208.png"
+    },
+    {
+      "id": 1210,
+      "name": "wooden boards",
+      "texture_file": "wooden_boards_1210.png"
+    },
+    {
+      "id": 1212,
+      "name": "wooden boards",
+      "texture_file": "wooden_boards_1212.png"
+    },
+    {
+      "id": 1214,
+      "name": "wooden boards",
+      "texture_file": "wooden_boards_1214.png"
+    },
+    {
+      "id": 1955,
+      "name": "stone",
+      "texture_file": "stone_1955.png"
+    },
+    {
+      "id": 3270,
+      "name": "grasses",
+      "texture_file": "grasses_3270.png"
+    },
+    {
+      "id": 5526,
+      "name": "banner",
+      "texture_file": "banner_5526.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 346,
+      "max_block_x": 346,
+      "min_block_y": 582,
+      "max_block_y": 582,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

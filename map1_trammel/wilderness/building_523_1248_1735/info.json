@@ -1,0 +1,168 @@
+{
+  "building_id": "building_523_1248_1735",
+  "name": "Wilderness Building #523",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1252 1744",
+    "center_x": 1252,
+    "center_y": 1744,
+    "base_z": 15,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 1248,
+    "max_x": 1255,
+    "min_y": 1735,
+    "max_y": 1752,
+    "base_z": 15,
+    "max_z": 59,
+    "center_x": 1252.0,
+    "center_y": 1744.0,
+    "center_z_elevation": 1.7999999999999998
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 18.0,
+    "height_y": 5.64
+  },
+  "stats": {
+    "tile_count": 144,
+    "item_count": 166,
+    "triangles_count": 1624,
+    "unique_textures_count": 9
+  },
+  "unique_items": [
+    {
+      "id": 168,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0168.png"
+    },
+    {
+      "id": 174,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0174.png"
+    },
+    {
+      "id": 175,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0175.png"
+    },
+    {
+      "id": 176,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0176.png"
+    },
+    {
+      "id": 178,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0178.png"
+    },
+    {
+      "id": 181,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0181.png"
+    },
+    {
+      "id": 1447,
+      "name": "thatch roof",
+      "texture_file": "thatch_roof_1447.png"
+    },
+    {
+      "id": 1448,
+      "name": "thatch roof",
+      "texture_file": "thatch_roof_1448.png"
+    },
+    {
+      "id": 1449,
+      "name": "thatch roof",
+      "texture_file": "thatch_roof_1449.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 156,
+      "max_block_x": 156,
+      "min_block_y": 216,
+      "max_block_y": 219,
+      "total_blocks": 4
+    },
+    "blocks": [
+      {
+        "block_x": 156,
+        "block_y": 216,
+        "block_index": 80088,
+        "staidx_offset": 961056,
+        "statics_offset": 3800629,
+        "statics_length": 98,
+        "static_items_count": 14,
+        "map_offset": 15697252,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000019.dat",
+          "entry_index": 19,
+          "block_in_entry": 2264
+        }
+      },
+      {
+        "block_x": 156,
+        "block_y": 217,
+        "block_index": 80089,
+        "staidx_offset": 961068,
+        "statics_offset": 3800727,
+        "statics_length": 91,
+        "static_items_count": 13,
+        "map_offset": 15697448,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000019.dat",
+          "entry_index": 19,
+          "block_in_entry": 2265
+        }
+      },
+      {
+        "block_x": 156,
+        "block_y": 218,
+        "block_index": 80090,
+        "staidx_offset": 961080,
+        "statics_offset": 3800818,
+        "statics_length": 35,
+        "static_items_count": 5,
+        "map_offset": 15697644,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000019.dat",
+          "entry_index": 19,
+          "block_in_entry": 2266
+        }
+      },
+      {
+        "block_x": 156,
+        "block_y": 219,
+        "block_index": 80091,
+        "staidx_offset": 961092,
+        "statics_offset": 3800853,
+        "statics_length": 35,
+        "static_items_count": 5,
+        "map_offset": 15697840,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000019.dat",
+          "entry_index": 19,
+          "block_in_entry": 2267
+        }
+      }
+    ]
+  }
+}

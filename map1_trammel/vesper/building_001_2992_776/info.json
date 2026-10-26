@@ -1,0 +1,117 @@
+{
+  "building_id": "building_001_2992_776",
+  "name": "Vesper Building #001",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "vesper",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "2996 786",
+    "center_x": 2996,
+    "center_y": 786,
+    "base_z": -88,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 2992,
+    "max_x": 2999,
+    "min_y": 776,
+    "max_y": 795,
+    "base_z": -88,
+    "max_z": -5,
+    "center_x": 2996.0,
+    "center_y": 786.0,
+    "center_z_elevation": -10.559999999999999
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 20.0,
+    "height_y": 2.4
+  },
+  "stats": {
+    "tile_count": 22,
+    "item_count": 26,
+    "triangles_count": 264,
+    "unique_textures_count": 2
+  },
+  "unique_items": [
+    {
+      "id": 69,
+      "name": "brick arch",
+      "texture_file": "brick_arch_0069.png"
+    },
+    {
+      "id": 6038,
+      "name": "water",
+      "texture_file": "water_6038.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 374,
+      "max_block_x": 374,
+      "min_block_y": 97,
+      "max_block_y": 99,
+      "total_blocks": 3
+    },
+    "blocks": [
+      {
+        "block_x": 374,
+        "block_y": 97,
+        "block_index": 191585,
+        "staidx_offset": 2299020,
+        "statics_offset": 12765683,
+        "statics_length": 1295,
+        "static_items_count": 185,
+        "map_offset": 37550664,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000046.dat",
+          "entry_index": 46,
+          "block_in_entry": 3169
+        }
+      },
+      {
+        "block_x": 374,
+        "block_y": 98,
+        "block_index": 191586,
+        "staidx_offset": 2299032,
+        "statics_offset": 12766978,
+        "statics_length": 399,
+        "static_items_count": 57,
+        "map_offset": 37550860,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000046.dat",
+          "entry_index": 46,
+          "block_in_entry": 3170
+        }
+      },
+      {
+        "block_x": 374,
+        "block_y": 99,
+        "block_index": 191587,
+        "staidx_offset": 2299044,
+        "statics_offset": 12767377,
+        "statics_length": 483,
+        "static_items_count": 69,
+        "map_offset": 37551056,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000046.dat",
+          "entry_index": 46,
+          "block_in_entry": 3171
+        }
+      }
+    ]
+  }
+}

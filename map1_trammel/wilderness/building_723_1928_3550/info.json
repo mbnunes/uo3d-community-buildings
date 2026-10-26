@@ -1,0 +1,186 @@
+{
+  "building_id": "building_723_1928_3550",
+  "name": "Wilderness Building #723",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1932 3555",
+    "center_x": 1932,
+    "center_y": 3555,
+    "base_z": 15,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 1928,
+    "max_x": 1935,
+    "min_y": 3550,
+    "max_y": 3559,
+    "base_z": 15,
+    "max_z": 47,
+    "center_x": 1932.0,
+    "center_y": 3555.0,
+    "center_z_elevation": 1.7999999999999998
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 10.0,
+    "height_y": 4.3
+  },
+  "stats": {
+    "tile_count": 79,
+    "item_count": 95,
+    "triangles_count": 1054,
+    "unique_textures_count": 19
+  },
+  "unique_items": [
+    {
+      "id": 145,
+      "name": "log wall",
+      "texture_file": "log_wall_0145.png"
+    },
+    {
+      "id": 146,
+      "name": "log wall",
+      "texture_file": "log_wall_0146.png"
+    },
+    {
+      "id": 147,
+      "name": "log post",
+      "texture_file": "log_post_0147.png"
+    },
+    {
+      "id": 148,
+      "name": "log wall",
+      "texture_file": "log_wall_0148.png"
+    },
+    {
+      "id": 149,
+      "name": "log wall",
+      "texture_file": "log_wall_0149.png"
+    },
+    {
+      "id": 150,
+      "name": "log wall",
+      "texture_file": "log_wall_0150.png"
+    },
+    {
+      "id": 152,
+      "name": "window",
+      "texture_file": "window_0152.png"
+    },
+    {
+      "id": 153,
+      "name": "window",
+      "texture_file": "window_0153.png"
+    },
+    {
+      "id": 1447,
+      "name": "thatch roof",
+      "texture_file": "thatch_roof_1447.png"
+    },
+    {
+      "id": 1448,
+      "name": "thatch roof",
+      "texture_file": "thatch_roof_1448.png"
+    },
+    {
+      "id": 1449,
+      "name": "thatch roof",
+      "texture_file": "thatch_roof_1449.png"
+    },
+    {
+      "id": 2594,
+      "name": "lantern",
+      "texture_file": "lantern_2594.png"
+    },
+    {
+      "id": 2662,
+      "name": "bed",
+      "texture_file": "bed_2662.png"
+    },
+    {
+      "id": 2664,
+      "name": "bed",
+      "texture_file": "bed_2664.png"
+    },
+    {
+      "id": 2877,
+      "name": "counter",
+      "texture_file": "counter_2877.png"
+    },
+    {
+      "id": 2879,
+      "name": "counter",
+      "texture_file": "counter_2879.png"
+    },
+    {
+      "id": 3350,
+      "name": "mushroom",
+      "texture_file": "mushroom_3350.png"
+    },
+    {
+      "id": 3391,
+      "name": "brambles",
+      "texture_file": "brambles_3391.png"
+    },
+    {
+      "id": 4554,
+      "name": "flowerpot",
+      "texture_file": "flowerpot_4554.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 241,
+      "max_block_x": 241,
+      "min_block_y": 443,
+      "max_block_y": 444,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 241,
+        "block_y": 443,
+        "block_index": 123835,
+        "staidx_offset": 1486020,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 24271664,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000030.dat",
+          "entry_index": 30,
+          "block_in_entry": 955
+        }
+      },
+      {
+        "block_x": 241,
+        "block_y": 444,
+        "block_index": 123836,
+        "staidx_offset": 1486032,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 24271860,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000030.dat",
+          "entry_index": 30,
+          "block_in_entry": 956
+        }
+      }
+    ]
+  }
+}

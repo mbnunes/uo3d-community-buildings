@@ -1,0 +1,113 @@
+{
+  "building_id": "building_1859_4576_4899",
+  "name": "Wilderness Building #1859",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4580 4902",
+    "center_x": 4580,
+    "center_y": 4902,
+    "base_z": -5,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 4576,
+    "max_x": 4583,
+    "min_y": 4899,
+    "max_y": 4904,
+    "base_z": -5,
+    "max_z": -5,
+    "center_x": 4580.0,
+    "center_y": 4902.0,
+    "center_z_elevation": -0.6
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 6.0,
+    "height_y": 2.5
+  },
+  "stats": {
+    "tile_count": 46,
+    "item_count": 52,
+    "triangles_count": 672,
+    "unique_textures_count": 11
+  },
+  "unique_items": [
+    {
+      "id": 16523,
+      "name": "paver",
+      "texture_file": "paver_16523.png"
+    },
+    {
+      "id": 16524,
+      "name": "paver",
+      "texture_file": "paver_16524.png"
+    },
+    {
+      "id": 16525,
+      "name": "paver",
+      "texture_file": "paver_16525.png"
+    },
+    {
+      "id": 16526,
+      "name": "paver",
+      "texture_file": "paver_16526.png"
+    },
+    {
+      "id": 16531,
+      "name": "decorative paver",
+      "texture_file": "decorative_paver_16531.png"
+    },
+    {
+      "id": 16532,
+      "name": "decorative paver",
+      "texture_file": "decorative_paver_16532.png"
+    },
+    {
+      "id": 16534,
+      "name": "decorative paver",
+      "texture_file": "decorative_paver_16534.png"
+    },
+    {
+      "id": 16536,
+      "name": "decorative paver",
+      "texture_file": "decorative_paver_16536.png"
+    },
+    {
+      "id": 16784,
+      "name": "wall set 3 wall sout",
+      "texture_file": "wall_set_3_wall_sout_16784.png"
+    },
+    {
+      "id": 16785,
+      "name": "wall set 3 wall east",
+      "texture_file": "wall_set_3_wall_east_16785.png"
+    },
+    {
+      "id": 16796,
+      "name": "wall set 3 wall east",
+      "texture_file": "wall_set_3_wall_east_16796.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 572,
+      "max_block_x": 572,
+      "min_block_y": 612,
+      "max_block_y": 613,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

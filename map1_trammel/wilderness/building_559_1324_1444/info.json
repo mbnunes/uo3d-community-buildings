@@ -1,0 +1,166 @@
+{
+  "building_id": "building_559_1324_1444",
+  "name": "Wilderness Building #559",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1326 1447",
+    "center_x": 1326,
+    "center_y": 1447,
+    "base_z": 5,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 1324,
+    "max_x": 1327,
+    "min_y": 1444,
+    "max_y": 1450,
+    "base_z": 5,
+    "max_z": 81,
+    "center_x": 1326.0,
+    "center_y": 1447.5,
+    "center_z_elevation": 0.6
+  },
+  "dimensions_meters": {
+    "width_x": 4.0,
+    "depth_z": 7.0,
+    "height_y": 11.52
+  },
+  "stats": {
+    "tile_count": 28,
+    "item_count": 50,
+    "triangles_count": 552,
+    "unique_textures_count": 15
+  },
+  "unique_items": [
+    {
+      "id": 200,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0200.png"
+    },
+    {
+      "id": 201,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0201.png"
+    },
+    {
+      "id": 204,
+      "name": "stone post",
+      "texture_file": "stone_post_0204.png"
+    },
+    {
+      "id": 212,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0212.png"
+    },
+    {
+      "id": 219,
+      "name": "stone pillar",
+      "texture_file": "stone_pillar_0219.png"
+    },
+    {
+      "id": 1315,
+      "name": "stone pavers dark",
+      "texture_file": "stone_pavers_dark_1315.png"
+    },
+    {
+      "id": 1316,
+      "name": "stone pavers dark",
+      "texture_file": "stone_pavers_dark_1316.png"
+    },
+    {
+      "id": 3244,
+      "name": "grasses",
+      "texture_file": "grasses_3244.png"
+    },
+    {
+      "id": 3248,
+      "name": "grasses",
+      "texture_file": "grasses_3248.png"
+    },
+    {
+      "id": 3253,
+      "name": "grasses",
+      "texture_file": "grasses_3253.png"
+    },
+    {
+      "id": 5476,
+      "name": "decorative weapons",
+      "texture_file": "decorative_weapons_5476.png"
+    },
+    {
+      "id": 5477,
+      "name": "decorative weapons",
+      "texture_file": "decorative_weapons_5477.png"
+    },
+    {
+      "id": 5651,
+      "name": "banner",
+      "texture_file": "banner_5651.png"
+    },
+    {
+      "id": 5652,
+      "name": "banner",
+      "texture_file": "banner_5652.png"
+    },
+    {
+      "id": 6012,
+      "name": "rock",
+      "texture_file": "rock_6012.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 165,
+      "max_block_x": 165,
+      "min_block_y": 180,
+      "max_block_y": 181,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 165,
+        "block_y": 180,
+        "block_index": 84660,
+        "staidx_offset": 1015920,
+        "statics_offset": 4235644,
+        "statics_length": 105,
+        "static_items_count": 15,
+        "map_offset": 16593364,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000020.dat",
+          "entry_index": 20,
+          "block_in_entry": 2740
+        }
+      },
+      {
+        "block_x": 165,
+        "block_y": 181,
+        "block_index": 84661,
+        "staidx_offset": 1015932,
+        "statics_offset": 4235749,
+        "statics_length": 140,
+        "static_items_count": 20,
+        "map_offset": 16593560,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000020.dat",
+          "entry_index": 20,
+          "block_in_entry": 2741
+        }
+      }
+    ]
+  }
+}

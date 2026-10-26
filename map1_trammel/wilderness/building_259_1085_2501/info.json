@@ -1,0 +1,166 @@
+{
+  "building_id": "building_259_1085_2501",
+  "name": "Wilderness Building #259",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1086 2506",
+    "center_x": 1086,
+    "center_y": 2506,
+    "base_z": 10,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 1085,
+    "max_x": 1087,
+    "min_y": 2501,
+    "max_y": 2511,
+    "base_z": 10,
+    "max_z": 30,
+    "center_x": 1086.5,
+    "center_y": 2506.5,
+    "center_z_elevation": 1.2
+  },
+  "dimensions_meters": {
+    "width_x": 3.0,
+    "depth_z": 11.0,
+    "height_y": 2.76
+  },
+  "stats": {
+    "tile_count": 33,
+    "item_count": 55,
+    "triangles_count": 684,
+    "unique_textures_count": 15
+  },
+  "unique_items": [
+    {
+      "id": 200,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0200.png"
+    },
+    {
+      "id": 201,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0201.png"
+    },
+    {
+      "id": 204,
+      "name": "stone post",
+      "texture_file": "stone_post_0204.png"
+    },
+    {
+      "id": 223,
+      "name": "stone post",
+      "texture_file": "stone_post_0223.png"
+    },
+    {
+      "id": 230,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0230.png"
+    },
+    {
+      "id": 231,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0231.png"
+    },
+    {
+      "id": 1407,
+      "name": "slate roof",
+      "texture_file": "slate_roof_1407.png"
+    },
+    {
+      "id": 1408,
+      "name": "slate roof",
+      "texture_file": "slate_roof_1408.png"
+    },
+    {
+      "id": 1409,
+      "name": "slate roof",
+      "texture_file": "slate_roof_1409.png"
+    },
+    {
+      "id": 1410,
+      "name": "slate roof",
+      "texture_file": "slate_roof_1410.png"
+    },
+    {
+      "id": 1411,
+      "name": "slate roof",
+      "texture_file": "slate_roof_1411.png"
+    },
+    {
+      "id": 3798,
+      "name": "gravestone",
+      "texture_file": "gravestone_3798.png"
+    },
+    {
+      "id": 3812,
+      "name": "spiderweb",
+      "texture_file": "spiderweb_3812.png"
+    },
+    {
+      "id": 3814,
+      "name": "spiderweb",
+      "texture_file": "spiderweb_3814.png"
+    },
+    {
+      "id": 6007,
+      "name": "rock",
+      "texture_file": "rock_6007.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 135,
+      "max_block_x": 135,
+      "min_block_y": 312,
+      "max_block_y": 313,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 135,
+        "block_y": 312,
+        "block_index": 69432,
+        "staidx_offset": 833184,
+        "statics_offset": 2874606,
+        "statics_length": 21,
+        "static_items_count": 3,
+        "map_offset": 13608676,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000016.dat",
+          "entry_index": 16,
+          "block_in_entry": 3896
+        }
+      },
+      {
+        "block_x": 135,
+        "block_y": 313,
+        "block_index": 69433,
+        "staidx_offset": 833196,
+        "statics_offset": 2874627,
+        "statics_length": 28,
+        "static_items_count": 4,
+        "map_offset": 13608872,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000016.dat",
+          "entry_index": 16,
+          "block_in_entry": 3897
+        }
+      }
+    ]
+  }
+}

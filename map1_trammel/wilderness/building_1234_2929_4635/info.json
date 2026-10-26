@@ -1,0 +1,183 @@
+{
+  "building_id": "building_1234_2929_4635",
+  "name": "Wilderness Building #1234",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "2932 4642",
+    "center_x": 2932,
+    "center_y": 4642,
+    "base_z": -1,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 2929,
+    "max_x": 2935,
+    "min_y": 4635,
+    "max_y": 4648,
+    "base_z": -1,
+    "max_z": 20,
+    "center_x": 2932.5,
+    "center_y": 4642.0,
+    "center_z_elevation": -0.12
+  },
+  "dimensions_meters": {
+    "width_x": 7.0,
+    "depth_z": 14.0,
+    "height_y": 2.88
+  },
+  "stats": {
+    "tile_count": 35,
+    "item_count": 69,
+    "triangles_count": 840,
+    "unique_textures_count": 25
+  },
+  "unique_items": [
+    {
+      "id": 8,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0008.png"
+    },
+    {
+      "id": 9,
+      "name": "wooden post",
+      "texture_file": "wooden_post_0009.png"
+    },
+    {
+      "id": 27,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0027.png"
+    },
+    {
+      "id": 28,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0028.png"
+    },
+    {
+      "id": 29,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0029.png"
+    },
+    {
+      "id": 47,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0047.png"
+    },
+    {
+      "id": 631,
+      "name": "ruined wall",
+      "texture_file": "ruined_wall_0631.png"
+    },
+    {
+      "id": 632,
+      "name": "ruined wall",
+      "texture_file": "ruined_wall_0632.png"
+    },
+    {
+      "id": 633,
+      "name": "ruined wall",
+      "texture_file": "ruined_wall_0633.png"
+    },
+    {
+      "id": 634,
+      "name": "ruined wall",
+      "texture_file": "ruined_wall_0634.png"
+    },
+    {
+      "id": 635,
+      "name": "ruined wall",
+      "texture_file": "ruined_wall_0635.png"
+    },
+    {
+      "id": 636,
+      "name": "ruined wall",
+      "texture_file": "ruined_wall_0636.png"
+    },
+    {
+      "id": 642,
+      "name": "ruined wall",
+      "texture_file": "ruined_wall_0642.png"
+    },
+    {
+      "id": 1209,
+      "name": "wooden boards",
+      "texture_file": "wooden_boards_1209.png"
+    },
+    {
+      "id": 1212,
+      "name": "wooden boards",
+      "texture_file": "wooden_boards_1212.png"
+    },
+    {
+      "id": 1216,
+      "name": "wooden boards",
+      "texture_file": "wooden_boards_1216.png"
+    },
+    {
+      "id": 2592,
+      "name": "lantern post",
+      "texture_file": "lantern_post_2592.png"
+    },
+    {
+      "id": 3117,
+      "name": "debris",
+      "texture_file": "debris_3117.png"
+    },
+    {
+      "id": 3788,
+      "name": "bones",
+      "texture_file": "bones_3788.png"
+    },
+    {
+      "id": 6270,
+      "name": "spilled flour",
+      "texture_file": "spilled_flour_6270.png"
+    },
+    {
+      "id": 6272,
+      "name": "spilled flour",
+      "texture_file": "spilled_flour_6272.png"
+    },
+    {
+      "id": 6273,
+      "name": "spilled flour",
+      "texture_file": "spilled_flour_6273.png"
+    },
+    {
+      "id": 7072,
+      "name": "refuse",
+      "texture_file": "refuse_7072.png"
+    },
+    {
+      "id": 7082,
+      "name": "refuse",
+      "texture_file": "refuse_7082.png"
+    },
+    {
+      "id": 7084,
+      "name": "refuse",
+      "texture_file": "refuse_7084.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 366,
+      "max_block_x": 366,
+      "min_block_y": 579,
+      "max_block_y": 581,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

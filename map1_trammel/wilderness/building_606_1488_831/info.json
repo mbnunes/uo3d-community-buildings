@@ -1,0 +1,151 @@
+{
+  "building_id": "building_606_1488_831",
+  "name": "Wilderness Building #606",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1492 833",
+    "center_x": 1492,
+    "center_y": 833,
+    "base_z": 0,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 1488,
+    "max_x": 1495,
+    "min_y": 831,
+    "max_y": 835,
+    "base_z": 0,
+    "max_z": 40,
+    "center_x": 1492.0,
+    "center_y": 833.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 5.0,
+    "height_y": 6.0
+  },
+  "stats": {
+    "tile_count": 40,
+    "item_count": 104,
+    "triangles_count": 1272,
+    "unique_textures_count": 12
+  },
+  "unique_items": [
+    {
+      "id": 362,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0362.png"
+    },
+    {
+      "id": 375,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0375.png"
+    },
+    {
+      "id": 382,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0382.png"
+    },
+    {
+      "id": 384,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0384.png"
+    },
+    {
+      "id": 388,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0388.png"
+    },
+    {
+      "id": 407,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0407.png"
+    },
+    {
+      "id": 409,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0409.png"
+    },
+    {
+      "id": 433,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0433.png"
+    },
+    {
+      "id": 1236,
+      "name": "wooden planks",
+      "texture_file": "wooden_planks_1236.png"
+    },
+    {
+      "id": 1237,
+      "name": "wooden planks",
+      "texture_file": "wooden_planks_1237.png"
+    },
+    {
+      "id": 1238,
+      "name": "wooden planks",
+      "texture_file": "wooden_planks_1238.png"
+    },
+    {
+      "id": 1239,
+      "name": "wooden planks",
+      "texture_file": "wooden_planks_1239.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 186,
+      "max_block_x": 186,
+      "min_block_y": 103,
+      "max_block_y": 104,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 186,
+        "block_y": 103,
+        "block_index": 95335,
+        "staidx_offset": 1144020,
+        "statics_offset": 5555949,
+        "statics_length": 56,
+        "static_items_count": 8,
+        "map_offset": 18685664,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000023.dat",
+          "entry_index": 23,
+          "block_in_entry": 1127
+        }
+      },
+      {
+        "block_x": 186,
+        "block_y": 104,
+        "block_index": 95336,
+        "staidx_offset": 1144032,
+        "statics_offset": 5556005,
+        "statics_length": 105,
+        "static_items_count": 15,
+        "map_offset": 18685860,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000023.dat",
+          "entry_index": 23,
+          "block_in_entry": 1128
+        }
+      }
+    ]
+  }
+}

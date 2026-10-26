@@ -1,0 +1,123 @@
+{
+  "building_id": "building_906_2240_5086",
+  "name": "Wilderness Building #906",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "2244 5089",
+    "center_x": 2244,
+    "center_y": 5089,
+    "base_z": -5,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 2240,
+    "max_x": 2247,
+    "min_y": 5086,
+    "max_y": 5091,
+    "base_z": -5,
+    "max_z": 20,
+    "center_x": 2244.0,
+    "center_y": 5089.0,
+    "center_z_elevation": -0.6
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 6.0,
+    "height_y": 4.32
+  },
+  "stats": {
+    "tile_count": 45,
+    "item_count": 101,
+    "triangles_count": 1458,
+    "unique_textures_count": 13
+  },
+  "unique_items": [
+    {
+      "id": 95,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0095.png"
+    },
+    {
+      "id": 1872,
+      "name": "stone",
+      "texture_file": "stone_1872.png"
+    },
+    {
+      "id": 1876,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1876.png"
+    },
+    {
+      "id": 1894,
+      "name": "stone",
+      "texture_file": "stone_1894.png"
+    },
+    {
+      "id": 1993,
+      "name": "wooden plank",
+      "texture_file": "wooden_plank_1993.png"
+    },
+    {
+      "id": 6041,
+      "name": "water",
+      "texture_file": "water_6041.png"
+    },
+    {
+      "id": 6042,
+      "name": "water",
+      "texture_file": "water_6042.png"
+    },
+    {
+      "id": 6043,
+      "name": "water",
+      "texture_file": "water_6043.png"
+    },
+    {
+      "id": 6044,
+      "name": "water",
+      "texture_file": "water_6044.png"
+    },
+    {
+      "id": 6047,
+      "name": "water",
+      "texture_file": "water_6047.png"
+    },
+    {
+      "id": 6051,
+      "name": "water",
+      "texture_file": "water_6051.png"
+    },
+    {
+      "id": 6060,
+      "name": "water",
+      "texture_file": "water_6060.png"
+    },
+    {
+      "id": 6063,
+      "name": "water",
+      "texture_file": "water_6063.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 280,
+      "max_block_x": 280,
+      "min_block_y": 635,
+      "max_block_y": 636,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

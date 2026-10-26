@@ -1,0 +1,176 @@
+{
+  "building_id": "building_013_1497_3857",
+  "name": "Jhelom Building #013",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "jhelom",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1500 3863",
+    "center_x": 1500,
+    "center_y": 3863,
+    "base_z": 20,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 1497,
+    "max_x": 1503,
+    "min_y": 3857,
+    "max_y": 3869,
+    "base_z": 20,
+    "max_z": 49,
+    "center_x": 1500.5,
+    "center_y": 3863.5,
+    "center_z_elevation": 2.4
+  },
+  "dimensions_meters": {
+    "width_x": 7.0,
+    "depth_z": 13.0,
+    "height_y": 3.48
+  },
+  "stats": {
+    "tile_count": 91,
+    "item_count": 122,
+    "triangles_count": 1740,
+    "unique_textures_count": 17
+  },
+  "unique_items": [
+    {
+      "id": 361,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0361.png"
+    },
+    {
+      "id": 362,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0362.png"
+    },
+    {
+      "id": 363,
+      "name": "sandstone post",
+      "texture_file": "sandstone_post_0363.png"
+    },
+    {
+      "id": 513,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0513.png"
+    },
+    {
+      "id": 514,
+      "name": "sandstone post",
+      "texture_file": "sandstone_post_0514.png"
+    },
+    {
+      "id": 515,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0515.png"
+    },
+    {
+      "id": 516,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0516.png"
+    },
+    {
+      "id": 517,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0517.png"
+    },
+    {
+      "id": 518,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0518.png"
+    },
+    {
+      "id": 519,
+      "name": "window",
+      "texture_file": "window_0519.png"
+    },
+    {
+      "id": 520,
+      "name": "window",
+      "texture_file": "window_0520.png"
+    },
+    {
+      "id": 1372,
+      "name": "stone roof",
+      "texture_file": "stone_roof_1372.png"
+    },
+    {
+      "id": 1378,
+      "name": "stone roof",
+      "texture_file": "stone_roof_1378.png"
+    },
+    {
+      "id": 1379,
+      "name": "stone roof",
+      "texture_file": "stone_roof_1379.png"
+    },
+    {
+      "id": 1380,
+      "name": "stone roof",
+      "texture_file": "stone_roof_1380.png"
+    },
+    {
+      "id": 1382,
+      "name": "stone roof",
+      "texture_file": "stone_roof_1382.png"
+    },
+    {
+      "id": 1383,
+      "name": "stone roof",
+      "texture_file": "stone_roof_1383.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 187,
+      "max_block_x": 187,
+      "min_block_y": 482,
+      "max_block_y": 483,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 187,
+        "block_y": 482,
+        "block_index": 96226,
+        "staidx_offset": 1154712,
+        "statics_offset": 5700947,
+        "statics_length": 56,
+        "static_items_count": 8,
+        "map_offset": 18860300,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000023.dat",
+          "entry_index": 23,
+          "block_in_entry": 2018
+        }
+      },
+      {
+        "block_x": 187,
+        "block_y": 483,
+        "block_index": 96227,
+        "staidx_offset": 1154724,
+        "statics_offset": 5701003,
+        "statics_length": 28,
+        "static_items_count": 4,
+        "map_offset": 18860496,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000023.dat",
+          "entry_index": 23,
+          "block_in_entry": 2019
+        }
+      }
+    ]
+  }
+}

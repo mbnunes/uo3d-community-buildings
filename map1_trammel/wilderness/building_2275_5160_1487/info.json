@@ -1,0 +1,156 @@
+{
+  "building_id": "building_2275_5160_1487",
+  "name": "Wilderness Building #2275",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "5164 1490",
+    "center_x": 5164,
+    "center_y": 1490,
+    "base_z": 0,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 5160,
+    "max_x": 5167,
+    "min_y": 1487,
+    "max_y": 1492,
+    "base_z": 0,
+    "max_z": 32,
+    "center_x": 5164.0,
+    "center_y": 1490.0,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 6.0,
+    "height_y": 4.3
+  },
+  "stats": {
+    "tile_count": 37,
+    "item_count": 58,
+    "triangles_count": 456,
+    "unique_textures_count": 13
+  },
+  "unique_items": [
+    {
+      "id": 7,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0007.png"
+    },
+    {
+      "id": 8,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0008.png"
+    },
+    {
+      "id": 11,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0011.png"
+    },
+    {
+      "id": 13,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0013.png"
+    },
+    {
+      "id": 25,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0025.png"
+    },
+    {
+      "id": 1486,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1486.png"
+    },
+    {
+      "id": 1488,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1488.png"
+    },
+    {
+      "id": 2880,
+      "name": "counter",
+      "texture_file": "counter_2880.png"
+    },
+    {
+      "id": 5480,
+      "name": "decorative weapons",
+      "texture_file": "decorative_weapons_5480.png"
+    },
+    {
+      "id": 5481,
+      "name": "decorative weapons",
+      "texture_file": "decorative_weapons_5481.png"
+    },
+    {
+      "id": 12962,
+      "name": "lava",
+      "texture_file": "lava_12962.png"
+    },
+    {
+      "id": 12964,
+      "name": "lava",
+      "texture_file": "lava_12964.png"
+    },
+    {
+      "id": 12975,
+      "name": "lava",
+      "texture_file": "lava_12975.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 645,
+      "max_block_x": 645,
+      "min_block_y": 185,
+      "max_block_y": 186,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 645,
+        "block_y": 185,
+        "block_index": 330425,
+        "staidx_offset": 3965100,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 64763304,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000080.dat",
+          "entry_index": 80,
+          "block_in_entry": 2745
+        }
+      },
+      {
+        "block_x": 645,
+        "block_y": 186,
+        "block_index": 330426,
+        "staidx_offset": 3965112,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 64763500,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000080.dat",
+          "entry_index": 80,
+          "block_in_entry": 2746
+        }
+      }
+    ]
+  }
+}

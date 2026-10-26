@@ -1,0 +1,167 @@
+{
+  "building_id": "building_678_1622_2269",
+  "name": "Wilderness Building #678",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1623 2275",
+    "center_x": 1623,
+    "center_y": 2275,
+    "base_z": 14,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 1622,
+    "max_x": 1623,
+    "min_y": 2269,
+    "max_y": 2281,
+    "base_z": 14,
+    "max_z": 35,
+    "center_x": 1623.0,
+    "center_y": 2275.5,
+    "center_z_elevation": 1.68
+  },
+  "dimensions_meters": {
+    "width_x": 2.0,
+    "depth_z": 13.0,
+    "height_y": 5.02
+  },
+  "stats": {
+    "tile_count": 26,
+    "item_count": 86,
+    "triangles_count": 1068,
+    "unique_textures_count": 12
+  },
+  "unique_items": [
+    {
+      "id": 197,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0197.png"
+    },
+    {
+      "id": 219,
+      "name": "stone pillar",
+      "texture_file": "stone_pillar_0219.png"
+    },
+    {
+      "id": 1313,
+      "name": "stone pavers dark",
+      "texture_file": "stone_pavers_dark_1313.png"
+    },
+    {
+      "id": 1314,
+      "name": "stone pavers dark",
+      "texture_file": "stone_pavers_dark_1314.png"
+    },
+    {
+      "id": 1316,
+      "name": "stone pavers dark",
+      "texture_file": "stone_pavers_dark_1316.png"
+    },
+    {
+      "id": 3371,
+      "name": "flowers",
+      "texture_file": "flowers_3371.png"
+    },
+    {
+      "id": 3814,
+      "name": "spiderweb",
+      "texture_file": "spiderweb_3814.png"
+    },
+    {
+      "id": 4654,
+      "name": "blood",
+      "texture_file": "blood_4654.png"
+    },
+    {
+      "id": 7306,
+      "name": "sarcophagus",
+      "texture_file": "sarcophagus_7306.png"
+    },
+    {
+      "id": 7307,
+      "name": "sarcophagus",
+      "texture_file": "sarcophagus_7307.png"
+    },
+    {
+      "id": 7572,
+      "name": "blood",
+      "texture_file": "blood_7572.png"
+    },
+    {
+      "id": 7574,
+      "name": "blood",
+      "texture_file": "blood_7574.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 202,
+      "max_block_x": 202,
+      "min_block_y": 283,
+      "max_block_y": 285,
+      "total_blocks": 3
+    },
+    "blocks": [
+      {
+        "block_x": 202,
+        "block_y": 283,
+        "block_index": 103707,
+        "staidx_offset": 1244484,
+        "statics_offset": 6577382,
+        "statics_length": 147,
+        "static_items_count": 21,
+        "map_offset": 20326576,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000025.dat",
+          "entry_index": 25,
+          "block_in_entry": 1307
+        }
+      },
+      {
+        "block_x": 202,
+        "block_y": 284,
+        "block_index": 103708,
+        "staidx_offset": 1244496,
+        "statics_offset": 6577529,
+        "statics_length": 42,
+        "static_items_count": 6,
+        "map_offset": 20326772,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000025.dat",
+          "entry_index": 25,
+          "block_in_entry": 1308
+        }
+      },
+      {
+        "block_x": 202,
+        "block_y": 285,
+        "block_index": 103709,
+        "staidx_offset": 1244508,
+        "statics_offset": 6577571,
+        "statics_length": 119,
+        "static_items_count": 17,
+        "map_offset": 20326968,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000025.dat",
+          "entry_index": 25,
+          "block_in_entry": 1309
+        }
+      }
+    ]
+  }
+}

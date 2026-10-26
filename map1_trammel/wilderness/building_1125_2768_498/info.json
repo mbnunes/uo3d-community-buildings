@@ -1,0 +1,589 @@
+{
+  "building_id": "building_1125_2768_498",
+  "name": "Wilderness Building #1125",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "2772 517",
+    "center_x": 2772,
+    "center_y": 517,
+    "base_z": 30,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 2768,
+    "max_x": 2775,
+    "min_y": 498,
+    "max_y": 535,
+    "base_z": 30,
+    "max_z": 70,
+    "center_x": 2772.0,
+    "center_y": 517.0,
+    "center_z_elevation": 3.5999999999999996
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 38.0,
+    "height_y": 6.22
+  },
+  "stats": {
+    "tile_count": 294,
+    "item_count": 851,
+    "triangles_count": 9304,
+    "unique_textures_count": 90
+  },
+  "unique_items": [
+    {
+      "id": 174,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0174.png"
+    },
+    {
+      "id": 175,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0175.png"
+    },
+    {
+      "id": 176,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0176.png"
+    },
+    {
+      "id": 177,
+      "name": "wooden post",
+      "texture_file": "wooden_post_0177.png"
+    },
+    {
+      "id": 187,
+      "name": "window",
+      "texture_file": "window_0187.png"
+    },
+    {
+      "id": 188,
+      "name": "window",
+      "texture_file": "window_0188.png"
+    },
+    {
+      "id": 1180,
+      "name": "grey slate tile",
+      "texture_file": "grey_slate_tile_1180.png"
+    },
+    {
+      "id": 1474,
+      "name": "wooden shingle",
+      "texture_file": "wooden_shingle_1474.png"
+    },
+    {
+      "id": 1475,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1475.png"
+    },
+    {
+      "id": 1476,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1476.png"
+    },
+    {
+      "id": 1477,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1477.png"
+    },
+    {
+      "id": 1478,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1478.png"
+    },
+    {
+      "id": 1479,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1479.png"
+    },
+    {
+      "id": 1480,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1480.png"
+    },
+    {
+      "id": 1482,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1482.png"
+    },
+    {
+      "id": 1484,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1484.png"
+    },
+    {
+      "id": 1485,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1485.png"
+    },
+    {
+      "id": 1486,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1486.png"
+    },
+    {
+      "id": 1487,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1487.png"
+    },
+    {
+      "id": 1488,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1488.png"
+    },
+    {
+      "id": 1849,
+      "name": "wooden stairs",
+      "texture_file": "wooden_stairs_1849.png"
+    },
+    {
+      "id": 1850,
+      "name": "wooden stairs",
+      "texture_file": "wooden_stairs_1850.png"
+    },
+    {
+      "id": 1852,
+      "name": "wooden stairs",
+      "texture_file": "wooden_stairs_1852.png"
+    },
+    {
+      "id": 1872,
+      "name": "stone",
+      "texture_file": "stone_1872.png"
+    },
+    {
+      "id": 2261,
+      "name": "chimney",
+      "texture_file": "chimney_2261.png"
+    },
+    {
+      "id": 2262,
+      "name": "chimney",
+      "texture_file": "chimney_2262.png"
+    },
+    {
+      "id": 2444,
+      "name": "french bread",
+      "texture_file": "french_bread_2444.png"
+    },
+    {
+      "id": 2449,
+      "name": "tray",
+      "texture_file": "tray_2449.png"
+    },
+    {
+      "id": 2537,
+      "name": "cake",
+      "texture_file": "cake_2537.png"
+    },
+    {
+      "id": 2539,
+      "name": "muffins",
+      "texture_file": "muffins_2539.png"
+    },
+    {
+      "id": 2548,
+      "name": "fork",
+      "texture_file": "fork_2548.png"
+    },
+    {
+      "id": 2648,
+      "name": "bedroll",
+      "texture_file": "bedroll_2648.png"
+    },
+    {
+      "id": 2654,
+      "name": "bed",
+      "texture_file": "bed_2654.png"
+    },
+    {
+      "id": 2655,
+      "name": "bed",
+      "texture_file": "bed_2655.png"
+    },
+    {
+      "id": 2712,
+      "name": "bookcase",
+      "texture_file": "bookcase_2712.png"
+    },
+    {
+      "id": 2715,
+      "name": "bookcase",
+      "texture_file": "bookcase_2715.png"
+    },
+    {
+      "id": 2819,
+      "name": "display case",
+      "texture_file": "display_case_2819.png"
+    },
+    {
+      "id": 2820,
+      "name": "display case",
+      "texture_file": "display_case_2820.png"
+    },
+    {
+      "id": 2821,
+      "name": "display case",
+      "texture_file": "display_case_2821.png"
+    },
+    {
+      "id": 2822,
+      "name": "display case",
+      "texture_file": "display_case_2822.png"
+    },
+    {
+      "id": 2823,
+      "name": "display case",
+      "texture_file": "display_case_2823.png"
+    },
+    {
+      "id": 2824,
+      "name": "display case",
+      "texture_file": "display_case_2824.png"
+    },
+    {
+      "id": 2852,
+      "name": "lamp post",
+      "texture_file": "lamp_post_2852.png"
+    },
+    {
+      "id": 2854,
+      "name": "candelabra",
+      "texture_file": "candelabra_2854.png"
+    },
+    {
+      "id": 2929,
+      "name": "table",
+      "texture_file": "table_2929.png"
+    },
+    {
+      "id": 2930,
+      "name": "table",
+      "texture_file": "table_2930.png"
+    },
+    {
+      "id": 2931,
+      "name": "table",
+      "texture_file": "table_2931.png"
+    },
+    {
+      "id": 2945,
+      "name": "table",
+      "texture_file": "table_2945.png"
+    },
+    {
+      "id": 2946,
+      "name": "table",
+      "texture_file": "table_2946.png"
+    },
+    {
+      "id": 2949,
+      "name": "table",
+      "texture_file": "table_2949.png"
+    },
+    {
+      "id": 3092,
+      "name": "ruined bookcase",
+      "texture_file": "ruined_bookcase_3092.png"
+    },
+    {
+      "id": 3617,
+      "name": "clean bandage%s%",
+      "texture_file": "clean_bandage_s_3617.png"
+    },
+    {
+      "id": 3618,
+      "name": "bloody bandage%s%",
+      "texture_file": "bloody_bandage_s_3618.png"
+    },
+    {
+      "id": 3622,
+      "name": "bottle",
+      "texture_file": "bottle_3622.png"
+    },
+    {
+      "id": 3626,
+      "name": "bottle",
+      "texture_file": "bottle_3626.png"
+    },
+    {
+      "id": 3627,
+      "name": "bottle",
+      "texture_file": "bottle_3627.png"
+    },
+    {
+      "id": 3703,
+      "name": "barrel",
+      "texture_file": "barrel_3703.png"
+    },
+    {
+      "id": 3817,
+      "name": "clean bandage%s%",
+      "texture_file": "clean_bandage_s_3817.png"
+    },
+    {
+      "id": 3835,
+      "name": "bottle",
+      "texture_file": "bottle_3835.png"
+    },
+    {
+      "id": 3836,
+      "name": "bottle",
+      "texture_file": "bottle_3836.png"
+    },
+    {
+      "id": 3838,
+      "name": "bottle",
+      "texture_file": "bottle_3838.png"
+    },
+    {
+      "id": 3839,
+      "name": "bottle",
+      "texture_file": "bottle_3839.png"
+    },
+    {
+      "id": 3841,
+      "name": "bottle",
+      "texture_file": "bottle_3841.png"
+    },
+    {
+      "id": 3842,
+      "name": "bottle",
+      "texture_file": "bottle_3842.png"
+    },
+    {
+      "id": 3843,
+      "name": "bottle",
+      "texture_file": "bottle_3843.png"
+    },
+    {
+      "id": 3844,
+      "name": "bottle",
+      "texture_file": "bottle_3844.png"
+    },
+    {
+      "id": 3854,
+      "name": "empty bottle%s%",
+      "texture_file": "empty_bottle_s_3854.png"
+    },
+    {
+      "id": 3893,
+      "name": "hay",
+      "texture_file": "hay_3893.png"
+    },
+    {
+      "id": 3899,
+      "name": "horse dung",
+      "texture_file": "horse_dung_3899.png"
+    },
+    {
+      "id": 3900,
+      "name": "horse dung",
+      "texture_file": "horse_dung_3900.png"
+    },
+    {
+      "id": 4150,
+      "name": "hay",
+      "texture_file": "hay_4150.png"
+    },
+    {
+      "id": 4151,
+      "name": "hay",
+      "texture_file": "hay_4151.png"
+    },
+    {
+      "id": 4152,
+      "name": "wood curls",
+      "texture_file": "wood_curls_4152.png"
+    },
+    {
+      "id": 4153,
+      "name": "sack of flour",
+      "texture_file": "sack_of_flour_4153.png"
+    },
+    {
+      "id": 4158,
+      "name": "flour sifter",
+      "texture_file": "flour_sifter_4158.png"
+    },
+    {
+      "id": 4161,
+      "name": "baked pie",
+      "texture_file": "baked_pie_4161.png"
+    },
+    {
+      "id": 4165,
+      "name": "sack%s% of flour",
+      "texture_file": "sack_s__of_flour_4165.png"
+    },
+    {
+      "id": 4200,
+      "name": "cut up leather",
+      "texture_file": "cut_up_leather_4200.png"
+    },
+    {
+      "id": 4321,
+      "name": "barrel hoops",
+      "texture_file": "barrel_hoops_4321.png"
+    },
+    {
+      "id": 4322,
+      "name": "barrel hoops",
+      "texture_file": "barrel_hoops_4322.png"
+    },
+    {
+      "id": 4329,
+      "name": "large wooden spoon",
+      "texture_file": "large_wooden_spoon_4329.png"
+    },
+    {
+      "id": 4334,
+      "name": "garbage",
+      "texture_file": "garbage_4334.png"
+    },
+    {
+      "id": 4336,
+      "name": "garbage",
+      "texture_file": "garbage_4336.png"
+    },
+    {
+      "id": 4337,
+      "name": "garbage",
+      "texture_file": "garbage_4337.png"
+    },
+    {
+      "id": 4338,
+      "name": "pile of garbage",
+      "texture_file": "pile_of_garbage_4338.png"
+    },
+    {
+      "id": 5033,
+      "name": "pillow",
+      "texture_file": "pillow_5033.png"
+    },
+    {
+      "id": 7603,
+      "name": "broken barrel",
+      "texture_file": "broken_barrel_7603.png"
+    },
+    {
+      "id": 7604,
+      "name": "broken barrel",
+      "texture_file": "broken_barrel_7604.png"
+    },
+    {
+      "id": 7608,
+      "name": "barrel lid",
+      "texture_file": "barrel_lid_7608.png"
+    },
+    {
+      "id": 7868,
+      "name": "tinker's tools",
+      "texture_file": "tinker_s_tools_7868.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 346,
+      "max_block_x": 346,
+      "min_block_y": 62,
+      "max_block_y": 66,
+      "total_blocks": 5
+    },
+    "blocks": [
+      {
+        "block_x": 346,
+        "block_y": 62,
+        "block_index": 177214,
+        "staidx_offset": 2126568,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 34733948,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000043.dat",
+          "entry_index": 43,
+          "block_in_entry": 1086
+        }
+      },
+      {
+        "block_x": 346,
+        "block_y": 63,
+        "block_index": 177215,
+        "staidx_offset": 2126580,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 34734144,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000043.dat",
+          "entry_index": 43,
+          "block_in_entry": 1087
+        }
+      },
+      {
+        "block_x": 346,
+        "block_y": 64,
+        "block_index": 177216,
+        "staidx_offset": 2126592,
+        "statics_offset": 11726995,
+        "statics_length": 77,
+        "static_items_count": 11,
+        "map_offset": 34734340,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000043.dat",
+          "entry_index": 43,
+          "block_in_entry": 1088
+        }
+      },
+      {
+        "block_x": 346,
+        "block_y": 65,
+        "block_index": 177217,
+        "staidx_offset": 2126604,
+        "statics_offset": 11727072,
+        "statics_length": 231,
+        "static_items_count": 33,
+        "map_offset": 34734536,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000043.dat",
+          "entry_index": 43,
+          "block_in_entry": 1089
+        }
+      },
+      {
+        "block_x": 346,
+        "block_y": 66,
+        "block_index": 177218,
+        "staidx_offset": 2126616,
+        "statics_offset": 11727303,
+        "statics_length": 273,
+        "static_items_count": 39,
+        "map_offset": 34734732,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000043.dat",
+          "entry_index": 43,
+          "block_in_entry": 1090
+        }
+      }
+    ]
+  }
+}

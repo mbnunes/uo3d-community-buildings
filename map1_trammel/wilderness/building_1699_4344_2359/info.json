@@ -1,0 +1,226 @@
+{
+  "building_id": "building_1699_4344_2359",
+  "name": "Wilderness Building #1699",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4348 2363",
+    "center_x": 4348,
+    "center_y": 2363,
+    "base_z": 0,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 4344,
+    "max_x": 4351,
+    "min_y": 2359,
+    "max_y": 2367,
+    "base_z": 0,
+    "max_z": 30,
+    "center_x": 4348.0,
+    "center_y": 2363.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 9.0,
+    "height_y": 3.7
+  },
+  "stats": {
+    "tile_count": 30,
+    "item_count": 84,
+    "triangles_count": 792,
+    "unique_textures_count": 27
+  },
+  "unique_items": [
+    {
+      "id": 464,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0464.png"
+    },
+    {
+      "id": 466,
+      "name": "stone post",
+      "texture_file": "stone_post_0466.png"
+    },
+    {
+      "id": 476,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0476.png"
+    },
+    {
+      "id": 478,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0478.png"
+    },
+    {
+      "id": 1928,
+      "name": "stone",
+      "texture_file": "stone_1928.png"
+    },
+    {
+      "id": 3619,
+      "name": "bloody water",
+      "texture_file": "bloody_water_3619.png"
+    },
+    {
+      "id": 3621,
+      "name": "bottle",
+      "texture_file": "bottle_3621.png"
+    },
+    {
+      "id": 3622,
+      "name": "bottle",
+      "texture_file": "bottle_3622.png"
+    },
+    {
+      "id": 3626,
+      "name": "bottle",
+      "texture_file": "bottle_3626.png"
+    },
+    {
+      "id": 3659,
+      "name": "full jars",
+      "texture_file": "full_jars_3659.png"
+    },
+    {
+      "id": 3660,
+      "name": "jars",
+      "texture_file": "jars_3660.png"
+    },
+    {
+      "id": 3827,
+      "name": "blank scroll%s%",
+      "texture_file": "blank_scroll_s_3827.png"
+    },
+    {
+      "id": 3835,
+      "name": "bottle",
+      "texture_file": "bottle_3835.png"
+    },
+    {
+      "id": 3844,
+      "name": "bottle",
+      "texture_file": "bottle_3844.png"
+    },
+    {
+      "id": 4650,
+      "name": "blood",
+      "texture_file": "blood_4650.png"
+    },
+    {
+      "id": 4651,
+      "name": "blood",
+      "texture_file": "blood_4651.png"
+    },
+    {
+      "id": 4654,
+      "name": "blood",
+      "texture_file": "blood_4654.png"
+    },
+    {
+      "id": 6185,
+      "name": "flask stand",
+      "texture_file": "flask_stand_6185.png"
+    },
+    {
+      "id": 6199,
+      "name": "flask",
+      "texture_file": "flask_6199.png"
+    },
+    {
+      "id": 6214,
+      "name": "flask",
+      "texture_file": "flask_6214.png"
+    },
+    {
+      "id": 6216,
+      "name": "flask",
+      "texture_file": "flask_6216.png"
+    },
+    {
+      "id": 6236,
+      "name": "empty vials",
+      "texture_file": "empty_vials_6236.png"
+    },
+    {
+      "id": 6238,
+      "name": "full vials",
+      "texture_file": "full_vials_6238.png"
+    },
+    {
+      "id": 6883,
+      "name": "skull",
+      "texture_file": "skull_6883.png"
+    },
+    {
+      "id": 7393,
+      "name": "head",
+      "texture_file": "head_7393.png"
+    },
+    {
+      "id": 7405,
+      "name": "heart",
+      "texture_file": "heart_7405.png"
+    },
+    {
+      "id": 7408,
+      "name": "brain",
+      "texture_file": "brain_7408.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 543,
+      "max_block_x": 543,
+      "min_block_y": 294,
+      "max_block_y": 295,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 543,
+        "block_y": 294,
+        "block_index": 278310,
+        "staidx_offset": 3339720,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 54548764,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000067.dat",
+          "entry_index": 67,
+          "block_in_entry": 3878
+        }
+      },
+      {
+        "block_x": 543,
+        "block_y": 295,
+        "block_index": 278311,
+        "staidx_offset": 3339732,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 54548960,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000067.dat",
+          "entry_index": 67,
+          "block_in_entry": 3879
+        }
+      }
+    ]
+  }
+}

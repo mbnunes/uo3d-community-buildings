@@ -1,0 +1,128 @@
+{
+  "building_id": "building_2397_5462_4223",
+  "name": "Wilderness Building #2397",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "5463 4231",
+    "center_x": 5463,
+    "center_y": 4231,
+    "base_z": 0,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 5462,
+    "max_x": 5463,
+    "min_y": 4223,
+    "max_y": 4239,
+    "base_z": 0,
+    "max_z": 20,
+    "center_x": 5463.0,
+    "center_y": 4231.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 2.0,
+    "depth_z": 17.0,
+    "height_y": 4.9
+  },
+  "stats": {
+    "tile_count": 34,
+    "item_count": 63,
+    "triangles_count": 1728,
+    "unique_textures_count": 14
+  },
+  "unique_items": [
+    {
+      "id": 351,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0351.png"
+    },
+    {
+      "id": 352,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0352.png"
+    },
+    {
+      "id": 353,
+      "name": "sandstone post",
+      "texture_file": "sandstone_post_0353.png"
+    },
+    {
+      "id": 354,
+      "name": "window",
+      "texture_file": "window_0354.png"
+    },
+    {
+      "id": 355,
+      "name": "window",
+      "texture_file": "window_0355.png"
+    },
+    {
+      "id": 1407,
+      "name": "slate roof",
+      "texture_file": "slate_roof_1407.png"
+    },
+    {
+      "id": 1408,
+      "name": "slate roof",
+      "texture_file": "slate_roof_1408.png"
+    },
+    {
+      "id": 1409,
+      "name": "slate roof",
+      "texture_file": "slate_roof_1409.png"
+    },
+    {
+      "id": 1410,
+      "name": "slate roof",
+      "texture_file": "slate_roof_1410.png"
+    },
+    {
+      "id": 1411,
+      "name": "slate roof",
+      "texture_file": "slate_roof_1411.png"
+    },
+    {
+      "id": 1412,
+      "name": "slate roof",
+      "texture_file": "slate_roof_1412.png"
+    },
+    {
+      "id": 1413,
+      "name": "slate roof",
+      "texture_file": "slate_roof_1413.png"
+    },
+    {
+      "id": 2877,
+      "name": "counter",
+      "texture_file": "counter_2877.png"
+    },
+    {
+      "id": 2879,
+      "name": "counter",
+      "texture_file": "counter_2879.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 682,
+      "max_block_x": 682,
+      "min_block_y": 527,
+      "max_block_y": 529,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

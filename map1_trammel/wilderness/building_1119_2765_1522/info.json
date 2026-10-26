@@ -1,0 +1,181 @@
+{
+  "building_id": "building_1119_2765_1522",
+  "name": "Wilderness Building #1119",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "2766 1527",
+    "center_x": 2766,
+    "center_y": 1527,
+    "base_z": 30,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 2765,
+    "max_x": 2767,
+    "min_y": 1522,
+    "max_y": 1532,
+    "base_z": 30,
+    "max_z": 70,
+    "center_x": 2766.5,
+    "center_y": 1527.5,
+    "center_z_elevation": 3.5999999999999996
+  },
+  "dimensions_meters": {
+    "width_x": 3.0,
+    "depth_z": 11.0,
+    "height_y": 5.26
+  },
+  "stats": {
+    "tile_count": 33,
+    "item_count": 95,
+    "triangles_count": 1086,
+    "unique_textures_count": 18
+  },
+  "unique_items": [
+    {
+      "id": 175,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0175.png"
+    },
+    {
+      "id": 176,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0176.png"
+    },
+    {
+      "id": 177,
+      "name": "wooden post",
+      "texture_file": "wooden_post_0177.png"
+    },
+    {
+      "id": 187,
+      "name": "window",
+      "texture_file": "window_0187.png"
+    },
+    {
+      "id": 1180,
+      "name": "grey slate tile",
+      "texture_file": "grey_slate_tile_1180.png"
+    },
+    {
+      "id": 1486,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1486.png"
+    },
+    {
+      "id": 1487,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1487.png"
+    },
+    {
+      "id": 1488,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1488.png"
+    },
+    {
+      "id": 1872,
+      "name": "stone",
+      "texture_file": "stone_1872.png"
+    },
+    {
+      "id": 2712,
+      "name": "bookcase",
+      "texture_file": "bookcase_2712.png"
+    },
+    {
+      "id": 2714,
+      "name": "bookcase",
+      "texture_file": "bookcase_2714.png"
+    },
+    {
+      "id": 2945,
+      "name": "table",
+      "texture_file": "table_2945.png"
+    },
+    {
+      "id": 2946,
+      "name": "table",
+      "texture_file": "table_2946.png"
+    },
+    {
+      "id": 3899,
+      "name": "horse dung",
+      "texture_file": "horse_dung_3899.png"
+    },
+    {
+      "id": 4151,
+      "name": "hay",
+      "texture_file": "hay_4151.png"
+    },
+    {
+      "id": 4152,
+      "name": "wood curls",
+      "texture_file": "wood_curls_4152.png"
+    },
+    {
+      "id": 7857,
+      "name": "barrel staves",
+      "texture_file": "barrel_staves_7857.png"
+    },
+    {
+      "id": 7861,
+      "name": "unfinished barrel",
+      "texture_file": "unfinished_barrel_7861.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 345,
+      "max_block_x": 345,
+      "min_block_y": 190,
+      "max_block_y": 191,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 345,
+        "block_y": 190,
+        "block_index": 176830,
+        "staidx_offset": 2121960,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 34658684,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000043.dat",
+          "entry_index": 43,
+          "block_in_entry": 702
+        }
+      },
+      {
+        "block_x": 345,
+        "block_y": 191,
+        "block_index": 176831,
+        "staidx_offset": 2121972,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 34658880,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000043.dat",
+          "entry_index": 43,
+          "block_in_entry": 703
+        }
+      }
+    ]
+  }
+}

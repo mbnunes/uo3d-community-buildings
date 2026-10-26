@@ -1,0 +1,78 @@
+{
+  "building_id": "building_1176_2864_4637",
+  "name": "Wilderness Building #1176",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "2868 4642",
+    "center_x": 2868,
+    "center_y": 4642,
+    "base_z": 0,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 2864,
+    "max_x": 2871,
+    "min_y": 4637,
+    "max_y": 4647,
+    "base_z": 0,
+    "max_z": 15,
+    "center_x": 2868.0,
+    "center_y": 4642.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 11.0,
+    "height_y": 2.5
+  },
+  "stats": {
+    "tile_count": 26,
+    "item_count": 39,
+    "triangles_count": 372,
+    "unique_textures_count": 4
+  },
+  "unique_items": [
+    {
+      "id": 200,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0200.png"
+    },
+    {
+      "id": 201,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0201.png"
+    },
+    {
+      "id": 1822,
+      "name": "stone",
+      "texture_file": "stone_1822.png"
+    },
+    {
+      "id": 1823,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1823.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 358,
+      "max_block_x": 358,
+      "min_block_y": 579,
+      "max_block_y": 580,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "building_id": "building_673_1600_2908",
+  "name": "Wilderness Building #673",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1604 2910",
+    "center_x": 1604,
+    "center_y": 2910,
+    "base_z": 0,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 1600,
+    "max_x": 1607,
+    "min_y": 2908,
+    "max_y": 2912,
+    "base_z": 0,
+    "max_z": 40,
+    "center_x": 1604.0,
+    "center_y": 2910.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 5.0,
+    "height_y": 6.0
+  },
+  "stats": {
+    "tile_count": 40,
+    "item_count": 96,
+    "triangles_count": 1176,
+    "unique_textures_count": 20
+  },
+  "unique_items": [
+    {
+      "id": 360,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0360.png"
+    },
+    {
+      "id": 362,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0362.png"
+    },
+    {
+      "id": 372,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0372.png"
+    },
+    {
+      "id": 374,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0374.png"
+    },
+    {
+      "id": 375,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0375.png"
+    },
+    {
+      "id": 376,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0376.png"
+    },
+    {
+      "id": 378,
+      "name": "battlement",
+      "texture_file": "battlement_0378.png"
+    },
+    {
+      "id": 380,
+      "name": "battlement",
+      "texture_file": "battlement_0380.png"
+    },
+    {
+      "id": 382,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0382.png"
+    },
+    {
+      "id": 384,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0384.png"
+    },
+    {
+      "id": 388,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0388.png"
+    },
+    {
+      "id": 407,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0407.png"
+    },
+    {
+      "id": 408,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0408.png"
+    },
+    {
+      "id": 409,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0409.png"
+    },
+    {
+      "id": 433,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0433.png"
+    },
+    {
+      "id": 434,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0434.png"
+    },
+    {
+      "id": 1236,
+      "name": "wooden planks",
+      "texture_file": "wooden_planks_1236.png"
+    },
+    {
+      "id": 1237,
+      "name": "wooden planks",
+      "texture_file": "wooden_planks_1237.png"
+    },
+    {
+      "id": 1238,
+      "name": "wooden planks",
+      "texture_file": "wooden_planks_1238.png"
+    },
+    {
+      "id": 1239,
+      "name": "wooden planks",
+      "texture_file": "wooden_planks_1239.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 200,
+      "max_block_x": 200,
+      "min_block_y": 363,
+      "max_block_y": 364,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 200,
+        "block_y": 363,
+        "block_index": 102763,
+        "staidx_offset": 1233156,
+        "statics_offset": 6494607,
+        "statics_length": 140,
+        "static_items_count": 20,
+        "map_offset": 20141552,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000025.dat",
+          "entry_index": 25,
+          "block_in_entry": 363
+        }
+      },
+      {
+        "block_x": 200,
+        "block_y": 364,
+        "block_index": 102764,
+        "staidx_offset": 1233168,
+        "statics_offset": 6494747,
+        "statics_length": 210,
+        "static_items_count": 30,
+        "map_offset": 20141748,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000025.dat",
+          "entry_index": 25,
+          "block_in_entry": 364
+        }
+      }
+    ]
+  }
+}

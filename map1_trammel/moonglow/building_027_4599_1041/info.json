@@ -1,0 +1,151 @@
+{
+  "building_id": "building_027_4599_1041",
+  "name": "Moonglow Building #027",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "moonglow",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4603 1043",
+    "center_x": 4603,
+    "center_y": 1043,
+    "base_z": -15,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 4599,
+    "max_x": 4606,
+    "min_y": 1041,
+    "max_y": 1045,
+    "base_z": -15,
+    "max_z": 2,
+    "center_x": 4603.0,
+    "center_y": 1043.5,
+    "center_z_elevation": -1.7999999999999998
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 5.0,
+    "height_y": 3.34
+  },
+  "stats": {
+    "tile_count": 36,
+    "item_count": 90,
+    "triangles_count": 588,
+    "unique_textures_count": 12
+  },
+  "unique_items": [
+    {
+      "id": 764,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0764.png"
+    },
+    {
+      "id": 766,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0766.png"
+    },
+    {
+      "id": 1225,
+      "name": "wooden planks",
+      "texture_file": "wooden_planks_1225.png"
+    },
+    {
+      "id": 2139,
+      "name": "iron gate",
+      "texture_file": "iron_gate_2139.png"
+    },
+    {
+      "id": 2143,
+      "name": "wooden fence",
+      "texture_file": "wooden_fence_2143.png"
+    },
+    {
+      "id": 3260,
+      "name": "grasses",
+      "texture_file": "grasses_3260.png"
+    },
+    {
+      "id": 6039,
+      "name": "water",
+      "texture_file": "water_6039.png"
+    },
+    {
+      "id": 6040,
+      "name": "water",
+      "texture_file": "water_6040.png"
+    },
+    {
+      "id": 6041,
+      "name": "water",
+      "texture_file": "water_6041.png"
+    },
+    {
+      "id": 6042,
+      "name": "water",
+      "texture_file": "water_6042.png"
+    },
+    {
+      "id": 6043,
+      "name": "water",
+      "texture_file": "water_6043.png"
+    },
+    {
+      "id": 6044,
+      "name": "water",
+      "texture_file": "water_6044.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 574,
+      "max_block_x": 575,
+      "min_block_y": 130,
+      "max_block_y": 130,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 574,
+        "block_y": 130,
+        "block_index": 294018,
+        "staidx_offset": 3528216,
+        "statics_offset": 16058924,
+        "statics_length": 469,
+        "static_items_count": 67,
+        "map_offset": 57627532,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000071.dat",
+          "entry_index": 71,
+          "block_in_entry": 3202
+        }
+      },
+      {
+        "block_x": 575,
+        "block_y": 130,
+        "block_index": 294530,
+        "staidx_offset": 3534360,
+        "statics_offset": 16081996,
+        "statics_length": 266,
+        "static_items_count": 38,
+        "map_offset": 57727884,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000071.dat",
+          "entry_index": 71,
+          "block_in_entry": 3714
+        }
+      }
+    ]
+  }
+}

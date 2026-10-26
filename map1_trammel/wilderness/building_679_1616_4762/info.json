@@ -1,0 +1,103 @@
+{
+  "building_id": "building_679_1616_4762",
+  "name": "Wilderness Building #679",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1620 4767",
+    "center_x": 1620,
+    "center_y": 4767,
+    "base_z": 20,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 1616,
+    "max_x": 1623,
+    "min_y": 4762,
+    "max_y": 4772,
+    "base_z": 20,
+    "max_z": 40,
+    "center_x": 1620.0,
+    "center_y": 4767.5,
+    "center_z_elevation": 2.4
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 11.0,
+    "height_y": 2.86
+  },
+  "stats": {
+    "tile_count": 25,
+    "item_count": 41,
+    "triangles_count": 1308,
+    "unique_textures_count": 9
+  },
+  "unique_items": [
+    {
+      "id": 353,
+      "name": "sandstone post",
+      "texture_file": "sandstone_post_0353.png"
+    },
+    {
+      "id": 365,
+      "name": "sandstone arch",
+      "texture_file": "sandstone_arch_0365.png"
+    },
+    {
+      "id": 366,
+      "name": "sandstone arch",
+      "texture_file": "sandstone_arch_0366.png"
+    },
+    {
+      "id": 367,
+      "name": "sandstone arch",
+      "texture_file": "sandstone_arch_0367.png"
+    },
+    {
+      "id": 368,
+      "name": "sandstone arch",
+      "texture_file": "sandstone_arch_0368.png"
+    },
+    {
+      "id": 407,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0407.png"
+    },
+    {
+      "id": 408,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0408.png"
+    },
+    {
+      "id": 433,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0433.png"
+    },
+    {
+      "id": 434,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0434.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 202,
+      "max_block_x": 202,
+      "min_block_y": 595,
+      "max_block_y": 596,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

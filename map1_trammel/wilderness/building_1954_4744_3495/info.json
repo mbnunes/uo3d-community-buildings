@@ -1,0 +1,159 @@
+{
+  "building_id": "building_1954_4744_3495",
+  "name": "Wilderness Building #1954",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4748 3509",
+    "center_x": 4748,
+    "center_y": 3509,
+    "base_z": 0,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 4744,
+    "max_x": 4751,
+    "min_y": 3495,
+    "max_y": 3522,
+    "base_z": 0,
+    "max_z": 22,
+    "center_x": 4748.0,
+    "center_y": 3509.0,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 28.0,
+    "height_y": 5.28
+  },
+  "stats": {
+    "tile_count": 35,
+    "item_count": 35,
+    "triangles_count": 420,
+    "unique_textures_count": 4
+  },
+  "unique_items": [
+    {
+      "id": 577,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0577.png"
+    },
+    {
+      "id": 578,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0578.png"
+    },
+    {
+      "id": 579,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0579.png"
+    },
+    {
+      "id": 580,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0580.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 593,
+      "max_block_x": 593,
+      "min_block_y": 436,
+      "max_block_y": 440,
+      "total_blocks": 5
+    },
+    "blocks": [
+      {
+        "block_x": 593,
+        "block_y": 436,
+        "block_index": 304052,
+        "staidx_offset": 3648624,
+        "statics_offset": 16411136,
+        "statics_length": 49,
+        "static_items_count": 7,
+        "map_offset": 59594196,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000074.dat",
+          "entry_index": 74,
+          "block_in_entry": 948
+        }
+      },
+      {
+        "block_x": 593,
+        "block_y": 437,
+        "block_index": 304053,
+        "staidx_offset": 3648636,
+        "statics_offset": 16411185,
+        "statics_length": 147,
+        "static_items_count": 21,
+        "map_offset": 59594392,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000074.dat",
+          "entry_index": 74,
+          "block_in_entry": 949
+        }
+      },
+      {
+        "block_x": 593,
+        "block_y": 438,
+        "block_index": 304054,
+        "staidx_offset": 3648648,
+        "statics_offset": 16411332,
+        "statics_length": 98,
+        "static_items_count": 14,
+        "map_offset": 59594588,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000074.dat",
+          "entry_index": 74,
+          "block_in_entry": 950
+        }
+      },
+      {
+        "block_x": 593,
+        "block_y": 439,
+        "block_index": 304055,
+        "staidx_offset": 3648660,
+        "statics_offset": 16411430,
+        "statics_length": 224,
+        "static_items_count": 32,
+        "map_offset": 59594784,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000074.dat",
+          "entry_index": 74,
+          "block_in_entry": 951
+        }
+      },
+      {
+        "block_x": 593,
+        "block_y": 440,
+        "block_index": 304056,
+        "staidx_offset": 3648672,
+        "statics_offset": 16411654,
+        "statics_length": 413,
+        "static_items_count": 59,
+        "map_offset": 59594980,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000074.dat",
+          "entry_index": 74,
+          "block_in_entry": 952
+        }
+      }
+    ]
+  }
+}

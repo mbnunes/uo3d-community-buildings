@@ -1,0 +1,165 @@
+{
+  "building_id": "building_153_784_2771",
+  "name": "Wilderness Building #153",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "788 2773",
+    "center_x": 788,
+    "center_y": 2773,
+    "base_z": -60,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 784,
+    "max_x": 791,
+    "min_y": 2771,
+    "max_y": 2775,
+    "base_z": -60,
+    "max_z": 0,
+    "center_x": 788.0,
+    "center_y": 2773.5,
+    "center_z_elevation": -7.199999999999999
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 5.0,
+    "height_y": 4.8
+  },
+  "stats": {
+    "tile_count": 40,
+    "item_count": 67,
+    "triangles_count": 648,
+    "unique_textures_count": 18
+  },
+  "unique_items": [
+    {
+      "id": 200,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0200.png"
+    },
+    {
+      "id": 1312,
+      "name": "stone pavers",
+      "texture_file": "stone_pavers_1312.png"
+    },
+    {
+      "id": 3204,
+      "name": "foxglove flowers",
+      "texture_file": "foxglove_flowers_3204.png"
+    },
+    {
+      "id": 3211,
+      "name": "white flowers",
+      "texture_file": "white_flowers_3211.png"
+    },
+    {
+      "id": 3245,
+      "name": "grasses",
+      "texture_file": "grasses_3245.png"
+    },
+    {
+      "id": 3253,
+      "name": "grasses",
+      "texture_file": "grasses_3253.png"
+    },
+    {
+      "id": 3254,
+      "name": "grasses",
+      "texture_file": "grasses_3254.png"
+    },
+    {
+      "id": 3271,
+      "name": "weed",
+      "texture_file": "weed_3271.png"
+    },
+    {
+      "id": 3306,
+      "name": "sapling",
+      "texture_file": "sapling_3306.png"
+    },
+    {
+      "id": 3315,
+      "name": "fallen log",
+      "texture_file": "fallen_log_3315.png"
+    },
+    {
+      "id": 3316,
+      "name": "fallen log",
+      "texture_file": "fallen_log_3316.png"
+    },
+    {
+      "id": 3392,
+      "name": "brambles",
+      "texture_file": "brambles_3392.png"
+    },
+    {
+      "id": 3790,
+      "name": "bones",
+      "texture_file": "bones_3790.png"
+    },
+    {
+      "id": 4654,
+      "name": "blood",
+      "texture_file": "blood_4654.png"
+    },
+    {
+      "id": 6882,
+      "name": "skull",
+      "texture_file": "skull_6882.png"
+    },
+    {
+      "id": 6934,
+      "name": "pelvis bone",
+      "texture_file": "pelvis_bone_6934.png"
+    },
+    {
+      "id": 6937,
+      "name": "bone shards",
+      "texture_file": "bone_shards_6937.png"
+    },
+    {
+      "id": 6939,
+      "name": "spine",
+      "texture_file": "spine_6939.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 98,
+      "max_block_x": 98,
+      "min_block_y": 346,
+      "max_block_y": 346,
+      "total_blocks": 1
+    },
+    "blocks": [
+      {
+        "block_x": 98,
+        "block_y": 346,
+        "block_index": 50522,
+        "staidx_offset": 606264,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 9902316,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000012.dat",
+          "entry_index": 12,
+          "block_in_entry": 1370
+        }
+      }
+    ]
+  }
+}

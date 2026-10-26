@@ -1,0 +1,68 @@
+{
+  "building_id": "building_2096_4981_4711",
+  "name": "Wilderness Building #2096",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4982 4718",
+    "center_x": 4982,
+    "center_y": 4718,
+    "base_z": 0,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 4981,
+    "max_x": 4983,
+    "min_y": 4711,
+    "max_y": 4724,
+    "base_z": 0,
+    "max_z": 0,
+    "center_x": 4982.5,
+    "center_y": 4718.0,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 3.0,
+    "depth_z": 14.0,
+    "height_y": 2.4
+  },
+  "stats": {
+    "tile_count": 18,
+    "item_count": 18,
+    "triangles_count": 216,
+    "unique_textures_count": 2
+  },
+  "unique_items": [
+    {
+      "id": 87,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0087.png"
+    },
+    {
+      "id": 88,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0088.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 622,
+      "max_block_x": 622,
+      "min_block_y": 588,
+      "max_block_y": 590,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

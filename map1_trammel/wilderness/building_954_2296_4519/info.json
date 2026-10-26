@@ -1,0 +1,113 @@
+{
+  "building_id": "building_954_2296_4519",
+  "name": "Wilderness Building #954",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "2300 4528",
+    "center_x": 2300,
+    "center_y": 4528,
+    "base_z": 10,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 2296,
+    "max_x": 2303,
+    "min_y": 4519,
+    "max_y": 4536,
+    "base_z": 10,
+    "max_z": 54,
+    "center_x": 2300.0,
+    "center_y": 4528.0,
+    "center_z_elevation": 1.2
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 18.0,
+    "height_y": 5.64
+  },
+  "stats": {
+    "tile_count": 144,
+    "item_count": 177,
+    "triangles_count": 1888,
+    "unique_textures_count": 11
+  },
+  "unique_items": [
+    {
+      "id": 167,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0167.png"
+    },
+    {
+      "id": 168,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0168.png"
+    },
+    {
+      "id": 170,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0170.png"
+    },
+    {
+      "id": 172,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0172.png"
+    },
+    {
+      "id": 186,
+      "name": "window",
+      "texture_file": "window_0186.png"
+    },
+    {
+      "id": 1486,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1486.png"
+    },
+    {
+      "id": 1487,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1487.png"
+    },
+    {
+      "id": 1488,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1488.png"
+    },
+    {
+      "id": 2558,
+      "name": "wall sconce",
+      "texture_file": "wall_sconce_2558.png"
+    },
+    {
+      "id": 2562,
+      "name": "wall sconce",
+      "texture_file": "wall_sconce_2562.png"
+    },
+    {
+      "id": 3235,
+      "name": "fern",
+      "texture_file": "fern_3235.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 287,
+      "max_block_x": 287,
+      "min_block_y": 564,
+      "max_block_y": 567,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

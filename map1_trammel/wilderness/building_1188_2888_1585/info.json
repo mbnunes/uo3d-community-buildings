@@ -1,0 +1,171 @@
+{
+  "building_id": "building_1188_2888_1585",
+  "name": "Wilderness Building #1188",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "2892 1592",
+    "center_x": 2892,
+    "center_y": 1592,
+    "base_z": 0,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 2888,
+    "max_x": 2895,
+    "min_y": 1585,
+    "max_y": 1598,
+    "base_z": 0,
+    "max_z": 16,
+    "center_x": 2892.0,
+    "center_y": 1592.0,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 14.0,
+    "height_y": 2.5
+  },
+  "stats": {
+    "tile_count": 23,
+    "item_count": 44,
+    "triangles_count": 540,
+    "unique_textures_count": 16
+  },
+  "unique_items": [
+    {
+      "id": 7,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0007.png"
+    },
+    {
+      "id": 87,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0087.png"
+    },
+    {
+      "id": 96,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0096.png"
+    },
+    {
+      "id": 100,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0100.png"
+    },
+    {
+      "id": 164,
+      "name": "log wall",
+      "texture_file": "log_wall_0164.png"
+    },
+    {
+      "id": 183,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0183.png"
+    },
+    {
+      "id": 184,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0184.png"
+    },
+    {
+      "id": 631,
+      "name": "ruined wall",
+      "texture_file": "ruined_wall_0631.png"
+    },
+    {
+      "id": 632,
+      "name": "ruined wall",
+      "texture_file": "ruined_wall_0632.png"
+    },
+    {
+      "id": 633,
+      "name": "ruined wall",
+      "texture_file": "ruined_wall_0633.png"
+    },
+    {
+      "id": 634,
+      "name": "ruined wall",
+      "texture_file": "ruined_wall_0634.png"
+    },
+    {
+      "id": 635,
+      "name": "ruined wall",
+      "texture_file": "ruined_wall_0635.png"
+    },
+    {
+      "id": 636,
+      "name": "ruined wall",
+      "texture_file": "ruined_wall_0636.png"
+    },
+    {
+      "id": 641,
+      "name": "ruined wall",
+      "texture_file": "ruined_wall_0641.png"
+    },
+    {
+      "id": 642,
+      "name": "ruined wall",
+      "texture_file": "ruined_wall_0642.png"
+    },
+    {
+      "id": 8612,
+      "name": "no draw",
+      "texture_file": "no_draw_8612.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 361,
+      "max_block_x": 361,
+      "min_block_y": 198,
+      "max_block_y": 199,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 361,
+        "block_y": 198,
+        "block_index": 185030,
+        "staidx_offset": 2220360,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 36265884,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000045.dat",
+          "entry_index": 45,
+          "block_in_entry": 710
+        }
+      },
+      {
+        "block_x": 361,
+        "block_y": 199,
+        "block_index": 185031,
+        "staidx_offset": 2220372,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 36266080,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000045.dat",
+          "entry_index": 45,
+          "block_in_entry": 711
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "building_id": "building_026_4576_1287",
+  "name": "Moonglow Building #026",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "moonglow",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4580 1291",
+    "center_x": 4580,
+    "center_y": 1291,
+    "base_z": -2,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 4576,
+    "max_x": 4583,
+    "min_y": 1287,
+    "max_y": 1295,
+    "base_z": -2,
+    "max_z": 25,
+    "center_x": 4580.0,
+    "center_y": 1291.5,
+    "center_z_elevation": -0.24
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 9.0,
+    "height_y": 3.84
+  },
+  "stats": {
+    "tile_count": 72,
+    "item_count": 134,
+    "triangles_count": 1668,
+    "unique_textures_count": 8
+  },
+  "unique_items": [
+    {
+      "id": 577,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0577.png"
+    },
+    {
+      "id": 578,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0578.png"
+    },
+    {
+      "id": 579,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0579.png"
+    },
+    {
+      "id": 765,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0765.png"
+    },
+    {
+      "id": 766,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0766.png"
+    },
+    {
+      "id": 767,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0767.png"
+    },
+    {
+      "id": 1309,
+      "name": "stone pavers",
+      "texture_file": "stone_pavers_1309.png"
+    },
+    {
+      "id": 2273,
+      "name": "stalagmites",
+      "texture_file": "stalagmites_2273.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 572,
+      "max_block_x": 572,
+      "min_block_y": 160,
+      "max_block_y": 161,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 572,
+        "block_y": 160,
+        "block_index": 293024,
+        "staidx_offset": 3516288,
+        "statics_offset": 15994209,
+        "statics_length": 126,
+        "static_items_count": 18,
+        "map_offset": 57432708,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000071.dat",
+          "entry_index": 71,
+          "block_in_entry": 2208
+        }
+      },
+      {
+        "block_x": 572,
+        "block_y": 161,
+        "block_index": 293025,
+        "staidx_offset": 3516300,
+        "statics_offset": 15994335,
+        "statics_length": 77,
+        "static_items_count": 11,
+        "map_offset": 57432904,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000071.dat",
+          "entry_index": 71,
+          "block_in_entry": 2209
+        }
+      }
+    ]
+  }
+}

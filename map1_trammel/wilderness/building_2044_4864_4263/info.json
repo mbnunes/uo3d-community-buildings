@@ -1,0 +1,93 @@
+{
+  "building_id": "building_2044_4864_4263",
+  "name": "Wilderness Building #2044",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4868 4267",
+    "center_x": 4868,
+    "center_y": 4267,
+    "base_z": -22,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 4864,
+    "max_x": 4871,
+    "min_y": 4263,
+    "max_y": 4271,
+    "base_z": -22,
+    "max_z": 15,
+    "center_x": 4868.0,
+    "center_y": 4267.5,
+    "center_z_elevation": -2.6399999999999997
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 9.0,
+    "height_y": 6.24
+  },
+  "stats": {
+    "tile_count": 20,
+    "item_count": 22,
+    "triangles_count": 264,
+    "unique_textures_count": 7
+  },
+  "unique_items": [
+    {
+      "id": 577,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0577.png"
+    },
+    {
+      "id": 578,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0578.png"
+    },
+    {
+      "id": 582,
+      "name": "dungeon arch",
+      "texture_file": "dungeon_arch_0582.png"
+    },
+    {
+      "id": 584,
+      "name": "dungeon arch",
+      "texture_file": "dungeon_arch_0584.png"
+    },
+    {
+      "id": 586,
+      "name": "dungeon arch",
+      "texture_file": "dungeon_arch_0586.png"
+    },
+    {
+      "id": 2567,
+      "name": "wall torch",
+      "texture_file": "wall_torch_2567.png"
+    },
+    {
+      "id": 2568,
+      "name": "wall torch",
+      "texture_file": "wall_torch_2568.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 608,
+      "max_block_x": 608,
+      "min_block_y": 532,
+      "max_block_y": 533,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

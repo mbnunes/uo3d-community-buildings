@@ -1,0 +1,176 @@
+{
+  "building_id": "building_173_912_907",
+  "name": "Wilderness Building #173",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "915 913",
+    "center_x": 915,
+    "center_y": 913,
+    "base_z": 0,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 912,
+    "max_x": 917,
+    "min_y": 907,
+    "max_y": 918,
+    "base_z": 0,
+    "max_z": 20,
+    "center_x": 915.0,
+    "center_y": 913.0,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 6.0,
+    "depth_z": 12.0,
+    "height_y": 2.5
+  },
+  "stats": {
+    "tile_count": 70,
+    "item_count": 102,
+    "triangles_count": 456,
+    "unique_textures_count": 17
+  },
+  "unique_items": [
+    {
+      "id": 545,
+      "name": "palisade",
+      "texture_file": "palisade_0545.png"
+    },
+    {
+      "id": 546,
+      "name": "palisade",
+      "texture_file": "palisade_0546.png"
+    },
+    {
+      "id": 547,
+      "name": "palisade",
+      "texture_file": "palisade_0547.png"
+    },
+    {
+      "id": 558,
+      "name": "door",
+      "texture_file": "door_0558.png"
+    },
+    {
+      "id": 559,
+      "name": "door",
+      "texture_file": "door_0559.png"
+    },
+    {
+      "id": 1497,
+      "name": "palm frond roof",
+      "texture_file": "palm_frond_roof_1497.png"
+    },
+    {
+      "id": 1498,
+      "name": "palm frond roof",
+      "texture_file": "palm_frond_roof_1498.png"
+    },
+    {
+      "id": 1501,
+      "name": "palm frond roof",
+      "texture_file": "palm_frond_roof_1501.png"
+    },
+    {
+      "id": 1502,
+      "name": "palm frond roof",
+      "texture_file": "palm_frond_roof_1502.png"
+    },
+    {
+      "id": 1503,
+      "name": "palm frond roof",
+      "texture_file": "palm_frond_roof_1503.png"
+    },
+    {
+      "id": 1504,
+      "name": "palm frond roof",
+      "texture_file": "palm_frond_roof_1504.png"
+    },
+    {
+      "id": 1509,
+      "name": "palm frond roof",
+      "texture_file": "palm_frond_roof_1509.png"
+    },
+    {
+      "id": 1516,
+      "name": "palm frond roof",
+      "texture_file": "palm_frond_roof_1516.png"
+    },
+    {
+      "id": 3307,
+      "name": "vines",
+      "texture_file": "vines_3307.png"
+    },
+    {
+      "id": 3308,
+      "name": "vines",
+      "texture_file": "vines_3308.png"
+    },
+    {
+      "id": 3309,
+      "name": "vines",
+      "texture_file": "vines_3309.png"
+    },
+    {
+      "id": 4585,
+      "name": "woven mat",
+      "texture_file": "woven_mat_4585.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 114,
+      "max_block_x": 114,
+      "min_block_y": 113,
+      "max_block_y": 114,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 114,
+        "block_y": 113,
+        "block_index": 58481,
+        "staidx_offset": 701772,
+        "statics_offset": 2088275,
+        "statics_length": 133,
+        "static_items_count": 19,
+        "map_offset": 11462280,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000014.dat",
+          "entry_index": 14,
+          "block_in_entry": 1137
+        }
+      },
+      {
+        "block_x": 114,
+        "block_y": 114,
+        "block_index": 58482,
+        "staidx_offset": 701784,
+        "statics_offset": 2088408,
+        "statics_length": 119,
+        "static_items_count": 17,
+        "map_offset": 11462476,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000014.dat",
+          "entry_index": 14,
+          "block_in_entry": 1138
+        }
+      }
+    ]
+  }
+}

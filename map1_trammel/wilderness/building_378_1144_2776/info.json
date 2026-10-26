@@ -1,0 +1,258 @@
+{
+  "building_id": "building_378_1144_2776",
+  "name": "Wilderness Building #378",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1148 2788",
+    "center_x": 1148,
+    "center_y": 2788,
+    "base_z": -14,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 1144,
+    "max_x": 1151,
+    "min_y": 2776,
+    "max_y": 2800,
+    "base_z": -14,
+    "max_z": 42,
+    "center_x": 1148.0,
+    "center_y": 2788.5,
+    "center_z_elevation": -1.68
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 25.0,
+    "height_y": 7.18
+  },
+  "stats": {
+    "tile_count": 157,
+    "item_count": 254,
+    "triangles_count": 1978,
+    "unique_textures_count": 27
+  },
+  "unique_items": [
+    {
+      "id": 934,
+      "name": "rope",
+      "texture_file": "rope_0934.png"
+    },
+    {
+      "id": 938,
+      "name": "pier",
+      "texture_file": "pier_0938.png"
+    },
+    {
+      "id": 939,
+      "name": "pier",
+      "texture_file": "pier_0939.png"
+    },
+    {
+      "id": 1447,
+      "name": "thatch roof",
+      "texture_file": "thatch_roof_1447.png"
+    },
+    {
+      "id": 1448,
+      "name": "thatch roof",
+      "texture_file": "thatch_roof_1448.png"
+    },
+    {
+      "id": 1449,
+      "name": "thatch roof",
+      "texture_file": "thatch_roof_1449.png"
+    },
+    {
+      "id": 1848,
+      "name": "wood",
+      "texture_file": "wood_1848.png"
+    },
+    {
+      "id": 1849,
+      "name": "wooden stairs",
+      "texture_file": "wooden_stairs_1849.png"
+    },
+    {
+      "id": 1997,
+      "name": "wooden plank",
+      "texture_file": "wooden_plank_1997.png"
+    },
+    {
+      "id": 1998,
+      "name": "wooden plank",
+      "texture_file": "wooden_plank_1998.png"
+    },
+    {
+      "id": 1999,
+      "name": "wooden plank",
+      "texture_file": "wooden_plank_1999.png"
+    },
+    {
+      "id": 5367,
+      "name": "anchor",
+      "texture_file": "anchor_5367.png"
+    },
+    {
+      "id": 5368,
+      "name": "rope",
+      "texture_file": "rope_5368.png"
+    },
+    {
+      "id": 5369,
+      "name": "anchor",
+      "texture_file": "anchor_5369.png"
+    },
+    {
+      "id": 6039,
+      "name": "water",
+      "texture_file": "water_6039.png"
+    },
+    {
+      "id": 6040,
+      "name": "water",
+      "texture_file": "water_6040.png"
+    },
+    {
+      "id": 6041,
+      "name": "water",
+      "texture_file": "water_6041.png"
+    },
+    {
+      "id": 6042,
+      "name": "water",
+      "texture_file": "water_6042.png"
+    },
+    {
+      "id": 6043,
+      "name": "water",
+      "texture_file": "water_6043.png"
+    },
+    {
+      "id": 6044,
+      "name": "water",
+      "texture_file": "water_6044.png"
+    },
+    {
+      "id": 6047,
+      "name": "water",
+      "texture_file": "water_6047.png"
+    },
+    {
+      "id": 6048,
+      "name": "water",
+      "texture_file": "water_6048.png"
+    },
+    {
+      "id": 6053,
+      "name": "water",
+      "texture_file": "water_6053.png"
+    },
+    {
+      "id": 6057,
+      "name": "water",
+      "texture_file": "water_6057.png"
+    },
+    {
+      "id": 6060,
+      "name": "water",
+      "texture_file": "water_6060.png"
+    },
+    {
+      "id": 6063,
+      "name": "water",
+      "texture_file": "water_6063.png"
+    },
+    {
+      "id": 6066,
+      "name": "water",
+      "texture_file": "water_6066.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 143,
+      "max_block_x": 143,
+      "min_block_y": 347,
+      "max_block_y": 350,
+      "total_blocks": 4
+    },
+    "blocks": [
+      {
+        "block_x": 143,
+        "block_y": 347,
+        "block_index": 73563,
+        "staidx_offset": 882756,
+        "statics_offset": 3223010,
+        "statics_length": 14,
+        "static_items_count": 2,
+        "map_offset": 14418352,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000017.dat",
+          "entry_index": 17,
+          "block_in_entry": 3931
+        }
+      },
+      {
+        "block_x": 143,
+        "block_y": 348,
+        "block_index": 73564,
+        "staidx_offset": 882768,
+        "statics_offset": 3223024,
+        "statics_length": 21,
+        "static_items_count": 3,
+        "map_offset": 14418548,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000017.dat",
+          "entry_index": 17,
+          "block_in_entry": 3932
+        }
+      },
+      {
+        "block_x": 143,
+        "block_y": 349,
+        "block_index": 73565,
+        "staidx_offset": 882780,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 14418744,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000017.dat",
+          "entry_index": 17,
+          "block_in_entry": 3933
+        }
+      },
+      {
+        "block_x": 143,
+        "block_y": 350,
+        "block_index": 73566,
+        "staidx_offset": 882792,
+        "statics_offset": 3223045,
+        "statics_length": 35,
+        "static_items_count": 5,
+        "map_offset": 14418940,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000017.dat",
+          "entry_index": 17,
+          "block_in_entry": 3934
+        }
+      }
+    ]
+  }
+}

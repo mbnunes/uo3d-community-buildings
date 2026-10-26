@@ -1,0 +1,78 @@
+{
+  "building_id": "building_1606_4224_4772",
+  "name": "Wilderness Building #1606",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4229 4778",
+    "center_x": 4229,
+    "center_y": 4778,
+    "base_z": 0,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 4224,
+    "max_x": 4233,
+    "min_y": 4772,
+    "max_y": 4783,
+    "base_z": 0,
+    "max_z": 9,
+    "center_x": 4229.0,
+    "center_y": 4778.0,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 10.0,
+    "depth_z": 12.0,
+    "height_y": 2.64
+  },
+  "stats": {
+    "tile_count": 21,
+    "item_count": 21,
+    "triangles_count": 252,
+    "unique_textures_count": 4
+  },
+  "unique_items": [
+    {
+      "id": 577,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0577.png"
+    },
+    {
+      "id": 578,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0578.png"
+    },
+    {
+      "id": 579,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0579.png"
+    },
+    {
+      "id": 627,
+      "name": "cave wall",
+      "texture_file": "cave_wall_0627.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 528,
+      "max_block_x": 529,
+      "min_block_y": 596,
+      "max_block_y": 597,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

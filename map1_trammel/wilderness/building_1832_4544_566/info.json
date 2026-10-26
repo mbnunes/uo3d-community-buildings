@@ -1,0 +1,116 @@
+{
+  "building_id": "building_1832_4544_566",
+  "name": "Wilderness Building #1832",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4548 571",
+    "center_x": 4548,
+    "center_y": 571,
+    "base_z": 10,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 4544,
+    "max_x": 4551,
+    "min_y": 566,
+    "max_y": 575,
+    "base_z": 10,
+    "max_z": 31,
+    "center_x": 4548.0,
+    "center_y": 571.0,
+    "center_z_elevation": 1.2
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 10.0,
+    "height_y": 4.44
+  },
+  "stats": {
+    "tile_count": 25,
+    "item_count": 26,
+    "triangles_count": 436,
+    "unique_textures_count": 5
+  },
+  "unique_items": [
+    {
+      "id": 577,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0577.png"
+    },
+    {
+      "id": 578,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0578.png"
+    },
+    {
+      "id": 1959,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1959.png"
+    },
+    {
+      "id": 2574,
+      "name": "wall torch",
+      "texture_file": "wall_torch_2574.png"
+    },
+    {
+      "id": 4653,
+      "name": "blood",
+      "texture_file": "blood_4653.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 568,
+      "max_block_x": 568,
+      "min_block_y": 70,
+      "max_block_y": 71,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 568,
+        "block_y": 70,
+        "block_index": 290886,
+        "staidx_offset": 3490632,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 57013660,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000071.dat",
+          "entry_index": 71,
+          "block_in_entry": 70
+        }
+      },
+      {
+        "block_x": 568,
+        "block_y": 71,
+        "block_index": 290887,
+        "staidx_offset": 3490644,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 57013856,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000071.dat",
+          "entry_index": 71,
+          "block_in_entry": 71
+        }
+      }
+    ]
+  }
+}

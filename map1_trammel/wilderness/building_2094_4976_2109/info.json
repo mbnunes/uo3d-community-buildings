@@ -1,0 +1,181 @@
+{
+  "building_id": "building_2094_4976_2109",
+  "name": "Wilderness Building #2094",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4980 2114",
+    "center_x": 4980,
+    "center_y": 2114,
+    "base_z": -1,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 4976,
+    "max_x": 4983,
+    "min_y": 2109,
+    "max_y": 2119,
+    "base_z": -1,
+    "max_z": 10,
+    "center_x": 4980.0,
+    "center_y": 2114.5,
+    "center_z_elevation": -0.12
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 11.0,
+    "height_y": 12.2
+  },
+  "stats": {
+    "tile_count": 45,
+    "item_count": 70,
+    "triangles_count": 936,
+    "unique_textures_count": 18
+  },
+  "unique_items": [
+    {
+      "id": 960,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0960.png"
+    },
+    {
+      "id": 961,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0961.png"
+    },
+    {
+      "id": 965,
+      "name": "stone ruins",
+      "texture_file": "stone_ruins_0965.png"
+    },
+    {
+      "id": 966,
+      "name": "stone ruins",
+      "texture_file": "stone_ruins_0966.png"
+    },
+    {
+      "id": 968,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0968.png"
+    },
+    {
+      "id": 969,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0969.png"
+    },
+    {
+      "id": 1205,
+      "name": "wooden boards",
+      "texture_file": "wooden_boards_1205.png"
+    },
+    {
+      "id": 1206,
+      "name": "wooden boards",
+      "texture_file": "wooden_boards_1206.png"
+    },
+    {
+      "id": 1207,
+      "name": "wooden boards",
+      "texture_file": "wooden_boards_1207.png"
+    },
+    {
+      "id": 1208,
+      "name": "wooden boards",
+      "texture_file": "wooden_boards_1208.png"
+    },
+    {
+      "id": 4014,
+      "name": "barrel",
+      "texture_file": "barrel_4014.png"
+    },
+    {
+      "id": 4150,
+      "name": "hay",
+      "texture_file": "hay_4150.png"
+    },
+    {
+      "id": 4153,
+      "name": "sack of flour",
+      "texture_file": "sack_of_flour_4153.png"
+    },
+    {
+      "id": 4154,
+      "name": "open sack of flour",
+      "texture_file": "open_sack_of_flour_4154.png"
+    },
+    {
+      "id": 4334,
+      "name": "garbage",
+      "texture_file": "garbage_4334.png"
+    },
+    {
+      "id": 6926,
+      "name": "bone pile",
+      "texture_file": "bone_pile_6926.png"
+    },
+    {
+      "id": 7858,
+      "name": "barrel staves",
+      "texture_file": "barrel_staves_7858.png"
+    },
+    {
+      "id": 8611,
+      "name": "nodraw",
+      "texture_file": "nodraw_8611.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 622,
+      "max_block_x": 622,
+      "min_block_y": 263,
+      "max_block_y": 264,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 622,
+        "block_y": 263,
+        "block_index": 318727,
+        "staidx_offset": 3824724,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 62470496,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000077.dat",
+          "entry_index": 77,
+          "block_in_entry": 3335
+        }
+      },
+      {
+        "block_x": 622,
+        "block_y": 264,
+        "block_index": 318728,
+        "staidx_offset": 3824736,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 62470692,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000077.dat",
+          "entry_index": 77,
+          "block_in_entry": 3336
+        }
+      }
+    ]
+  }
+}

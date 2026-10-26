@@ -1,0 +1,68 @@
+{
+  "building_id": "building_1301_2992_4854",
+  "name": "Wilderness Building #1301",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "2994 4863",
+    "center_x": 2994,
+    "center_y": 4863,
+    "base_z": -88,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 2992,
+    "max_x": 2995,
+    "min_y": 4854,
+    "max_y": 4871,
+    "base_z": -88,
+    "max_z": -5,
+    "center_x": 2994.0,
+    "center_y": 4863.0,
+    "center_z_elevation": -10.559999999999999
+  },
+  "dimensions_meters": {
+    "width_x": 4.0,
+    "depth_z": 18.0,
+    "height_y": 2.4
+  },
+  "stats": {
+    "tile_count": 18,
+    "item_count": 19,
+    "triangles_count": 228,
+    "unique_textures_count": 2
+  },
+  "unique_items": [
+    {
+      "id": 69,
+      "name": "brick arch",
+      "texture_file": "brick_arch_0069.png"
+    },
+    {
+      "id": 6040,
+      "name": "water",
+      "texture_file": "water_6040.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 374,
+      "max_block_x": 374,
+      "min_block_y": 606,
+      "max_block_y": 608,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

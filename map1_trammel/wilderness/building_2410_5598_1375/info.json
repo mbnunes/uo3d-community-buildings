@@ -1,0 +1,187 @@
+{
+  "building_id": "building_2410_5598_1375",
+  "name": "Wilderness Building #2410",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "5599 1380",
+    "center_x": 5599,
+    "center_y": 1380,
+    "base_z": 0,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 5598,
+    "max_x": 5599,
+    "min_y": 1375,
+    "max_y": 1384,
+    "base_z": 0,
+    "max_z": 20,
+    "center_x": 5599.0,
+    "center_y": 1380.0,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 2.0,
+    "depth_z": 10.0,
+    "height_y": 4.06
+  },
+  "stats": {
+    "tile_count": 17,
+    "item_count": 30,
+    "triangles_count": 288,
+    "unique_textures_count": 16
+  },
+  "unique_items": [
+    {
+      "id": 1543,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1543.png"
+    },
+    {
+      "id": 1566,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1566.png"
+    },
+    {
+      "id": 1590,
+      "name": "tent roof",
+      "texture_file": "tent_roof_1590.png"
+    },
+    {
+      "id": 2750,
+      "name": "carpet",
+      "texture_file": "carpet_2750.png"
+    },
+    {
+      "id": 2751,
+      "name": "carpet",
+      "texture_file": "carpet_2751.png"
+    },
+    {
+      "id": 2755,
+      "name": "carpet fringe",
+      "texture_file": "carpet_fringe_2755.png"
+    },
+    {
+      "id": 2756,
+      "name": "flagstones",
+      "texture_file": "flagstones_2756.png"
+    },
+    {
+      "id": 2796,
+      "name": "",
+      "texture_file": "_2796.png"
+    },
+    {
+      "id": 2797,
+      "name": "",
+      "texture_file": "_2797.png"
+    },
+    {
+      "id": 2806,
+      "name": "",
+      "texture_file": "_2806.png"
+    },
+    {
+      "id": 2807,
+      "name": "",
+      "texture_file": "_2807.png"
+    },
+    {
+      "id": 2809,
+      "name": "carpet fringe",
+      "texture_file": "carpet_fringe_2809.png"
+    },
+    {
+      "id": 6946,
+      "name": "leaves",
+      "texture_file": "leaves_6946.png"
+    },
+    {
+      "id": 11522,
+      "name": "large glowing beetl",
+      "texture_file": "large_glowing_beetl_11522.png"
+    },
+    {
+      "id": 11549,
+      "name": "wooden post",
+      "texture_file": "wooden_post_11549.png"
+    },
+    {
+      "id": 11761,
+      "name": "ornate elven chest",
+      "texture_file": "ornate_elven_chest_11761.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 699,
+      "max_block_x": 699,
+      "min_block_y": 171,
+      "max_block_y": 173,
+      "total_blocks": 3
+    },
+    "blocks": [
+      {
+        "block_x": 699,
+        "block_y": 171,
+        "block_index": 358059,
+        "staidx_offset": 4296708,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 70179568,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000087.dat",
+          "entry_index": 87,
+          "block_in_entry": 1707
+        }
+      },
+      {
+        "block_x": 699,
+        "block_y": 172,
+        "block_index": 358060,
+        "staidx_offset": 4296720,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 70179764,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000087.dat",
+          "entry_index": 87,
+          "block_in_entry": 1708
+        }
+      },
+      {
+        "block_x": 699,
+        "block_y": 173,
+        "block_index": 358061,
+        "staidx_offset": 4296732,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 70179960,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000087.dat",
+          "entry_index": 87,
+          "block_in_entry": 1709
+        }
+      }
+    ]
+  }
+}

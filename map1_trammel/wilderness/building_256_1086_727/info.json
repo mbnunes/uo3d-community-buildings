@@ -1,0 +1,169 @@
+{
+  "building_id": "building_256_1086_727",
+  "name": "Wilderness Building #256",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1087 743",
+    "center_x": 1087,
+    "center_y": 743,
+    "base_z": 0,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 1086,
+    "max_x": 1087,
+    "min_y": 727,
+    "max_y": 759,
+    "base_z": 0,
+    "max_z": 0,
+    "center_x": 1087.0,
+    "center_y": 743.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 2.0,
+    "depth_z": 33.0,
+    "height_y": 2.5
+  },
+  "stats": {
+    "tile_count": 35,
+    "item_count": 37,
+    "triangles_count": 636,
+    "unique_textures_count": 6
+  },
+  "unique_items": [
+    {
+      "id": 298,
+      "name": "wooden post",
+      "texture_file": "wooden_post_0298.png"
+    },
+    {
+      "id": 311,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0311.png"
+    },
+    {
+      "id": 315,
+      "name": "window",
+      "texture_file": "window_0315.png"
+    },
+    {
+      "id": 3254,
+      "name": "grasses",
+      "texture_file": "grasses_3254.png"
+    },
+    {
+      "id": 3369,
+      "name": "flowers",
+      "texture_file": "flowers_3369.png"
+    },
+    {
+      "id": 6008,
+      "name": "rock",
+      "texture_file": "rock_6008.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 135,
+      "max_block_x": 135,
+      "min_block_y": 90,
+      "max_block_y": 94,
+      "total_blocks": 5
+    },
+    "blocks": [
+      {
+        "block_x": 135,
+        "block_y": 90,
+        "block_index": 69210,
+        "staidx_offset": 830520,
+        "statics_offset": 2854488,
+        "statics_length": 161,
+        "static_items_count": 23,
+        "map_offset": 13565164,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000016.dat",
+          "entry_index": 16,
+          "block_in_entry": 3674
+        }
+      },
+      {
+        "block_x": 135,
+        "block_y": 91,
+        "block_index": 69211,
+        "staidx_offset": 830532,
+        "statics_offset": 2854649,
+        "statics_length": 154,
+        "static_items_count": 22,
+        "map_offset": 13565360,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000016.dat",
+          "entry_index": 16,
+          "block_in_entry": 3675
+        }
+      },
+      {
+        "block_x": 135,
+        "block_y": 92,
+        "block_index": 69212,
+        "staidx_offset": 830544,
+        "statics_offset": 2854803,
+        "statics_length": 147,
+        "static_items_count": 21,
+        "map_offset": 13565556,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000016.dat",
+          "entry_index": 16,
+          "block_in_entry": 3676
+        }
+      },
+      {
+        "block_x": 135,
+        "block_y": 93,
+        "block_index": 69213,
+        "staidx_offset": 830556,
+        "statics_offset": 2854950,
+        "statics_length": 147,
+        "static_items_count": 21,
+        "map_offset": 13565752,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000016.dat",
+          "entry_index": 16,
+          "block_in_entry": 3677
+        }
+      },
+      {
+        "block_x": 135,
+        "block_y": 94,
+        "block_index": 69214,
+        "staidx_offset": 830568,
+        "statics_offset": 2855097,
+        "statics_length": 126,
+        "static_items_count": 18,
+        "map_offset": 13565948,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000016.dat",
+          "entry_index": 16,
+          "block_in_entry": 3678
+        }
+      }
+    ]
+  }
+}

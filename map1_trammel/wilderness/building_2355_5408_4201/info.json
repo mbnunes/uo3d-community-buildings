@@ -1,0 +1,83 @@
+{
+  "building_id": "building_2355_5408_4201",
+  "name": "Wilderness Building #2355",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "5410 4206",
+    "center_x": 5410,
+    "center_y": 4206,
+    "base_z": 0,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 5408,
+    "max_x": 5412,
+    "min_y": 4201,
+    "max_y": 4210,
+    "base_z": 0,
+    "max_z": 0,
+    "center_x": 5410.5,
+    "center_y": 4206.0,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 5.0,
+    "depth_z": 10.0,
+    "height_y": 2.5
+  },
+  "stats": {
+    "tile_count": 50,
+    "item_count": 65,
+    "triangles_count": 864,
+    "unique_textures_count": 5
+  },
+  "unique_items": [
+    {
+      "id": 199,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0199.png"
+    },
+    {
+      "id": 200,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0200.png"
+    },
+    {
+      "id": 201,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0201.png"
+    },
+    {
+      "id": 1310,
+      "name": "stone pavers",
+      "texture_file": "stone_pavers_1310.png"
+    },
+    {
+      "id": 2854,
+      "name": "candelabra",
+      "texture_file": "candelabra_2854.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 676,
+      "max_block_x": 676,
+      "min_block_y": 525,
+      "max_block_y": 526,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

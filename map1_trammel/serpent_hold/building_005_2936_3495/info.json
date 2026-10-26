@@ -1,0 +1,242 @@
+{
+  "building_id": "building_005_2936_3495",
+  "name": "Serpent Hold Building #005",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "serpent_hold",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "2940 3500",
+    "center_x": 2940,
+    "center_y": 3500,
+    "base_z": 0,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 2936,
+    "max_x": 2943,
+    "min_y": 3495,
+    "max_y": 3504,
+    "base_z": 0,
+    "max_z": 32,
+    "center_x": 2940.0,
+    "center_y": 3500.0,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 10.0,
+    "height_y": 4.3
+  },
+  "stats": {
+    "tile_count": 79,
+    "item_count": 131,
+    "triangles_count": 1476,
+    "unique_textures_count": 27
+  },
+  "unique_items": [
+    {
+      "id": 28,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0028.png"
+    },
+    {
+      "id": 30,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0030.png"
+    },
+    {
+      "id": 33,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0033.png"
+    },
+    {
+      "id": 34,
+      "name": "window",
+      "texture_file": "window_0034.png"
+    },
+    {
+      "id": 1441,
+      "name": "slate roof",
+      "texture_file": "slate_roof_1441.png"
+    },
+    {
+      "id": 1442,
+      "name": "slate roof",
+      "texture_file": "slate_roof_1442.png"
+    },
+    {
+      "id": 1443,
+      "name": "slate roof",
+      "texture_file": "slate_roof_1443.png"
+    },
+    {
+      "id": 2598,
+      "name": "candle",
+      "texture_file": "candle_2598.png"
+    },
+    {
+      "id": 2758,
+      "name": "carpet",
+      "texture_file": "carpet_2758.png"
+    },
+    {
+      "id": 2759,
+      "name": "carpet",
+      "texture_file": "carpet_2759.png"
+    },
+    {
+      "id": 2760,
+      "name": "carpet",
+      "texture_file": "carpet_2760.png"
+    },
+    {
+      "id": 2761,
+      "name": "carpet",
+      "texture_file": "carpet_2761.png"
+    },
+    {
+      "id": 2762,
+      "name": "carpet",
+      "texture_file": "carpet_2762.png"
+    },
+    {
+      "id": 2763,
+      "name": "carpet",
+      "texture_file": "carpet_2763.png"
+    },
+    {
+      "id": 2764,
+      "name": "carpet",
+      "texture_file": "carpet_2764.png"
+    },
+    {
+      "id": 2765,
+      "name": "carpet",
+      "texture_file": "carpet_2765.png"
+    },
+    {
+      "id": 2766,
+      "name": "carpet",
+      "texture_file": "carpet_2766.png"
+    },
+    {
+      "id": 2767,
+      "name": "carpet",
+      "texture_file": "carpet_2767.png"
+    },
+    {
+      "id": 2768,
+      "name": "carpet",
+      "texture_file": "carpet_2768.png"
+    },
+    {
+      "id": 2910,
+      "name": "foot stool",
+      "texture_file": "foot_stool_2910.png"
+    },
+    {
+      "id": 2923,
+      "name": "table",
+      "texture_file": "table_2923.png"
+    },
+    {
+      "id": 2924,
+      "name": "table",
+      "texture_file": "table_2924.png"
+    },
+    {
+      "id": 2968,
+      "name": "wooden signpost",
+      "texture_file": "wooden_signpost_2968.png"
+    },
+    {
+      "id": 3098,
+      "name": "broken chair",
+      "texture_file": "broken_chair_3098.png"
+    },
+    {
+      "id": 3106,
+      "name": "broken dresser",
+      "texture_file": "broken_dresser_3106.png"
+    },
+    {
+      "id": 3107,
+      "name": "broken dresser",
+      "texture_file": "broken_dresser_3107.png"
+    },
+    {
+      "id": 3108,
+      "name": "broken furniture",
+      "texture_file": "broken_furniture_3108.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 367,
+      "max_block_x": 367,
+      "min_block_y": 436,
+      "max_block_y": 438,
+      "total_blocks": 3
+    },
+    "blocks": [
+      {
+        "block_x": 367,
+        "block_y": 436,
+        "block_index": 188340,
+        "staidx_offset": 2260080,
+        "statics_offset": 12482575,
+        "statics_length": 63,
+        "static_items_count": 9,
+        "map_offset": 36914644,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000045.dat",
+          "entry_index": 45,
+          "block_in_entry": 4020
+        }
+      },
+      {
+        "block_x": 367,
+        "block_y": 437,
+        "block_index": 188341,
+        "staidx_offset": 2260092,
+        "statics_offset": 12482638,
+        "statics_length": 525,
+        "static_items_count": 75,
+        "map_offset": 36914840,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000045.dat",
+          "entry_index": 45,
+          "block_in_entry": 4021
+        }
+      },
+      {
+        "block_x": 367,
+        "block_y": 438,
+        "block_index": 188342,
+        "staidx_offset": 2260104,
+        "statics_offset": 12483163,
+        "statics_length": 749,
+        "static_items_count": 107,
+        "map_offset": 36915036,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000045.dat",
+          "entry_index": 45,
+          "block_in_entry": 4022
+        }
+      }
+    ]
+  }
+}

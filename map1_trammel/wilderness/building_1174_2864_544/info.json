@@ -1,0 +1,181 @@
+{
+  "building_id": "building_1174_2864_544",
+  "name": "Wilderness Building #1174",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "2868 552",
+    "center_x": 2868,
+    "center_y": 552,
+    "base_z": 0,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 2864,
+    "max_x": 2871,
+    "min_y": 544,
+    "max_y": 559,
+    "base_z": 0,
+    "max_z": 0,
+    "center_x": 2868.0,
+    "center_y": 552.0,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 16.0,
+    "height_y": 2.5
+  },
+  "stats": {
+    "tile_count": 75,
+    "item_count": 94,
+    "triangles_count": 1284,
+    "unique_textures_count": 18
+  },
+  "unique_items": [
+    {
+      "id": 199,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0199.png"
+    },
+    {
+      "id": 200,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0200.png"
+    },
+    {
+      "id": 201,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0201.png"
+    },
+    {
+      "id": 204,
+      "name": "stone post",
+      "texture_file": "stone_post_0204.png"
+    },
+    {
+      "id": 228,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0228.png"
+    },
+    {
+      "id": 1339,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1339.png"
+    },
+    {
+      "id": 1340,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1340.png"
+    },
+    {
+      "id": 1343,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1343.png"
+    },
+    {
+      "id": 1345,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1345.png"
+    },
+    {
+      "id": 1346,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1346.png"
+    },
+    {
+      "id": 1347,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1347.png"
+    },
+    {
+      "id": 1354,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1354.png"
+    },
+    {
+      "id": 1355,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1355.png"
+    },
+    {
+      "id": 1356,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1356.png"
+    },
+    {
+      "id": 1357,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1357.png"
+    },
+    {
+      "id": 1358,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1358.png"
+    },
+    {
+      "id": 1359,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1359.png"
+    },
+    {
+      "id": 8705,
+      "name": "stone spike",
+      "texture_file": "stone_spike_8705.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 358,
+      "max_block_x": 358,
+      "min_block_y": 68,
+      "max_block_y": 69,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 358,
+        "block_y": 68,
+        "block_index": 183364,
+        "staidx_offset": 2200368,
+        "statics_offset": 12124910,
+        "statics_length": 77,
+        "static_items_count": 11,
+        "map_offset": 35939348,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000044.dat",
+          "entry_index": 44,
+          "block_in_entry": 3140
+        }
+      },
+      {
+        "block_x": 358,
+        "block_y": 69,
+        "block_index": 183365,
+        "staidx_offset": 2200380,
+        "statics_offset": 12124987,
+        "statics_length": 98,
+        "static_items_count": 14,
+        "map_offset": 35939544,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000044.dat",
+          "entry_index": 44,
+          "block_in_entry": 3141
+        }
+      }
+    ]
+  }
+}

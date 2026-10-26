@@ -1,0 +1,118 @@
+{
+  "building_id": "building_1111_2736_4561",
+  "name": "Wilderness Building #1111",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "2737 4566",
+    "center_x": 2737,
+    "center_y": 4566,
+    "base_z": 15,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 2736,
+    "max_x": 2738,
+    "min_y": 4561,
+    "max_y": 4571,
+    "base_z": 15,
+    "max_z": 41,
+    "center_x": 2737.5,
+    "center_y": 4566.5,
+    "center_z_elevation": 1.7999999999999998
+  },
+  "dimensions_meters": {
+    "width_x": 3.0,
+    "depth_z": 11.0,
+    "height_y": 3.72
+  },
+  "stats": {
+    "tile_count": 27,
+    "item_count": 89,
+    "triangles_count": 1250,
+    "unique_textures_count": 12
+  },
+  "unique_items": [
+    {
+      "id": 1180,
+      "name": "grey slate tile",
+      "texture_file": "grey_slate_tile_1180.png"
+    },
+    {
+      "id": 1822,
+      "name": "stone",
+      "texture_file": "stone_1822.png"
+    },
+    {
+      "id": 1846,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1846.png"
+    },
+    {
+      "id": 9403,
+      "name": "paper lantern",
+      "texture_file": "paper_lantern_9403.png"
+    },
+    {
+      "id": 10290,
+      "name": "windchimes",
+      "texture_file": "windchimes_10290.png"
+    },
+    {
+      "id": 10592,
+      "name": "wooden floor",
+      "texture_file": "wooden_floor_10592.png"
+    },
+    {
+      "id": 10645,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_10645.png"
+    },
+    {
+      "id": 10647,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_10647.png"
+    },
+    {
+      "id": 10648,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_10648.png"
+    },
+    {
+      "id": 10650,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_10650.png"
+    },
+    {
+      "id": 10651,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_10651.png"
+    },
+    {
+      "id": 10653,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_10653.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 342,
+      "max_block_x": 342,
+      "min_block_y": 570,
+      "max_block_y": 571,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

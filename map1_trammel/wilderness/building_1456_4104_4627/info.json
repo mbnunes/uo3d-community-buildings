@@ -1,0 +1,83 @@
+{
+  "building_id": "building_1456_4104_4627",
+  "name": "Wilderness Building #1456",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4108 4639",
+    "center_x": 4108,
+    "center_y": 4639,
+    "base_z": -1,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 4104,
+    "max_x": 4111,
+    "min_y": 4627,
+    "max_y": 4651,
+    "base_z": -1,
+    "max_z": 0,
+    "center_x": 4108.0,
+    "center_y": 4639.5,
+    "center_z_elevation": -0.12
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 25.0,
+    "height_y": 2.52
+  },
+  "stats": {
+    "tile_count": 33,
+    "item_count": 33,
+    "triangles_count": 696,
+    "unique_textures_count": 5
+  },
+  "unique_items": [
+    {
+      "id": 463,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0463.png"
+    },
+    {
+      "id": 464,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0464.png"
+    },
+    {
+      "id": 465,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0465.png"
+    },
+    {
+      "id": 466,
+      "name": "stone post",
+      "texture_file": "stone_post_0466.png"
+    },
+    {
+      "id": 486,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0486.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 513,
+      "max_block_x": 513,
+      "min_block_y": 578,
+      "max_block_y": 581,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

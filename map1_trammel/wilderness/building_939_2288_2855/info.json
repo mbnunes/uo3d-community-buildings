@@ -1,0 +1,172 @@
+{
+  "building_id": "building_939_2288_2855",
+  "name": "Wilderness Building #939",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "2291 2860",
+    "center_x": 2291,
+    "center_y": 2860,
+    "base_z": 0,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 2288,
+    "max_x": 2293,
+    "min_y": 2855,
+    "max_y": 2864,
+    "base_z": 0,
+    "max_z": 32,
+    "center_x": 2291.0,
+    "center_y": 2860.0,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 6.0,
+    "depth_z": 10.0,
+    "height_y": 4.2
+  },
+  "stats": {
+    "tile_count": 59,
+    "item_count": 87,
+    "triangles_count": 912,
+    "unique_textures_count": 13
+  },
+  "unique_items": [
+    {
+      "id": 306,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0306.png"
+    },
+    {
+      "id": 307,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0307.png"
+    },
+    {
+      "id": 308,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0308.png"
+    },
+    {
+      "id": 310,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0310.png"
+    },
+    {
+      "id": 311,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0311.png"
+    },
+    {
+      "id": 331,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0331.png"
+    },
+    {
+      "id": 333,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0333.png"
+    },
+    {
+      "id": 334,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0334.png"
+    },
+    {
+      "id": 336,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0336.png"
+    },
+    {
+      "id": 337,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0337.png"
+    },
+    {
+      "id": 1486,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1486.png"
+    },
+    {
+      "id": 1487,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1487.png"
+    },
+    {
+      "id": 1488,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1488.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 286,
+      "max_block_x": 286,
+      "min_block_y": 356,
+      "max_block_y": 358,
+      "total_blocks": 3
+    },
+    "blocks": [
+      {
+        "block_x": 286,
+        "block_y": 356,
+        "block_index": 146788,
+        "staidx_offset": 1761456,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 28770452,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000035.dat",
+          "entry_index": 35,
+          "block_in_entry": 3428
+        }
+      },
+      {
+        "block_x": 286,
+        "block_y": 357,
+        "block_index": 146789,
+        "staidx_offset": 1761468,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 28770648,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000035.dat",
+          "entry_index": 35,
+          "block_in_entry": 3429
+        }
+      },
+      {
+        "block_x": 286,
+        "block_y": 358,
+        "block_index": 146790,
+        "staidx_offset": 1761480,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 28770844,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000035.dat",
+          "entry_index": 35,
+          "block_in_entry": 3430
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "building_id": "building_867_2168_3295",
+  "name": "Wilderness Building #867",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "2172 3302",
+    "center_x": 2172,
+    "center_y": 3302,
+    "base_z": -20,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 2168,
+    "max_x": 2175,
+    "min_y": 3295,
+    "max_y": 3308,
+    "base_z": -20,
+    "max_z": 12,
+    "center_x": 2172.0,
+    "center_y": 3302.0,
+    "center_z_elevation": -2.4
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 14.0,
+    "height_y": 3.1
+  },
+  "stats": {
+    "tile_count": 73,
+    "item_count": 91,
+    "triangles_count": 876,
+    "unique_textures_count": 28
+  },
+  "unique_items": [
+    {
+      "id": 613,
+      "name": "cave wall",
+      "texture_file": "cave_wall_0613.png"
+    },
+    {
+      "id": 617,
+      "name": "cave wall",
+      "texture_file": "cave_wall_0617.png"
+    },
+    {
+      "id": 624,
+      "name": "cave wall",
+      "texture_file": "cave_wall_0624.png"
+    },
+    {
+      "id": 626,
+      "name": "cave wall",
+      "texture_file": "cave_wall_0626.png"
+    },
+    {
+      "id": 627,
+      "name": "cave wall",
+      "texture_file": "cave_wall_0627.png"
+    },
+    {
+      "id": 1339,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1339.png"
+    },
+    {
+      "id": 1340,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1340.png"
+    },
+    {
+      "id": 1341,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1341.png"
+    },
+    {
+      "id": 1342,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1342.png"
+    },
+    {
+      "id": 1343,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1343.png"
+    },
+    {
+      "id": 1344,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1344.png"
+    },
+    {
+      "id": 1345,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1345.png"
+    },
+    {
+      "id": 1346,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1346.png"
+    },
+    {
+      "id": 1350,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1350.png"
+    },
+    {
+      "id": 1351,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1351.png"
+    },
+    {
+      "id": 2273,
+      "name": "stalagmites",
+      "texture_file": "stalagmites_2273.png"
+    },
+    {
+      "id": 2280,
+      "name": "flowstone",
+      "texture_file": "flowstone_2280.png"
+    },
+    {
+      "id": 3227,
+      "name": "small palm",
+      "texture_file": "small_palm_3227.png"
+    },
+    {
+      "id": 3229,
+      "name": "small palm",
+      "texture_file": "small_palm_3229.png"
+    },
+    {
+      "id": 3232,
+      "name": "fern",
+      "texture_file": "fern_3232.png"
+    },
+    {
+      "id": 3233,
+      "name": "large fern",
+      "texture_file": "large_fern_3233.png"
+    },
+    {
+      "id": 3239,
+      "name": "rushes",
+      "texture_file": "rushes_3239.png"
+    },
+    {
+      "id": 3241,
+      "name": "snake plant",
+      "texture_file": "snake_plant_3241.png"
+    },
+    {
+      "id": 3247,
+      "name": "grasses",
+      "texture_file": "grasses_3247.png"
+    },
+    {
+      "id": 3305,
+      "name": "sapling",
+      "texture_file": "sapling_3305.png"
+    },
+    {
+      "id": 3341,
+      "name": "mushrooms",
+      "texture_file": "mushrooms_3341.png"
+    },
+    {
+      "id": 6004,
+      "name": "rock",
+      "texture_file": "rock_6004.png"
+    },
+    {
+      "id": 6008,
+      "name": "rock",
+      "texture_file": "rock_6008.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 271,
+      "max_block_x": 271,
+      "min_block_y": 411,
+      "max_block_y": 413,
+      "total_blocks": 3
+    },
+    "blocks": [
+      {
+        "block_x": 271,
+        "block_y": 411,
+        "block_index": 139163,
+        "staidx_offset": 1669956,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 27275952,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000033.dat",
+          "entry_index": 33,
+          "block_in_entry": 3995
+        }
+      },
+      {
+        "block_x": 271,
+        "block_y": 412,
+        "block_index": 139164,
+        "staidx_offset": 1669968,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 27276148,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000033.dat",
+          "entry_index": 33,
+          "block_in_entry": 3996
+        }
+      },
+      {
+        "block_x": 271,
+        "block_y": 413,
+        "block_index": 139165,
+        "staidx_offset": 1669980,
+        "statics_offset": 9690660,
+        "statics_length": 336,
+        "static_items_count": 48,
+        "map_offset": 27276344,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000033.dat",
+          "entry_index": 33,
+          "block_in_entry": 3997
+        }
+      }
+    ]
+  }
+}

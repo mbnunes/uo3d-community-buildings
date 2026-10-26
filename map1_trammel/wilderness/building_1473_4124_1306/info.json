@@ -1,0 +1,151 @@
+{
+  "building_id": "building_1473_4124_1306",
+  "name": "Wilderness Building #1473",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4126 1309",
+    "center_x": 4126,
+    "center_y": 1309,
+    "base_z": 15,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 4124,
+    "max_x": 4127,
+    "min_y": 1306,
+    "max_y": 1312,
+    "base_z": 15,
+    "max_z": 58,
+    "center_x": 4126.0,
+    "center_y": 1309.5,
+    "center_z_elevation": 1.7999999999999998
+  },
+  "dimensions_meters": {
+    "width_x": 4.0,
+    "depth_z": 7.0,
+    "height_y": 5.64
+  },
+  "stats": {
+    "tile_count": 27,
+    "item_count": 56,
+    "triangles_count": 768,
+    "unique_textures_count": 12
+  },
+  "unique_items": [
+    {
+      "id": 251,
+      "name": "marble wall",
+      "texture_file": "marble_wall_0251.png"
+    },
+    {
+      "id": 255,
+      "name": "marble wall",
+      "texture_file": "marble_wall_0255.png"
+    },
+    {
+      "id": 256,
+      "name": "marble wall",
+      "texture_file": "marble_wall_0256.png"
+    },
+    {
+      "id": 257,
+      "name": "marble wall",
+      "texture_file": "marble_wall_0257.png"
+    },
+    {
+      "id": 258,
+      "name": "window",
+      "texture_file": "window_0258.png"
+    },
+    {
+      "id": 271,
+      "name": "marble wall",
+      "texture_file": "marble_wall_0271.png"
+    },
+    {
+      "id": 272,
+      "name": "marble wall",
+      "texture_file": "marble_wall_0272.png"
+    },
+    {
+      "id": 280,
+      "name": "marble wall",
+      "texture_file": "marble_wall_0280.png"
+    },
+    {
+      "id": 281,
+      "name": "marble wall",
+      "texture_file": "marble_wall_0281.png"
+    },
+    {
+      "id": 1082,
+      "name": "marble arch",
+      "texture_file": "marble_arch_1082.png"
+    },
+    {
+      "id": 1293,
+      "name": "marble floor",
+      "texture_file": "marble_floor_1293.png"
+    },
+    {
+      "id": 2210,
+      "name": "wooden ladder",
+      "texture_file": "wooden_ladder_2210.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 515,
+      "max_block_x": 515,
+      "min_block_y": 163,
+      "max_block_y": 164,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 515,
+        "block_y": 163,
+        "block_index": 263843,
+        "staidx_offset": 3166116,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 51713232,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000064.dat",
+          "entry_index": 64,
+          "block_in_entry": 1699
+        }
+      },
+      {
+        "block_x": 515,
+        "block_y": 164,
+        "block_index": 263844,
+        "staidx_offset": 3166128,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 51713428,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000064.dat",
+          "entry_index": 64,
+          "block_in_entry": 1700
+        }
+      }
+    ]
+  }
+}

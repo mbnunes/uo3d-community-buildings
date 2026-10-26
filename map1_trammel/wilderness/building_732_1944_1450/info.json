@@ -1,0 +1,262 @@
+{
+  "building_id": "building_732_1944_1450",
+  "name": "Wilderness Building #732",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1948 1461",
+    "center_x": 1948,
+    "center_y": 1461,
+    "base_z": 15,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 1944,
+    "max_x": 1951,
+    "min_y": 1450,
+    "max_y": 1471,
+    "base_z": 15,
+    "max_z": 47,
+    "center_x": 1948.0,
+    "center_y": 1461.0,
+    "center_z_elevation": 1.7999999999999998
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 22.0,
+    "height_y": 5.02
+  },
+  "stats": {
+    "tile_count": 142,
+    "item_count": 227,
+    "triangles_count": 2744,
+    "unique_textures_count": 31
+  },
+  "unique_items": [
+    {
+      "id": 26,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0026.png"
+    },
+    {
+      "id": 27,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0027.png"
+    },
+    {
+      "id": 28,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0028.png"
+    },
+    {
+      "id": 30,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0030.png"
+    },
+    {
+      "id": 33,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0033.png"
+    },
+    {
+      "id": 34,
+      "name": "window",
+      "texture_file": "window_0034.png"
+    },
+    {
+      "id": 35,
+      "name": "window",
+      "texture_file": "window_0035.png"
+    },
+    {
+      "id": 193,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0193.png"
+    },
+    {
+      "id": 1301,
+      "name": "cobblestones",
+      "texture_file": "cobblestones_1301.png"
+    },
+    {
+      "id": 1302,
+      "name": "cobblestones",
+      "texture_file": "cobblestones_1302.png"
+    },
+    {
+      "id": 1303,
+      "name": "cobblestones",
+      "texture_file": "cobblestones_1303.png"
+    },
+    {
+      "id": 1304,
+      "name": "cobblestones",
+      "texture_file": "cobblestones_1304.png"
+    },
+    {
+      "id": 1444,
+      "name": "thatch roof",
+      "texture_file": "thatch_roof_1444.png"
+    },
+    {
+      "id": 1447,
+      "name": "thatch roof",
+      "texture_file": "thatch_roof_1447.png"
+    },
+    {
+      "id": 1448,
+      "name": "thatch roof",
+      "texture_file": "thatch_roof_1448.png"
+    },
+    {
+      "id": 1449,
+      "name": "thatch roof",
+      "texture_file": "thatch_roof_1449.png"
+    },
+    {
+      "id": 1451,
+      "name": "thatch roof",
+      "texture_file": "thatch_roof_1451.png"
+    },
+    {
+      "id": 2327,
+      "name": "stone step",
+      "texture_file": "stone_step_2327.png"
+    },
+    {
+      "id": 2758,
+      "name": "carpet",
+      "texture_file": "carpet_2758.png"
+    },
+    {
+      "id": 2760,
+      "name": "carpet",
+      "texture_file": "carpet_2760.png"
+    },
+    {
+      "id": 2761,
+      "name": "carpet",
+      "texture_file": "carpet_2761.png"
+    },
+    {
+      "id": 2764,
+      "name": "carpet",
+      "texture_file": "carpet_2764.png"
+    },
+    {
+      "id": 2766,
+      "name": "carpet",
+      "texture_file": "carpet_2766.png"
+    },
+    {
+      "id": 2767,
+      "name": "carpet",
+      "texture_file": "carpet_2767.png"
+    },
+    {
+      "id": 2768,
+      "name": "carpet",
+      "texture_file": "carpet_2768.png"
+    },
+    {
+      "id": 2880,
+      "name": "counter",
+      "texture_file": "counter_2880.png"
+    },
+    {
+      "id": 2947,
+      "name": "table",
+      "texture_file": "table_2947.png"
+    },
+    {
+      "id": 2948,
+      "name": "table",
+      "texture_file": "table_2948.png"
+    },
+    {
+      "id": 2950,
+      "name": "table",
+      "texture_file": "table_2950.png"
+    },
+    {
+      "id": 3751,
+      "name": "portrait",
+      "texture_file": "portrait_3751.png"
+    },
+    {
+      "id": 6018,
+      "name": "grass",
+      "texture_file": "grass_6018.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 243,
+      "max_block_x": 243,
+      "min_block_y": 181,
+      "max_block_y": 183,
+      "total_blocks": 3
+    },
+    "blocks": [
+      {
+        "block_x": 243,
+        "block_y": 181,
+        "block_index": 124597,
+        "staidx_offset": 1495164,
+        "statics_offset": 8460172,
+        "statics_length": 245,
+        "static_items_count": 35,
+        "map_offset": 24421016,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000030.dat",
+          "entry_index": 30,
+          "block_in_entry": 1717
+        }
+      },
+      {
+        "block_x": 243,
+        "block_y": 182,
+        "block_index": 124598,
+        "staidx_offset": 1495176,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 24421212,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000030.dat",
+          "entry_index": 30,
+          "block_in_entry": 1718
+        }
+      },
+      {
+        "block_x": 243,
+        "block_y": 183,
+        "block_index": 124599,
+        "staidx_offset": 1495188,
+        "statics_offset": 8460417,
+        "statics_length": 14,
+        "static_items_count": 2,
+        "map_offset": 24421408,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000030.dat",
+          "entry_index": 30,
+          "block_in_entry": 1719
+        }
+      }
+    ]
+  }
+}

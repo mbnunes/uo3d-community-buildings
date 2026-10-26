@@ -1,0 +1,172 @@
+{
+  "building_id": "building_433_1171_3655",
+  "name": "Wilderness Building #433",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1173 3660",
+    "center_x": 1173,
+    "center_y": 3660,
+    "base_z": 20,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 1171,
+    "max_x": 1175,
+    "min_y": 3655,
+    "max_y": 3664,
+    "base_z": 20,
+    "max_z": 52,
+    "center_x": 1173.5,
+    "center_y": 3660.0,
+    "center_z_elevation": 2.4
+  },
+  "dimensions_meters": {
+    "width_x": 5.0,
+    "depth_z": 10.0,
+    "height_y": 4.3
+  },
+  "stats": {
+    "tile_count": 49,
+    "item_count": 64,
+    "triangles_count": 808,
+    "unique_textures_count": 13
+  },
+  "unique_items": [
+    {
+      "id": 167,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0167.png"
+    },
+    {
+      "id": 168,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0168.png"
+    },
+    {
+      "id": 169,
+      "name": "wooden post",
+      "texture_file": "wooden_post_0169.png"
+    },
+    {
+      "id": 185,
+      "name": "window",
+      "texture_file": "window_0185.png"
+    },
+    {
+      "id": 186,
+      "name": "window",
+      "texture_file": "window_0186.png"
+    },
+    {
+      "id": 1447,
+      "name": "thatch roof",
+      "texture_file": "thatch_roof_1447.png"
+    },
+    {
+      "id": 1448,
+      "name": "thatch roof",
+      "texture_file": "thatch_roof_1448.png"
+    },
+    {
+      "id": 1449,
+      "name": "thatch roof",
+      "texture_file": "thatch_roof_1449.png"
+    },
+    {
+      "id": 2653,
+      "name": "bed",
+      "texture_file": "bed_2653.png"
+    },
+    {
+      "id": 2658,
+      "name": "bed",
+      "texture_file": "bed_2658.png"
+    },
+    {
+      "id": 4650,
+      "name": "blood",
+      "texture_file": "blood_4650.png"
+    },
+    {
+      "id": 4652,
+      "name": "blood",
+      "texture_file": "blood_4652.png"
+    },
+    {
+      "id": 4653,
+      "name": "blood",
+      "texture_file": "blood_4653.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 146,
+      "max_block_x": 146,
+      "min_block_y": 456,
+      "max_block_y": 458,
+      "total_blocks": 3
+    },
+    "blocks": [
+      {
+        "block_x": 146,
+        "block_y": 456,
+        "block_index": 75208,
+        "staidx_offset": 902496,
+        "statics_offset": 3361400,
+        "statics_length": 63,
+        "static_items_count": 9,
+        "map_offset": 14740772,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000018.dat",
+          "entry_index": 18,
+          "block_in_entry": 1480
+        }
+      },
+      {
+        "block_x": 146,
+        "block_y": 457,
+        "block_index": 75209,
+        "staidx_offset": 902508,
+        "statics_offset": 3361463,
+        "statics_length": 329,
+        "static_items_count": 47,
+        "map_offset": 14740968,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000018.dat",
+          "entry_index": 18,
+          "block_in_entry": 1481
+        }
+      },
+      {
+        "block_x": 146,
+        "block_y": 458,
+        "block_index": 75210,
+        "staidx_offset": 902520,
+        "statics_offset": 3361792,
+        "statics_length": 315,
+        "static_items_count": 45,
+        "map_offset": 14741164,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000018.dat",
+          "entry_index": 18,
+          "block_in_entry": 1482
+        }
+      }
+    ]
+  }
+}

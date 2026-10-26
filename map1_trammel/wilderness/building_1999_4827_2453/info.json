@@ -1,0 +1,172 @@
+{
+  "building_id": "building_1999_4827_2453",
+  "name": "Wilderness Building #1999",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4829 2460",
+    "center_x": 4829,
+    "center_y": 2460,
+    "base_z": 0,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 4827,
+    "max_x": 4831,
+    "min_y": 2453,
+    "max_y": 2467,
+    "base_z": 0,
+    "max_z": 5,
+    "center_x": 4829.5,
+    "center_y": 2460.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 5.0,
+    "depth_z": 15.0,
+    "height_y": 3.34
+  },
+  "stats": {
+    "tile_count": 75,
+    "item_count": 91,
+    "triangles_count": 1286,
+    "unique_textures_count": 13
+  },
+  "unique_items": [
+    {
+      "id": 577,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0577.png"
+    },
+    {
+      "id": 578,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0578.png"
+    },
+    {
+      "id": 580,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0580.png"
+    },
+    {
+      "id": 766,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0766.png"
+    },
+    {
+      "id": 767,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0767.png"
+    },
+    {
+      "id": 768,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0768.png"
+    },
+    {
+      "id": 1277,
+      "name": "flagstones",
+      "texture_file": "flagstones_1277.png"
+    },
+    {
+      "id": 1955,
+      "name": "stone",
+      "texture_file": "stone_1955.png"
+    },
+    {
+      "id": 1957,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1957.png"
+    },
+    {
+      "id": 1958,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1958.png"
+    },
+    {
+      "id": 1965,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1965.png"
+    },
+    {
+      "id": 1966,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1966.png"
+    },
+    {
+      "id": 1997,
+      "name": "wooden plank",
+      "texture_file": "wooden_plank_1997.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 603,
+      "max_block_x": 603,
+      "min_block_y": 306,
+      "max_block_y": 308,
+      "total_blocks": 3
+    },
+    "blocks": [
+      {
+        "block_x": 603,
+        "block_y": 306,
+        "block_index": 309042,
+        "staidx_offset": 3708504,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 60572236,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000075.dat",
+          "entry_index": 75,
+          "block_in_entry": 1842
+        }
+      },
+      {
+        "block_x": 603,
+        "block_y": 307,
+        "block_index": 309043,
+        "staidx_offset": 3708516,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 60572432,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000075.dat",
+          "entry_index": 75,
+          "block_in_entry": 1843
+        }
+      },
+      {
+        "block_x": 603,
+        "block_y": 308,
+        "block_index": 309044,
+        "staidx_offset": 3708528,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 60572628,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000075.dat",
+          "entry_index": 75,
+          "block_in_entry": 1844
+        }
+      }
+    ]
+  }
+}

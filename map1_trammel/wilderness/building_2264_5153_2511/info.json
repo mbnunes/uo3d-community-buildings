@@ -1,0 +1,181 @@
+{
+  "building_id": "building_2264_5153_2511",
+  "name": "Wilderness Building #2264",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "5156 2514",
+    "center_x": 5156,
+    "center_y": 2514,
+    "base_z": 0,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 5153,
+    "max_x": 5159,
+    "min_y": 2511,
+    "max_y": 2516,
+    "base_z": 0,
+    "max_z": 32,
+    "center_x": 5156.5,
+    "center_y": 2514.0,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 7.0,
+    "depth_z": 6.0,
+    "height_y": 4.3
+  },
+  "stats": {
+    "tile_count": 40,
+    "item_count": 70,
+    "triangles_count": 708,
+    "unique_textures_count": 18
+  },
+  "unique_items": [
+    {
+      "id": 7,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0007.png"
+    },
+    {
+      "id": 8,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0008.png"
+    },
+    {
+      "id": 9,
+      "name": "wooden post",
+      "texture_file": "wooden_post_0009.png"
+    },
+    {
+      "id": 14,
+      "name": "window",
+      "texture_file": "window_0014.png"
+    },
+    {
+      "id": 15,
+      "name": "window",
+      "texture_file": "window_0015.png"
+    },
+    {
+      "id": 1486,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1486.png"
+    },
+    {
+      "id": 1488,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1488.png"
+    },
+    {
+      "id": 2652,
+      "name": "bed",
+      "texture_file": "bed_2652.png"
+    },
+    {
+      "id": 2659,
+      "name": "bed",
+      "texture_file": "bed_2659.png"
+    },
+    {
+      "id": 2729,
+      "name": "rug east",
+      "texture_file": "rug_east_2729.png"
+    },
+    {
+      "id": 2730,
+      "name": "rug east",
+      "texture_file": "rug_east_2730.png"
+    },
+    {
+      "id": 2731,
+      "name": "rug east",
+      "texture_file": "rug_east_2731.png"
+    },
+    {
+      "id": 2733,
+      "name": "rug east",
+      "texture_file": "rug_east_2733.png"
+    },
+    {
+      "id": 2734,
+      "name": "rug east",
+      "texture_file": "rug_east_2734.png"
+    },
+    {
+      "id": 2735,
+      "name": "rug east",
+      "texture_file": "rug_east_2735.png"
+    },
+    {
+      "id": 2877,
+      "name": "counter",
+      "texture_file": "counter_2877.png"
+    },
+    {
+      "id": 2879,
+      "name": "counter",
+      "texture_file": "counter_2879.png"
+    },
+    {
+      "id": 12975,
+      "name": "lava",
+      "texture_file": "lava_12975.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 644,
+      "max_block_x": 644,
+      "min_block_y": 313,
+      "max_block_y": 314,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 644,
+        "block_y": 313,
+        "block_index": 330041,
+        "staidx_offset": 3960492,
+        "statics_offset": 16560621,
+        "statics_length": 77,
+        "static_items_count": 11,
+        "map_offset": 64688040,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000080.dat",
+          "entry_index": 80,
+          "block_in_entry": 2361
+        }
+      },
+      {
+        "block_x": 644,
+        "block_y": 314,
+        "block_index": 330042,
+        "staidx_offset": 3960504,
+        "statics_offset": 16560698,
+        "statics_length": 28,
+        "static_items_count": 4,
+        "map_offset": 64688236,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000080.dat",
+          "entry_index": 80,
+          "block_in_entry": 2362
+        }
+      }
+    ]
+  }
+}

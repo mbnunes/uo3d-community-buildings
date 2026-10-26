@@ -1,0 +1,95 @@
+{
+  "building_id": "building_2115_5008_641",
+  "name": "Wilderness Building #2115",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "5012 644",
+    "center_x": 5012,
+    "center_y": 644,
+    "base_z": 0,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 5008,
+    "max_x": 5015,
+    "min_y": 641,
+    "max_y": 647,
+    "base_z": 0,
+    "max_z": 0,
+    "center_x": 5012.0,
+    "center_y": 644.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 7.0,
+    "height_y": 2.4
+  },
+  "stats": {
+    "tile_count": 21,
+    "item_count": 22,
+    "triangles_count": 276,
+    "unique_textures_count": 4
+  },
+  "unique_items": [
+    {
+      "id": 87,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0087.png"
+    },
+    {
+      "id": 88,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0088.png"
+    },
+    {
+      "id": 89,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0089.png"
+    },
+    {
+      "id": 90,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0090.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 626,
+      "max_block_x": 626,
+      "min_block_y": 80,
+      "max_block_y": 80,
+      "total_blocks": 1
+    },
+    "blocks": [
+      {
+        "block_x": 626,
+        "block_y": 80,
+        "block_index": 320592,
+        "staidx_offset": 3847104,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 62836036,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000078.dat",
+          "entry_index": 78,
+          "block_in_entry": 1104
+        }
+      }
+    ]
+  }
+}

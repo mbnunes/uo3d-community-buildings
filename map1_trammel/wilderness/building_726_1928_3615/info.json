@@ -1,0 +1,268 @@
+{
+  "building_id": "building_726_1928_3615",
+  "name": "Wilderness Building #726",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1932 3624",
+    "center_x": 1932,
+    "center_y": 3624,
+    "base_z": 0,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 1928,
+    "max_x": 1935,
+    "min_y": 3615,
+    "max_y": 3633,
+    "base_z": 0,
+    "max_z": 32,
+    "center_x": 1932.0,
+    "center_y": 3624.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 19.0,
+    "height_y": 4.3
+  },
+  "stats": {
+    "tile_count": 152,
+    "item_count": 238,
+    "triangles_count": 2778,
+    "unique_textures_count": 29
+  },
+  "unique_items": [
+    {
+      "id": 300,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0300.png"
+    },
+    {
+      "id": 301,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0301.png"
+    },
+    {
+      "id": 302,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0302.png"
+    },
+    {
+      "id": 303,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0303.png"
+    },
+    {
+      "id": 307,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0307.png"
+    },
+    {
+      "id": 310,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0310.png"
+    },
+    {
+      "id": 311,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0311.png"
+    },
+    {
+      "id": 314,
+      "name": "window",
+      "texture_file": "window_0314.png"
+    },
+    {
+      "id": 315,
+      "name": "window",
+      "texture_file": "window_0315.png"
+    },
+    {
+      "id": 330,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0330.png"
+    },
+    {
+      "id": 1301,
+      "name": "cobblestones",
+      "texture_file": "cobblestones_1301.png"
+    },
+    {
+      "id": 1302,
+      "name": "cobblestones",
+      "texture_file": "cobblestones_1302.png"
+    },
+    {
+      "id": 1303,
+      "name": "cobblestones",
+      "texture_file": "cobblestones_1303.png"
+    },
+    {
+      "id": 1474,
+      "name": "wooden shingle",
+      "texture_file": "wooden_shingle_1474.png"
+    },
+    {
+      "id": 1475,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1475.png"
+    },
+    {
+      "id": 1476,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1476.png"
+    },
+    {
+      "id": 1478,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1478.png"
+    },
+    {
+      "id": 1479,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1479.png"
+    },
+    {
+      "id": 1482,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1482.png"
+    },
+    {
+      "id": 1486,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1486.png"
+    },
+    {
+      "id": 1487,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1487.png"
+    },
+    {
+      "id": 1488,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1488.png"
+    },
+    {
+      "id": 1982,
+      "name": "platform",
+      "texture_file": "platform_1982.png"
+    },
+    {
+      "id": 1989,
+      "name": "platform",
+      "texture_file": "platform_1989.png"
+    },
+    {
+      "id": 1990,
+      "name": "platform",
+      "texture_file": "platform_1990.png"
+    },
+    {
+      "id": 2594,
+      "name": "lantern",
+      "texture_file": "lantern_2594.png"
+    },
+    {
+      "id": 2970,
+      "name": "wooden signpost",
+      "texture_file": "wooden_signpost_2970.png"
+    },
+    {
+      "id": 6018,
+      "name": "grass",
+      "texture_file": "grass_6018.png"
+    },
+    {
+      "id": 6021,
+      "name": "grass",
+      "texture_file": "grass_6021.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 241,
+      "max_block_x": 241,
+      "min_block_y": 451,
+      "max_block_y": 454,
+      "total_blocks": 4
+    },
+    "blocks": [
+      {
+        "block_x": 241,
+        "block_y": 451,
+        "block_index": 123843,
+        "staidx_offset": 1486116,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 24273232,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000030.dat",
+          "entry_index": 30,
+          "block_in_entry": 963
+        }
+      },
+      {
+        "block_x": 241,
+        "block_y": 452,
+        "block_index": 123844,
+        "staidx_offset": 1486128,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 24273428,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000030.dat",
+          "entry_index": 30,
+          "block_in_entry": 964
+        }
+      },
+      {
+        "block_x": 241,
+        "block_y": 453,
+        "block_index": 123845,
+        "staidx_offset": 1486140,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 24273624,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000030.dat",
+          "entry_index": 30,
+          "block_in_entry": 965
+        }
+      },
+      {
+        "block_x": 241,
+        "block_y": 454,
+        "block_index": 123846,
+        "staidx_offset": 1486152,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 24273820,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000030.dat",
+          "entry_index": 30,
+          "block_in_entry": 966
+        }
+      }
+    ]
+  }
+}

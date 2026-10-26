@@ -1,0 +1,165 @@
+{
+  "building_id": "building_001_2872_3480",
+  "name": "Serpent Hold Building #001",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "serpent_hold",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "2875 3483",
+    "center_x": 2875,
+    "center_y": 3483,
+    "base_z": 20,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 2872,
+    "max_x": 2877,
+    "min_y": 3480,
+    "max_y": 3486,
+    "base_z": 20,
+    "max_z": 51,
+    "center_x": 2875.0,
+    "center_y": 3483.5,
+    "center_z_elevation": 2.4
+  },
+  "dimensions_meters": {
+    "width_x": 6.0,
+    "depth_z": 7.0,
+    "height_y": 4.18
+  },
+  "stats": {
+    "tile_count": 42,
+    "item_count": 113,
+    "triangles_count": 1140,
+    "unique_textures_count": 18
+  },
+  "unique_items": [
+    {
+      "id": 6,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0006.png"
+    },
+    {
+      "id": 7,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0007.png"
+    },
+    {
+      "id": 8,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0008.png"
+    },
+    {
+      "id": 11,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0011.png"
+    },
+    {
+      "id": 12,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0012.png"
+    },
+    {
+      "id": 13,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0013.png"
+    },
+    {
+      "id": 1297,
+      "name": "marble floor",
+      "texture_file": "marble_floor_1297.png"
+    },
+    {
+      "id": 1441,
+      "name": "slate roof",
+      "texture_file": "slate_roof_1441.png"
+    },
+    {
+      "id": 1442,
+      "name": "slate roof",
+      "texture_file": "slate_roof_1442.png"
+    },
+    {
+      "id": 1443,
+      "name": "slate roof",
+      "texture_file": "slate_roof_1443.png"
+    },
+    {
+      "id": 1927,
+      "name": "stone",
+      "texture_file": "stone_1927.png"
+    },
+    {
+      "id": 7208,
+      "name": "casket",
+      "texture_file": "casket_7208.png"
+    },
+    {
+      "id": 7209,
+      "name": "casket",
+      "texture_file": "casket_7209.png"
+    },
+    {
+      "id": 7213,
+      "name": "casket",
+      "texture_file": "casket_7213.png"
+    },
+    {
+      "id": 7214,
+      "name": "casket",
+      "texture_file": "casket_7214.png"
+    },
+    {
+      "id": 7687,
+      "name": "stain",
+      "texture_file": "stain_7687.png"
+    },
+    {
+      "id": 7688,
+      "name": "stain",
+      "texture_file": "stain_7688.png"
+    },
+    {
+      "id": 7689,
+      "name": "stain",
+      "texture_file": "stain_7689.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 359,
+      "max_block_x": 359,
+      "min_block_y": 435,
+      "max_block_y": 435,
+      "total_blocks": 1
+    },
+    "blocks": [
+      {
+        "block_x": 359,
+        "block_y": 435,
+        "block_index": 184243,
+        "staidx_offset": 2210916,
+        "statics_offset": 12183150,
+        "statics_length": 406,
+        "static_items_count": 58,
+        "map_offset": 36111632,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000044.dat",
+          "entry_index": 44,
+          "block_in_entry": 4019
+        }
+      }
+    ]
+  }
+}

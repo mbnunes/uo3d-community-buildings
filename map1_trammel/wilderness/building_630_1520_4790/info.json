@@ -1,0 +1,83 @@
+{
+  "building_id": "building_630_1520_4790",
+  "name": "Wilderness Building #630",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1524 4806",
+    "center_x": 1524,
+    "center_y": 4806,
+    "base_z": 0,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 1520,
+    "max_x": 1527,
+    "min_y": 4790,
+    "max_y": 4822,
+    "base_z": 0,
+    "max_z": 0,
+    "center_x": 1524.0,
+    "center_y": 4806.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 33.0,
+    "height_y": 1.2
+  },
+  "stats": {
+    "tile_count": 40,
+    "item_count": 42,
+    "triangles_count": 492,
+    "unique_textures_count": 5
+  },
+  "unique_items": [
+    {
+      "id": 356,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0356.png"
+    },
+    {
+      "id": 357,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0357.png"
+    },
+    {
+      "id": 358,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0358.png"
+    },
+    {
+      "id": 3205,
+      "name": "orfluer flowers",
+      "texture_file": "orfluer_flowers_3205.png"
+    },
+    {
+      "id": 3345,
+      "name": "mushrooms",
+      "texture_file": "mushrooms_3345.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 190,
+      "max_block_x": 190,
+      "min_block_y": 598,
+      "max_block_y": 602,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

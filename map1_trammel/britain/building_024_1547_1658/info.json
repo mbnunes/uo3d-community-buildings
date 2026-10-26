@@ -1,0 +1,166 @@
+{
+  "building_id": "building_024_1547_1658",
+  "name": "Britain Building #024",
+  "map": "map1_trammel",
+  "map_index": 1,
+  "map_name": "Trammel",
+  "region": "britain",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1549 1664",
+    "center_x": 1549,
+    "center_y": 1664,
+    "base_z": 20,
+    "map_name": "Trammel (Map 1)"
+  },
+  "world_bounds": {
+    "min_x": 1547,
+    "max_x": 1551,
+    "min_y": 1658,
+    "max_y": 1670,
+    "base_z": 20,
+    "max_z": 48,
+    "center_x": 1549.5,
+    "center_y": 1664.5,
+    "center_z_elevation": 2.4
+  },
+  "dimensions_meters": {
+    "width_x": 5.0,
+    "depth_z": 13.0,
+    "height_y": 3.82
+  },
+  "stats": {
+    "tile_count": 64,
+    "item_count": 94,
+    "triangles_count": 816,
+    "unique_textures_count": 15
+  },
+  "unique_items": [
+    {
+      "id": 513,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0513.png"
+    },
+    {
+      "id": 514,
+      "name": "sandstone post",
+      "texture_file": "sandstone_post_0514.png"
+    },
+    {
+      "id": 515,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0515.png"
+    },
+    {
+      "id": 516,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0516.png"
+    },
+    {
+      "id": 517,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0517.png"
+    },
+    {
+      "id": 518,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0518.png"
+    },
+    {
+      "id": 521,
+      "name": "window",
+      "texture_file": "window_0521.png"
+    },
+    {
+      "id": 522,
+      "name": "window",
+      "texture_file": "window_0522.png"
+    },
+    {
+      "id": 523,
+      "name": "plaster wall",
+      "texture_file": "plaster_wall_0523.png"
+    },
+    {
+      "id": 1461,
+      "name": "tile roof",
+      "texture_file": "tile_roof_1461.png"
+    },
+    {
+      "id": 2653,
+      "name": "bed",
+      "texture_file": "bed_2653.png"
+    },
+    {
+      "id": 2658,
+      "name": "bed",
+      "texture_file": "bed_2658.png"
+    },
+    {
+      "id": 2780,
+      "name": "",
+      "texture_file": "_2780.png"
+    },
+    {
+      "id": 2781,
+      "name": "",
+      "texture_file": "_2781.png"
+    },
+    {
+      "id": 2783,
+      "name": "",
+      "texture_file": "_2783.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map1.mul",
+      "statics_file": "statics1.mul",
+      "staidx_file": "staidx1.mul",
+      "uop_file": "map1LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 193,
+      "max_block_x": 193,
+      "min_block_y": 207,
+      "max_block_y": 208,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 193,
+        "block_y": 207,
+        "block_index": 99023,
+        "staidx_offset": 1188276,
+        "statics_offset": 6070659,
+        "statics_length": 1260,
+        "static_items_count": 180,
+        "map_offset": 19408512,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000024.dat",
+          "entry_index": 24,
+          "block_in_entry": 719
+        }
+      },
+      {
+        "block_x": 193,
+        "block_y": 208,
+        "block_index": 99024,
+        "staidx_offset": 1188288,
+        "statics_offset": 6071919,
+        "statics_length": 84,
+        "static_items_count": 12,
+        "map_offset": 19408708,
+        "uop_entry": {
+          "file": "map1LegacyMUL.uop",
+          "entry_name": "build/map1legacymul/00000024.dat",
+          "entry_index": 24,
+          "block_in_entry": 720
+        }
+      }
+    ]
+  }
+}
