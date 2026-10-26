@@ -1,0 +1,111 @@
+{
+  "building_id": "building_1713_4451_1865",
+  "name": "Wilderness Building #1713",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4453 1871",
+    "center_x": 4453,
+    "center_y": 1871,
+    "base_z": 0,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 4451,
+    "max_x": 4455,
+    "min_y": 1865,
+    "max_y": 1876,
+    "base_z": 0,
+    "max_z": 13,
+    "center_x": 4453.5,
+    "center_y": 1871.0,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 5.0,
+    "depth_z": 12.0,
+    "height_y": 3.36
+  },
+  "stats": {
+    "tile_count": 23,
+    "item_count": 23,
+    "triangles_count": 276,
+    "unique_textures_count": 4
+  },
+  "unique_items": [
+    {
+      "id": 577,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0577.png"
+    },
+    {
+      "id": 578,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0578.png"
+    },
+    {
+      "id": 579,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0579.png"
+    },
+    {
+      "id": 2572,
+      "name": "wall torch",
+      "texture_file": "wall_torch_2572.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 556,
+      "max_block_x": 556,
+      "min_block_y": 233,
+      "max_block_y": 234,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 556,
+        "block_y": 233,
+        "block_index": 284905,
+        "staidx_offset": 3418860,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 55841384,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000069.dat",
+          "entry_index": 69,
+          "block_in_entry": 2281
+        }
+      },
+      {
+        "block_x": 556,
+        "block_y": 234,
+        "block_index": 284906,
+        "staidx_offset": 3418872,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 55841580,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000069.dat",
+          "entry_index": 69,
+          "block_in_entry": 2282
+        }
+      }
+    ]
+  }
+}

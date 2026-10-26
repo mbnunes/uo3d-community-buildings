@@ -1,0 +1,98 @@
+{
+  "building_id": "building_1434_4134_4710",
+  "name": "Wilderness Building #1434",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4139 4711",
+    "center_x": 4139,
+    "center_y": 4711,
+    "base_z": 0,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 4134,
+    "max_x": 4143,
+    "min_y": 4710,
+    "max_y": 4712,
+    "base_z": 0,
+    "max_z": 0,
+    "center_x": 4139.0,
+    "center_y": 4711.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 10.0,
+    "depth_z": 3.0,
+    "height_y": 2.5
+  },
+  "stats": {
+    "tile_count": 16,
+    "item_count": 16,
+    "triangles_count": 192,
+    "unique_textures_count": 8
+  },
+  "unique_items": [
+    {
+      "id": 464,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0464.png"
+    },
+    {
+      "id": 486,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0486.png"
+    },
+    {
+      "id": 4070,
+      "name": "pentagram",
+      "texture_file": "pentagram_4070.png"
+    },
+    {
+      "id": 4071,
+      "name": "pentagram",
+      "texture_file": "pentagram_4071.png"
+    },
+    {
+      "id": 4072,
+      "name": "pentagram",
+      "texture_file": "pentagram_4072.png"
+    },
+    {
+      "id": 4073,
+      "name": "pentagram",
+      "texture_file": "pentagram_4073.png"
+    },
+    {
+      "id": 4074,
+      "name": "pentagram",
+      "texture_file": "pentagram_4074.png"
+    },
+    {
+      "id": 4076,
+      "name": "pentagram",
+      "texture_file": "pentagram_4076.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 516,
+      "max_block_x": 517,
+      "min_block_y": 588,
+      "max_block_y": 589,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

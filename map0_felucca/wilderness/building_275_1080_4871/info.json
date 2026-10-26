@@ -1,0 +1,113 @@
+{
+  "building_id": "building_275_1080_4871",
+  "name": "Wilderness Building #275",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1084 4876",
+    "center_x": 1084,
+    "center_y": 4876,
+    "base_z": 0,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 1080,
+    "max_x": 1087,
+    "min_y": 4871,
+    "max_y": 4880,
+    "base_z": 0,
+    "max_z": 32,
+    "center_x": 1084.0,
+    "center_y": 4876.0,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 10.0,
+    "height_y": 4.2
+  },
+  "stats": {
+    "tile_count": 80,
+    "item_count": 99,
+    "triangles_count": 932,
+    "unique_textures_count": 11
+  },
+  "unique_items": [
+    {
+      "id": 168,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0168.png"
+    },
+    {
+      "id": 174,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0174.png"
+    },
+    {
+      "id": 175,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0175.png"
+    },
+    {
+      "id": 176,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0176.png"
+    },
+    {
+      "id": 178,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0178.png"
+    },
+    {
+      "id": 181,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0181.png"
+    },
+    {
+      "id": 1447,
+      "name": "thatch roof",
+      "texture_file": "thatch_roof_1447.png"
+    },
+    {
+      "id": 1448,
+      "name": "thatch roof",
+      "texture_file": "thatch_roof_1448.png"
+    },
+    {
+      "id": 1449,
+      "name": "thatch roof",
+      "texture_file": "thatch_roof_1449.png"
+    },
+    {
+      "id": 2572,
+      "name": "wall torch",
+      "texture_file": "wall_torch_2572.png"
+    },
+    {
+      "id": 3245,
+      "name": "grasses",
+      "texture_file": "grasses_3245.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 135,
+      "max_block_x": 135,
+      "min_block_y": 608,
+      "max_block_y": 610,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

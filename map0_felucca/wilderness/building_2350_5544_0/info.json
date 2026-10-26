@@ -1,0 +1,156 @@
+{
+  "building_id": "building_2350_5544_0",
+  "name": "Wilderness Building #2350",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "5548 5",
+    "center_x": 5548,
+    "center_y": 5,
+    "base_z": -15,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 5544,
+    "max_x": 5551,
+    "min_y": 0,
+    "max_y": 10,
+    "base_z": -15,
+    "max_z": 5,
+    "center_x": 5548.0,
+    "center_y": 5.5,
+    "center_z_elevation": -1.7999999999999998
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 11.0,
+    "height_y": 2.4
+  },
+  "stats": {
+    "tile_count": 61,
+    "item_count": 74,
+    "triangles_count": 888,
+    "unique_textures_count": 13
+  },
+  "unique_items": [
+    {
+      "id": 26,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0026.png"
+    },
+    {
+      "id": 27,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0027.png"
+    },
+    {
+      "id": 28,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0028.png"
+    },
+    {
+      "id": 29,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0029.png"
+    },
+    {
+      "id": 34,
+      "name": "window",
+      "texture_file": "window_0034.png"
+    },
+    {
+      "id": 41,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0041.png"
+    },
+    {
+      "id": 47,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0047.png"
+    },
+    {
+      "id": 2327,
+      "name": "stone step",
+      "texture_file": "stone_step_2327.png"
+    },
+    {
+      "id": 2328,
+      "name": "stone step",
+      "texture_file": "stone_step_2328.png"
+    },
+    {
+      "id": 3792,
+      "name": "bones",
+      "texture_file": "bones_3792.png"
+    },
+    {
+      "id": 7257,
+      "name": "coffin lid",
+      "texture_file": "coffin_lid_7257.png"
+    },
+    {
+      "id": 7259,
+      "name": "coffin lid",
+      "texture_file": "coffin_lid_7259.png"
+    },
+    {
+      "id": 7399,
+      "name": "legs",
+      "texture_file": "legs_7399.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 693,
+      "max_block_x": 693,
+      "min_block_y": 0,
+      "max_block_y": 1,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 693,
+        "block_y": 0,
+        "block_index": 354816,
+        "staidx_offset": 4257792,
+        "statics_offset": 17728844,
+        "statics_length": 399,
+        "static_items_count": 57,
+        "map_offset": 69543940,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000086.dat",
+          "entry_index": 86,
+          "block_in_entry": 2560
+        }
+      },
+      {
+        "block_x": 693,
+        "block_y": 1,
+        "block_index": 354817,
+        "staidx_offset": 4257804,
+        "statics_offset": 17729243,
+        "statics_length": 777,
+        "static_items_count": 111,
+        "map_offset": 69544136,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000086.dat",
+          "entry_index": 86,
+          "block_in_entry": 2561
+        }
+      }
+    ]
+  }
+}

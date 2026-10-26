@@ -1,0 +1,180 @@
+{
+  "building_id": "building_498_1216_1576",
+  "name": "Wilderness Building #498",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1220 1579",
+    "center_x": 1220,
+    "center_y": 1579,
+    "base_z": -5,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 1216,
+    "max_x": 1223,
+    "min_y": 1576,
+    "max_y": 1581,
+    "base_z": -5,
+    "max_z": 30,
+    "center_x": 1220.0,
+    "center_y": 1579.0,
+    "center_z_elevation": -0.6
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 6.0,
+    "height_y": 4.8
+  },
+  "stats": {
+    "tile_count": 48,
+    "item_count": 100,
+    "triangles_count": 960,
+    "unique_textures_count": 21
+  },
+  "unique_items": [
+    {
+      "id": 62,
+      "name": "brick wall",
+      "texture_file": "brick_wall_0062.png"
+    },
+    {
+      "id": 66,
+      "name": "brick wall",
+      "texture_file": "brick_wall_0066.png"
+    },
+    {
+      "id": 1236,
+      "name": "wooden planks",
+      "texture_file": "wooden_planks_1236.png"
+    },
+    {
+      "id": 1238,
+      "name": "wooden planks",
+      "texture_file": "wooden_planks_1238.png"
+    },
+    {
+      "id": 1239,
+      "name": "wooden planks",
+      "texture_file": "wooden_planks_1239.png"
+    },
+    {
+      "id": 1240,
+      "name": "wooden planks",
+      "texture_file": "wooden_planks_1240.png"
+    },
+    {
+      "id": 1241,
+      "name": "wooden planks",
+      "texture_file": "wooden_planks_1241.png"
+    },
+    {
+      "id": 1243,
+      "name": "wooden planks",
+      "texture_file": "wooden_planks_1243.png"
+    },
+    {
+      "id": 1245,
+      "name": "wooden planks",
+      "texture_file": "wooden_planks_1245.png"
+    },
+    {
+      "id": 1246,
+      "name": "wooden planks",
+      "texture_file": "wooden_planks_1246.png"
+    },
+    {
+      "id": 1247,
+      "name": "wooden planks",
+      "texture_file": "wooden_planks_1247.png"
+    },
+    {
+      "id": 6039,
+      "name": "water",
+      "texture_file": "water_6039.png"
+    },
+    {
+      "id": 6040,
+      "name": "water",
+      "texture_file": "water_6040.png"
+    },
+    {
+      "id": 6041,
+      "name": "water",
+      "texture_file": "water_6041.png"
+    },
+    {
+      "id": 6042,
+      "name": "water",
+      "texture_file": "water_6042.png"
+    },
+    {
+      "id": 6043,
+      "name": "water",
+      "texture_file": "water_6043.png"
+    },
+    {
+      "id": 6044,
+      "name": "water",
+      "texture_file": "water_6044.png"
+    },
+    {
+      "id": 6051,
+      "name": "water",
+      "texture_file": "water_6051.png"
+    },
+    {
+      "id": 6052,
+      "name": "water",
+      "texture_file": "water_6052.png"
+    },
+    {
+      "id": 6060,
+      "name": "water",
+      "texture_file": "water_6060.png"
+    },
+    {
+      "id": 6063,
+      "name": "water",
+      "texture_file": "water_6063.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 152,
+      "max_block_x": 152,
+      "min_block_y": 197,
+      "max_block_y": 197,
+      "total_blocks": 1
+    },
+    "blocks": [
+      {
+        "block_x": 152,
+        "block_y": 197,
+        "block_index": 78021,
+        "staidx_offset": 936252,
+        "statics_offset": 3631299,
+        "statics_length": 105,
+        "static_items_count": 15,
+        "map_offset": 15292120,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000019.dat",
+          "entry_index": 19,
+          "block_in_entry": 197
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "building_id": "building_015_3032_3595",
+  "name": "Serpent Hold Building #015",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "serpent_hold",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "3035 3607",
+    "center_x": 3035,
+    "center_y": 3607,
+    "base_z": -88,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 3032,
+    "max_x": 3037,
+    "min_y": 3595,
+    "max_y": 3618,
+    "base_z": -88,
+    "max_z": -5,
+    "center_x": 3035.0,
+    "center_y": 3607.0,
+    "center_z_elevation": -10.559999999999999
+  },
+  "dimensions_meters": {
+    "width_x": 6.0,
+    "depth_z": 24.0,
+    "height_y": 2.4
+  },
+  "stats": {
+    "tile_count": 24,
+    "item_count": 48,
+    "triangles_count": 288,
+    "unique_textures_count": 2
+  },
+  "unique_items": [
+    {
+      "id": 69,
+      "name": "brick arch",
+      "texture_file": "brick_arch_0069.png"
+    },
+    {
+      "id": 6038,
+      "name": "water",
+      "texture_file": "water_6038.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 379,
+      "max_block_x": 379,
+      "min_block_y": 449,
+      "max_block_y": 452,
+      "total_blocks": 4
+    },
+    "blocks": [
+      {
+        "block_x": 379,
+        "block_y": 449,
+        "block_index": 194497,
+        "staidx_offset": 2333964,
+        "statics_offset": 12849214,
+        "statics_length": 161,
+        "static_items_count": 23,
+        "map_offset": 38121416,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000047.dat",
+          "entry_index": 47,
+          "block_in_entry": 1985
+        }
+      },
+      {
+        "block_x": 379,
+        "block_y": 450,
+        "block_index": 194498,
+        "staidx_offset": 2333976,
+        "statics_offset": 12849375,
+        "statics_length": 238,
+        "static_items_count": 34,
+        "map_offset": 38121612,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000047.dat",
+          "entry_index": 47,
+          "block_in_entry": 1986
+        }
+      },
+      {
+        "block_x": 379,
+        "block_y": 451,
+        "block_index": 194499,
+        "staidx_offset": 2333988,
+        "statics_offset": 12849613,
+        "statics_length": 203,
+        "static_items_count": 29,
+        "map_offset": 38121808,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000047.dat",
+          "entry_index": 47,
+          "block_in_entry": 1987
+        }
+      },
+      {
+        "block_x": 379,
+        "block_y": 452,
+        "block_index": 194500,
+        "staidx_offset": 2334000,
+        "statics_offset": 12849816,
+        "statics_length": 378,
+        "static_items_count": 54,
+        "map_offset": 38122004,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000047.dat",
+          "entry_index": 47,
+          "block_in_entry": 1988
+        }
+      }
+    ]
+  }
+}

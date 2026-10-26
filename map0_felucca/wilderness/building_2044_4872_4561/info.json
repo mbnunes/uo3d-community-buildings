@@ -1,0 +1,68 @@
+{
+  "building_id": "building_2044_4872_4561",
+  "name": "Wilderness Building #2044",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4876 4563",
+    "center_x": 4876,
+    "center_y": 4563,
+    "base_z": 0,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 4872,
+    "max_x": 4879,
+    "min_y": 4561,
+    "max_y": 4564,
+    "base_z": 0,
+    "max_z": 0,
+    "center_x": 4876.0,
+    "center_y": 4563.0,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 4.0,
+    "height_y": 0.7
+  },
+  "stats": {
+    "tile_count": 32,
+    "item_count": 32,
+    "triangles_count": 384,
+    "unique_textures_count": 2
+  },
+  "unique_items": [
+    {
+      "id": 766,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0766.png"
+    },
+    {
+      "id": 1955,
+      "name": "stone",
+      "texture_file": "stone_1955.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 609,
+      "max_block_x": 609,
+      "min_block_y": 570,
+      "max_block_y": 570,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

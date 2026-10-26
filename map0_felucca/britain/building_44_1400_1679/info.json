@@ -1,0 +1,241 @@
+{
+  "building_id": "building_44_1400_1679",
+  "name": "Britain Building (1400, 1679)",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "region": "britain",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1404 1687",
+    "center_x": 1404,
+    "center_y": 1687,
+    "base_z": -5,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 1400,
+    "max_x": 1407,
+    "min_y": 1679,
+    "max_y": 1695,
+    "base_z": -5,
+    "max_z": 52,
+    "center_x": 1404.0,
+    "center_y": 1687.5,
+    "center_z_elevation": -0.6
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 17.0,
+    "height_y": 8.04
+  },
+  "stats": {
+    "tile_count": 136,
+    "item_count": 189,
+    "triangles_count": 2352,
+    "unique_textures_count": 27
+  },
+  "unique_items": [
+    {
+      "id": 129,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0129.png"
+    },
+    {
+      "id": 130,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0130.png"
+    },
+    {
+      "id": 132,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0132.png"
+    },
+    {
+      "id": 719,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0719.png"
+    },
+    {
+      "id": 720,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0720.png"
+    },
+    {
+      "id": 722,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0722.png"
+    },
+    {
+      "id": 724,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0724.png"
+    },
+    {
+      "id": 725,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0725.png"
+    },
+    {
+      "id": 726,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0726.png"
+    },
+    {
+      "id": 727,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0727.png"
+    },
+    {
+      "id": 729,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0729.png"
+    },
+    {
+      "id": 1301,
+      "name": "cobblestones",
+      "texture_file": "cobblestones_1301.png"
+    },
+    {
+      "id": 1302,
+      "name": "cobblestones",
+      "texture_file": "cobblestones_1302.png"
+    },
+    {
+      "id": 1303,
+      "name": "cobblestones",
+      "texture_file": "cobblestones_1303.png"
+    },
+    {
+      "id": 1304,
+      "name": "cobblestones",
+      "texture_file": "cobblestones_1304.png"
+    },
+    {
+      "id": 2572,
+      "name": "wall torch",
+      "texture_file": "wall_torch_2572.png"
+    },
+    {
+      "id": 2928,
+      "name": "table",
+      "texture_file": "table_2928.png"
+    },
+    {
+      "id": 2929,
+      "name": "table",
+      "texture_file": "table_2929.png"
+    },
+    {
+      "id": 2930,
+      "name": "table",
+      "texture_file": "table_2930.png"
+    },
+    {
+      "id": 2931,
+      "name": "table",
+      "texture_file": "table_2931.png"
+    },
+    {
+      "id": 3700,
+      "name": "cannon balls",
+      "texture_file": "cannon_balls_3700.png"
+    },
+    {
+      "id": 3732,
+      "name": "cannon",
+      "texture_file": "cannon_3732.png"
+    },
+    {
+      "id": 3733,
+      "name": "cannon",
+      "texture_file": "cannon_3733.png"
+    },
+    {
+      "id": 3734,
+      "name": "cannon",
+      "texture_file": "cannon_3734.png"
+    },
+    {
+      "id": 5472,
+      "name": "decorative weapons",
+      "texture_file": "decorative_weapons_5472.png"
+    },
+    {
+      "id": 5473,
+      "name": "decorative weapons",
+      "texture_file": "decorative_weapons_5473.png"
+    },
+    {
+      "id": 6056,
+      "name": "water",
+      "texture_file": "water_6056.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 175,
+      "max_block_x": 175,
+      "min_block_y": 209,
+      "max_block_y": 211,
+      "total_blocks": 3
+    },
+    "blocks": [
+      {
+        "block_x": 175,
+        "block_y": 209,
+        "block_index": 89809,
+        "staidx_offset": 1077708,
+        "statics_offset": 4906258,
+        "statics_length": 427,
+        "static_items_count": 61,
+        "map_offset": 17602568,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000021.dat",
+          "entry_index": 21,
+          "block_in_entry": 3793
+        }
+      },
+      {
+        "block_x": 175,
+        "block_y": 210,
+        "block_index": 89810,
+        "staidx_offset": 1077720,
+        "statics_offset": 4906685,
+        "statics_length": 609,
+        "static_items_count": 87,
+        "map_offset": 17602764,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000021.dat",
+          "entry_index": 21,
+          "block_in_entry": 3794
+        }
+      },
+      {
+        "block_x": 175,
+        "block_y": 211,
+        "block_index": 89811,
+        "staidx_offset": 1077732,
+        "statics_offset": 4907294,
+        "statics_length": 595,
+        "static_items_count": 85,
+        "map_offset": 17602960,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000021.dat",
+          "entry_index": 21,
+          "block_in_entry": 3795
+        }
+      }
+    ]
+  }
+}

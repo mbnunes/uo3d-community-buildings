@@ -1,0 +1,120 @@
+{
+  "building_id": "building_209_976_252",
+  "name": "Wilderness Building #209",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "979 253",
+    "center_x": 979,
+    "center_y": 253,
+    "base_z": 0,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 976,
+    "max_x": 982,
+    "min_y": 252,
+    "max_y": 254,
+    "base_z": 0,
+    "max_z": 20,
+    "center_x": 979.5,
+    "center_y": 253.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 7.0,
+    "depth_z": 3.0,
+    "height_y": 14.5
+  },
+  "stats": {
+    "tile_count": 20,
+    "item_count": 35,
+    "triangles_count": 452,
+    "unique_textures_count": 9
+  },
+  "unique_items": [
+    {
+      "id": 470,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0470.png"
+    },
+    {
+      "id": 471,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0471.png"
+    },
+    {
+      "id": 1200,
+      "name": "wooden boards",
+      "texture_file": "wooden_boards_1200.png"
+    },
+    {
+      "id": 1848,
+      "name": "wood",
+      "texture_file": "wood_1848.png"
+    },
+    {
+      "id": 1850,
+      "name": "wooden stairs",
+      "texture_file": "wooden_stairs_1850.png"
+    },
+    {
+      "id": 3247,
+      "name": "grasses",
+      "texture_file": "grasses_3247.png"
+    },
+    {
+      "id": 3253,
+      "name": "grasses",
+      "texture_file": "grasses_3253.png"
+    },
+    {
+      "id": 4581,
+      "name": "grass mat",
+      "texture_file": "grass_mat_4581.png"
+    },
+    {
+      "id": 8611,
+      "name": "nodraw",
+      "texture_file": "nodraw_8611.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 122,
+      "max_block_x": 122,
+      "min_block_y": 31,
+      "max_block_y": 31,
+      "total_blocks": 1
+    },
+    "blocks": [
+      {
+        "block_x": 122,
+        "block_y": 31,
+        "block_index": 62495,
+        "staidx_offset": 749940,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 12249024,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000015.dat",
+          "entry_index": 15,
+          "block_in_entry": 1055
+        }
+      }
+    ]
+  }
+}

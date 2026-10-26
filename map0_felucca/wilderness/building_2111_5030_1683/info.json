@@ -1,0 +1,237 @@
+{
+  "building_id": "building_2111_5030_1683",
+  "name": "Wilderness Building #2111",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "5031 1711",
+    "center_x": 5031,
+    "center_y": 1711,
+    "base_z": 0,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 5030,
+    "max_x": 5031,
+    "min_y": 1683,
+    "max_y": 1739,
+    "base_z": 0,
+    "max_z": 11,
+    "center_x": 5031.0,
+    "center_y": 1711.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 2.0,
+    "depth_z": 57.0,
+    "height_y": 1.88
+  },
+  "stats": {
+    "tile_count": 111,
+    "item_count": 213,
+    "triangles_count": 2484,
+    "unique_textures_count": 10
+  },
+  "unique_items": [
+    {
+      "id": 21,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0021.png"
+    },
+    {
+      "id": 22,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0022.png"
+    },
+    {
+      "id": 23,
+      "name": "wooden post",
+      "texture_file": "wooden_post_0023.png"
+    },
+    {
+      "id": 1239,
+      "name": "wooden planks",
+      "texture_file": "wooden_planks_1239.png"
+    },
+    {
+      "id": 5367,
+      "name": "anchor",
+      "texture_file": "anchor_5367.png"
+    },
+    {
+      "id": 5368,
+      "name": "rope",
+      "texture_file": "rope_5368.png"
+    },
+    {
+      "id": 30695,
+      "name": "boardbatten wallhalf",
+      "texture_file": "boardbatten_wallhalf_30695.png"
+    },
+    {
+      "id": 30698,
+      "name": "boardbatten wallhalf",
+      "texture_file": "boardbatten_wallhalf_30698.png"
+    },
+    {
+      "id": 30701,
+      "name": "boardbatten wallcorn",
+      "texture_file": "boardbatten_wallcorn_30701.png"
+    },
+    {
+      "id": 30711,
+      "name": "boardbatten wallhalf",
+      "texture_file": "boardbatten_wallhalf_30711.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 628,
+      "max_block_x": 628,
+      "min_block_y": 210,
+      "max_block_y": 217,
+      "total_blocks": 8
+    },
+    "blocks": [
+      {
+        "block_x": 628,
+        "block_y": 210,
+        "block_index": 321746,
+        "staidx_offset": 3860952,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 63062220,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000078.dat",
+          "entry_index": 78,
+          "block_in_entry": 2258
+        }
+      },
+      {
+        "block_x": 628,
+        "block_y": 211,
+        "block_index": 321747,
+        "staidx_offset": 3860964,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 63062416,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000078.dat",
+          "entry_index": 78,
+          "block_in_entry": 2259
+        }
+      },
+      {
+        "block_x": 628,
+        "block_y": 212,
+        "block_index": 321748,
+        "staidx_offset": 3860976,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 63062612,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000078.dat",
+          "entry_index": 78,
+          "block_in_entry": 2260
+        }
+      },
+      {
+        "block_x": 628,
+        "block_y": 213,
+        "block_index": 321749,
+        "staidx_offset": 3860988,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 63062808,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000078.dat",
+          "entry_index": 78,
+          "block_in_entry": 2261
+        }
+      },
+      {
+        "block_x": 628,
+        "block_y": 214,
+        "block_index": 321750,
+        "staidx_offset": 3861000,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 63063004,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000078.dat",
+          "entry_index": 78,
+          "block_in_entry": 2262
+        }
+      },
+      {
+        "block_x": 628,
+        "block_y": 215,
+        "block_index": 321751,
+        "staidx_offset": 3861012,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 63063200,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000078.dat",
+          "entry_index": 78,
+          "block_in_entry": 2263
+        }
+      },
+      {
+        "block_x": 628,
+        "block_y": 216,
+        "block_index": 321752,
+        "staidx_offset": 3861024,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 63063396,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000078.dat",
+          "entry_index": 78,
+          "block_in_entry": 2264
+        }
+      },
+      {
+        "block_x": 628,
+        "block_y": 217,
+        "block_index": 321753,
+        "staidx_offset": 3861036,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 63063592,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000078.dat",
+          "entry_index": 78,
+          "block_in_entry": 2265
+        }
+      }
+    ]
+  }
+}

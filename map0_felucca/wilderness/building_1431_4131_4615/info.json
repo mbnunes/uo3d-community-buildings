@@ -1,0 +1,88 @@
+{
+  "building_id": "building_1431_4131_4615",
+  "name": "Wilderness Building #1431",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4137 4622",
+    "center_x": 4137,
+    "center_y": 4622,
+    "base_z": -20,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 4131,
+    "max_x": 4143,
+    "min_y": 4615,
+    "max_y": 4629,
+    "base_z": -20,
+    "max_z": 17,
+    "center_x": 4137.5,
+    "center_y": 4622.5,
+    "center_z_elevation": -2.4
+  },
+  "dimensions_meters": {
+    "width_x": 13.0,
+    "depth_z": 15.0,
+    "height_y": 4.8
+  },
+  "stats": {
+    "tile_count": 28,
+    "item_count": 30,
+    "triangles_count": 408,
+    "unique_textures_count": 6
+  },
+  "unique_items": [
+    {
+      "id": 464,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0464.png"
+    },
+    {
+      "id": 490,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0490.png"
+    },
+    {
+      "id": 577,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0577.png"
+    },
+    {
+      "id": 578,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0578.png"
+    },
+    {
+      "id": 580,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0580.png"
+    },
+    {
+      "id": 4289,
+      "name": "web",
+      "texture_file": "web_4289.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 516,
+      "max_block_x": 517,
+      "min_block_y": 576,
+      "max_block_y": 578,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

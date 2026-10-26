@@ -1,0 +1,88 @@
+{
+  "building_id": "building_506_1228_4599",
+  "name": "Wilderness Building #506",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1230 4601",
+    "center_x": 1230,
+    "center_y": 4601,
+    "base_z": 4,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 1228,
+    "max_x": 1231,
+    "min_y": 4599,
+    "max_y": 4603,
+    "base_z": 4,
+    "max_z": 39,
+    "center_x": 1230.0,
+    "center_y": 4601.5,
+    "center_z_elevation": 0.48
+  },
+  "dimensions_meters": {
+    "width_x": 4.0,
+    "depth_z": 5.0,
+    "height_y": 4.56
+  },
+  "stats": {
+    "tile_count": 20,
+    "item_count": 28,
+    "triangles_count": 408,
+    "unique_textures_count": 6
+  },
+  "unique_items": [
+    {
+      "id": 49,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0049.png"
+    },
+    {
+      "id": 120,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0120.png"
+    },
+    {
+      "id": 1997,
+      "name": "wooden plank",
+      "texture_file": "wooden_plank_1997.png"
+    },
+    {
+      "id": 1998,
+      "name": "wooden plank",
+      "texture_file": "wooden_plank_1998.png"
+    },
+    {
+      "id": 1999,
+      "name": "wooden plank",
+      "texture_file": "wooden_plank_1999.png"
+    },
+    {
+      "id": 2000,
+      "name": "wooden plank",
+      "texture_file": "wooden_plank_2000.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 153,
+      "max_block_x": 153,
+      "min_block_y": 574,
+      "max_block_y": 575,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

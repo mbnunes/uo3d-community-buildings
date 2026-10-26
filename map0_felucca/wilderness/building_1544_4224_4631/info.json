@@ -1,0 +1,123 @@
+{
+  "building_id": "building_1544_4224_4631",
+  "name": "Wilderness Building #1544",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4232 4641",
+    "center_x": 4232,
+    "center_y": 4641,
+    "base_z": 0,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 4224,
+    "max_x": 4239,
+    "min_y": 4631,
+    "max_y": 4651,
+    "base_z": 0,
+    "max_z": 17,
+    "center_x": 4232.0,
+    "center_y": 4641.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 16.0,
+    "depth_z": 21.0,
+    "height_y": 2.64
+  },
+  "stats": {
+    "tile_count": 72,
+    "item_count": 78,
+    "triangles_count": 888,
+    "unique_textures_count": 13
+  },
+  "unique_items": [
+    {
+      "id": 464,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0464.png"
+    },
+    {
+      "id": 465,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0465.png"
+    },
+    {
+      "id": 466,
+      "name": "stone post",
+      "texture_file": "stone_post_0466.png"
+    },
+    {
+      "id": 489,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0489.png"
+    },
+    {
+      "id": 577,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0577.png"
+    },
+    {
+      "id": 578,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0578.png"
+    },
+    {
+      "id": 579,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0579.png"
+    },
+    {
+      "id": 582,
+      "name": "dungeon arch",
+      "texture_file": "dungeon_arch_0582.png"
+    },
+    {
+      "id": 584,
+      "name": "dungeon arch",
+      "texture_file": "dungeon_arch_0584.png"
+    },
+    {
+      "id": 586,
+      "name": "dungeon arch",
+      "texture_file": "dungeon_arch_0586.png"
+    },
+    {
+      "id": 4284,
+      "name": "web",
+      "texture_file": "web_4284.png"
+    },
+    {
+      "id": 4289,
+      "name": "web",
+      "texture_file": "web_4289.png"
+    },
+    {
+      "id": 4290,
+      "name": "web",
+      "texture_file": "web_4290.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 528,
+      "max_block_x": 529,
+      "min_block_y": 578,
+      "max_block_y": 581,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

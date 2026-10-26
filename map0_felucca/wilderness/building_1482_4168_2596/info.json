@@ -1,0 +1,156 @@
+{
+  "building_id": "building_1482_4168_2596",
+  "name": "Wilderness Building #1482",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4172 2600",
+    "center_x": 4172,
+    "center_y": 2600,
+    "base_z": -1,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 4168,
+    "max_x": 4175,
+    "min_y": 2596,
+    "max_y": 2604,
+    "base_z": -1,
+    "max_z": 12,
+    "center_x": 4172.0,
+    "center_y": 2600.5,
+    "center_z_elevation": -0.12
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 9.0,
+    "height_y": 2.64
+  },
+  "stats": {
+    "tile_count": 30,
+    "item_count": 45,
+    "triangles_count": 564,
+    "unique_textures_count": 13
+  },
+  "unique_items": [
+    {
+      "id": 545,
+      "name": "palisade",
+      "texture_file": "palisade_0545.png"
+    },
+    {
+      "id": 546,
+      "name": "palisade",
+      "texture_file": "palisade_0546.png"
+    },
+    {
+      "id": 554,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0554.png"
+    },
+    {
+      "id": 556,
+      "name": "door",
+      "texture_file": "door_0556.png"
+    },
+    {
+      "id": 557,
+      "name": "door",
+      "texture_file": "door_0557.png"
+    },
+    {
+      "id": 1058,
+      "name": "palisade",
+      "texture_file": "palisade_1058.png"
+    },
+    {
+      "id": 1059,
+      "name": "palisade",
+      "texture_file": "palisade_1059.png"
+    },
+    {
+      "id": 1223,
+      "name": "wooden planks",
+      "texture_file": "wooden_planks_1223.png"
+    },
+    {
+      "id": 1225,
+      "name": "wooden planks",
+      "texture_file": "wooden_planks_1225.png"
+    },
+    {
+      "id": 1237,
+      "name": "wooden planks",
+      "texture_file": "wooden_planks_1237.png"
+    },
+    {
+      "id": 1239,
+      "name": "wooden planks",
+      "texture_file": "wooden_planks_1239.png"
+    },
+    {
+      "id": 1828,
+      "name": "wooden stairs",
+      "texture_file": "wooden_stairs_1828.png"
+    },
+    {
+      "id": 2148,
+      "name": "wooden fence",
+      "texture_file": "wooden_fence_2148.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 521,
+      "max_block_x": 521,
+      "min_block_y": 324,
+      "max_block_y": 325,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 521,
+        "block_y": 324,
+        "block_index": 267076,
+        "staidx_offset": 3204912,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 52346900,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000065.dat",
+          "entry_index": 65,
+          "block_in_entry": 836
+        }
+      },
+      {
+        "block_x": 521,
+        "block_y": 325,
+        "block_index": 267077,
+        "staidx_offset": 3204924,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 52347096,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000065.dat",
+          "entry_index": 65,
+          "block_in_entry": 837
+        }
+      }
+    ]
+  }
+}

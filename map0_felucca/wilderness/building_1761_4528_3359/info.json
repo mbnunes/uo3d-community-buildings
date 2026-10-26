@@ -1,0 +1,181 @@
+{
+  "building_id": "building_1761_4528_3359",
+  "name": "Wilderness Building #1761",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4532 3363",
+    "center_x": 4532,
+    "center_y": 3363,
+    "base_z": 0,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 4528,
+    "max_x": 4535,
+    "min_y": 3359,
+    "max_y": 3367,
+    "base_z": 0,
+    "max_z": 25,
+    "center_x": 4532.0,
+    "center_y": 3363.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 9.0,
+    "height_y": 3.7
+  },
+  "stats": {
+    "tile_count": 72,
+    "item_count": 150,
+    "triangles_count": 1920,
+    "unique_textures_count": 18
+  },
+  "unique_items": [
+    {
+      "id": 577,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0577.png"
+    },
+    {
+      "id": 578,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0578.png"
+    },
+    {
+      "id": 579,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0579.png"
+    },
+    {
+      "id": 765,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0765.png"
+    },
+    {
+      "id": 766,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0766.png"
+    },
+    {
+      "id": 767,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0767.png"
+    },
+    {
+      "id": 1309,
+      "name": "stone pavers",
+      "texture_file": "stone_pavers_1309.png"
+    },
+    {
+      "id": 1822,
+      "name": "stone",
+      "texture_file": "stone_1822.png"
+    },
+    {
+      "id": 1823,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1823.png"
+    },
+    {
+      "id": 1846,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1846.png"
+    },
+    {
+      "id": 1847,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1847.png"
+    },
+    {
+      "id": 1865,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1865.png"
+    },
+    {
+      "id": 1866,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1866.png"
+    },
+    {
+      "id": 1867,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1867.png"
+    },
+    {
+      "id": 1868,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1868.png"
+    },
+    {
+      "id": 1869,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1869.png"
+    },
+    {
+      "id": 2586,
+      "name": "hanging lantern",
+      "texture_file": "hanging_lantern_2586.png"
+    },
+    {
+      "id": 2968,
+      "name": "wooden signpost",
+      "texture_file": "wooden_signpost_2968.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 566,
+      "max_block_x": 566,
+      "min_block_y": 419,
+      "max_block_y": 420,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 566,
+        "block_y": 419,
+        "block_index": 290211,
+        "staidx_offset": 3482532,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 56881360,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000070.dat",
+          "entry_index": 70,
+          "block_in_entry": 3491
+        }
+      },
+      {
+        "block_x": 566,
+        "block_y": 420,
+        "block_index": 290212,
+        "staidx_offset": 3482544,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 56881556,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000070.dat",
+          "entry_index": 70,
+          "block_in_entry": 3492
+        }
+      }
+    ]
+  }
+}

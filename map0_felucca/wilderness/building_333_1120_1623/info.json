@@ -1,0 +1,182 @@
+{
+  "building_id": "building_333_1120_1623",
+  "name": "Wilderness Building #333",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1124 1630",
+    "center_x": 1124,
+    "center_y": 1630,
+    "base_z": -5,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 1120,
+    "max_x": 1127,
+    "min_y": 1623,
+    "max_y": 1637,
+    "base_z": -5,
+    "max_z": 53,
+    "center_x": 1124.0,
+    "center_y": 1630.5,
+    "center_z_elevation": -0.6
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 15.0,
+    "height_y": 3.44
+  },
+  "stats": {
+    "tile_count": 57,
+    "item_count": 117,
+    "triangles_count": 864,
+    "unique_textures_count": 15
+  },
+  "unique_items": [
+    {
+      "id": 201,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0201.png"
+    },
+    {
+      "id": 204,
+      "name": "stone post",
+      "texture_file": "stone_post_0204.png"
+    },
+    {
+      "id": 221,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0221.png"
+    },
+    {
+      "id": 223,
+      "name": "stone post",
+      "texture_file": "stone_post_0223.png"
+    },
+    {
+      "id": 1194,
+      "name": "wooden boards",
+      "texture_file": "wooden_boards_1194.png"
+    },
+    {
+      "id": 6039,
+      "name": "water",
+      "texture_file": "water_6039.png"
+    },
+    {
+      "id": 6040,
+      "name": "water",
+      "texture_file": "water_6040.png"
+    },
+    {
+      "id": 6041,
+      "name": "water",
+      "texture_file": "water_6041.png"
+    },
+    {
+      "id": 6042,
+      "name": "water",
+      "texture_file": "water_6042.png"
+    },
+    {
+      "id": 6043,
+      "name": "water",
+      "texture_file": "water_6043.png"
+    },
+    {
+      "id": 6044,
+      "name": "water",
+      "texture_file": "water_6044.png"
+    },
+    {
+      "id": 6051,
+      "name": "water",
+      "texture_file": "water_6051.png"
+    },
+    {
+      "id": 6052,
+      "name": "water",
+      "texture_file": "water_6052.png"
+    },
+    {
+      "id": 6057,
+      "name": "water",
+      "texture_file": "water_6057.png"
+    },
+    {
+      "id": 6061,
+      "name": "water",
+      "texture_file": "water_6061.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 140,
+      "max_block_x": 140,
+      "min_block_y": 202,
+      "max_block_y": 204,
+      "total_blocks": 3
+    },
+    "blocks": [
+      {
+        "block_x": 140,
+        "block_y": 202,
+        "block_index": 71882,
+        "staidx_offset": 862584,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 14088876,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000017.dat",
+          "entry_index": 17,
+          "block_in_entry": 2250
+        }
+      },
+      {
+        "block_x": 140,
+        "block_y": 203,
+        "block_index": 71883,
+        "staidx_offset": 862596,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 14089072,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000017.dat",
+          "entry_index": 17,
+          "block_in_entry": 2251
+        }
+      },
+      {
+        "block_x": 140,
+        "block_y": 204,
+        "block_index": 71884,
+        "staidx_offset": 862608,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 14089268,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000017.dat",
+          "entry_index": 17,
+          "block_in_entry": 2252
+        }
+      }
+    ]
+  }
+}

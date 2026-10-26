@@ -1,0 +1,156 @@
+{
+  "building_id": "building_008_4408_1194",
+  "name": "Moonglow Building #008",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "moonglow",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4412 1200",
+    "center_x": 4412,
+    "center_y": 1200,
+    "base_z": -23,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 4408,
+    "max_x": 4415,
+    "min_y": 1194,
+    "max_y": 1206,
+    "base_z": -23,
+    "max_z": 0,
+    "center_x": 4412.0,
+    "center_y": 1200.5,
+    "center_z_elevation": -2.76
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 13.0,
+    "height_y": 5.5
+  },
+  "stats": {
+    "tile_count": 56,
+    "item_count": 63,
+    "triangles_count": 892,
+    "unique_textures_count": 13
+  },
+  "unique_items": [
+    {
+      "id": 577,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0577.png"
+    },
+    {
+      "id": 578,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0578.png"
+    },
+    {
+      "id": 579,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0579.png"
+    },
+    {
+      "id": 1344,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1344.png"
+    },
+    {
+      "id": 1345,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1345.png"
+    },
+    {
+      "id": 1346,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1346.png"
+    },
+    {
+      "id": 1348,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1348.png"
+    },
+    {
+      "id": 1349,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1349.png"
+    },
+    {
+      "id": 1352,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1352.png"
+    },
+    {
+      "id": 1955,
+      "name": "stone",
+      "texture_file": "stone_1955.png"
+    },
+    {
+      "id": 1957,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1957.png"
+    },
+    {
+      "id": 1958,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1958.png"
+    },
+    {
+      "id": 1962,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1962.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 551,
+      "max_block_x": 551,
+      "min_block_y": 149,
+      "max_block_y": 150,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 551,
+        "block_y": 149,
+        "block_index": 282261,
+        "staidx_offset": 3387132,
+        "statics_offset": 15178282,
+        "statics_length": 126,
+        "static_items_count": 18,
+        "map_offset": 55323160,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000068.dat",
+          "entry_index": 68,
+          "block_in_entry": 3733
+        }
+      },
+      {
+        "block_x": 551,
+        "block_y": 150,
+        "block_index": 282262,
+        "staidx_offset": 3387144,
+        "statics_offset": 15178408,
+        "statics_length": 693,
+        "static_items_count": 99,
+        "map_offset": 55323356,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000068.dat",
+          "entry_index": 68,
+          "block_in_entry": 3734
+        }
+      }
+    ]
+  }
+}

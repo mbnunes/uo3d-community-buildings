@@ -1,0 +1,161 @@
+{
+  "building_id": "building_736_1949_2107",
+  "name": "Wilderness Building #736",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1950 2112",
+    "center_x": 1950,
+    "center_y": 2112,
+    "base_z": 28,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 1949,
+    "max_x": 1951,
+    "min_y": 2107,
+    "max_y": 2116,
+    "base_z": 28,
+    "max_z": 48,
+    "center_x": 1950.5,
+    "center_y": 2112.0,
+    "center_z_elevation": 3.36
+  },
+  "dimensions_meters": {
+    "width_x": 3.0,
+    "depth_z": 10.0,
+    "height_y": 2.86
+  },
+  "stats": {
+    "tile_count": 30,
+    "item_count": 61,
+    "triangles_count": 792,
+    "unique_textures_count": 14
+  },
+  "unique_items": [
+    {
+      "id": 197,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0197.png"
+    },
+    {
+      "id": 221,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0221.png"
+    },
+    {
+      "id": 222,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0222.png"
+    },
+    {
+      "id": 223,
+      "name": "stone post",
+      "texture_file": "stone_post_0223.png"
+    },
+    {
+      "id": 1309,
+      "name": "stone pavers",
+      "texture_file": "stone_pavers_1309.png"
+    },
+    {
+      "id": 1310,
+      "name": "stone pavers",
+      "texture_file": "stone_pavers_1310.png"
+    },
+    {
+      "id": 1311,
+      "name": "stone pavers",
+      "texture_file": "stone_pavers_1311.png"
+    },
+    {
+      "id": 1312,
+      "name": "stone pavers",
+      "texture_file": "stone_pavers_1312.png"
+    },
+    {
+      "id": 1313,
+      "name": "stone pavers dark",
+      "texture_file": "stone_pavers_dark_1313.png"
+    },
+    {
+      "id": 1314,
+      "name": "stone pavers dark",
+      "texture_file": "stone_pavers_dark_1314.png"
+    },
+    {
+      "id": 1315,
+      "name": "stone pavers dark",
+      "texture_file": "stone_pavers_dark_1315.png"
+    },
+    {
+      "id": 1316,
+      "name": "stone pavers dark",
+      "texture_file": "stone_pavers_dark_1316.png"
+    },
+    {
+      "id": 3786,
+      "name": "bones",
+      "texture_file": "bones_3786.png"
+    },
+    {
+      "id": 3811,
+      "name": "spiderweb",
+      "texture_file": "spiderweb_3811.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 243,
+      "max_block_x": 243,
+      "min_block_y": 263,
+      "max_block_y": 264,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 243,
+        "block_y": 263,
+        "block_index": 124679,
+        "staidx_offset": 1496148,
+        "statics_offset": 8364601,
+        "statics_length": 392,
+        "static_items_count": 56,
+        "map_offset": 24437088,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000030.dat",
+          "entry_index": 30,
+          "block_in_entry": 1799
+        }
+      },
+      {
+        "block_x": 243,
+        "block_y": 264,
+        "block_index": 124680,
+        "staidx_offset": 1496160,
+        "statics_offset": 8364993,
+        "statics_length": 420,
+        "static_items_count": 60,
+        "map_offset": 24437284,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000030.dat",
+          "entry_index": 30,
+          "block_in_entry": 1800
+        }
+      }
+    ]
+  }
+}

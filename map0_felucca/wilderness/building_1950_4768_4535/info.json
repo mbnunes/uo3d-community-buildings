@@ -1,0 +1,73 @@
+{
+  "building_id": "building_1950_4768_4535",
+  "name": "Wilderness Building #1950",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4772 4543",
+    "center_x": 4772,
+    "center_y": 4543,
+    "base_z": 0,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 4768,
+    "max_x": 4775,
+    "min_y": 4535,
+    "max_y": 4551,
+    "base_z": 0,
+    "max_z": 15,
+    "center_x": 4772.0,
+    "center_y": 4543.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 17.0,
+    "height_y": 3.6
+  },
+  "stats": {
+    "tile_count": 25,
+    "item_count": 25,
+    "triangles_count": 312,
+    "unique_textures_count": 3
+  },
+  "unique_items": [
+    {
+      "id": 577,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0577.png"
+    },
+    {
+      "id": 578,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0578.png"
+    },
+    {
+      "id": 2574,
+      "name": "wall torch",
+      "texture_file": "wall_torch_2574.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 596,
+      "max_block_x": 596,
+      "min_block_y": 566,
+      "max_block_y": 568,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

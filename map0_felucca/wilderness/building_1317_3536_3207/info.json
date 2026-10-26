@@ -1,0 +1,116 @@
+{
+  "building_id": "building_1317_3536_3207",
+  "name": "Wilderness Building #1317",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "3540 3211",
+    "center_x": 3540,
+    "center_y": 3211,
+    "base_z": 0,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 3536,
+    "max_x": 3543,
+    "min_y": 3207,
+    "max_y": 3215,
+    "base_z": 0,
+    "max_z": 0,
+    "center_x": 3540.0,
+    "center_y": 3211.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 9.0,
+    "height_y": 2.5
+  },
+  "stats": {
+    "tile_count": 16,
+    "item_count": 25,
+    "triangles_count": 276,
+    "unique_textures_count": 5
+  },
+  "unique_items": [
+    {
+      "id": 167,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0167.png"
+    },
+    {
+      "id": 169,
+      "name": "wooden post",
+      "texture_file": "wooden_post_0169.png"
+    },
+    {
+      "id": 185,
+      "name": "window",
+      "texture_file": "window_0185.png"
+    },
+    {
+      "id": 3213,
+      "name": "white poppies",
+      "texture_file": "white_poppies_3213.png"
+    },
+    {
+      "id": 6018,
+      "name": "grass",
+      "texture_file": "grass_6018.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 442,
+      "max_block_x": 442,
+      "min_block_y": 400,
+      "max_block_y": 401,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 442,
+        "block_y": 400,
+        "block_index": 226704,
+        "staidx_offset": 2720448,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 44433988,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000055.dat",
+          "entry_index": 55,
+          "block_in_entry": 1424
+        }
+      },
+      {
+        "block_x": 442,
+        "block_y": 401,
+        "block_index": 226705,
+        "staidx_offset": 2720460,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 44434184,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000055.dat",
+          "entry_index": 55,
+          "block_in_entry": 1425
+        }
+      }
+    ]
+  }
+}

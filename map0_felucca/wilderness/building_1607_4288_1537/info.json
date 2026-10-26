@@ -1,0 +1,164 @@
+{
+  "building_id": "building_1607_4288_1537",
+  "name": "Wilderness Building #1607",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4291 1554",
+    "center_x": 4291,
+    "center_y": 1554,
+    "base_z": 0,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 4288,
+    "max_x": 4293,
+    "min_y": 1537,
+    "max_y": 1571,
+    "base_z": 0,
+    "max_z": 17,
+    "center_x": 4291.0,
+    "center_y": 1554.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 6.0,
+    "depth_z": 35.0,
+    "height_y": 2.4
+  },
+  "stats": {
+    "tile_count": 60,
+    "item_count": 64,
+    "triangles_count": 768,
+    "unique_textures_count": 5
+  },
+  "unique_items": [
+    {
+      "id": 464,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0464.png"
+    },
+    {
+      "id": 488,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0488.png"
+    },
+    {
+      "id": 489,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0489.png"
+    },
+    {
+      "id": 490,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0490.png"
+    },
+    {
+      "id": 4289,
+      "name": "web",
+      "texture_file": "web_4289.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 536,
+      "max_block_x": 536,
+      "min_block_y": 192,
+      "max_block_y": 196,
+      "total_blocks": 5
+    },
+    "blocks": [
+      {
+        "block_x": 536,
+        "block_y": 192,
+        "block_index": 274624,
+        "staidx_offset": 3295488,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 53826308,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000067.dat",
+          "entry_index": 67,
+          "block_in_entry": 192
+        }
+      },
+      {
+        "block_x": 536,
+        "block_y": 193,
+        "block_index": 274625,
+        "staidx_offset": 3295500,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 53826504,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000067.dat",
+          "entry_index": 67,
+          "block_in_entry": 193
+        }
+      },
+      {
+        "block_x": 536,
+        "block_y": 194,
+        "block_index": 274626,
+        "staidx_offset": 3295512,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 53826700,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000067.dat",
+          "entry_index": 67,
+          "block_in_entry": 194
+        }
+      },
+      {
+        "block_x": 536,
+        "block_y": 195,
+        "block_index": 274627,
+        "staidx_offset": 3295524,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 53826896,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000067.dat",
+          "entry_index": 67,
+          "block_in_entry": 195
+        }
+      },
+      {
+        "block_x": 536,
+        "block_y": 196,
+        "block_index": 274628,
+        "staidx_offset": 3295536,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 53827092,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000067.dat",
+          "entry_index": 67,
+          "block_in_entry": 196
+        }
+      }
+    ]
+  }
+}

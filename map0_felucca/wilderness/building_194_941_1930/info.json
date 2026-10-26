@@ -1,0 +1,166 @@
+{
+  "building_id": "building_194_941_1930",
+  "name": "Wilderness Building #194",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "942 1935",
+    "center_x": 942,
+    "center_y": 1935,
+    "base_z": -1,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 941,
+    "max_x": 943,
+    "min_y": 1930,
+    "max_y": 1939,
+    "base_z": -1,
+    "max_z": 20,
+    "center_x": 942.5,
+    "center_y": 1935.0,
+    "center_z_elevation": -0.12
+  },
+  "dimensions_meters": {
+    "width_x": 3.0,
+    "depth_z": 10.0,
+    "height_y": 2.62
+  },
+  "stats": {
+    "tile_count": 28,
+    "item_count": 46,
+    "triangles_count": 288,
+    "unique_textures_count": 15
+  },
+  "unique_items": [
+    {
+      "id": 541,
+      "name": "palisade",
+      "texture_file": "palisade_0541.png"
+    },
+    {
+      "id": 545,
+      "name": "palisade",
+      "texture_file": "palisade_0545.png"
+    },
+    {
+      "id": 546,
+      "name": "palisade",
+      "texture_file": "palisade_0546.png"
+    },
+    {
+      "id": 1490,
+      "name": "palm frond roof",
+      "texture_file": "palm_frond_roof_1490.png"
+    },
+    {
+      "id": 1491,
+      "name": "palm frond roof",
+      "texture_file": "palm_frond_roof_1491.png"
+    },
+    {
+      "id": 1495,
+      "name": "palm frond roof",
+      "texture_file": "palm_frond_roof_1495.png"
+    },
+    {
+      "id": 1496,
+      "name": "palm frond roof",
+      "texture_file": "palm_frond_roof_1496.png"
+    },
+    {
+      "id": 1497,
+      "name": "palm frond roof",
+      "texture_file": "palm_frond_roof_1497.png"
+    },
+    {
+      "id": 1499,
+      "name": "palm frond roof",
+      "texture_file": "palm_frond_roof_1499.png"
+    },
+    {
+      "id": 1501,
+      "name": "palm frond roof",
+      "texture_file": "palm_frond_roof_1501.png"
+    },
+    {
+      "id": 1513,
+      "name": "palm frond roof",
+      "texture_file": "palm_frond_roof_1513.png"
+    },
+    {
+      "id": 4575,
+      "name": "log table",
+      "texture_file": "log_table_4575.png"
+    },
+    {
+      "id": 4576,
+      "name": "log table",
+      "texture_file": "log_table_4576.png"
+    },
+    {
+      "id": 4577,
+      "name": "log table",
+      "texture_file": "log_table_4577.png"
+    },
+    {
+      "id": 4601,
+      "name": "fur%s%",
+      "texture_file": "fur_s_4601.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 117,
+      "max_block_x": 117,
+      "min_block_y": 241,
+      "max_block_y": 242,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 117,
+        "block_y": 241,
+        "block_index": 60145,
+        "staidx_offset": 721740,
+        "statics_offset": 2189173,
+        "statics_length": 14,
+        "static_items_count": 2,
+        "map_offset": 11788424,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000014.dat",
+          "entry_index": 14,
+          "block_in_entry": 2801
+        }
+      },
+      {
+        "block_x": 117,
+        "block_y": 242,
+        "block_index": 60146,
+        "staidx_offset": 721752,
+        "statics_offset": 2189187,
+        "statics_length": 49,
+        "static_items_count": 7,
+        "map_offset": 11788620,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000014.dat",
+          "entry_index": 14,
+          "block_in_entry": 2802
+        }
+      }
+    ]
+  }
+}

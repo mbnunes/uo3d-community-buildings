@@ -1,0 +1,172 @@
+{
+  "building_id": "building_1882_4715_1038",
+  "name": "Wilderness Building #1882",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4717 1044",
+    "center_x": 4717,
+    "center_y": 1044,
+    "base_z": 0,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 4715,
+    "max_x": 4719,
+    "min_y": 1038,
+    "max_y": 1050,
+    "base_z": 0,
+    "max_z": 35,
+    "center_x": 4717.5,
+    "center_y": 1044.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 5.0,
+    "depth_z": 13.0,
+    "height_y": 4.3
+  },
+  "stats": {
+    "tile_count": 60,
+    "item_count": 124,
+    "triangles_count": 1644,
+    "unique_textures_count": 13
+  },
+  "unique_items": [
+    {
+      "id": 345,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0345.png"
+    },
+    {
+      "id": 346,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0346.png"
+    },
+    {
+      "id": 347,
+      "name": "sandstone post",
+      "texture_file": "sandstone_post_0347.png"
+    },
+    {
+      "id": 348,
+      "name": "window",
+      "texture_file": "window_0348.png"
+    },
+    {
+      "id": 357,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0357.png"
+    },
+    {
+      "id": 362,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0362.png"
+    },
+    {
+      "id": 363,
+      "name": "sandstone post",
+      "texture_file": "sandstone_post_0363.png"
+    },
+    {
+      "id": 433,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0433.png"
+    },
+    {
+      "id": 434,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0434.png"
+    },
+    {
+      "id": 1267,
+      "name": "red tiles",
+      "texture_file": "red_tiles_1267.png"
+    },
+    {
+      "id": 1317,
+      "name": "sandstone floor",
+      "texture_file": "sandstone_floor_1317.png"
+    },
+    {
+      "id": 1900,
+      "name": "sandstone",
+      "texture_file": "sandstone_1900.png"
+    },
+    {
+      "id": 2210,
+      "name": "wooden ladder",
+      "texture_file": "wooden_ladder_2210.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 589,
+      "max_block_x": 589,
+      "min_block_y": 129,
+      "max_block_y": 131,
+      "total_blocks": 3
+    },
+    "blocks": [
+      {
+        "block_x": 589,
+        "block_y": 129,
+        "block_index": 301697,
+        "staidx_offset": 3620364,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 59132616,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000073.dat",
+          "entry_index": 73,
+          "block_in_entry": 2689
+        }
+      },
+      {
+        "block_x": 589,
+        "block_y": 130,
+        "block_index": 301698,
+        "staidx_offset": 3620376,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 59132812,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000073.dat",
+          "entry_index": 73,
+          "block_in_entry": 2690
+        }
+      },
+      {
+        "block_x": 589,
+        "block_y": 131,
+        "block_index": 301699,
+        "staidx_offset": 3620388,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 59133008,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000073.dat",
+          "entry_index": 73,
+          "block_in_entry": 2691
+        }
+      }
+    ]
+  }
+}

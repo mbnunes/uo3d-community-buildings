@@ -1,0 +1,88 @@
+{
+  "building_id": "building_1429_4128_4180",
+  "name": "Wilderness Building #1429",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4132 4190",
+    "center_x": 4132,
+    "center_y": 4190,
+    "base_z": 5,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 4128,
+    "max_x": 4135,
+    "min_y": 4180,
+    "max_y": 4200,
+    "base_z": 5,
+    "max_z": 25,
+    "center_x": 4132.0,
+    "center_y": 4190.5,
+    "center_z_elevation": 0.6
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 21.0,
+    "height_y": 2.86
+  },
+  "stats": {
+    "tile_count": 28,
+    "item_count": 46,
+    "triangles_count": 624,
+    "unique_textures_count": 6
+  },
+  "unique_items": [
+    {
+      "id": 665,
+      "name": "marble wall",
+      "texture_file": "marble_wall_0665.png"
+    },
+    {
+      "id": 666,
+      "name": "marble wall",
+      "texture_file": "marble_wall_0666.png"
+    },
+    {
+      "id": 668,
+      "name": "window",
+      "texture_file": "window_0668.png"
+    },
+    {
+      "id": 695,
+      "name": "marble wall",
+      "texture_file": "marble_wall_0695.png"
+    },
+    {
+      "id": 696,
+      "name": "marble wall",
+      "texture_file": "marble_wall_0696.png"
+    },
+    {
+      "id": 1801,
+      "name": "marble",
+      "texture_file": "marble_1801.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 516,
+      "max_block_x": 516,
+      "min_block_y": 522,
+      "max_block_y": 525,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

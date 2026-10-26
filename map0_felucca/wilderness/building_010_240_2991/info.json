@@ -1,0 +1,151 @@
+{
+  "building_id": "building_010_240_2991",
+  "name": "Wilderness Building #010",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "244 2995",
+    "center_x": 244,
+    "center_y": 2995,
+    "base_z": -23,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 240,
+    "max_x": 247,
+    "min_y": 2991,
+    "max_y": 2999,
+    "base_z": -23,
+    "max_z": 0,
+    "center_x": 244.0,
+    "center_y": 2995.5,
+    "center_z_elevation": -2.76
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 9.0,
+    "height_y": 2.74
+  },
+  "stats": {
+    "tile_count": 72,
+    "item_count": 84,
+    "triangles_count": 888,
+    "unique_textures_count": 12
+  },
+  "unique_items": [
+    {
+      "id": 617,
+      "name": "cave wall",
+      "texture_file": "cave_wall_0617.png"
+    },
+    {
+      "id": 1339,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1339.png"
+    },
+    {
+      "id": 1950,
+      "name": "cave steps",
+      "texture_file": "cave_steps_1950.png"
+    },
+    {
+      "id": 1951,
+      "name": "cave steps",
+      "texture_file": "cave_steps_1951.png"
+    },
+    {
+      "id": 3248,
+      "name": "grasses",
+      "texture_file": "grasses_3248.png"
+    },
+    {
+      "id": 3251,
+      "name": "grasses",
+      "texture_file": "grasses_3251.png"
+    },
+    {
+      "id": 3254,
+      "name": "grasses",
+      "texture_file": "grasses_3254.png"
+    },
+    {
+      "id": 3317,
+      "name": "fallen log",
+      "texture_file": "fallen_log_3317.png"
+    },
+    {
+      "id": 3318,
+      "name": "fallen log",
+      "texture_file": "fallen_log_3318.png"
+    },
+    {
+      "id": 3341,
+      "name": "mushrooms",
+      "texture_file": "mushrooms_3341.png"
+    },
+    {
+      "id": 3375,
+      "name": "flowers",
+      "texture_file": "flowers_3375.png"
+    },
+    {
+      "id": 3391,
+      "name": "brambles",
+      "texture_file": "brambles_3391.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 30,
+      "max_block_x": 30,
+      "min_block_y": 373,
+      "max_block_y": 374,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 30,
+        "block_y": 373,
+        "block_index": 15733,
+        "staidx_offset": 188796,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 3083672,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000003.dat",
+          "entry_index": 3,
+          "block_in_entry": 3445
+        }
+      },
+      {
+        "block_x": 30,
+        "block_y": 374,
+        "block_index": 15734,
+        "staidx_offset": 188808,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 3083868,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000003.dat",
+          "entry_index": 3,
+          "block_in_entry": 3446
+        }
+      }
+    ]
+  }
+}

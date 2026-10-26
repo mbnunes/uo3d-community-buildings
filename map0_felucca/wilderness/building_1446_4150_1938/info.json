@@ -1,0 +1,166 @@
+{
+  "building_id": "building_1446_4150_1938",
+  "name": "Wilderness Building #1446",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4151 1942",
+    "center_x": 4151,
+    "center_y": 1942,
+    "base_z": 37,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 4150,
+    "max_x": 4151,
+    "min_y": 1938,
+    "max_y": 1946,
+    "base_z": 37,
+    "max_z": 57,
+    "center_x": 4151.0,
+    "center_y": 1942.5,
+    "center_z_elevation": 4.4399999999999995
+  },
+  "dimensions_meters": {
+    "width_x": 2.0,
+    "depth_z": 9.0,
+    "height_y": 2.4
+  },
+  "stats": {
+    "tile_count": 16,
+    "item_count": 30,
+    "triangles_count": 204,
+    "unique_textures_count": 15
+  },
+  "unique_items": [
+    {
+      "id": 411,
+      "name": "wood post",
+      "texture_file": "wood_post_0411.png"
+    },
+    {
+      "id": 528,
+      "name": "bamboo wall",
+      "texture_file": "bamboo_wall_0528.png"
+    },
+    {
+      "id": 534,
+      "name": "bamboo wall",
+      "texture_file": "bamboo_wall_0534.png"
+    },
+    {
+      "id": 535,
+      "name": "bamboo wall",
+      "texture_file": "bamboo_wall_0535.png"
+    },
+    {
+      "id": 536,
+      "name": "bamboo wall",
+      "texture_file": "bamboo_wall_0536.png"
+    },
+    {
+      "id": 538,
+      "name": "bamboo wall",
+      "texture_file": "bamboo_wall_0538.png"
+    },
+    {
+      "id": 1489,
+      "name": "palm frond roof",
+      "texture_file": "palm_frond_roof_1489.png"
+    },
+    {
+      "id": 1490,
+      "name": "palm frond roof",
+      "texture_file": "palm_frond_roof_1490.png"
+    },
+    {
+      "id": 1494,
+      "name": "palm frond roof",
+      "texture_file": "palm_frond_roof_1494.png"
+    },
+    {
+      "id": 1495,
+      "name": "palm frond roof",
+      "texture_file": "palm_frond_roof_1495.png"
+    },
+    {
+      "id": 1496,
+      "name": "palm frond roof",
+      "texture_file": "palm_frond_roof_1496.png"
+    },
+    {
+      "id": 1506,
+      "name": "palm frond roof",
+      "texture_file": "palm_frond_roof_1506.png"
+    },
+    {
+      "id": 1510,
+      "name": "palm frond roof",
+      "texture_file": "palm_frond_roof_1510.png"
+    },
+    {
+      "id": 2860,
+      "name": "wooden bench",
+      "texture_file": "wooden_bench_2860.png"
+    },
+    {
+      "id": 6016,
+      "name": "grass",
+      "texture_file": "grass_6016.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 518,
+      "max_block_x": 518,
+      "min_block_y": 242,
+      "max_block_y": 243,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 518,
+        "block_y": 242,
+        "block_index": 265458,
+        "staidx_offset": 3185496,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 52029772,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000064.dat",
+          "entry_index": 64,
+          "block_in_entry": 3314
+        }
+      },
+      {
+        "block_x": 518,
+        "block_y": 243,
+        "block_index": 265459,
+        "staidx_offset": 3185508,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 52029968,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000064.dat",
+          "entry_index": 64,
+          "block_in_entry": 3315
+        }
+      }
+    ]
+  }
+}

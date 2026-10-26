@@ -1,0 +1,198 @@
+{
+  "building_id": "building_862_2160_4103",
+  "name": "Wilderness Building #862",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "2164 4106",
+    "center_x": 2164,
+    "center_y": 4106,
+    "base_z": -20,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 2160,
+    "max_x": 2167,
+    "min_y": 4103,
+    "max_y": 4109,
+    "base_z": -20,
+    "max_z": 29,
+    "center_x": 2164.0,
+    "center_y": 4106.5,
+    "center_z_elevation": -2.4
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 7.0,
+    "height_y": 5.62
+  },
+  "stats": {
+    "tile_count": 47,
+    "item_count": 65,
+    "triangles_count": 576,
+    "unique_textures_count": 28
+  },
+  "unique_items": [
+    {
+      "id": 613,
+      "name": "cave wall",
+      "texture_file": "cave_wall_0613.png"
+    },
+    {
+      "id": 617,
+      "name": "cave wall",
+      "texture_file": "cave_wall_0617.png"
+    },
+    {
+      "id": 624,
+      "name": "cave wall",
+      "texture_file": "cave_wall_0624.png"
+    },
+    {
+      "id": 1339,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1339.png"
+    },
+    {
+      "id": 1340,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1340.png"
+    },
+    {
+      "id": 1341,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1341.png"
+    },
+    {
+      "id": 1342,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1342.png"
+    },
+    {
+      "id": 1343,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1343.png"
+    },
+    {
+      "id": 1344,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1344.png"
+    },
+    {
+      "id": 1345,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1345.png"
+    },
+    {
+      "id": 1346,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1346.png"
+    },
+    {
+      "id": 1347,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1347.png"
+    },
+    {
+      "id": 1351,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1351.png"
+    },
+    {
+      "id": 2272,
+      "name": "stalagmites",
+      "texture_file": "stalagmites_2272.png"
+    },
+    {
+      "id": 3226,
+      "name": "small palm",
+      "texture_file": "small_palm_3226.png"
+    },
+    {
+      "id": 3229,
+      "name": "small palm",
+      "texture_file": "small_palm_3229.png"
+    },
+    {
+      "id": 3231,
+      "name": "fern",
+      "texture_file": "fern_3231.png"
+    },
+    {
+      "id": 3232,
+      "name": "fern",
+      "texture_file": "fern_3232.png"
+    },
+    {
+      "id": 3238,
+      "name": "ponytail palm",
+      "texture_file": "ponytail_palm_3238.png"
+    },
+    {
+      "id": 3344,
+      "name": "mushrooms",
+      "texture_file": "mushrooms_3344.png"
+    },
+    {
+      "id": 3379,
+      "name": "grasses",
+      "texture_file": "grasses_3379.png"
+    },
+    {
+      "id": 3436,
+      "name": "vines",
+      "texture_file": "vines_3436.png"
+    },
+    {
+      "id": 3437,
+      "name": "vines",
+      "texture_file": "vines_3437.png"
+    },
+    {
+      "id": 3460,
+      "name": "tree",
+      "texture_file": "tree_3460.png"
+    },
+    {
+      "id": 3461,
+      "name": "tree",
+      "texture_file": "tree_3461.png"
+    },
+    {
+      "id": 3463,
+      "name": "leaves",
+      "texture_file": "leaves_3463.png"
+    },
+    {
+      "id": 3464,
+      "name": "leaves",
+      "texture_file": "leaves_3464.png"
+    },
+    {
+      "id": 3465,
+      "name": "leaves",
+      "texture_file": "leaves_3465.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 270,
+      "max_block_x": 270,
+      "min_block_y": 512,
+      "max_block_y": 513,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

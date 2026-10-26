@@ -1,0 +1,267 @@
+{
+  "building_id": "building_360_1136_1927",
+  "name": "Wilderness Building #360",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1140 1935",
+    "center_x": 1140,
+    "center_y": 1935,
+    "base_z": 0,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 1136,
+    "max_x": 1143,
+    "min_y": 1927,
+    "max_y": 1943,
+    "base_z": 0,
+    "max_z": 32,
+    "center_x": 1140.0,
+    "center_y": 1935.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 17.0,
+    "height_y": 4.3
+  },
+  "stats": {
+    "tile_count": 87,
+    "item_count": 140,
+    "triangles_count": 1424,
+    "unique_textures_count": 32
+  },
+  "unique_items": [
+    {
+      "id": 167,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0167.png"
+    },
+    {
+      "id": 168,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0168.png"
+    },
+    {
+      "id": 185,
+      "name": "window",
+      "texture_file": "window_0185.png"
+    },
+    {
+      "id": 186,
+      "name": "window",
+      "texture_file": "window_0186.png"
+    },
+    {
+      "id": 1447,
+      "name": "thatch roof",
+      "texture_file": "thatch_roof_1447.png"
+    },
+    {
+      "id": 1448,
+      "name": "thatch roof",
+      "texture_file": "thatch_roof_1448.png"
+    },
+    {
+      "id": 1449,
+      "name": "thatch roof",
+      "texture_file": "thatch_roof_1449.png"
+    },
+    {
+      "id": 2719,
+      "name": "display case",
+      "texture_file": "display_case_2719.png"
+    },
+    {
+      "id": 2720,
+      "name": "display case",
+      "texture_file": "display_case_2720.png"
+    },
+    {
+      "id": 2721,
+      "name": "display case",
+      "texture_file": "display_case_2721.png"
+    },
+    {
+      "id": 2722,
+      "name": "display case",
+      "texture_file": "display_case_2722.png"
+    },
+    {
+      "id": 2723,
+      "name": "display case",
+      "texture_file": "display_case_2723.png"
+    },
+    {
+      "id": 2724,
+      "name": "display case",
+      "texture_file": "display_case_2724.png"
+    },
+    {
+      "id": 2725,
+      "name": "display case",
+      "texture_file": "display_case_2725.png"
+    },
+    {
+      "id": 2831,
+      "name": "display case",
+      "texture_file": "display_case_2831.png"
+    },
+    {
+      "id": 2832,
+      "name": "display case",
+      "texture_file": "display_case_2832.png"
+    },
+    {
+      "id": 2833,
+      "name": "display case",
+      "texture_file": "display_case_2833.png"
+    },
+    {
+      "id": 2834,
+      "name": "display case",
+      "texture_file": "display_case_2834.png"
+    },
+    {
+      "id": 2835,
+      "name": "display case",
+      "texture_file": "display_case_2835.png"
+    },
+    {
+      "id": 2836,
+      "name": "display case",
+      "texture_file": "display_case_2836.png"
+    },
+    {
+      "id": 2837,
+      "name": "display case",
+      "texture_file": "display_case_2837.png"
+    },
+    {
+      "id": 2838,
+      "name": "display case",
+      "texture_file": "display_case_2838.png"
+    },
+    {
+      "id": 2839,
+      "name": "display case",
+      "texture_file": "display_case_2839.png"
+    },
+    {
+      "id": 2840,
+      "name": "display case",
+      "texture_file": "display_case_2840.png"
+    },
+    {
+      "id": 2877,
+      "name": "counter",
+      "texture_file": "counter_2877.png"
+    },
+    {
+      "id": 2879,
+      "name": "counter",
+      "texture_file": "counter_2879.png"
+    },
+    {
+      "id": 3248,
+      "name": "grasses",
+      "texture_file": "grasses_3248.png"
+    },
+    {
+      "id": 3570,
+      "name": " wand",
+      "texture_file": "wand_3570.png"
+    },
+    {
+      "id": 3571,
+      "name": " wand",
+      "texture_file": "wand_3571.png"
+    },
+    {
+      "id": 3572,
+      "name": "wand",
+      "texture_file": "wand_3572.png"
+    },
+    {
+      "id": 3573,
+      "name": "wand",
+      "texture_file": "wand_3573.png"
+    },
+    {
+      "id": 3631,
+      "name": "crystal ball",
+      "texture_file": "crystal_ball_3631.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 142,
+      "max_block_x": 142,
+      "min_block_y": 240,
+      "max_block_y": 242,
+      "total_blocks": 3
+    },
+    "blocks": [
+      {
+        "block_x": 142,
+        "block_y": 240,
+        "block_index": 72944,
+        "staidx_offset": 875328,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 14297028,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000017.dat",
+          "entry_index": 17,
+          "block_in_entry": 3312
+        }
+      },
+      {
+        "block_x": 142,
+        "block_y": 241,
+        "block_index": 72945,
+        "staidx_offset": 875340,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 14297224,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000017.dat",
+          "entry_index": 17,
+          "block_in_entry": 3313
+        }
+      },
+      {
+        "block_x": 142,
+        "block_y": 242,
+        "block_index": 72946,
+        "staidx_offset": 875352,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 14297420,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000017.dat",
+          "entry_index": 17,
+          "block_in_entry": 3314
+        }
+      }
+    ]
+  }
+}

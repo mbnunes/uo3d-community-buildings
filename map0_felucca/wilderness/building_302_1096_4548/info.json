@@ -1,0 +1,103 @@
+{
+  "building_id": "building_302_1096_4548",
+  "name": "Wilderness Building #302",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1100 4551",
+    "center_x": 1100,
+    "center_y": 4551,
+    "base_z": 10,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 1096,
+    "max_x": 1103,
+    "min_y": 4548,
+    "max_y": 4554,
+    "base_z": 10,
+    "max_z": 30,
+    "center_x": 1100.0,
+    "center_y": 4551.5,
+    "center_z_elevation": 1.2
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 7.0,
+    "height_y": 2.76
+  },
+  "stats": {
+    "tile_count": 56,
+    "item_count": 86,
+    "triangles_count": 1056,
+    "unique_textures_count": 9
+  },
+  "unique_items": [
+    {
+      "id": 200,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0200.png"
+    },
+    {
+      "id": 230,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0230.png"
+    },
+    {
+      "id": 1407,
+      "name": "slate roof",
+      "texture_file": "slate_roof_1407.png"
+    },
+    {
+      "id": 3307,
+      "name": "vines",
+      "texture_file": "vines_3307.png"
+    },
+    {
+      "id": 3308,
+      "name": "vines",
+      "texture_file": "vines_3308.png"
+    },
+    {
+      "id": 3310,
+      "name": "vines",
+      "texture_file": "vines_3310.png"
+    },
+    {
+      "id": 3824,
+      "name": "silver coin",
+      "texture_file": "silver_coin_3824.png"
+    },
+    {
+      "id": 4464,
+      "name": "gravestone",
+      "texture_file": "gravestone_4464.png"
+    },
+    {
+      "id": 4472,
+      "name": "gravestone",
+      "texture_file": "gravestone_4472.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 137,
+      "max_block_x": 137,
+      "min_block_y": 568,
+      "max_block_y": 569,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

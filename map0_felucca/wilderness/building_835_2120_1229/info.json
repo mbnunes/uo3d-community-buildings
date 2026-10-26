@@ -1,0 +1,246 @@
+{
+  "building_id": "building_835_2120_1229",
+  "name": "Wilderness Building #835",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "2124 1233",
+    "center_x": 2124,
+    "center_y": 1233,
+    "base_z": -76,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 2120,
+    "max_x": 2127,
+    "min_y": 1229,
+    "max_y": 1237,
+    "base_z": -76,
+    "max_z": 15,
+    "center_x": 2124.0,
+    "center_y": 1233.5,
+    "center_z_elevation": -9.12
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 9.0,
+    "height_y": 3.1
+  },
+  "stats": {
+    "tile_count": 55,
+    "item_count": 76,
+    "triangles_count": 660,
+    "unique_textures_count": 31
+  },
+  "unique_items": [
+    {
+      "id": 613,
+      "name": "cave wall",
+      "texture_file": "cave_wall_0613.png"
+    },
+    {
+      "id": 617,
+      "name": "cave wall",
+      "texture_file": "cave_wall_0617.png"
+    },
+    {
+      "id": 624,
+      "name": "cave wall",
+      "texture_file": "cave_wall_0624.png"
+    },
+    {
+      "id": 625,
+      "name": "cave wall",
+      "texture_file": "cave_wall_0625.png"
+    },
+    {
+      "id": 626,
+      "name": "cave wall",
+      "texture_file": "cave_wall_0626.png"
+    },
+    {
+      "id": 627,
+      "name": "cave wall",
+      "texture_file": "cave_wall_0627.png"
+    },
+    {
+      "id": 628,
+      "name": "cave wall",
+      "texture_file": "cave_wall_0628.png"
+    },
+    {
+      "id": 1339,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1339.png"
+    },
+    {
+      "id": 1340,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1340.png"
+    },
+    {
+      "id": 1341,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1341.png"
+    },
+    {
+      "id": 1342,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1342.png"
+    },
+    {
+      "id": 1343,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1343.png"
+    },
+    {
+      "id": 1344,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1344.png"
+    },
+    {
+      "id": 1345,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1345.png"
+    },
+    {
+      "id": 1347,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1347.png"
+    },
+    {
+      "id": 1351,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1351.png"
+    },
+    {
+      "id": 2280,
+      "name": "flowstone",
+      "texture_file": "flowstone_2280.png"
+    },
+    {
+      "id": 3224,
+      "name": "fan plant",
+      "texture_file": "fan_plant_3224.png"
+    },
+    {
+      "id": 3225,
+      "name": "small palm",
+      "texture_file": "small_palm_3225.png"
+    },
+    {
+      "id": 3227,
+      "name": "small palm",
+      "texture_file": "small_palm_3227.png"
+    },
+    {
+      "id": 3231,
+      "name": "fern",
+      "texture_file": "fern_3231.png"
+    },
+    {
+      "id": 3232,
+      "name": "fern",
+      "texture_file": "fern_3232.png"
+    },
+    {
+      "id": 3233,
+      "name": "large fern",
+      "texture_file": "large_fern_3233.png"
+    },
+    {
+      "id": 3234,
+      "name": "fern",
+      "texture_file": "fern_3234.png"
+    },
+    {
+      "id": 3235,
+      "name": "fern",
+      "texture_file": "fern_3235.png"
+    },
+    {
+      "id": 3244,
+      "name": "grasses",
+      "texture_file": "grasses_3244.png"
+    },
+    {
+      "id": 3253,
+      "name": "grasses",
+      "texture_file": "grasses_3253.png"
+    },
+    {
+      "id": 3254,
+      "name": "grasses",
+      "texture_file": "grasses_3254.png"
+    },
+    {
+      "id": 3315,
+      "name": "fallen log",
+      "texture_file": "fallen_log_3315.png"
+    },
+    {
+      "id": 3316,
+      "name": "fallen log",
+      "texture_file": "fallen_log_3316.png"
+    },
+    {
+      "id": 3398,
+      "name": "leaves",
+      "texture_file": "leaves_3398.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 265,
+      "max_block_x": 265,
+      "min_block_y": 153,
+      "max_block_y": 154,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 265,
+        "block_y": 153,
+        "block_index": 135833,
+        "staidx_offset": 1629996,
+        "statics_offset": 9340366,
+        "statics_length": 455,
+        "static_items_count": 65,
+        "map_offset": 26623272,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000033.dat",
+          "entry_index": 33,
+          "block_in_entry": 665
+        }
+      },
+      {
+        "block_x": 265,
+        "block_y": 154,
+        "block_index": 135834,
+        "staidx_offset": 1630008,
+        "statics_offset": 9340821,
+        "statics_length": 455,
+        "static_items_count": 65,
+        "map_offset": 26623468,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000033.dat",
+          "entry_index": 33,
+          "block_in_entry": 666
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "building_id": "building_1601_4264_4609",
+  "name": "Wilderness Building #1601",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4268 4619",
+    "center_x": 4268,
+    "center_y": 4619,
+    "base_z": 0,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 4264,
+    "max_x": 4272,
+    "min_y": 4609,
+    "max_y": 4629,
+    "base_z": 0,
+    "max_z": 5,
+    "center_x": 4268.5,
+    "center_y": 4619.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 9.0,
+    "depth_z": 21.0,
+    "height_y": 2.4
+  },
+  "stats": {
+    "tile_count": 35,
+    "item_count": 37,
+    "triangles_count": 432,
+    "unique_textures_count": 4
+  },
+  "unique_items": [
+    {
+      "id": 464,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0464.png"
+    },
+    {
+      "id": 465,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0465.png"
+    },
+    {
+      "id": 3366,
+      "name": "cactus",
+      "texture_file": "cactus_3366.png"
+    },
+    {
+      "id": 3378,
+      "name": "grasses",
+      "texture_file": "grasses_3378.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 533,
+      "max_block_x": 534,
+      "min_block_y": 576,
+      "max_block_y": 578,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

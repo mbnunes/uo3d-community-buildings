@@ -1,0 +1,106 @@
+{
+  "building_id": "building_006_3616_1353",
+  "name": "Nujelm Building #006",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "nujelm",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "3620 1359",
+    "center_x": 3620,
+    "center_y": 1359,
+    "base_z": 23,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 3616,
+    "max_x": 3623,
+    "min_y": 1353,
+    "max_y": 1365,
+    "base_z": 23,
+    "max_z": 23,
+    "center_x": 3620.0,
+    "center_y": 1359.5,
+    "center_z_elevation": 2.76
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 13.0,
+    "height_y": 2.4
+  },
+  "stats": {
+    "tile_count": 23,
+    "item_count": 23,
+    "triangles_count": 324,
+    "unique_textures_count": 3
+  },
+  "unique_items": [
+    {
+      "id": 350,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0350.png"
+    },
+    {
+      "id": 351,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0351.png"
+    },
+    {
+      "id": 352,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0352.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 452,
+      "max_block_x": 452,
+      "min_block_y": 169,
+      "max_block_y": 170,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 452,
+        "block_y": 169,
+        "block_index": 231593,
+        "staidx_offset": 2779116,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 45392232,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000056.dat",
+          "entry_index": 56,
+          "block_in_entry": 2217
+        }
+      },
+      {
+        "block_x": 452,
+        "block_y": 170,
+        "block_index": 231594,
+        "staidx_offset": 2779128,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 45392428,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000056.dat",
+          "entry_index": 56,
+          "block_in_entry": 2218
+        }
+      }
+    ]
+  }
+}

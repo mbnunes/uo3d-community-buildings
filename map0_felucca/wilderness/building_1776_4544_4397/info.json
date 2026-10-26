@@ -1,0 +1,103 @@
+{
+  "building_id": "building_1776_4544_4397",
+  "name": "Wilderness Building #1776",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4552 4414",
+    "center_x": 4552,
+    "center_y": 4414,
+    "base_z": -2,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 4544,
+    "max_x": 4559,
+    "min_y": 4397,
+    "max_y": 4431,
+    "base_z": -2,
+    "max_z": 15,
+    "center_x": 4552.0,
+    "center_y": 4414.5,
+    "center_z_elevation": -0.24
+  },
+  "dimensions_meters": {
+    "width_x": 16.0,
+    "depth_z": 35.0,
+    "height_y": 3.84
+  },
+  "stats": {
+    "tile_count": 65,
+    "item_count": 65,
+    "triangles_count": 1116,
+    "unique_textures_count": 9
+  },
+  "unique_items": [
+    {
+      "id": 123,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0123.png"
+    },
+    {
+      "id": 124,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0124.png"
+    },
+    {
+      "id": 127,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0127.png"
+    },
+    {
+      "id": 128,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0128.png"
+    },
+    {
+      "id": 130,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0130.png"
+    },
+    {
+      "id": 133,
+      "name": "window",
+      "texture_file": "window_0133.png"
+    },
+    {
+      "id": 577,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0577.png"
+    },
+    {
+      "id": 2568,
+      "name": "wall torch",
+      "texture_file": "wall_torch_2568.png"
+    },
+    {
+      "id": 2572,
+      "name": "wall torch",
+      "texture_file": "wall_torch_2572.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 568,
+      "max_block_x": 569,
+      "min_block_y": 549,
+      "max_block_y": 553,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

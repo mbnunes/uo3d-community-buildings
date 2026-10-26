@@ -1,0 +1,103 @@
+{
+  "building_id": "building_2358_5588_4236",
+  "name": "Wilderness Building #2358",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "5590 4242",
+    "center_x": 5590,
+    "center_y": 4242,
+    "base_z": 0,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 5588,
+    "max_x": 5591,
+    "min_y": 4236,
+    "max_y": 4248,
+    "base_z": 0,
+    "max_z": 0,
+    "center_x": 5590.0,
+    "center_y": 4242.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 4.0,
+    "depth_z": 13.0,
+    "height_y": 0.12
+  },
+  "stats": {
+    "tile_count": 19,
+    "item_count": 23,
+    "triangles_count": 276,
+    "unique_textures_count": 9
+  },
+  "unique_items": [
+    {
+      "id": 44586,
+      "name": "wall mine beam",
+      "texture_file": "wall_mine_beam_44586.png"
+    },
+    {
+      "id": 44587,
+      "name": "wall mine beams 01 s",
+      "texture_file": "wall_mine_beams_01_s_44587.png"
+    },
+    {
+      "id": 44588,
+      "name": "wall mine beams 02 s",
+      "texture_file": "wall_mine_beams_02_s_44588.png"
+    },
+    {
+      "id": 44589,
+      "name": "wall mine beams 03 s",
+      "texture_file": "wall_mine_beams_03_s_44589.png"
+    },
+    {
+      "id": 44590,
+      "name": "wall mine beams 04 s",
+      "texture_file": "wall_mine_beams_04_s_44590.png"
+    },
+    {
+      "id": 44593,
+      "name": "wall mine beams 01 e",
+      "texture_file": "wall_mine_beams_01_e_44593.png"
+    },
+    {
+      "id": 44594,
+      "name": "wall mine beams 02 e",
+      "texture_file": "wall_mine_beams_02_e_44594.png"
+    },
+    {
+      "id": 44595,
+      "name": "wall mine beams 03 e",
+      "texture_file": "wall_mine_beams_03_e_44595.png"
+    },
+    {
+      "id": 44596,
+      "name": "wall mine beams 04 e",
+      "texture_file": "wall_mine_beams_04_e_44596.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 698,
+      "max_block_x": 698,
+      "min_block_y": 529,
+      "max_block_y": 531,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

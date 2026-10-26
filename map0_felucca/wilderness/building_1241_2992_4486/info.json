@@ -1,0 +1,73 @@
+{
+  "building_id": "building_1241_2992_4486",
+  "name": "Wilderness Building #1241",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "2995 4502",
+    "center_x": 2995,
+    "center_y": 4502,
+    "base_z": -88,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 2992,
+    "max_x": 2997,
+    "min_y": 4486,
+    "max_y": 4518,
+    "base_z": -88,
+    "max_z": -5,
+    "center_x": 2995.0,
+    "center_y": 4502.5,
+    "center_z_elevation": -10.559999999999999
+  },
+  "dimensions_meters": {
+    "width_x": 6.0,
+    "depth_z": 33.0,
+    "height_y": 2.4
+  },
+  "stats": {
+    "tile_count": 33,
+    "item_count": 70,
+    "triangles_count": 396,
+    "unique_textures_count": 3
+  },
+  "unique_items": [
+    {
+      "id": 69,
+      "name": "brick arch",
+      "texture_file": "brick_arch_0069.png"
+    },
+    {
+      "id": 6038,
+      "name": "water",
+      "texture_file": "water_6038.png"
+    },
+    {
+      "id": 6040,
+      "name": "water",
+      "texture_file": "water_6040.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 374,
+      "max_block_x": 374,
+      "min_block_y": 560,
+      "max_block_y": 564,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

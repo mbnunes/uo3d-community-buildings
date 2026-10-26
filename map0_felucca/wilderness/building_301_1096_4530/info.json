@@ -1,0 +1,103 @@
+{
+  "building_id": "building_301_1096_4530",
+  "name": "Wilderness Building #301",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1097 4535",
+    "center_x": 1097,
+    "center_y": 4535,
+    "base_z": 10,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 1096,
+    "max_x": 1098,
+    "min_y": 4530,
+    "max_y": 4540,
+    "base_z": 10,
+    "max_z": 30,
+    "center_x": 1097.5,
+    "center_y": 4535.5,
+    "center_z_elevation": 1.2
+  },
+  "dimensions_meters": {
+    "width_x": 3.0,
+    "depth_z": 11.0,
+    "height_y": 2.86
+  },
+  "stats": {
+    "tile_count": 24,
+    "item_count": 50,
+    "triangles_count": 708,
+    "unique_textures_count": 9
+  },
+  "unique_items": [
+    {
+      "id": 199,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0199.png"
+    },
+    {
+      "id": 200,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0200.png"
+    },
+    {
+      "id": 201,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0201.png"
+    },
+    {
+      "id": 230,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0230.png"
+    },
+    {
+      "id": 231,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0231.png"
+    },
+    {
+      "id": 1409,
+      "name": "slate roof",
+      "texture_file": "slate_roof_1409.png"
+    },
+    {
+      "id": 3259,
+      "name": "grasses",
+      "texture_file": "grasses_3259.png"
+    },
+    {
+      "id": 3260,
+      "name": "grasses",
+      "texture_file": "grasses_3260.png"
+    },
+    {
+      "id": 3811,
+      "name": "spiderweb",
+      "texture_file": "spiderweb_3811.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 137,
+      "max_block_x": 137,
+      "min_block_y": 566,
+      "max_block_y": 567,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

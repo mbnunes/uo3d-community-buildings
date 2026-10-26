@@ -1,0 +1,242 @@
+{
+  "building_id": "building_1612_4304_3383",
+  "name": "Wilderness Building #1612",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4308 3390",
+    "center_x": 4308,
+    "center_y": 3390,
+    "base_z": 0,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 4304,
+    "max_x": 4311,
+    "min_y": 3383,
+    "max_y": 3396,
+    "base_z": 0,
+    "max_z": 7,
+    "center_x": 4308.0,
+    "center_y": 3390.0,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 14.0,
+    "height_y": 2.98
+  },
+  "stats": {
+    "tile_count": 41,
+    "item_count": 75,
+    "triangles_count": 564,
+    "unique_textures_count": 27
+  },
+  "unique_items": [
+    {
+      "id": 464,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0464.png"
+    },
+    {
+      "id": 476,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0476.png"
+    },
+    {
+      "id": 1928,
+      "name": "stone",
+      "texture_file": "stone_1928.png"
+    },
+    {
+      "id": 4650,
+      "name": "blood",
+      "texture_file": "blood_4650.png"
+    },
+    {
+      "id": 4652,
+      "name": "blood",
+      "texture_file": "blood_4652.png"
+    },
+    {
+      "id": 4653,
+      "name": "blood",
+      "texture_file": "blood_4653.png"
+    },
+    {
+      "id": 4654,
+      "name": "blood",
+      "texture_file": "blood_4654.png"
+    },
+    {
+      "id": 5056,
+      "name": "chainmail coif",
+      "texture_file": "chainmail_coif_5056.png"
+    },
+    {
+      "id": 5201,
+      "name": "bone helmet",
+      "texture_file": "bone_helmet_5201.png"
+    },
+    {
+      "id": 5206,
+      "name": "bone helmet",
+      "texture_file": "bone_helmet_5206.png"
+    },
+    {
+      "id": 5472,
+      "name": "decorative weapons",
+      "texture_file": "decorative_weapons_5472.png"
+    },
+    {
+      "id": 5473,
+      "name": "decorative weapons",
+      "texture_file": "decorative_weapons_5473.png"
+    },
+    {
+      "id": 5476,
+      "name": "decorative weapons",
+      "texture_file": "decorative_weapons_5476.png"
+    },
+    {
+      "id": 5477,
+      "name": "decorative weapons",
+      "texture_file": "decorative_weapons_5477.png"
+    },
+    {
+      "id": 5480,
+      "name": "decorative weapons",
+      "texture_file": "decorative_weapons_5480.png"
+    },
+    {
+      "id": 5481,
+      "name": "decorative weapons",
+      "texture_file": "decorative_weapons_5481.png"
+    },
+    {
+      "id": 5484,
+      "name": "decorative shield",
+      "texture_file": "decorative_shield_5484.png"
+    },
+    {
+      "id": 6587,
+      "name": "brazier",
+      "texture_file": "brazier_6587.png"
+    },
+    {
+      "id": 6881,
+      "name": "skull",
+      "texture_file": "skull_6881.png"
+    },
+    {
+      "id": 6882,
+      "name": "skull",
+      "texture_file": "skull_6882.png"
+    },
+    {
+      "id": 6883,
+      "name": "skull",
+      "texture_file": "skull_6883.png"
+    },
+    {
+      "id": 6884,
+      "name": "skull",
+      "texture_file": "skull_6884.png"
+    },
+    {
+      "id": 6925,
+      "name": "bone pile",
+      "texture_file": "bone_pile_6925.png"
+    },
+    {
+      "id": 6935,
+      "name": "rib cage",
+      "texture_file": "rib_cage_6935.png"
+    },
+    {
+      "id": 7035,
+      "name": "metal shield",
+      "texture_file": "metal_shield_7035.png"
+    },
+    {
+      "id": 7393,
+      "name": "head",
+      "texture_file": "head_7393.png"
+    },
+    {
+      "id": 7979,
+      "name": "brazier",
+      "texture_file": "brazier_7979.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 538,
+      "max_block_x": 538,
+      "min_block_y": 422,
+      "max_block_y": 424,
+      "total_blocks": 3
+    },
+    "blocks": [
+      {
+        "block_x": 538,
+        "block_y": 422,
+        "block_index": 275878,
+        "staidx_offset": 3310536,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 54072092,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000067.dat",
+          "entry_index": 67,
+          "block_in_entry": 1446
+        }
+      },
+      {
+        "block_x": 538,
+        "block_y": 423,
+        "block_index": 275879,
+        "staidx_offset": 3310548,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 54072288,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000067.dat",
+          "entry_index": 67,
+          "block_in_entry": 1447
+        }
+      },
+      {
+        "block_x": 538,
+        "block_y": 424,
+        "block_index": 275880,
+        "staidx_offset": 3310560,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 54072484,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000067.dat",
+          "entry_index": 67,
+          "block_in_entry": 1448
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "building_id": "building_1936_4767_4311",
+  "name": "Wilderness Building #1936",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4771 4319",
+    "center_x": 4771,
+    "center_y": 4319,
+    "base_z": 16,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 4767,
+    "max_x": 4775,
+    "min_y": 4311,
+    "max_y": 4327,
+    "base_z": 16,
+    "max_z": 44,
+    "center_x": 4771.5,
+    "center_y": 4319.5,
+    "center_z_elevation": 1.92
+  },
+  "dimensions_meters": {
+    "width_x": 9.0,
+    "depth_z": 17.0,
+    "height_y": 6.1
+  },
+  "stats": {
+    "tile_count": 25,
+    "item_count": 29,
+    "triangles_count": 312,
+    "unique_textures_count": 7
+  },
+  "unique_items": [
+    {
+      "id": 577,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0577.png"
+    },
+    {
+      "id": 578,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0578.png"
+    },
+    {
+      "id": 580,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0580.png"
+    },
+    {
+      "id": 3378,
+      "name": "grasses",
+      "texture_file": "grasses_3378.png"
+    },
+    {
+      "id": 3435,
+      "name": "vines",
+      "texture_file": "vines_3435.png"
+    },
+    {
+      "id": 3441,
+      "name": "tree",
+      "texture_file": "tree_3441.png"
+    },
+    {
+      "id": 3447,
+      "name": "leaves",
+      "texture_file": "leaves_3447.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 595,
+      "max_block_x": 596,
+      "min_block_y": 538,
+      "max_block_y": 540,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "building_id": "building_007_1448_1635",
+  "name": "Britain Building #007",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "britain",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1452 1651",
+    "center_x": 1452,
+    "center_y": 1651,
+    "base_z": 0,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 1448,
+    "max_x": 1455,
+    "min_y": 1635,
+    "max_y": 1667,
+    "base_z": 0,
+    "max_z": 0,
+    "center_x": 1452.0,
+    "center_y": 1651.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 33.0,
+    "height_y": 2.4
+  },
+  "stats": {
+    "tile_count": 40,
+    "item_count": 40,
+    "triangles_count": 480,
+    "unique_textures_count": 4
+  },
+  "unique_items": [
+    {
+      "id": 373,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0373.png"
+    },
+    {
+      "id": 374,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0374.png"
+    },
+    {
+      "id": 375,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0375.png"
+    },
+    {
+      "id": 376,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0376.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 181,
+      "max_block_x": 181,
+      "min_block_y": 204,
+      "max_block_y": 208,
+      "total_blocks": 5
+    },
+    "blocks": [
+      {
+        "block_x": 181,
+        "block_y": 204,
+        "block_index": 92876,
+        "staidx_offset": 1114512,
+        "statics_offset": 5272540,
+        "statics_length": 329,
+        "static_items_count": 47,
+        "map_offset": 18203700,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000022.dat",
+          "entry_index": 22,
+          "block_in_entry": 2764
+        }
+      },
+      {
+        "block_x": 181,
+        "block_y": 205,
+        "block_index": 92877,
+        "staidx_offset": 1114524,
+        "statics_offset": 5272869,
+        "statics_length": 651,
+        "static_items_count": 93,
+        "map_offset": 18203896,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000022.dat",
+          "entry_index": 22,
+          "block_in_entry": 2765
+        }
+      },
+      {
+        "block_x": 181,
+        "block_y": 206,
+        "block_index": 92878,
+        "staidx_offset": 1114536,
+        "statics_offset": 5273520,
+        "statics_length": 427,
+        "static_items_count": 61,
+        "map_offset": 18204092,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000022.dat",
+          "entry_index": 22,
+          "block_in_entry": 2766
+        }
+      },
+      {
+        "block_x": 181,
+        "block_y": 207,
+        "block_index": 92879,
+        "staidx_offset": 1114548,
+        "statics_offset": 5273947,
+        "statics_length": 574,
+        "static_items_count": 82,
+        "map_offset": 18204288,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000022.dat",
+          "entry_index": 22,
+          "block_in_entry": 2767
+        }
+      },
+      {
+        "block_x": 181,
+        "block_y": 208,
+        "block_index": 92880,
+        "staidx_offset": 1114560,
+        "statics_offset": 5274521,
+        "statics_length": 896,
+        "static_items_count": 128,
+        "map_offset": 18204484,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000022.dat",
+          "entry_index": 22,
+          "block_in_entry": 2768
+        }
+      }
+    ]
+  }
+}

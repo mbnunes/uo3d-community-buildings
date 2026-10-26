@@ -1,0 +1,171 @@
+{
+  "building_id": "building_2360_5592_1401",
+  "name": "Wilderness Building #2360",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "5596 1406",
+    "center_x": 5596,
+    "center_y": 1406,
+    "base_z": 0,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 5592,
+    "max_x": 5599,
+    "min_y": 1401,
+    "max_y": 1410,
+    "base_z": 0,
+    "max_z": 0,
+    "center_x": 5596.0,
+    "center_y": 1406.0,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 10.0,
+    "height_y": 2.5
+  },
+  "stats": {
+    "tile_count": 71,
+    "item_count": 98,
+    "triangles_count": 1404,
+    "unique_textures_count": 16
+  },
+  "unique_items": [
+    {
+      "id": 3306,
+      "name": "sapling",
+      "texture_file": "sapling_3306.png"
+    },
+    {
+      "id": 11502,
+      "name": "simple floor tile",
+      "texture_file": "simple_floor_tile_11502.png"
+    },
+    {
+      "id": 11540,
+      "name": "wooden arch",
+      "texture_file": "wooden_arch_11540.png"
+    },
+    {
+      "id": 11542,
+      "name": "wooden arch",
+      "texture_file": "wooden_arch_11542.png"
+    },
+    {
+      "id": 11543,
+      "name": "wooden arch",
+      "texture_file": "wooden_arch_11543.png"
+    },
+    {
+      "id": 11549,
+      "name": "wooden post",
+      "texture_file": "wooden_post_11549.png"
+    },
+    {
+      "id": 11587,
+      "name": "wooded window",
+      "texture_file": "wooded_window_11587.png"
+    },
+    {
+      "id": 11588,
+      "name": "wooded window",
+      "texture_file": "wooded_window_11588.png"
+    },
+    {
+      "id": 11589,
+      "name": "wooded window",
+      "texture_file": "wooded_window_11589.png"
+    },
+    {
+      "id": 11631,
+      "name": "small elven tapestr",
+      "texture_file": "small_elven_tapestr_11631.png"
+    },
+    {
+      "id": 11634,
+      "name": "elven tapestry",
+      "texture_file": "elven_tapestry_11634.png"
+    },
+    {
+      "id": 12255,
+      "name": "tall ladder ",
+      "texture_file": "tall_ladder_12255.png"
+    },
+    {
+      "id": 12267,
+      "name": "display case",
+      "texture_file": "display_case_12267.png"
+    },
+    {
+      "id": 12437,
+      "name": "elven table",
+      "texture_file": "elven_table_12437.png"
+    },
+    {
+      "id": 12438,
+      "name": "elven table",
+      "texture_file": "elven_table_12438.png"
+    },
+    {
+      "id": 12439,
+      "name": "elven table",
+      "texture_file": "elven_table_12439.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 699,
+      "max_block_x": 699,
+      "min_block_y": 175,
+      "max_block_y": 176,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 699,
+        "block_y": 175,
+        "block_index": 358063,
+        "staidx_offset": 4296756,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 70180352,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000087.dat",
+          "entry_index": 87,
+          "block_in_entry": 1711
+        }
+      },
+      {
+        "block_x": 699,
+        "block_y": 176,
+        "block_index": 358064,
+        "staidx_offset": 4296768,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 70180548,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000087.dat",
+          "entry_index": 87,
+          "block_in_entry": 1712
+        }
+      }
+    ]
+  }
+}

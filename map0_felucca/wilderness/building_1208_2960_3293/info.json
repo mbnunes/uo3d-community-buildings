@@ -1,0 +1,100 @@
+{
+  "building_id": "building_1208_2960_3293",
+  "name": "Wilderness Building #1208",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "2964 3294",
+    "center_x": 2964,
+    "center_y": 3294,
+    "base_z": 0,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 2960,
+    "max_x": 2967,
+    "min_y": 3293,
+    "max_y": 3295,
+    "base_z": 0,
+    "max_z": 20,
+    "center_x": 2964.0,
+    "center_y": 3294.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 3.0,
+    "height_y": 2.4
+  },
+  "stats": {
+    "tile_count": 24,
+    "item_count": 32,
+    "triangles_count": 408,
+    "unique_textures_count": 5
+  },
+  "unique_items": [
+    {
+      "id": 345,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0345.png"
+    },
+    {
+      "id": 1378,
+      "name": "stone roof",
+      "texture_file": "stone_roof_1378.png"
+    },
+    {
+      "id": 1379,
+      "name": "stone roof",
+      "texture_file": "stone_roof_1379.png"
+    },
+    {
+      "id": 1382,
+      "name": "stone roof",
+      "texture_file": "stone_roof_1382.png"
+    },
+    {
+      "id": 1383,
+      "name": "stone roof",
+      "texture_file": "stone_roof_1383.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 370,
+      "max_block_x": 370,
+      "min_block_y": 411,
+      "max_block_y": 411,
+      "total_blocks": 1
+    },
+    "blocks": [
+      {
+        "block_x": 370,
+        "block_y": 411,
+        "block_index": 189851,
+        "staidx_offset": 2278212,
+        "statics_offset": 12513480,
+        "statics_length": 448,
+        "static_items_count": 64,
+        "map_offset": 37210800,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000046.dat",
+          "entry_index": 46,
+          "block_in_entry": 1435
+        }
+      }
+    ]
+  }
+}

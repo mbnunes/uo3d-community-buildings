@@ -1,0 +1,135 @@
+{
+  "building_id": "building_1656_4360_3680",
+  "name": "Wilderness Building #1656",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4363 3683",
+    "center_x": 4363,
+    "center_y": 3683,
+    "base_z": 45,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 4360,
+    "max_x": 4366,
+    "min_y": 3680,
+    "max_y": 3686,
+    "base_z": 45,
+    "max_z": 50,
+    "center_x": 4363.5,
+    "center_y": 3683.5,
+    "center_z_elevation": 5.3999999999999995
+  },
+  "dimensions_meters": {
+    "width_x": 7.0,
+    "depth_z": 7.0,
+    "height_y": 3.1
+  },
+  "stats": {
+    "tile_count": 36,
+    "item_count": 49,
+    "triangles_count": 442,
+    "unique_textures_count": 12
+  },
+  "unique_items": [
+    {
+      "id": 464,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0464.png"
+    },
+    {
+      "id": 465,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0465.png"
+    },
+    {
+      "id": 466,
+      "name": "stone post",
+      "texture_file": "stone_post_0466.png"
+    },
+    {
+      "id": 1928,
+      "name": "stone",
+      "texture_file": "stone_1928.png"
+    },
+    {
+      "id": 1938,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1938.png"
+    },
+    {
+      "id": 1939,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1939.png"
+    },
+    {
+      "id": 1940,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1940.png"
+    },
+    {
+      "id": 1942,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1942.png"
+    },
+    {
+      "id": 4648,
+      "name": "statue",
+      "texture_file": "statue_4648.png"
+    },
+    {
+      "id": 5021,
+      "name": "statue",
+      "texture_file": "statue_5021.png"
+    },
+    {
+      "id": 5488,
+      "name": "decorative shield",
+      "texture_file": "decorative_shield_5488.png"
+    },
+    {
+      "id": 5489,
+      "name": "decorative shield",
+      "texture_file": "decorative_shield_5489.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 545,
+      "max_block_x": 545,
+      "min_block_y": 460,
+      "max_block_y": 460,
+      "total_blocks": 1
+    },
+    "blocks": [
+      {
+        "block_x": 545,
+        "block_y": 460,
+        "block_index": 279500,
+        "staidx_offset": 3354000,
+        "statics_offset": 15025276,
+        "statics_length": 42,
+        "static_items_count": 6,
+        "map_offset": 54782004,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000068.dat",
+          "entry_index": 68,
+          "block_in_entry": 972
+        }
+      }
+    ]
+  }
+}

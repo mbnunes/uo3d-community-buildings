@@ -1,0 +1,168 @@
+{
+  "building_id": "building_529_1256_711",
+  "name": "Wilderness Building #529",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1260 720",
+    "center_x": 1260,
+    "center_y": 720,
+    "base_z": 15,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 1256,
+    "max_x": 1263,
+    "min_y": 711,
+    "max_y": 728,
+    "base_z": 15,
+    "max_z": 59,
+    "center_x": 1260.0,
+    "center_y": 720.0,
+    "center_z_elevation": 1.7999999999999998
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 18.0,
+    "height_y": 5.64
+  },
+  "stats": {
+    "tile_count": 144,
+    "item_count": 166,
+    "triangles_count": 1624,
+    "unique_textures_count": 9
+  },
+  "unique_items": [
+    {
+      "id": 168,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0168.png"
+    },
+    {
+      "id": 174,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0174.png"
+    },
+    {
+      "id": 175,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0175.png"
+    },
+    {
+      "id": 176,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0176.png"
+    },
+    {
+      "id": 178,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0178.png"
+    },
+    {
+      "id": 181,
+      "name": "wooden wall",
+      "texture_file": "wooden_wall_0181.png"
+    },
+    {
+      "id": 1447,
+      "name": "thatch roof",
+      "texture_file": "thatch_roof_1447.png"
+    },
+    {
+      "id": 1448,
+      "name": "thatch roof",
+      "texture_file": "thatch_roof_1448.png"
+    },
+    {
+      "id": 1449,
+      "name": "thatch roof",
+      "texture_file": "thatch_roof_1449.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 157,
+      "max_block_x": 157,
+      "min_block_y": 88,
+      "max_block_y": 91,
+      "total_blocks": 4
+    },
+    "blocks": [
+      {
+        "block_x": 157,
+        "block_y": 88,
+        "block_index": 80472,
+        "staidx_offset": 965664,
+        "statics_offset": 3859814,
+        "statics_length": 301,
+        "static_items_count": 43,
+        "map_offset": 15772516,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000019.dat",
+          "entry_index": 19,
+          "block_in_entry": 2648
+        }
+      },
+      {
+        "block_x": 157,
+        "block_y": 89,
+        "block_index": 80473,
+        "staidx_offset": 965676,
+        "statics_offset": 3860115,
+        "statics_length": 168,
+        "static_items_count": 24,
+        "map_offset": 15772712,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000019.dat",
+          "entry_index": 19,
+          "block_in_entry": 2649
+        }
+      },
+      {
+        "block_x": 157,
+        "block_y": 90,
+        "block_index": 80474,
+        "staidx_offset": 965688,
+        "statics_offset": 3860283,
+        "statics_length": 441,
+        "static_items_count": 63,
+        "map_offset": 15772908,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000019.dat",
+          "entry_index": 19,
+          "block_in_entry": 2650
+        }
+      },
+      {
+        "block_x": 157,
+        "block_y": 91,
+        "block_index": 80475,
+        "staidx_offset": 965700,
+        "statics_offset": 3860724,
+        "statics_length": 49,
+        "static_items_count": 7,
+        "map_offset": 15773104,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000019.dat",
+          "entry_index": 19,
+          "block_in_entry": 2651
+        }
+      }
+    ]
+  }
+}

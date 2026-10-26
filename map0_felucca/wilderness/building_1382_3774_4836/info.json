@@ -1,0 +1,98 @@
+{
+  "building_id": "building_1382_3774_4836",
+  "name": "Wilderness Building #1382",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "3775 4840",
+    "center_x": 3775,
+    "center_y": 4840,
+    "base_z": 0,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 3774,
+    "max_x": 3775,
+    "min_y": 4836,
+    "max_y": 4844,
+    "base_z": 0,
+    "max_z": 40,
+    "center_x": 3775.0,
+    "center_y": 4840.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 2.0,
+    "depth_z": 9.0,
+    "height_y": 7.2
+  },
+  "stats": {
+    "tile_count": 18,
+    "item_count": 49,
+    "triangles_count": 540,
+    "unique_textures_count": 8
+  },
+  "unique_items": [
+    {
+      "id": 197,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0197.png"
+    },
+    {
+      "id": 219,
+      "name": "stone pillar",
+      "texture_file": "stone_pillar_0219.png"
+    },
+    {
+      "id": 232,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0232.png"
+    },
+    {
+      "id": 1315,
+      "name": "stone pavers dark",
+      "texture_file": "stone_pavers_dark_1315.png"
+    },
+    {
+      "id": 3467,
+      "name": "leaves",
+      "texture_file": "leaves_3467.png"
+    },
+    {
+      "id": 15208,
+      "name": "",
+      "texture_file": "_15208.png"
+    },
+    {
+      "id": 15217,
+      "name": "",
+      "texture_file": "_15217.png"
+    },
+    {
+      "id": 15226,
+      "name": "",
+      "texture_file": "_15226.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 471,
+      "max_block_x": 471,
+      "min_block_y": 604,
+      "max_block_y": 605,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

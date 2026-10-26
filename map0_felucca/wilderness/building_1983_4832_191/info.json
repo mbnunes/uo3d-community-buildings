@@ -1,0 +1,137 @@
+{
+  "building_id": "building_1983_4832_191",
+  "name": "Wilderness Building #1983",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4836 197",
+    "center_x": 4836,
+    "center_y": 197,
+    "base_z": -1,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 4832,
+    "max_x": 4839,
+    "min_y": 191,
+    "max_y": 202,
+    "base_z": -1,
+    "max_z": 37,
+    "center_x": 4836.0,
+    "center_y": 197.0,
+    "center_z_elevation": -0.12
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 12.0,
+    "height_y": 6.36
+  },
+  "stats": {
+    "tile_count": 32,
+    "item_count": 43,
+    "triangles_count": 648,
+    "unique_textures_count": 6
+  },
+  "unique_items": [
+    {
+      "id": 577,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0577.png"
+    },
+    {
+      "id": 578,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0578.png"
+    },
+    {
+      "id": 1343,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1343.png"
+    },
+    {
+      "id": 1955,
+      "name": "stone",
+      "texture_file": "stone_1955.png"
+    },
+    {
+      "id": 1957,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1957.png"
+    },
+    {
+      "id": 2572,
+      "name": "wall torch",
+      "texture_file": "wall_torch_2572.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 604,
+      "max_block_x": 604,
+      "min_block_y": 23,
+      "max_block_y": 25,
+      "total_blocks": 3
+    },
+    "blocks": [
+      {
+        "block_x": 604,
+        "block_y": 23,
+        "block_index": 309271,
+        "staidx_offset": 3711252,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 60617120,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000075.dat",
+          "entry_index": 75,
+          "block_in_entry": 2071
+        }
+      },
+      {
+        "block_x": 604,
+        "block_y": 24,
+        "block_index": 309272,
+        "staidx_offset": 3711264,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 60617316,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000075.dat",
+          "entry_index": 75,
+          "block_in_entry": 2072
+        }
+      },
+      {
+        "block_x": 604,
+        "block_y": 25,
+        "block_index": 309273,
+        "staidx_offset": 3711276,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 60617512,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000075.dat",
+          "entry_index": 75,
+          "block_in_entry": 2073
+        }
+      }
+    ]
+  }
+}

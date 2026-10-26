@@ -1,0 +1,171 @@
+{
+  "building_id": "building_1421_4128_282",
+  "name": "Wilderness Building #1421",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4129 285",
+    "center_x": 4129,
+    "center_y": 285,
+    "base_z": 15,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 4128,
+    "max_x": 4130,
+    "min_y": 282,
+    "max_y": 288,
+    "base_z": 15,
+    "max_z": 58,
+    "center_x": 4129.5,
+    "center_y": 285.5,
+    "center_z_elevation": 1.7999999999999998
+  },
+  "dimensions_meters": {
+    "width_x": 3.0,
+    "depth_z": 7.0,
+    "height_y": 5.62
+  },
+  "stats": {
+    "tile_count": 21,
+    "item_count": 65,
+    "triangles_count": 936,
+    "unique_textures_count": 16
+  },
+  "unique_items": [
+    {
+      "id": 250,
+      "name": "marble wall",
+      "texture_file": "marble_wall_0250.png"
+    },
+    {
+      "id": 254,
+      "name": "marble wall",
+      "texture_file": "marble_wall_0254.png"
+    },
+    {
+      "id": 255,
+      "name": "marble wall",
+      "texture_file": "marble_wall_0255.png"
+    },
+    {
+      "id": 256,
+      "name": "marble wall",
+      "texture_file": "marble_wall_0256.png"
+    },
+    {
+      "id": 258,
+      "name": "window",
+      "texture_file": "window_0258.png"
+    },
+    {
+      "id": 259,
+      "name": "window",
+      "texture_file": "window_0259.png"
+    },
+    {
+      "id": 261,
+      "name": "marble wall",
+      "texture_file": "marble_wall_0261.png"
+    },
+    {
+      "id": 271,
+      "name": "marble wall",
+      "texture_file": "marble_wall_0271.png"
+    },
+    {
+      "id": 272,
+      "name": "marble wall",
+      "texture_file": "marble_wall_0272.png"
+    },
+    {
+      "id": 279,
+      "name": "marble wall",
+      "texture_file": "marble_wall_0279.png"
+    },
+    {
+      "id": 280,
+      "name": "marble wall",
+      "texture_file": "marble_wall_0280.png"
+    },
+    {
+      "id": 281,
+      "name": "marble wall",
+      "texture_file": "marble_wall_0281.png"
+    },
+    {
+      "id": 293,
+      "name": "marble wall",
+      "texture_file": "marble_wall_0293.png"
+    },
+    {
+      "id": 1080,
+      "name": "marble arch",
+      "texture_file": "marble_arch_1080.png"
+    },
+    {
+      "id": 1084,
+      "name": "marble arch",
+      "texture_file": "marble_arch_1084.png"
+    },
+    {
+      "id": 1293,
+      "name": "marble floor",
+      "texture_file": "marble_floor_1293.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 516,
+      "max_block_x": 516,
+      "min_block_y": 35,
+      "max_block_y": 36,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 516,
+        "block_y": 35,
+        "block_index": 264227,
+        "staidx_offset": 3170724,
+        "statics_offset": 14744940,
+        "statics_length": 329,
+        "static_items_count": 47,
+        "map_offset": 51788496,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000064.dat",
+          "entry_index": 64,
+          "block_in_entry": 2083
+        }
+      },
+      {
+        "block_x": 516,
+        "block_y": 36,
+        "block_index": 264228,
+        "staidx_offset": 3170736,
+        "statics_offset": 14745269,
+        "statics_length": 182,
+        "static_items_count": 26,
+        "map_offset": 51788692,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000064.dat",
+          "entry_index": 64,
+          "block_in_entry": 2084
+        }
+      }
+    ]
+  }
+}

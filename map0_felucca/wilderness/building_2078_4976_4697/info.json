@@ -1,0 +1,68 @@
+{
+  "building_id": "building_2078_4976_4697",
+  "name": "Wilderness Building #2078",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4980 4703",
+    "center_x": 4980,
+    "center_y": 4703,
+    "base_z": 0,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 4976,
+    "max_x": 4983,
+    "min_y": 4697,
+    "max_y": 4708,
+    "base_z": 0,
+    "max_z": 0,
+    "center_x": 4980.0,
+    "center_y": 4703.0,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 12.0,
+    "height_y": 2.4
+  },
+  "stats": {
+    "tile_count": 19,
+    "item_count": 19,
+    "triangles_count": 228,
+    "unique_textures_count": 2
+  },
+  "unique_items": [
+    {
+      "id": 87,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0087.png"
+    },
+    {
+      "id": 88,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0088.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 622,
+      "max_block_x": 622,
+      "min_block_y": 587,
+      "max_block_y": 588,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

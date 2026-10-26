@@ -1,0 +1,164 @@
+{
+  "building_id": "building_255_1072_3495",
+  "name": "Wilderness Building #255",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1076 3510",
+    "center_x": 1076,
+    "center_y": 3510,
+    "base_z": 15,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 1072,
+    "max_x": 1079,
+    "min_y": 3495,
+    "max_y": 3524,
+    "base_z": 15,
+    "max_z": 20,
+    "center_x": 1076.0,
+    "center_y": 3510.0,
+    "center_z_elevation": 1.7999999999999998
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 30.0,
+    "height_y": 2.4
+  },
+  "stats": {
+    "tile_count": 46,
+    "item_count": 48,
+    "triangles_count": 804,
+    "unique_textures_count": 5
+  },
+  "unique_items": [
+    {
+      "id": 99,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0099.png"
+    },
+    {
+      "id": 100,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0100.png"
+    },
+    {
+      "id": 101,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0101.png"
+    },
+    {
+      "id": 6039,
+      "name": "water",
+      "texture_file": "water_6039.png"
+    },
+    {
+      "id": 6044,
+      "name": "water",
+      "texture_file": "water_6044.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 134,
+      "max_block_x": 134,
+      "min_block_y": 436,
+      "max_block_y": 440,
+      "total_blocks": 5
+    },
+    "blocks": [
+      {
+        "block_x": 134,
+        "block_y": 436,
+        "block_index": 69044,
+        "staidx_offset": 828528,
+        "statics_offset": 2850281,
+        "statics_length": 77,
+        "static_items_count": 11,
+        "map_offset": 13532628,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000016.dat",
+          "entry_index": 16,
+          "block_in_entry": 3508
+        }
+      },
+      {
+        "block_x": 134,
+        "block_y": 437,
+        "block_index": 69045,
+        "staidx_offset": 828540,
+        "statics_offset": 2850358,
+        "statics_length": 231,
+        "static_items_count": 33,
+        "map_offset": 13532824,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000016.dat",
+          "entry_index": 16,
+          "block_in_entry": 3509
+        }
+      },
+      {
+        "block_x": 134,
+        "block_y": 438,
+        "block_index": 69046,
+        "staidx_offset": 828552,
+        "statics_offset": 2850589,
+        "statics_length": 371,
+        "static_items_count": 53,
+        "map_offset": 13533020,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000016.dat",
+          "entry_index": 16,
+          "block_in_entry": 3510
+        }
+      },
+      {
+        "block_x": 134,
+        "block_y": 439,
+        "block_index": 69047,
+        "staidx_offset": 828564,
+        "statics_offset": 2850960,
+        "statics_length": 42,
+        "static_items_count": 6,
+        "map_offset": 13533216,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000016.dat",
+          "entry_index": 16,
+          "block_in_entry": 3511
+        }
+      },
+      {
+        "block_x": 134,
+        "block_y": 440,
+        "block_index": 69048,
+        "staidx_offset": 828576,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 13533412,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000016.dat",
+          "entry_index": 16,
+          "block_in_entry": 3512
+        }
+      }
+    ]
+  }
+}

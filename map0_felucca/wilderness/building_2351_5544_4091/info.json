@@ -1,0 +1,200 @@
+{
+  "building_id": "building_2351_5544_4091",
+  "name": "Wilderness Building #2351",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "5547 4095",
+    "center_x": 5547,
+    "center_y": 4095,
+    "base_z": -15,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 5544,
+    "max_x": 5550,
+    "min_y": 4091,
+    "max_y": 4099,
+    "base_z": -15,
+    "max_z": 5,
+    "center_x": 5547.5,
+    "center_y": 4095.5,
+    "center_z_elevation": -1.7999999999999998
+  },
+  "dimensions_meters": {
+    "width_x": 7.0,
+    "depth_z": 9.0,
+    "height_y": 2.5
+  },
+  "stats": {
+    "tile_count": 32,
+    "item_count": 51,
+    "triangles_count": 708,
+    "unique_textures_count": 25
+  },
+  "unique_items": [
+    {
+      "id": 26,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0026.png"
+    },
+    {
+      "id": 27,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0027.png"
+    },
+    {
+      "id": 28,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0028.png"
+    },
+    {
+      "id": 29,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0029.png"
+    },
+    {
+      "id": 35,
+      "name": "window",
+      "texture_file": "window_0035.png"
+    },
+    {
+      "id": 42,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0042.png"
+    },
+    {
+      "id": 43,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0043.png"
+    },
+    {
+      "id": 45,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0045.png"
+    },
+    {
+      "id": 46,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0046.png"
+    },
+    {
+      "id": 47,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0047.png"
+    },
+    {
+      "id": 48,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0048.png"
+    },
+    {
+      "id": 2327,
+      "name": "stone step",
+      "texture_file": "stone_step_2327.png"
+    },
+    {
+      "id": 2328,
+      "name": "stone step",
+      "texture_file": "stone_step_2328.png"
+    },
+    {
+      "id": 7370,
+      "name": "blood",
+      "texture_file": "blood_7370.png"
+    },
+    {
+      "id": 7373,
+      "name": "blood",
+      "texture_file": "blood_7373.png"
+    },
+    {
+      "id": 7374,
+      "name": "blood",
+      "texture_file": "blood_7374.png"
+    },
+    {
+      "id": 7376,
+      "name": "blood",
+      "texture_file": "blood_7376.png"
+    },
+    {
+      "id": 7378,
+      "name": "blood",
+      "texture_file": "blood_7378.png"
+    },
+    {
+      "id": 7379,
+      "name": "blood",
+      "texture_file": "blood_7379.png"
+    },
+    {
+      "id": 7380,
+      "name": "blood",
+      "texture_file": "blood_7380.png"
+    },
+    {
+      "id": 7383,
+      "name": "blood",
+      "texture_file": "blood_7383.png"
+    },
+    {
+      "id": 7384,
+      "name": "blood",
+      "texture_file": "blood_7384.png"
+    },
+    {
+      "id": 7570,
+      "name": "blood",
+      "texture_file": "blood_7570.png"
+    },
+    {
+      "id": 7575,
+      "name": "ankh of sacrifice",
+      "texture_file": "ankh_of_sacrifice_7575.png"
+    },
+    {
+      "id": 7576,
+      "name": "ankh of sacrifice",
+      "texture_file": "ankh_of_sacrifice_7576.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 693,
+      "max_block_x": 693,
+      "min_block_y": 511,
+      "max_block_y": 512,
+      "total_blocks": 1
+    },
+    "blocks": [
+      {
+        "block_x": 693,
+        "block_y": 511,
+        "block_index": 355327,
+        "staidx_offset": 4263924,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 69644096,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000086.dat",
+          "entry_index": 86,
+          "block_in_entry": 3071
+        }
+      }
+    ]
+  }
+}

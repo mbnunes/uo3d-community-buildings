@@ -1,0 +1,78 @@
+{
+  "building_id": "building_2029_4864_4367",
+  "name": "Wilderness Building #2029",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4868 4370",
+    "center_x": 4868,
+    "center_y": 4370,
+    "base_z": 44,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 4864,
+    "max_x": 4871,
+    "min_y": 4367,
+    "max_y": 4372,
+    "base_z": 44,
+    "max_z": 61,
+    "center_x": 4868.0,
+    "center_y": 4370.0,
+    "center_z_elevation": 5.279999999999999
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 6.0,
+    "height_y": 2.64
+  },
+  "stats": {
+    "tile_count": 19,
+    "item_count": 37,
+    "triangles_count": 348,
+    "unique_textures_count": 4
+  },
+  "unique_items": [
+    {
+      "id": 577,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0577.png"
+    },
+    {
+      "id": 1955,
+      "name": "stone",
+      "texture_file": "stone_1955.png"
+    },
+    {
+      "id": 1956,
+      "name": "stone stairs",
+      "texture_file": "stone_stairs_1956.png"
+    },
+    {
+      "id": 2573,
+      "name": "wall torch",
+      "texture_file": "wall_torch_2573.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 608,
+      "max_block_x": 608,
+      "min_block_y": 545,
+      "max_block_y": 546,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

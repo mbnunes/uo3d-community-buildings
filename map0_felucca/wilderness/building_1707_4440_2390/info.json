@@ -1,0 +1,181 @@
+{
+  "building_id": "building_1707_4440_2390",
+  "name": "Wilderness Building #1707",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4444 2394",
+    "center_x": 4444,
+    "center_y": 2394,
+    "base_z": 0,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 4440,
+    "max_x": 4447,
+    "min_y": 2390,
+    "max_y": 2398,
+    "base_z": 0,
+    "max_z": 36,
+    "center_x": 4444.0,
+    "center_y": 2394.5,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 9.0,
+    "height_y": 5.16
+  },
+  "stats": {
+    "tile_count": 34,
+    "item_count": 50,
+    "triangles_count": 612,
+    "unique_textures_count": 18
+  },
+  "unique_items": [
+    {
+      "id": 463,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0463.png"
+    },
+    {
+      "id": 464,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0464.png"
+    },
+    {
+      "id": 465,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0465.png"
+    },
+    {
+      "id": 466,
+      "name": "stone post",
+      "texture_file": "stone_post_0466.png"
+    },
+    {
+      "id": 476,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0476.png"
+    },
+    {
+      "id": 477,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0477.png"
+    },
+    {
+      "id": 478,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0478.png"
+    },
+    {
+      "id": 479,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0479.png"
+    },
+    {
+      "id": 482,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0482.png"
+    },
+    {
+      "id": 484,
+      "name": "stone arch",
+      "texture_file": "stone_arch_0484.png"
+    },
+    {
+      "id": 16114,
+      "name": "jungle wall",
+      "texture_file": "jungle_wall_16114.png"
+    },
+    {
+      "id": 16116,
+      "name": "jungle wall",
+      "texture_file": "jungle_wall_16116.png"
+    },
+    {
+      "id": 16118,
+      "name": "jungle wall",
+      "texture_file": "jungle_wall_16118.png"
+    },
+    {
+      "id": 16122,
+      "name": "jungle wall",
+      "texture_file": "jungle_wall_16122.png"
+    },
+    {
+      "id": 16124,
+      "name": "jungle wall",
+      "texture_file": "jungle_wall_16124.png"
+    },
+    {
+      "id": 16126,
+      "name": "jungle wall",
+      "texture_file": "jungle_wall_16126.png"
+    },
+    {
+      "id": 16129,
+      "name": "jungle wall",
+      "texture_file": "jungle_wall_16129.png"
+    },
+    {
+      "id": 16131,
+      "name": "jungle wall",
+      "texture_file": "jungle_wall_16131.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 555,
+      "max_block_x": 555,
+      "min_block_y": 298,
+      "max_block_y": 299,
+      "total_blocks": 2
+    },
+    "blocks": [
+      {
+        "block_x": 555,
+        "block_y": 298,
+        "block_index": 284458,
+        "staidx_offset": 3413496,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 55753772,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000069.dat",
+          "entry_index": 69,
+          "block_in_entry": 1834
+        }
+      },
+      {
+        "block_x": 555,
+        "block_y": 299,
+        "block_index": 284459,
+        "staidx_offset": 3413508,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 55753968,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000069.dat",
+          "entry_index": 69,
+          "block_in_entry": 1835
+        }
+      }
+    ]
+  }
+}

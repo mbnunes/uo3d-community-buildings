@@ -1,0 +1,172 @@
+{
+  "building_id": "building_676_1600_2918",
+  "name": "Wilderness Building #676",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1602 2923",
+    "center_x": 1602,
+    "center_y": 2923,
+    "base_z": -15,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 1600,
+    "max_x": 1604,
+    "min_y": 2918,
+    "max_y": 2928,
+    "base_z": -15,
+    "max_z": 10,
+    "center_x": 1602.5,
+    "center_y": 2923.5,
+    "center_z_elevation": -1.7999999999999998
+  },
+  "dimensions_meters": {
+    "width_x": 5.0,
+    "depth_z": 11.0,
+    "height_y": 4.3
+  },
+  "stats": {
+    "tile_count": 41,
+    "item_count": 109,
+    "triangles_count": 948,
+    "unique_textures_count": 13
+  },
+  "unique_items": [
+    {
+      "id": 361,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0361.png"
+    },
+    {
+      "id": 1183,
+      "name": "sandstone paver",
+      "texture_file": "sandstone_paver_1183.png"
+    },
+    {
+      "id": 1184,
+      "name": "sandstone paver",
+      "texture_file": "sandstone_paver_1184.png"
+    },
+    {
+      "id": 1900,
+      "name": "sandstone",
+      "texture_file": "sandstone_1900.png"
+    },
+    {
+      "id": 1901,
+      "name": "sandstone stairs",
+      "texture_file": "sandstone_stairs_1901.png"
+    },
+    {
+      "id": 1903,
+      "name": "sandstone stairs",
+      "texture_file": "sandstone_stairs_1903.png"
+    },
+    {
+      "id": 6039,
+      "name": "water",
+      "texture_file": "water_6039.png"
+    },
+    {
+      "id": 6040,
+      "name": "water",
+      "texture_file": "water_6040.png"
+    },
+    {
+      "id": 6042,
+      "name": "water",
+      "texture_file": "water_6042.png"
+    },
+    {
+      "id": 6043,
+      "name": "water",
+      "texture_file": "water_6043.png"
+    },
+    {
+      "id": 6044,
+      "name": "water",
+      "texture_file": "water_6044.png"
+    },
+    {
+      "id": 6048,
+      "name": "water",
+      "texture_file": "water_6048.png"
+    },
+    {
+      "id": 6056,
+      "name": "water",
+      "texture_file": "water_6056.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 200,
+      "max_block_x": 200,
+      "min_block_y": 364,
+      "max_block_y": 366,
+      "total_blocks": 3
+    },
+    "blocks": [
+      {
+        "block_x": 200,
+        "block_y": 364,
+        "block_index": 102764,
+        "staidx_offset": 1233168,
+        "statics_offset": 6396796,
+        "statics_length": 210,
+        "static_items_count": 30,
+        "map_offset": 20141748,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000025.dat",
+          "entry_index": 25,
+          "block_in_entry": 364
+        }
+      },
+      {
+        "block_x": 200,
+        "block_y": 365,
+        "block_index": 102765,
+        "staidx_offset": 1233180,
+        "statics_offset": 6397006,
+        "statics_length": 294,
+        "static_items_count": 42,
+        "map_offset": 20141944,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000025.dat",
+          "entry_index": 25,
+          "block_in_entry": 365
+        }
+      },
+      {
+        "block_x": 200,
+        "block_y": 366,
+        "block_index": 102766,
+        "staidx_offset": 1233192,
+        "statics_offset": 6397300,
+        "statics_length": 273,
+        "static_items_count": 39,
+        "map_offset": 20142140,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000025.dat",
+          "entry_index": 25,
+          "block_in_entry": 366
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "building_id": "building_664_1584_4762",
+  "name": "Wilderness Building #664",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "1588 4767",
+    "center_x": 1588,
+    "center_y": 4767,
+    "base_z": -15,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 1584,
+    "max_x": 1591,
+    "min_y": 4762,
+    "max_y": 4771,
+    "base_z": -15,
+    "max_z": 30,
+    "center_x": 1588.0,
+    "center_y": 4767.0,
+    "center_z_elevation": -1.7999999999999998
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 10.0,
+    "height_y": 7.8
+  },
+  "stats": {
+    "tile_count": 17,
+    "item_count": 22,
+    "triangles_count": 264,
+    "unique_textures_count": 7
+  },
+  "unique_items": [
+    {
+      "id": 346,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0346.png"
+    },
+    {
+      "id": 347,
+      "name": "sandstone post",
+      "texture_file": "sandstone_post_0347.png"
+    },
+    {
+      "id": 349,
+      "name": "window",
+      "texture_file": "window_0349.png"
+    },
+    {
+      "id": 357,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0357.png"
+    },
+    {
+      "id": 3353,
+      "name": "mushroom",
+      "texture_file": "mushroom_3353.png"
+    },
+    {
+      "id": 3392,
+      "name": "brambles",
+      "texture_file": "brambles_3392.png"
+    },
+    {
+      "id": 6043,
+      "name": "water",
+      "texture_file": "water_6043.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 198,
+      "max_block_x": 198,
+      "min_block_y": 595,
+      "max_block_y": 596,
+      "total_blocks": 0
+    },
+    "blocks": []
+  }
+}

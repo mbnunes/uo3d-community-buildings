@@ -1,0 +1,172 @@
+{
+  "building_id": "building_010_2960_3360",
+  "name": "Serpent Hold Building #010",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "serpent_hold",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "2964 3371",
+    "center_x": 2964,
+    "center_y": 3371,
+    "base_z": 0,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 2960,
+    "max_x": 2967,
+    "min_y": 3360,
+    "max_y": 3381,
+    "base_z": 0,
+    "max_z": 20,
+    "center_x": 2964.0,
+    "center_y": 3371.0,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 22.0,
+    "height_y": 3.6
+  },
+  "stats": {
+    "tile_count": 81,
+    "item_count": 120,
+    "triangles_count": 1524,
+    "unique_textures_count": 13
+  },
+  "unique_items": [
+    {
+      "id": 344,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0344.png"
+    },
+    {
+      "id": 345,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0345.png"
+    },
+    {
+      "id": 346,
+      "name": "sandstone wall",
+      "texture_file": "sandstone_wall_0346.png"
+    },
+    {
+      "id": 347,
+      "name": "sandstone post",
+      "texture_file": "sandstone_post_0347.png"
+    },
+    {
+      "id": 359,
+      "name": "sandstone post",
+      "texture_file": "sandstone_post_0359.png"
+    },
+    {
+      "id": 1378,
+      "name": "stone roof",
+      "texture_file": "stone_roof_1378.png"
+    },
+    {
+      "id": 1379,
+      "name": "stone roof",
+      "texture_file": "stone_roof_1379.png"
+    },
+    {
+      "id": 1380,
+      "name": "stone roof",
+      "texture_file": "stone_roof_1380.png"
+    },
+    {
+      "id": 1381,
+      "name": "stone roof",
+      "texture_file": "stone_roof_1381.png"
+    },
+    {
+      "id": 1382,
+      "name": "stone roof",
+      "texture_file": "stone_roof_1382.png"
+    },
+    {
+      "id": 1383,
+      "name": "stone roof",
+      "texture_file": "stone_roof_1383.png"
+    },
+    {
+      "id": 1384,
+      "name": "stone roof",
+      "texture_file": "stone_roof_1384.png"
+    },
+    {
+      "id": 1385,
+      "name": "stone roof",
+      "texture_file": "stone_roof_1385.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 370,
+      "max_block_x": 370,
+      "min_block_y": 420,
+      "max_block_y": 422,
+      "total_blocks": 3
+    },
+    "blocks": [
+      {
+        "block_x": 370,
+        "block_y": 420,
+        "block_index": 189860,
+        "staidx_offset": 2278320,
+        "statics_offset": 12519164,
+        "statics_length": 1267,
+        "static_items_count": 181,
+        "map_offset": 37212564,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000046.dat",
+          "entry_index": 46,
+          "block_in_entry": 1444
+        }
+      },
+      {
+        "block_x": 370,
+        "block_y": 421,
+        "block_index": 189861,
+        "staidx_offset": 2278332,
+        "statics_offset": 12520431,
+        "statics_length": 161,
+        "static_items_count": 23,
+        "map_offset": 37212760,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000046.dat",
+          "entry_index": 46,
+          "block_in_entry": 1445
+        }
+      },
+      {
+        "block_x": 370,
+        "block_y": 422,
+        "block_index": 189862,
+        "staidx_offset": 2278344,
+        "statics_offset": 12520592,
+        "statics_length": 553,
+        "static_items_count": 79,
+        "map_offset": 37212956,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000046.dat",
+          "entry_index": 46,
+          "block_in_entry": 1446
+        }
+      }
+    ]
+  }
+}

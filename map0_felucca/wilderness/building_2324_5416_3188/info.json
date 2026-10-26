@@ -1,0 +1,172 @@
+{
+  "building_id": "building_2324_5416_3188",
+  "name": "Wilderness Building #2324",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "5419 3196",
+    "center_x": 5419,
+    "center_y": 3196,
+    "base_z": 0,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 5416,
+    "max_x": 5421,
+    "min_y": 3188,
+    "max_y": 3203,
+    "base_z": 0,
+    "max_z": 11,
+    "center_x": 5419.0,
+    "center_y": 3196.0,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 6.0,
+    "depth_z": 16.0,
+    "height_y": 3.22
+  },
+  "stats": {
+    "tile_count": 81,
+    "item_count": 113,
+    "triangles_count": 1392,
+    "unique_textures_count": 13
+  },
+  "unique_items": [
+    {
+      "id": 197,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0197.png"
+    },
+    {
+      "id": 199,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0199.png"
+    },
+    {
+      "id": 200,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0200.png"
+    },
+    {
+      "id": 201,
+      "name": "stone wall",
+      "texture_file": "stone_wall_0201.png"
+    },
+    {
+      "id": 1310,
+      "name": "stone pavers",
+      "texture_file": "stone_pavers_1310.png"
+    },
+    {
+      "id": 1313,
+      "name": "stone pavers dark",
+      "texture_file": "stone_pavers_dark_1313.png"
+    },
+    {
+      "id": 1767,
+      "name": "wooden door",
+      "texture_file": "wooden_door_1767.png"
+    },
+    {
+      "id": 1768,
+      "name": "wooden door",
+      "texture_file": "wooden_door_1768.png"
+    },
+    {
+      "id": 2572,
+      "name": "wall torch",
+      "texture_file": "wall_torch_2572.png"
+    },
+    {
+      "id": 6420,
+      "name": "towel",
+      "texture_file": "towel_6420.png"
+    },
+    {
+      "id": 6421,
+      "name": "pillow",
+      "texture_file": "pillow_6421.png"
+    },
+    {
+      "id": 6422,
+      "name": "massage table",
+      "texture_file": "massage_table_6422.png"
+    },
+    {
+      "id": 6423,
+      "name": "massage table",
+      "texture_file": "massage_table_6423.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 677,
+      "max_block_x": 677,
+      "min_block_y": 398,
+      "max_block_y": 400,
+      "total_blocks": 3
+    },
+    "blocks": [
+      {
+        "block_x": 677,
+        "block_y": 398,
+        "block_index": 347022,
+        "staidx_offset": 4164264,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 68016316,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000084.dat",
+          "entry_index": 84,
+          "block_in_entry": 2958
+        }
+      },
+      {
+        "block_x": 677,
+        "block_y": 399,
+        "block_index": 347023,
+        "staidx_offset": 4164276,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 68016512,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000084.dat",
+          "entry_index": 84,
+          "block_in_entry": 2959
+        }
+      },
+      {
+        "block_x": 677,
+        "block_y": 400,
+        "block_index": 347024,
+        "staidx_offset": 4164288,
+        "statics_offset": 17291064,
+        "statics_length": 168,
+        "static_items_count": 24,
+        "map_offset": 68016708,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000084.dat",
+          "entry_index": 84,
+          "block_in_entry": 2960
+        }
+      }
+    ]
+  }
+}

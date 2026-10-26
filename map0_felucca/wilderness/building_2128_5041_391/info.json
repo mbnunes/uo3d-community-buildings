@@ -1,0 +1,237 @@
+{
+  "building_id": "building_2128_5041_391",
+  "name": "Wilderness Building #2128",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "5044 396",
+    "center_x": 5044,
+    "center_y": 396,
+    "base_z": 0,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 5041,
+    "max_x": 5047,
+    "min_y": 391,
+    "max_y": 400,
+    "base_z": 0,
+    "max_z": 32,
+    "center_x": 5044.5,
+    "center_y": 396.0,
+    "center_z_elevation": 0.0
+  },
+  "dimensions_meters": {
+    "width_x": 7.0,
+    "depth_z": 10.0,
+    "height_y": 4.3
+  },
+  "stats": {
+    "tile_count": 58,
+    "item_count": 81,
+    "triangles_count": 724,
+    "unique_textures_count": 26
+  },
+  "unique_items": [
+    {
+      "id": 145,
+      "name": "log wall",
+      "texture_file": "log_wall_0145.png"
+    },
+    {
+      "id": 146,
+      "name": "log wall",
+      "texture_file": "log_wall_0146.png"
+    },
+    {
+      "id": 147,
+      "name": "log post",
+      "texture_file": "log_post_0147.png"
+    },
+    {
+      "id": 148,
+      "name": "log wall",
+      "texture_file": "log_wall_0148.png"
+    },
+    {
+      "id": 149,
+      "name": "log wall",
+      "texture_file": "log_wall_0149.png"
+    },
+    {
+      "id": 152,
+      "name": "window",
+      "texture_file": "window_0152.png"
+    },
+    {
+      "id": 1486,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1486.png"
+    },
+    {
+      "id": 1487,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1487.png"
+    },
+    {
+      "id": 1488,
+      "name": "wooden shingles",
+      "texture_file": "wooden_shingles_1488.png"
+    },
+    {
+      "id": 2422,
+      "name": "slab%s% of bacon",
+      "texture_file": "slab_s__of_bacon_2422.png"
+    },
+    {
+      "id": 2487,
+      "name": "cooked bird%s%",
+      "texture_file": "cooked_bird_s_2487.png"
+    },
+    {
+      "id": 2491,
+      "name": "roast pig%s%",
+      "texture_file": "roast_pig_s_2491.png"
+    },
+    {
+      "id": 2497,
+      "name": "sausage%s%",
+      "texture_file": "sausage_s_2497.png"
+    },
+    {
+      "id": 2505,
+      "name": "ham%s%",
+      "texture_file": "ham_s_2505.png"
+    },
+    {
+      "id": 2813,
+      "name": "display case",
+      "texture_file": "display_case_2813.png"
+    },
+    {
+      "id": 2814,
+      "name": "display case",
+      "texture_file": "display_case_2814.png"
+    },
+    {
+      "id": 2815,
+      "name": "display case",
+      "texture_file": "display_case_2815.png"
+    },
+    {
+      "id": 2816,
+      "name": "display case",
+      "texture_file": "display_case_2816.png"
+    },
+    {
+      "id": 2817,
+      "name": "display case",
+      "texture_file": "display_case_2817.png"
+    },
+    {
+      "id": 2818,
+      "name": "display case",
+      "texture_file": "display_case_2818.png"
+    },
+    {
+      "id": 2820,
+      "name": "display case",
+      "texture_file": "display_case_2820.png"
+    },
+    {
+      "id": 2821,
+      "name": "display case",
+      "texture_file": "display_case_2821.png"
+    },
+    {
+      "id": 2823,
+      "name": "display case",
+      "texture_file": "display_case_2823.png"
+    },
+    {
+      "id": 2824,
+      "name": "display case",
+      "texture_file": "display_case_2824.png"
+    },
+    {
+      "id": 3245,
+      "name": "grasses",
+      "texture_file": "grasses_3245.png"
+    },
+    {
+      "id": 4553,
+      "name": "potted tree",
+      "texture_file": "potted_tree_4553.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 630,
+      "max_block_x": 630,
+      "min_block_y": 48,
+      "max_block_y": 50,
+      "total_blocks": 3
+    },
+    "blocks": [
+      {
+        "block_x": 630,
+        "block_y": 48,
+        "block_index": 322608,
+        "staidx_offset": 3871296,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 63231172,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000078.dat",
+          "entry_index": 78,
+          "block_in_entry": 3120
+        }
+      },
+      {
+        "block_x": 630,
+        "block_y": 49,
+        "block_index": 322609,
+        "staidx_offset": 3871308,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 63231368,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000078.dat",
+          "entry_index": 78,
+          "block_in_entry": 3121
+        }
+      },
+      {
+        "block_x": 630,
+        "block_y": 50,
+        "block_index": 322610,
+        "staidx_offset": 3871320,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 63231564,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000078.dat",
+          "entry_index": 78,
+          "block_in_entry": 3122
+        }
+      }
+    ]
+  }
+}

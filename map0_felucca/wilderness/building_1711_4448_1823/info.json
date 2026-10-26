@@ -1,0 +1,193 @@
+{
+  "building_id": "building_1711_4448_1823",
+  "name": "Wilderness Building #1711",
+  "map": "map0_felucca",
+  "map_index": 0,
+  "map_name": "Felucca",
+  "region": "wilderness",
+  "uomap_navigation": {
+    "shortcut": "Ctrl+G",
+    "goto_coords": "4452 1832",
+    "center_x": 4452,
+    "center_y": 1832,
+    "base_z": -22,
+    "map_name": "Felucca (Map 0)"
+  },
+  "world_bounds": {
+    "min_x": 4448,
+    "max_x": 4455,
+    "min_y": 1823,
+    "max_y": 1840,
+    "base_z": -22,
+    "max_z": 0,
+    "center_x": 4452.0,
+    "center_y": 1832.0,
+    "center_z_elevation": -2.6399999999999997
+  },
+  "dimensions_meters": {
+    "width_x": 8.0,
+    "depth_z": 18.0,
+    "height_y": 5.38
+  },
+  "stats": {
+    "tile_count": 65,
+    "item_count": 89,
+    "triangles_count": 1008,
+    "unique_textures_count": 14
+  },
+  "unique_items": [
+    {
+      "id": 577,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0577.png"
+    },
+    {
+      "id": 578,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0578.png"
+    },
+    {
+      "id": 579,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0579.png"
+    },
+    {
+      "id": 580,
+      "name": "dungeon wall",
+      "texture_file": "dungeon_wall_0580.png"
+    },
+    {
+      "id": 1343,
+      "name": "cave floor",
+      "texture_file": "cave_floor_1343.png"
+    },
+    {
+      "id": 3117,
+      "name": "debris",
+      "texture_file": "debris_3117.png"
+    },
+    {
+      "id": 3118,
+      "name": "debris",
+      "texture_file": "debris_3118.png"
+    },
+    {
+      "id": 3119,
+      "name": "debris",
+      "texture_file": "debris_3119.png"
+    },
+    {
+      "id": 3791,
+      "name": "bones",
+      "texture_file": "bones_3791.png"
+    },
+    {
+      "id": 6880,
+      "name": "skull",
+      "texture_file": "skull_6880.png"
+    },
+    {
+      "id": 6931,
+      "name": "jaw bone",
+      "texture_file": "jaw_bone_6931.png"
+    },
+    {
+      "id": 6936,
+      "name": "rib cage",
+      "texture_file": "rib_cage_6936.png"
+    },
+    {
+      "id": 6938,
+      "name": "bone shards",
+      "texture_file": "bone_shards_6938.png"
+    },
+    {
+      "id": 8612,
+      "name": "no draw",
+      "texture_file": "no_draw_8612.png"
+    }
+  ],
+  "source_data": {
+    "mul_files": {
+      "map_file": "map0.mul",
+      "statics_file": "statics0.mul",
+      "staidx_file": "staidx0.mul",
+      "uop_file": "map0LegacyMUL.uop"
+    },
+    "block_grid": {
+      "w_blocks": 896,
+      "h_blocks": 512,
+      "min_block_x": 556,
+      "max_block_x": 556,
+      "min_block_y": 227,
+      "max_block_y": 230,
+      "total_blocks": 4
+    },
+    "blocks": [
+      {
+        "block_x": 556,
+        "block_y": 227,
+        "block_index": 284899,
+        "staidx_offset": 3418788,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 55840208,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000069.dat",
+          "entry_index": 69,
+          "block_in_entry": 2275
+        }
+      },
+      {
+        "block_x": 556,
+        "block_y": 228,
+        "block_index": 284900,
+        "staidx_offset": 3418800,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 55840404,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000069.dat",
+          "entry_index": 69,
+          "block_in_entry": 2276
+        }
+      },
+      {
+        "block_x": 556,
+        "block_y": 229,
+        "block_index": 284901,
+        "staidx_offset": 3418812,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 55840600,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000069.dat",
+          "entry_index": 69,
+          "block_in_entry": 2277
+        }
+      },
+      {
+        "block_x": 556,
+        "block_y": 230,
+        "block_index": 284902,
+        "staidx_offset": 3418824,
+        "statics_offset": null,
+        "statics_length": 0,
+        "static_items_count": 0,
+        "map_offset": 55840796,
+        "uop_entry": {
+          "file": "map0LegacyMUL.uop",
+          "entry_name": "build/map0legacymul/00000069.dat",
+          "entry_index": 69,
+          "block_in_entry": 2278
+        }
+      }
+    ]
+  }
+}
