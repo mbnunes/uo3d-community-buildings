@@ -22,7 +22,7 @@
   "stats": {
     "tile_count": 303,
     "item_count": 419,
-    "triangles_count": 4374,
+    "triangles_count": 3556,
     "unique_textures_count": 13
   },
   "unique_items": [
@@ -302,5 +302,19 @@
         }
       }
     ]
+  },
+  "parts": {
+    "building_base": {
+      "name": "Building_Base",
+      "description": "Main structure with aligned corner joints and 90-degree corrected gable/lintel wall blocks",
+      "triangles_count": 2244,
+      "vertices_count": 4488
+    },
+    "building_roof": {
+      "name": "Building_Roof",
+      "description": "Smooth continuous roof mesh (ceiling and slope) including thatching, slopes, eaves and ridges",
+      "triangles_count": 1312,
+      "vertices_count": 2628
+    }
   }
 }
